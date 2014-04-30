@@ -1,0 +1,48 @@
+\contentsline {chapter}{\chapternumberline {1}Theoretical Basics}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}General}{1}{section.1.1}
+\contentsline {section}{\numberline {1.2}Augmented Reality}{3}{section.1.2}
+\contentsline {subsection}{What is Augmented Reality ?}{3}{section.1.2}
+\contentsline {subsection}{Augmented reality vs Virtual Reality}{3}{section.1.2}
+\contentsline {subsection}{Companies for Augmented Reality}{3}{section.1.2}
+\contentsline {subsection}{Google Glasses}{5}{figure.1.1}
+\contentsline {subsection}{Usage of Augmented Reality[8]}{6}{figure.1.3}
+\contentsline {subsubsection}{Military and Law Enforcement }{6}{figure.1.3}
+\contentsline {subsubsection}{Vehicles}{7}{figure.1.3}
+\contentsline {subsubsection}{Medical}{8}{figure.1.4}
+\contentsline {subsubsection}{Trail Rooms}{9}{figure.1.4}
+\contentsline {subsubsection}{Tourism}{9}{figure.1.4}
+\contentsline {subsubsection}{Architecture}{9}{figure.1.4}
+\contentsline {subsubsection}{Education}{10}{figure.1.4}
+\contentsline {subsubsection}{Art}{10}{figure.1.4}
+\contentsline {subsubsection}{Translation}{10}{figure.1.4}
+\contentsline {subsubsection}{Weather Forecasting}{10}{figure.1.4}
+\contentsline {subsection}{Future of Augmented Reality[10]}{10}{figure.1.4}
+\contentsline {subsubsection}{Virtual Experiences}{11}{figure.1.4}
+\contentsline {subsubsection}{Holograms}{11}{figure.1.4}
+\contentsline {subsubsection}{Video Conferencing}{11}{figure.1.4}
+\contentsline {subsubsection}{Movies}{11}{figure.1.4}
+\contentsline {subsubsection}{Gesture Control}{12}{figure.1.4}
+\contentsline {subsection}{Summary}{12}{figure.1.4}
+\contentsline {section}{\numberline {1.3}Java}{12}{section.1.3}
+\contentsline {subsection}{What is Java}{12}{section.1.3}
+\contentsline {subsection}{Class Based \& Object Oriented}{13}{section.1.3}
+\contentsline {subsection}{Design Patterns}{15}{Item.10}
+\contentsline {subsection}{Performance}{15}{Item.12}
+\contentsline {subsection}{JVM}{15}{Item.12}
+\contentsline {subsection}{Java bytecode}{16}{Item.16}
+\contentsline {subsection}{Java Code Execution Process}{16}{Item.16}
+\contentsline {subsubsection}{Class Loader}{16}{figure.1.7}
+\contentsline {subsubsection}{Runtime Data Areas}{16}{figure.1.7}
+\contentsline {subsubsection}{Execution Engine}{19}{figure.1.8}
+\contentsline {subsection}{.JAR File}{19}{figure.1.8}
+\contentsline {subsubsection}{Executable JAR }{20}{figure.1.8}
+\contentsline {chapter}{\chapternumberline {2}Typographic Design}{21}{chapter.2}
+\contentsline {section}{\numberline {2.1}Tables}{21}{section.2.1}
+\contentsline {subsection}{Tableeee}{21}{section.2.1}
+\contentsline {section}{\numberline {2.2}Figures}{22}{section.2.2}
+\contentsline {section}{\numberline {2.3}Fonts}{22}{section.2.3}
+\contentsline {section}{\numberline {2.4}Code}{22}{section.2.4}
+\contentsline {chapter}{\chapternumberline {3}Bibliographic Issues}{25}{chapter.3}
+\contentsline {section}{\numberline {3.1}Literature Search}{25}{section.3.1}
+\contentsline {section}{\numberline {3.2}BibTeX}{25}{section.3.2}
+\contentsline {chapter}{Bibliography}{27}{section*.6}
