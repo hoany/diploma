@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.2.3)  2 MAY 2014 11:10
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.2.3)  2 MAY 2014 15:44
 entering extended mode
 **thesis.tex
 (D:\GitHub\Project\diploma\MasterThesisTemplate\thesis.tex
@@ -1432,7 +1432,7 @@ LaTeX Font Info:    Font shape `T1/phv/b/n' will be
 (Font)              scaled to size 13.29996pt on input line 60.
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
 (Font)              scaled to size 10.44997pt on input line 72.
-<figures/titlepage/tgm_logo.pdf, id=82, 376.40625pt x 121.20282pt>
+<figures/titlepage/tgm_logo.pdf, id=98, 376.40625pt x 121.20282pt>
 File: figures/titlepage/tgm_logo.pdf Graphic file (type pdf)
 
 <use figures/titlepage/tgm_logo.pdf>
@@ -1609,7 +1609,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 41--50
 
  []
 
-<graphics/ARpad.png, id=191, 282.1815pt x 188.8875pt>
+<graphics/ARpad.png, id=211, 282.1815pt x 188.8875pt>
 File: graphics/ARpad.png Graphic file (type png)
  <use graphics/ARpad.png>
 Package pdftex.def Info: graphics/ARpad.png used on input line 53.
@@ -1625,14 +1625,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 56--58
  []
 
 [4 <D:/GitHub/Project/diploma/MasterThesisTemplate/graphics/ARpad.png>]
-<graphics/GoogleGlasses.jpg, id=200, 1464.93243pt x 824.26865pt>
+<graphics/GoogleGlasses.jpg, id=220, 1464.93243pt x 824.26865pt>
 File: graphics/GoogleGlasses.jpg Graphic file (type jpg)
 
 <use graphics/GoogleGlasses.jpg>
 Package pdftex.def Info: graphics/GoogleGlasses.jpg used on input line 64.
 (pdftex.def)             Requested size: 239.98224pt x 135.03pt.
 
-<graphics/googlefunctions.png, id=203, 642.4pt x 361.35pt>
+<graphics/googlefunctions.png, id=223, 642.4pt x 361.35pt>
 File: graphics/googlefunctions.png Graphic file (type png)
 
 <use graphics/googlefunctions.png>
@@ -1709,7 +1709,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 104--110
 
  []
 
-[6] <graphics/smartcar.png, id=217, 209.583pt x 253.602pt>
+[6] <graphics/smartcar.png, id=237, 209.583pt x 253.602pt>
 File: graphics/smartcar.png Graphic file (type png)
 
 <use graphics/smartcar.png>
@@ -1861,7 +1861,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 183--192
 
  []
 
-<graphics/statistics.png, id=243, 622.325pt x 438.63875pt>
+<graphics/statistics.png, id=263, 622.325pt x 438.63875pt>
 File: graphics/statistics.png Graphic file (type png)
 
 <use graphics/statistics.png>
@@ -1888,7 +1888,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 217--219
  []
 
 [13 <D:/GitHub/Project/diploma/MasterThesisTemplate/graphics/statistics.png>]
-<graphics/java_subclass.png, id=267, 179.92218pt x 135.50626pt>
+<graphics/java_subclass.png, id=287, 179.92218pt x 135.50626pt>
 File: graphics/java_subclass.png Graphic file (type png)
 
 <use graphics/java_subclass.png>
@@ -1901,7 +1901,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 263--265
  []
 
 [15]
-<graphics/java-code-execution-process.png, id=306, 354.32375pt x 384.43625pt>
+<graphics/java-code-execution-process.png, id=326, 354.32375pt x 384.43625pt>
 File: graphics/java-code-execution-process.png Graphic file (type png)
 
 <use graphics/java-code-execution-process.png>
@@ -1922,7 +1922,7 @@ Overfull \hbox (44.88036pt too wide) in paragraph at lines 318--321
 t/12 PrintStream.println(String)
  []
 
-<graphics/java-data-areas.png, id=333, 373.395pt x 270.25969pt>
+<graphics/java-data-areas.png, id=353, 373.395pt x 270.25969pt>
 File: graphics/java-data-areas.png Graphic file (type png)
 
 <use graphics/java-data-areas.png>
@@ -1944,7 +1944,7 @@ Underfull \vbox (badness 2418) has occurred while \output is active []
  [21
 
 ]
-<figures/figure1.pdf, id=379, 305.17311pt x 301.30667pt>
+<figures/figure1.pdf, id=399, 305.17311pt x 301.30667pt>
 File: figures/figure1.pdf Graphic file (type pdf)
 
 <use figures/figure1.pdf>
@@ -1953,9 +1953,55 @@ Package pdftex.def Info: figures/figure1.pdf used on input line 45.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <8> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 81.
 )
-(D:\GitHub\Project\diploma\MasterThesisTemplate\chapters/chapter4.tex [22]
+(D:\GitHub\Project\diploma\MasterThesisTemplate\chapters/chapter3.tex [22]
 [23 <D:/GitHub/Project/diploma/MasterThesisTemplate/figures/figure1.pdf>]
 [24]
+Overfull \hbox (2.15038pt too wide) in paragraph at lines 28--30
+\T1/ptm/m/n/12 The ap-pli-ca-tion's logic had to be cre-ated with a pro-gram-mi
+ng lan-guage called JavaScript.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--30
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--35
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--38
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--42
+
+ []
+
+[25
+
+] <graphics/chapter3/1.png, id=479, 980.66376pt x 571.13374pt>
+File: graphics/chapter3/1.png Graphic file (type png)
+
+<use graphics/chapter3/1.png>
+Package pdftex.def Info: graphics/chapter3/1.png used on input line 45.
+(pdftex.def)             Requested size: 418.25368pt x 243.58704pt.
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 53.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omsptm.fd"
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 53.
+ [26 <D:/GitHub/Project/diploma/MasterThesisTemplate/graphics/chapter3/1.png>])
+
+(D:\GitHub\Project\diploma\MasterThesisTemplate\chapters/chapter4.tex [27]
+[28
+
+]
 Underfull \hbox (badness 10000) in paragraph at lines 3--5
 
  []
@@ -1970,15 +2016,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 12--14
 
  []
 
-<graphics/chapter4/1.png, id=453, 333.245pt x 360.34625pt>
+<graphics/chapter4/1.png, id=493, 333.245pt x 360.34625pt>
 File: graphics/chapter4/1.png Graphic file (type png)
 
 <use graphics/chapter4/1.png>
 Package pdftex.def Info: graphics/chapter4/1.png used on input line 17.
 (pdftex.def)             Requested size: 250.95476pt x 271.3697pt.
- [25
-
-]
+ [29]
 Underfull \hbox (badness 10000) in paragraph at lines 23--25
 
  []
@@ -2028,7 +2072,7 @@ LaTeX Font Info:    No file T1DejaVuSansMono.fd. on input line 33.
 LaTeX Font Warning: Font shape `T1/DejaVuSansMono/m/n' undefined
 (Font)              using `T1/cmr/m/n' instead on input line 33.
 
-[26 <D:/GitHub/Project/diploma/MasterThesisTemplate/graphics/chapter4/1.png>]
+[30 <D:/GitHub/Project/diploma/MasterThesisTemplate/graphics/chapter4/1.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 50--52
 
  []
@@ -2043,13 +2087,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 56--58
 
  []
 
-<graphics/chapter4/2.png, id=476, 325.215pt x 389.455pt>
+<graphics/chapter4/2.png, id=517, 325.215pt x 389.455pt>
 File: graphics/chapter4/2.png Graphic file (type png)
 
 <use graphics/chapter4/2.png>
 Package pdftex.def Info: graphics/chapter4/2.png used on input line 66.
 (pdftex.def)             Requested size: 209.12683pt x 250.43886pt.
- [27 <D:/GitHub/Project/diploma/MasterThesisTemplate/graphics/chapter4/2.png>]
+ [31 <D:/GitHub/Project/diploma/MasterThesisTemplate/graphics/chapter4/2.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 72--75
 
  []
@@ -2102,13 +2146,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 99--101
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 102.
 
-<graphics/chapter4/3.png, id=483, 333.245pt x 422.57875pt>
+<graphics/chapter4/3.png, id=524, 333.245pt x 422.57875pt>
 File: graphics/chapter4/3.png Graphic file (type png)
 
 <use graphics/chapter4/3.png>
 Package pdftex.def Info: graphics/chapter4/3.png used on input line 104.
 (pdftex.def)             Requested size: 209.12683pt x 265.19434pt.
- [28]
+ [32]
 Underfull \hbox (badness 10000) in paragraph at lines 115--118
 
  []
@@ -2118,7 +2162,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 126--129
 
  []
 
-[29 <D:/GitHub/Project/diploma/MasterThesisTemplate/graphics/chapter4/3.png>]
+[33 <D:/GitHub/Project/diploma/MasterThesisTemplate/graphics/chapter4/3.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 139--141
 
  []
@@ -2146,7 +2190,7 @@ Overfull \hbox (834.55907pt too wide) in paragraph at lines 161--162
 ][][][][][] 
  []
 
-[30]
+[34]
 Underfull \hbox (badness 10000) in paragraph at lines 176--179
 
  []
@@ -2166,7 +2210,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 212--214
 
  []
 
-[31]
+[35]
 Underfull \hbox (badness 10000) in paragraph at lines 225--227
 
  []
@@ -2188,7 +2232,7 @@ Overfull \hbox (301.75365pt too wide) in paragraph at lines 253--254
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
-[32]
+[36]
 Underfull \hbox (badness 10000) in paragraph at lines 263--265
 
  []
@@ -2211,7 +2255,7 @@ Overfull \hbox (28.15086pt too wide) in paragraph at lines 298--299
 ][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
-[33]
+[37]
 Underfull \hbox (badness 10000) in paragraph at lines 302--304
 
  []
@@ -2248,7 +2292,7 @@ Overfull \hbox (452.95518pt too wide) in paragraph at lines 344--345
 ][][][][][][][][][][][][][] 
  []
 
-[34]
+[38]
 Overfull \hbox (172.15233pt too wide) in paragraph at lines 346--347
 [][][][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
@@ -2299,7 +2343,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 369--371
 
  []
 
-[35]
+[39]
 Underfull \hbox (badness 10000) in paragraph at lines 378--380
 
  []
@@ -2314,7 +2358,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 384--386
 
  []
 
-[36] <graphics/chapter4/20.png, id=670, 481.8pt x 245.91875pt>
+[40] <graphics/chapter4/20.png, id=710, 481.8pt x 245.91875pt>
 File: graphics/chapter4/20.png Graphic file (type png)
 
 <use graphics/chapter4/20.png>
@@ -2345,7 +2389,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 433--436
 
  []
 
-[37 <D:/GitHub/Project/diploma/MasterThesisTemplate/graphics/chapter4/20.png>]
+[41 <D:/GitHub/Project/diploma/MasterThesisTemplate/graphics/chapter4/20.png>]
 Overfull \hbox (164.95226pt too wide) in paragraph at lines 438--439
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
 ][][][][][][][][][][][][][][][][][][][][][][][][][] 
@@ -2390,21 +2434,21 @@ Overfull \hbox (920.95995pt too wide) in paragraph at lines 444--445
 ][][][][][][] 
  []
 
-<graphics/chapter4/4.png, id=685, 333.245pt x 422.57875pt>
+<graphics/chapter4/4.png, id=726, 333.245pt x 422.57875pt>
 File: graphics/chapter4/4.png Graphic file (type png)
 
 <use graphics/chapter4/4.png>
 Package pdftex.def Info: graphics/chapter4/4.png used on input line 451.
 (pdftex.def)             Requested size: 167.2989pt x 212.15288pt.
- [38 <D:/GitHub/Project/diploma/MasterThesisTemplate/graphics/chapter4/4.png>]
-<graphics/chapter4/5.png, id=701, 406.51875pt x 722.7pt>
+ [42 <D:/GitHub/Project/diploma/MasterThesisTemplate/graphics/chapter4/4.png>]
+<graphics/chapter4/5.png, id=742, 406.51875pt x 722.7pt>
 File: graphics/chapter4/5.png Graphic file (type png)
 
 <use graphics/chapter4/5.png>
 Package pdftex.def Info: graphics/chapter4/5.png used on input line 463.
 (pdftex.def)             Requested size: 167.2989pt x 297.41167pt.
 
-<graphics/chapter4/6.png, id=702, 406.51875pt x 722.7pt>
+<graphics/chapter4/6.png, id=743, 406.51875pt x 722.7pt>
 File: graphics/chapter4/6.png Graphic file (type png)
 
 <use graphics/chapter4/6.png>
@@ -2414,8 +2458,8 @@ Package pdftex.def Info: graphics/chapter4/6.png used on input line 474.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[39 <D:/GitHub/Project/diploma/MasterThesisTemplate/graphics/chapter4/5.png>]
-<graphics/chapter4/7.png, id=708, 255.95625pt x 292.09125pt>
+[43 <D:/GitHub/Project/diploma/MasterThesisTemplate/graphics/chapter4/5.png>]
+<graphics/chapter4/7.png, id=749, 255.95625pt x 292.09125pt>
 File: graphics/chapter4/7.png Graphic file (type png)
 
 <use graphics/chapter4/7.png>
@@ -2425,8 +2469,8 @@ Package pdftex.def Info: graphics/chapter4/7.png used on input line 485.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[40 <D:/GitHub/Project/diploma/MasterThesisTemplate/graphics/chapter4/6.png>]
-<graphics/chapter4/8.png, id=714, 178.704pt x 317.988pt>
+[44 <D:/GitHub/Project/diploma/MasterThesisTemplate/graphics/chapter4/6.png>]
+<graphics/chapter4/8.png, id=755, 178.704pt x 317.988pt>
 File: graphics/chapter4/8.png Graphic file (type png)
 
 <use graphics/chapter4/8.png>
@@ -2436,8 +2480,8 @@ Package pdftex.def Info: graphics/chapter4/8.png used on input line 496.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[41 <D:/GitHub/Project/diploma/MasterThesisTemplate/graphics/chapter4/7.png>]
-<graphics/chapter4/9.png, id=722, 450.68375pt x 704.6325pt>
+[45 <D:/GitHub/Project/diploma/MasterThesisTemplate/graphics/chapter4/7.png>]
+<graphics/chapter4/9.png, id=762, 450.68375pt x 704.6325pt>
 File: graphics/chapter4/9.png Graphic file (type png)
 
 <use graphics/chapter4/9.png>
@@ -2447,8 +2491,8 @@ Package pdftex.def Info: graphics/chapter4/9.png used on input line 507.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[42 <D:/GitHub/Project/diploma/MasterThesisTemplate/graphics/chapter4/8.png>]
-<graphics/chapter4/10.png, id=728, 406.51875pt x 722.7pt>
+[46 <D:/GitHub/Project/diploma/MasterThesisTemplate/graphics/chapter4/8.png>]
+<graphics/chapter4/10.png, id=768, 406.51875pt x 722.7pt>
 File: graphics/chapter4/10.png Graphic file (type png)
 
 <use graphics/chapter4/10.png>
@@ -2458,7 +2502,7 @@ Package pdftex.def Info: graphics/chapter4/10.png used on input line 519.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[43 <D:/GitHub/Project/diploma/MasterThesisTemplate/graphics/chapter4/9.png>]
+[47 <D:/GitHub/Project/diploma/MasterThesisTemplate/graphics/chapter4/9.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 526--529
 
  []
@@ -2471,29 +2515,29 @@ Overfull \hbox (748.15819pt too wide) in paragraph at lines 530--531
 ][][][][][] 
  []
 
-<graphics/chapter4/11.png, id=734, 357.335pt x 43.16125pt>
+<graphics/chapter4/11.png, id=775, 357.335pt x 43.16125pt>
 File: graphics/chapter4/11.png Graphic file (type png)
 
 <use graphics/chapter4/11.png>
 Package pdftex.def Info: graphics/chapter4/11.png used on input line 536.
 (pdftex.def)             Requested size: 250.95476pt x 30.3121pt.
- [44 <D:/GitHub/Project/diploma/MasterThesisTemplate/graphics/chapter4/10.png>]
+ [48 <D:/GitHub/Project/diploma/MasterThesisTemplate/graphics/chapter4/10.png>]
 
-<graphics/chapter4/12.png, id=742, 332.24126pt x 44.165pt>
+<graphics/chapter4/12.png, id=783, 332.24126pt x 44.165pt>
 File: graphics/chapter4/12.png Graphic file (type png)
 
 <use graphics/chapter4/12.png>
 Package pdftex.def Info: graphics/chapter4/12.png used on input line 545.
 (pdftex.def)             Requested size: 250.95476pt x 33.35951pt.
 
-<graphics/chapter4/13.png, id=743, 244.915pt x 155.58125pt>
+<graphics/chapter4/13.png, id=784, 244.915pt x 155.58125pt>
 File: graphics/chapter4/13.png Graphic file (type png)
 
 <use graphics/chapter4/13.png>
 Package pdftex.def Info: graphics/chapter4/13.png used on input line 556.
 (pdftex.def)             Requested size: 167.2989pt x 106.27812pt.
 
-<graphics/chapter4/14.png, id=744, 265.99374pt x 264.99pt>
+<graphics/chapter4/14.png, id=785, 265.99374pt x 264.99pt>
 File: graphics/chapter4/14.png Graphic file (type png)
 
 <use graphics/chapter4/14.png>
@@ -2503,7 +2547,7 @@ Package pdftex.def Info: graphics/chapter4/14.png used on input line 565.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[45 <D:/GitHub/Project/diploma/MasterThesisTemplate/graphics/chapter4/11.png> <
+[49 <D:/GitHub/Project/diploma/MasterThesisTemplate/graphics/chapter4/11.png> <
 D:/GitHub/Project/diploma/MasterThesisTemplate/graphics/chapter4/12.png> <D:/Gi
 tHub/Project/diploma/MasterThesisTemplate/graphics/chapter4/13.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 570--573
@@ -2543,7 +2587,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 582--584
 
  []
 
-<graphics/chapter4/15.png, id=752, 406.51875pt x 722.7pt>
+<graphics/chapter4/15.png, id=793, 406.51875pt x 722.7pt>
 File: graphics/chapter4/15.png Graphic file (type png)
 
 <use graphics/chapter4/15.png>
@@ -2558,7 +2602,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 598--600
 
  []
 
-[46 <D:/GitHub/Project/diploma/MasterThesisTemplate/graphics/chapter4/14.png>]
+[50 <D:/GitHub/Project/diploma/MasterThesisTemplate/graphics/chapter4/14.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 602--605
 
  []
@@ -2568,7 +2612,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 612--614
 
  []
 
-[47 <D:/GitHub/Project/diploma/MasterThesisTemplate/graphics/chapter4/15.png>]
+[51 <D:/GitHub/Project/diploma/MasterThesisTemplate/graphics/chapter4/15.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 620--622
 
  []
@@ -2637,7 +2681,7 @@ Overfull \hbox (229.75291pt too wide) in paragraph at lines 643--644
 ][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
-<graphics/chapter4/16.png, id=776, 348.30125pt x 55.20625pt>
+<graphics/chapter4/16.png, id=816, 348.30125pt x 55.20625pt>
 File: graphics/chapter4/16.png Graphic file (type png)
 
 <use graphics/chapter4/16.png>
@@ -2657,7 +2701,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 667--670
 
  []
 
-[48]
+[52]
 Overfull \hbox (172.15233pt too wide) in paragraph at lines 683--684
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
 ][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
@@ -2671,7 +2715,7 @@ Overfull \hbox (172.15233pt too wide) in paragraph at lines 684--685
 [][] 
  []
 
-[49 <D:/GitHub/Project/diploma/MasterThesisTemplate/graphics/chapter4/16.png>]
+[53 <D:/GitHub/Project/diploma/MasterThesisTemplate/graphics/chapter4/16.png>]
 Overfull \hbox (100.1516pt too wide) in paragraph at lines 701--702
 [][][][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
@@ -2696,48 +2740,48 @@ Overfull \hbox (128.95189pt too wide) in paragraph at lines 735--736
 [][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
-<graphics/chapter4/17.png, id=842, 356.33125pt x 544.0325pt>
+<graphics/chapter4/17.png, id=883, 356.33125pt x 544.0325pt>
 File: graphics/chapter4/17.png Graphic file (type png)
 
 <use graphics/chapter4/17.png>
 Package pdftex.def Info: graphics/chapter4/17.png used on input line 746.
 (pdftex.def)             Requested size: 167.2989pt x 255.42137pt.
-) [50] [51 <D:/GitHub/Project/diploma/MasterThesisTemplate/graphics/chapter4/17
-.png>] [52
+) [54] [55 <D:/GitHub/Project/diploma/MasterThesisTemplate/graphics/chapter4/17
+.png>] [56
 
 ]
 (D:\GitHub\Project\diploma\MasterThesisTemplate\chapters/bibliographic.tex
 
-LaTeX Warning: Citation `jour:B2BServices' on page 53 undefined on input line 9
+LaTeX Warning: Citation `jour:B2BServices' on page 57 undefined on input line 9
 .
 
 
-LaTeX Warning: Citation `proc:TheWebMLApproach' on page 53 undefined on input l
+LaTeX Warning: Citation `proc:TheWebMLApproach' on page 57 undefined on input l
 ine 9.
 
 
-LaTeX Warning: Citation `book:umlatwork' on page 53 undefined on input line 9.
+LaTeX Warning: Citation `book:umlatwork' on page 57 undefined on input line 9.
 
 
-LaTeX Warning: Citation `incoll:ErhardKonrad1992' on page 53 undefined on input
+LaTeX Warning: Citation `incoll:ErhardKonrad1992' on page 57 undefined on input
  line 9.
 
 
-LaTeX Warning: Citation `man:BPEL' on page 53 undefined on input line 9.
+LaTeX Warning: Citation `man:BPEL' on page 57 undefined on input line 9.
 
 
-LaTeX Warning: Citation `phdthesis:manuelWimmer' on page 53 undefined on input 
+LaTeX Warning: Citation `phdthesis:manuelWimmer' on page 57 undefined on input 
 line 9.
 
 
-LaTeX Warning: Citation `mast:AUMLProfile' on page 53 undefined on input line 9
+LaTeX Warning: Citation `mast:AUMLProfile' on page 57 undefined on input line 9
 .
 
 
-LaTeX Warning: Citation `misc:BIGWebsite' on page 53 undefined on input line 9.
+LaTeX Warning: Citation `misc:BIGWebsite' on page 57 undefined on input line 9.
 
 
-) (D:\GitHub\Project\diploma\MasterThesisTemplate\thesis.bbl [53] [54
+) (D:\GitHub\Project\diploma\MasterThesisTemplate\thesis.bbl [57] [58
 
 ]
 bibitemlist
@@ -2748,7 +2792,7 @@ Class memoir Warning: The material used in the headers is too large
 either increase the head height or redesign the header
 (in both cases you will find help in the memoir manual). on input line 177.
 
-[55]
+[59]
 \tf@toc=\write6
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 177.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 177.
@@ -2758,7 +2802,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 177.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 177.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 177.
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 7119D64D2CA22CC6FBE89817AC6D808B;1068.
+(rerunfilecheck)             Checksum: 3AF8C4586FC658CC04981B22375789F2;1333.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -2769,10 +2813,10 @@ LaTeX Warning: There were undefined references.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 177.
  ) 
 Here is how much of TeX's memory you used:
- 25864 strings out of 493921
- 458039 string characters out of 3147277
- 606869 words of memory out of 3000000
- 28200 multiletter control sequences out of 15000+200000
+ 25909 strings out of 493921
+ 458834 string characters out of 3147277
+ 607053 words of memory out of 3000000
+ 28228 multiletter control sequences out of 15000+200000
  77335 words of font info for 98 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  68i,19n,68p,1587b,1947s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2787,9 +2831,9 @@ Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Program Files/
 MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/
 type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/u
 tmri8a.pfb>
-Output written on thesis.pdf (69 pages, 3960704 bytes).
+Output written on thesis.pdf (73 pages, 4289974 bytes).
 PDF statistics:
- 1036 PDF objects out of 1200 (max. 8388607)
- 469 named destinations out of 1000 (max. 500000)
- 305 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1079 PDF objects out of 1200 (max. 8388607)
+ 479 named destinations out of 1000 (max. 500000)
+ 342 words of extra memory for PDF output out of 10000 (max. 10000000)
 
