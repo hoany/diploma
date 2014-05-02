@@ -42,7 +42,43 @@
 \contentsline {section}{\numberline {2.2}Figures}{22}{section.2.2}
 \contentsline {section}{\numberline {2.3}Fonts}{22}{section.2.3}
 \contentsline {section}{\numberline {2.4}Code}{22}{section.2.4}
-\contentsline {chapter}{\chapternumberline {3}Bibliographic Issues}{25}{chapter.3}
-\contentsline {section}{\numberline {3.1}Literature Search}{25}{section.3.1}
-\contentsline {section}{\numberline {3.2}BibTeX}{25}{section.3.2}
-\contentsline {chapter}{Bibliography}{27}{section*.6}
+\contentsline {chapter}{\chapternumberline {3}Logic Implementation with JavaScript}{25}{chapter.3}
+\contentsline {section}{\numberline {3.1}Start Menu}{25}{section.3.1}
+\contentsline {section}{\numberline {3.2}Help}{27}{section.3.2}
+\contentsline {section}{\numberline {3.3}Start Menu}{28}{section.3.3}
+\contentsline {subsection}{JavaScript Functions}{29}{figure.3.3}
+\contentsline {subsubsection}{Start Timer}{29}{figure.3.3}
+\contentsline {subsubsection}{End Timer}{29}{lstnumber.3.5.4}
+\contentsline {subsubsection}{Save time stamp}{30}{lstnumber.3.6.5}
+\contentsline {subsubsection}{Set Parameters}{31}{lstnumber.3.7.21}
+\contentsline {subsubsection}{Start Tracking}{31}{lstnumber.3.8.4}
+\contentsline {subsubsection}{Review}{31}{lstnumber.3.9.3}
+\contentsline {subsubsection}{Turn off}{31}{lstnumber.3.10.3}
+\contentsline {subsubsection}{Home}{32}{lstnumber.3.11.3}
+\contentsline {subsubsection}{Read car name}{32}{lstnumber.3.12.3}
+\contentsline {subsubsection}{Save email}{33}{lstnumber.3.13.17}
+\contentsline {subsubsection}{Save car}{33}{lstnumber.3.14.17}
+\contentsline {subsection}{Used Functionalities}{35}{lstnumber.3.19.24}
+\contentsline {subsubsection}{Session Storage}{35}{lstnumber.3.19.24}
+\contentsline {subsubsection}{Local Storage}{36}{lstnumber.3.19.24}
+\contentsline {subsubsection}{AJAX}{37}{lstnumber.3.22.1}
+\contentsline {subsection}{GUI}{38}{lstnumber.3.22.1}
+\contentsline {subsubsection}{Leasing Price}{39}{figure.3.5}
+\contentsline {subsubsection}{Technical Information}{39}{figure.3.6}
+\contentsline {subsubsection}{Pictures}{40}{figure.3.7}
+\contentsline {subsubsection}{Videos}{41}{figure.3.8}
+\contentsline {subsubsection}{Review}{42}{figure.3.9}
+\contentsline {subsubsection}{Get Favourites}{43}{figure.3.10}
+\contentsline {subsubsection}{Add to my Favourites}{44}{figure.3.11}
+\contentsline {subsection}{Slide Panel}{45}{figure.3.13}
+\contentsline {section}{\numberline {3.4}My Favourites}{46}{section.3.4}
+\contentsline {subsection}{Loading of favourite cars}{47}{figure.3.16}
+\contentsline {subsection}{JS Functions}{49}{lstnumber.3.29.1}
+\contentsline {subsubsection}{Delete favourite car}{49}{lstnumber.3.29.1}
+\contentsline {subsubsection}{Delete all favourite cars}{50}{lstnumber.3.30.35}
+\contentsline {subsubsection}{Select favourite car}{50}{lstnumber.3.31.5}
+\contentsline {section}{\numberline {3.5}About}{51}{section.3.5}
+\contentsline {chapter}{\chapternumberline {4}Bibliographic Issues}{53}{chapter.4}
+\contentsline {section}{\numberline {4.1}Literature Search}{53}{section.4.1}
+\contentsline {section}{\numberline {4.2}BibTeX}{53}{section.4.2}
+\contentsline {chapter}{Bibliography}{55}{section*.6}

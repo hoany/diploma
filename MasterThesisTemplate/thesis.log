@@ -1,31 +1,39 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/W32TeX) (format=pdflatex 2014.4.23)  30 APR 2014 13:06
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.2.3)  2 MAY 2014 11:10
 entering extended mode
- restricted \write18 enabled.
- %&-line parsing enabled.
 **thesis.tex
-(./thesis.tex
+(D:\GitHub\Project\diploma\MasterThesisTemplate\thesis.tex
 LaTeX2e <2011/06/27>
-Babel <3.9f> and hyphenation patterns for 78 languages loaded.
-(c:/texlive/2013/texmf-dist/tex/latex/memoir/memoir.cls
-Document Class: memoir 2013/05/22 v3.7 configurable book, report, article docum
-ent class
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2013-05-26, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
+ lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
+german-x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
+ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
+an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
+ishmax, welsh, loaded.
+(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\latex\memoir\memoir.cls
+Document Class: memoir 2013/05/30 v3.7b configurable book, report, article docu
+ment class
 \onelineskip=\skip41
 \lxvchars=\skip42
 \xlvchars=\skip43
 \@memcnta=\count79
 \c@@memmarkcntra=\count80
-(c:/texlive/2013/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+\l@nohyphenation=\language69
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
 Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
 Package ifpdf Info: pdfTeX in PDF mode is detected.
 )
-(c:/texlive/2013/texmf-dist/tex/latex/ifetex/ifetex.sty
+(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\latex\ifetex\ifetex.sty
 Package: ifetex 2011/12/15 v1.2 ifetex
 
-(c:/texlive/2013/texmf-dist/tex/plain/ifetex/ifetex.tex))
-(c:/texlive/2013/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\plain\ifetex\ifetex.tex))
+("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-(c:/texlive/2013/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
 Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 )
@@ -34,11 +42,11 @@ Package ifluatex Info: LuaTeX not detected.
 \trimtop=\skip46
 \trimedge=\skip47
 
-(c:/texlive/2013/texmf-dist/tex/latex/etex-pkg/etex.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\misc\etex.sty"
 Package: etex 1998/03/26 v2.0 eTeX basic definition package (PEB)
 \et@xins=\count81
 )
-(c:/texlive/2013/texmf-dist/tex/latex/memoir/mem12.clo
+(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\latex\memoir\mem12.clo
 File: mem12.clo 2010/10/19 v0.4b memoir class 12pt size option
 )
 \binding=\skip48
@@ -191,8 +199,8 @@ File: mem12.clo 2010/10/19 v0.4b memoir class 12pt size option
 \afterepigraphskip=\skip125
 \epigraphwidth=\skip126
 \epigraphrule=\skip127
-LaTeX Info: Redefining \em on input line 7491.
-LaTeX Info: Redefining \emph on input line 7499.
+LaTeX Info: Redefining \em on input line 7492.
+LaTeX Info: Redefining \emph on input line 7500.
 \tocentryskip=\skip128
 \tocbaseline=\skip129
 \cftparskip=\skip130
@@ -275,8 +283,8 @@ LaTeX Info: Redefining \emph on input line 7499.
 \FrameRule=\dimen145
 \FrameSep=\dimen146
 \c@cp@cntr=\count119
-LaTeX Info: Redefining \: on input line 11957.
-LaTeX Info: Redefining \! on input line 11959.
+LaTeX Info: Redefining \: on input line 11958.
+LaTeX Info: Redefining \! on input line 11960.
 \c@ism@mctr=\count120
 \c@xsm@mctr=\count121
 \c@csm@mctr=\count122
@@ -337,36 +345,37 @@ Package tocvsec2 [2008/07/23] emulated by memoir.
 Package verbatim [2008/07/23] emulated by memoir.
 Package verse [2008/07/23] emulated by memoir.
 
-(c:/texlive/2013/texmf-dist/tex/latex/memoir/mempatch.sty
+(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\latex\memoir\mempatch.sty
 Package: mempatch 2009/07/24 v6.0f Patches for memoir class v1.6180339
-)) (./TUINFDA.sty
+))
+(D:\GitHub\Project\diploma\MasterThesisTemplate\TUINFDA.sty
 Package: TUINFDA 2010/03/20 v1.1 TU INF DA style file
 
 2010/03/20 v1.1 TU INF DA style file
-(c:/texlive/2013/texmf-dist/tex/latex/base/fontenc.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\fontenc.sty"
 Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
 
-(c:/texlive/2013/texmf-dist/tex/latex/base/t1enc.def
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.def"
 File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
 ))
-(c:/texlive/2013/texmf-dist/tex/latex/psnfss/helvet.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\helvet.sty"
 Package: helvet 2005/04/12 PSNFSS-v9.2a (WaS) 
 
-(c:/texlive/2013/texmf-dist/tex/latex/graphics/keyval.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
 Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 \KV@toks@=\toks22
 ))
-(c:/texlive/2013/texmf-dist/tex/latex/psnfss/times.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\times.sty"
 Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
 )
-(c:/texlive/2013/texmf-dist/tex/latex/psnfss/courier.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\courier.sty"
 Package: courier 2005/04/12 PSNFSS-v9.2a (WaS) 
 )
-(c:/texlive/2013/texmf-dist/tex/latex/amsfonts/amssymb.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
-(c:/texlive/2013/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \@emptytoks=\toks23
 \symAMSa=\mathgroup4
@@ -374,19 +383,19 @@ Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
-(c:/texlive/2013/texmf-dist/tex/latex/base/inputenc.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\inputenc.sty"
 Package: inputenc 2008/03/30 v1.1d Input encoding file
 \inpenc@prehook=\toks24
 \inpenc@posthook=\toks25
 
-(c:/texlive/2013/texmf-dist/tex/latex/base/utf8.def
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\utf8.def"
 File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
 Now handling font encoding OML ...
 ... no UTF-8 mapping file for font encoding OML
 Now handling font encoding T1 ...
 ... processing UTF-8 mapping file for font encoding T1
 
-(c:/texlive/2013/texmf-dist/tex/latex/base/t1enc.dfu
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.dfu"
 File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
@@ -536,7 +545,7 @@ File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
 Now handling font encoding OT1 ...
 ... processing UTF-8 mapping file for font encoding OT1
 
-(c:/texlive/2013/texmf-dist/tex/latex/base/ot1enc.dfu
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ot1enc.dfu"
 File: ot1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
@@ -567,7 +576,7 @@ File: ot1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
 Now handling font encoding OMS ...
 ... processing UTF-8 mapping file for font encoding OMS
 
-(c:/texlive/2013/texmf-dist/tex/latex/base/omsenc.dfu
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\omsenc.dfu"
 File: omsenc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A7 (decimal 167)
    defining Unicode char U+00B6 (decimal 182)
@@ -591,47 +600,53 @@ Now handling font encoding U ...
    defining Unicode char U+2122 (decimal 8482)
    defining Unicode char U+2423 (decimal 9251)
 ))
-(c:/texlive/2013/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2013/05/16 v3.9f The Babel package
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.sty"
+Package: babel 2008/07/08 v3.8m The Babel package
 
-(c:/texlive/2013/texmf-dist/tex/generic/babel-german/ngermanb.ldf
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\bblopts.cfg"
+File: bblopts.cfg 2006/07/31 v1.0 MiKTeX 'babel' configuration
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\ngermanb.ldf"
 Language: ngermanb 2008/07/06 v2.6n new German support from the babel system
 
-(c:/texlive/2013/texmf-dist/tex/generic/babel/babel.def
-File: babel.def 2013/05/16 v3.9f Babel common definitions
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.def"
+File: babel.def 2008/07/08 v3.8m Babel common definitions
 \babel@savecnt=\count138
 \U@D=\dimen147
 )
 \l@naustrian = a dialect from \language\l@ngerman 
 Package babel Info: Making " an active character on input line 92.
 )
-(c:/texlive/2013/texmf-dist/tex/generic/babel-english/english.ldf
-Language: english 2012/08/20 v3.3p English support from the babel system
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\english.ldf"
+Language: english 2005/03/30 v3.3o English support from the babel system
 \l@canadian = a dialect from \language\l@american 
 \l@australian = a dialect from \language\l@british 
 \l@newzealand = a dialect from \language\l@british 
 ))
-(c:/texlive/2013/texmf-dist/tex/latex/graphics/graphicx.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
 Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
 
-(c:/texlive/2013/texmf-dist/tex/latex/graphics/graphics.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
 Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
 
-(c:/texlive/2013/texmf-dist/tex/latex/graphics/trig.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 )
-(c:/texlive/2013/texmf-dist/tex/latex/latexconfig/graphics.cfg
-File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
 )
 Package graphics Info: Driver file: pdftex.def on input line 91.
 
-(c:/texlive/2013/texmf-dist/tex/latex/pdftex-def/pdftex.def
+("C:\Program Files\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 
-(c:/texlive/2013/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
 Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
 )
-(c:/texlive/2013/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
 Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count139
@@ -639,71 +654,95 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen148
 \Gin@req@width=\dimen149
 )
-(c:/texlive/2013/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
-(c:/texlive/2013/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
-(c:/texlive/2013/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
-(c:/texlive/2013/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\frontendlayer\tikz.s
+ty
+(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\basiclayer\pgf.sty
+(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\utilities\pgfrcs.sty
+
+(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfutil-
+common.tex
 \pgfutil@everybye=\toks26
-)
-(c:/texlive/2013/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@tempdima=\dimen150
+\pgfutil@tempdimb=\dimen151
+
+(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfutil-
+common-lists.tex))
+(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfutil-
+latex.def
 \pgfutil@abb=\box29
 
-(c:/texlive/2013/texmf-dist/tex/latex/ms/everyshi.sty
+(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\latex\ms\everyshi.sty
 Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
 ))
-(c:/texlive/2013/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
-Package: pgfrcs 2010/10/25 v2.10 (rcs-revision 1.24)
+(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfrcs.c
+ode.tex
+Package: pgfrcs 2013/12/20 v3.0.0 (rcs-revision 1.28)
 ))
-Package: pgf 2008/01/15 v2.10 (rcs-revision 1.12)
+Package: pgf 2013/12/18 v3.0.0 (rcs-revision 1.14)
 
-(c:/texlive/2013/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
-(c:/texlive/2013/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
-(c:/texlive/2013/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
-Package: pgfsys 2010/06/30 v2.10 (rcs-revision 1.37)
+(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\basiclayer\pgfcore.s
+ty
+(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\systemlayer\pgfsys.s
+ty
+(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfsys
+.code.tex
+Package: pgfsys 2013/11/30 v3.0.0 (rcs-revision 1.47)
 
-(c:/texlive/2013/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfkeys.
+code.tex
 \pgfkeys@pathtoks=\toks27
 \pgfkeys@temptoks=\toks28
 
-(c:/texlive/2013/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex
+(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfkeysf
+iltered.code.tex
 \pgfkeys@tmptoks=\toks29
 ))
-\pgf@x=\dimen150
-\pgf@y=\dimen151
-\pgf@xa=\dimen152
-\pgf@ya=\dimen153
-\pgf@xb=\dimen154
-\pgf@yb=\dimen155
-\pgf@xc=\dimen156
-\pgf@yc=\dimen157
+\pgf@x=\dimen152
+\pgf@y=\dimen153
+\pgf@xa=\dimen154
+\pgf@ya=\dimen155
+\pgf@xb=\dimen156
+\pgf@yb=\dimen157
+\pgf@xc=\dimen158
+\pgf@yc=\dimen159
 \w@pgf@writea=\write4
 \r@pgf@reada=\read2
 \c@pgf@counta=\count140
 \c@pgf@countb=\count141
 \c@pgf@countc=\count142
 \c@pgf@countd=\count143
- (c:/texlive/2013/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+\t@pgf@toka=\toks30
+\t@pgf@tokb=\toks31
+\t@pgf@tokc=\toks32
+
+(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgf.cf
+g
 File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
 )
-Package pgfsys Info: Driver file for pgf: pgfsys-pdftex.def on input line 900.
+Driver file for pgf: pgfsys-pdftex.def
 
-(c:/texlive/2013/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
-File: pgfsys-pdftex.def 2009/05/22  (rcs-revision 1.26)
+(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfsys
+-pdftex.def
+File: pgfsys-pdftex.def 2013/07/18  (rcs-revision 1.33)
 
-(c:/texlive/2013/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
-File: pgfsys-common-pdf.def 2008/05/19  (rcs-revision 1.10)
+(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfsys
+-common-pdf.def
+File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
 )))
-(c:/texlive/2013/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
-File: pgfsyssoftpath.code.tex 2008/07/18  (rcs-revision 1.7)
+(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfsys
+softpath.code.tex
+File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
 \pgfsyssoftpath@smallbuffer@items=\count144
 \pgfsyssoftpath@bigbuffer@items=\count145
 )
-(c:/texlive/2013/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfsys
+protocol.code.tex
 File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
-)) (c:/texlive/2013/texmf-dist/tex/latex/xcolor/xcolor.sty
+))
+(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\latex\xcolor\xcolor.sty
 Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
 
-(c:/texlive/2013/texmf-dist/tex/latex/latexconfig/color.cfg
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
 File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
@@ -717,218 +756,258 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
 )
-(c:/texlive/2013/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
-Package: pgfcore 2010/04/11 v2.10 (rcs-revision 1.7)
+(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcore
+.code.tex
+Package: pgfcore 2010/04/11 v3.0.0 (rcs-revision 1.7)
 
-(c:/texlive/2013/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
-(c:/texlive/2013/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
-(c:/texlive/2013/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
-(c:/texlive/2013/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
-\pgfmath@dimen=\dimen158
+(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmath.code.
+tex
+(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathcalc.c
+ode.tex
+(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathutil.c
+ode.tex)
+(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathparser
+.code.tex
+\pgfmath@dimen=\dimen160
 \pgfmath@count=\count146
 \pgfmath@box=\box30
-\pgfmath@toks=\toks30
-\pgfmath@stack@operand=\toks31
-\pgfmath@stack@operation=\toks32
+\pgfmath@toks=\toks33
+\pgfmath@stack@operand=\toks34
+\pgfmath@stack@operation=\toks35
 )
-(c:/texlive/2013/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex
-(c:/texlive/2013/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.te
-x)
-(c:/texlive/2013/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric
-.code.tex)
-(c:/texlive/2013/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.t
-ex)
-(c:/texlive/2013/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.co
-de.tex)
-(c:/texlive/2013/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex
-)
-(c:/texlive/2013/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.te
-x)
-(c:/texlive/2013/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex
-))) (c:/texlive/2013/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfuncti
+ons.code.tex
+(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfuncti
+ons.basic.code.tex)
+(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfuncti
+ons.trigonometric.code.tex)
+(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfuncti
+ons.random.code.tex)
+(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfuncti
+ons.comparison.code.tex)
+(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfuncti
+ons.base.code.tex)
+(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfuncti
+ons.round.code.tex)
+(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfuncti
+ons.misc.code.tex)
+(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfuncti
+ons.integerarithmetics.code.tex)))
+(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfloat.
+code.tex
 \c@pgfmathroundto@lastzeros=\count147
 ))
-(c:/texlive/2013/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
-File: pgfcorepoints.code.tex 2010/04/09  (rcs-revision 1.20)
-\pgf@picminx=\dimen159
-\pgf@picmaxx=\dimen160
-\pgf@picminy=\dimen161
-\pgf@picmaxy=\dimen162
-\pgf@pathminx=\dimen163
-\pgf@pathmaxx=\dimen164
-\pgf@pathminy=\dimen165
-\pgf@pathmaxy=\dimen166
-\pgf@xx=\dimen167
-\pgf@xy=\dimen168
-\pgf@yx=\dimen169
-\pgf@yy=\dimen170
-\pgf@zx=\dimen171
-\pgf@zy=\dimen172
+(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcore
+points.code.tex
+File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
+\pgf@picminx=\dimen161
+\pgf@picmaxx=\dimen162
+\pgf@picminy=\dimen163
+\pgf@picmaxy=\dimen164
+\pgf@pathminx=\dimen165
+\pgf@pathmaxx=\dimen166
+\pgf@pathminy=\dimen167
+\pgf@pathmaxy=\dimen168
+\pgf@xx=\dimen169
+\pgf@xy=\dimen170
+\pgf@yx=\dimen171
+\pgf@yy=\dimen172
+\pgf@zx=\dimen173
+\pgf@zy=\dimen174
 )
-(c:/texlive/2013/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.cod
-e.tex
-File: pgfcorepathconstruct.code.tex 2010/08/03  (rcs-revision 1.24)
-\pgf@path@lastx=\dimen173
-\pgf@path@lasty=\dimen174
+(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcore
+pathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
+\pgf@path@lastx=\dimen175
+\pgf@path@lasty=\dimen176
 )
-(c:/texlive/2013/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.te
-x
-File: pgfcorepathusage.code.tex 2008/04/22  (rcs-revision 1.12)
-\pgf@shorten@end@additional=\dimen175
-\pgf@shorten@start@additional=\dimen176
+(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcore
+pathusage.code.tex
+File: pgfcorepathusage.code.tex 2013/12/13  (rcs-revision 1.23)
+\pgf@shorten@end@additional=\dimen177
+\pgf@shorten@start@additional=\dimen178
 )
-(c:/texlive/2013/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
-File: pgfcorescopes.code.tex 2010/09/08  (rcs-revision 1.34)
+(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcore
+scopes.code.tex
+File: pgfcorescopes.code.tex 2013/10/09  (rcs-revision 1.44)
 \pgfpic=\box31
 \pgf@hbox=\box32
 \pgf@layerbox@main=\box33
 \pgf@picture@serial@count=\count148
 )
-(c:/texlive/2013/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code
-.tex
-File: pgfcoregraphicstate.code.tex 2008/04/22  (rcs-revision 1.9)
-\pgflinewidth=\dimen177
+(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcore
+graphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2013/09/19  (rcs-revision 1.11)
+\pgflinewidth=\dimen179
 )
-(c:/texlive/2013/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.c
-ode.tex
-File: pgfcoretransformations.code.tex 2009/06/10  (rcs-revision 1.11)
-\pgf@pt@x=\dimen178
-\pgf@pt@y=\dimen179
-\pgf@pt@temp=\dimen180
+(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcore
+transformations.code.tex
+File: pgfcoretransformations.code.tex 2013/10/10  (rcs-revision 1.17)
+\pgf@pt@x=\dimen180
+\pgf@pt@y=\dimen181
+\pgf@pt@temp=\dimen182
 )
-(c:/texlive/2013/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcore
+quick.code.tex
 File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
 )
-(c:/texlive/2013/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcore
+objects.code.tex
 File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
 )
-(c:/texlive/2013/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.co
-de.tex
-File: pgfcorepathprocessing.code.tex 2008/10/09  (rcs-revision 1.8)
+(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcore
+pathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
 )
-(c:/texlive/2013/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
-File: pgfcorearrows.code.tex 2008/04/23  (rcs-revision 1.11)
+(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcore
+arrows.code.tex
+File: pgfcorearrows.code.tex 2013/11/07  (rcs-revision 1.40)
+\pgfarrowsep=\dimen183
 )
-(c:/texlive/2013/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
-File: pgfcoreshade.code.tex 2008/11/23  (rcs-revision 1.13)
-\pgf@max=\dimen181
+(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcore
+shade.code.tex
+File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
+\pgf@max=\dimen184
 \pgf@sys@shading@range@num=\count149
 )
-(c:/texlive/2013/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
-File: pgfcoreimage.code.tex 2010/03/25  (rcs-revision 1.16)
+(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcore
+image.code.tex
+File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
 
-(c:/texlive/2013/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
-File: pgfcoreexternal.code.tex 2010/09/01  (rcs-revision 1.17)
+(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcore
+external.code.tex
+File: pgfcoreexternal.code.tex 2013/07/15  (rcs-revision 1.20)
 \pgfexternal@startupbox=\box34
 ))
-(c:/texlive/2013/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
-File: pgfcorelayers.code.tex 2010/08/27  (rcs-revision 1.2)
+(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcore
+layers.code.tex
+File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
 )
-(c:/texlive/2013/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code
-.tex
-File: pgfcoretransparency.code.tex 2008/01/17  (rcs-revision 1.2)
+(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcore
+transparency.code.tex
+File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
 )
-(c:/texlive/2013/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
-File: pgfcorepatterns.code.tex 2009/07/02  (rcs-revision 1.3)
+(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcore
+patterns.code.tex
+File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
 )))
-(c:/texlive/2013/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
-File: pgfmoduleshapes.code.tex 2010/09/09  (rcs-revision 1.13)
+(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\modules\pgfmodules
+hapes.code.tex
+File: pgfmoduleshapes.code.tex 2013/10/31  (rcs-revision 1.34)
 \pgfnodeparttextbox=\box35
 )
-(c:/texlive/2013/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
-File: pgfmoduleplot.code.tex 2010/10/22  (rcs-revision 1.8)
+(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\modules\pgfmodulep
+lot.code.tex
+File: pgfmoduleplot.code.tex 2013/07/31  (rcs-revision 1.12)
 )
-(c:/texlive/2013/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.st
-y
-Package: pgfcomp-version-0-65 2007/07/03 v2.10 (rcs-revision 1.7)
-\pgf@nodesepstart=\dimen182
-\pgf@nodesepend=\dimen183
+(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\compatibility\pgfcom
+p-version-0-65.sty
+Package: pgfcomp-version-0-65 2007/07/03 v3.0.0 (rcs-revision 1.7)
+\pgf@nodesepstart=\dimen185
+\pgf@nodesepend=\dimen186
 )
-(c:/texlive/2013/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.st
-y
-Package: pgfcomp-version-1-18 2007/07/23 v2.10 (rcs-revision 1.1)
-)) (c:/texlive/2013/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
-(c:/texlive/2013/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
-(c:/texlive/2013/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex))
-(c:/texlive/2013/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
-Package: pgffor 2010/03/23 v2.10 (rcs-revision 1.18)
-\pgffor@iter=\dimen184
-\pgffor@skip=\dimen185
-\pgffor@stack=\toks33
-\pgffor@toks=\toks34
+(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\compatibility\pgfcom
+p-version-1-18.sty
+Package: pgfcomp-version-1-18 2007/07/23 v3.0.0 (rcs-revision 1.1)
 ))
-(c:/texlive/2013/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
-Package: tikz 2010/10/13 v2.10 (rcs-revision 1.76)
+(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\utilities\pgffor.sty
 
-(c:/texlive/2013/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.co
-de.tex
-File: pgflibraryplothandlers.code.tex 2010/05/31 v2.10 (rcs-revision 1.15)
+(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\utilities\pgfkeys.st
+y
+(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfkeys.
+code.tex))
+(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\math\pgfmath.sty
+(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmath.code.
+tex))
+(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgffor.c
+ode.tex
+Package: pgffor 2013/12/13 v3.0.0 (rcs-revision 1.25)
+
+(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmath.code.
+tex)
+\pgffor@iter=\dimen187
+\pgffor@skip=\dimen188
+\pgffor@stack=\toks36
+\pgffor@toks=\toks37
+))
+(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\frontendlayer\tikz
+\tikz.code.tex
+Package: tikz 2013/12/13 v3.0.0 (rcs-revision 1.142)
+
+(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\libraries\pgflibra
+ryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.0 (rcs-revision 1.20)
 \pgf@plot@mark@count=\count150
-\pgfplotmarksize=\dimen186
+\pgfplotmarksize=\dimen189
 )
-\tikz@lastx=\dimen187
-\tikz@lasty=\dimen188
-\tikz@lastxsaved=\dimen189
-\tikz@lastysaved=\dimen190
-\tikzleveldistance=\dimen191
-\tikzsiblingdistance=\dimen192
+\tikz@lastx=\dimen190
+\tikz@lasty=\dimen191
+\tikz@lastxsaved=\dimen192
+\tikz@lastysaved=\dimen193
+\tikzleveldistance=\dimen194
+\tikzsiblingdistance=\dimen195
 \tikz@figbox=\box36
-\tikz@tempbox=\box37
+\tikz@figbox@bg=\box37
+\tikz@tempbox=\box38
+\tikz@tempbox@bg=\box39
 \tikztreelevel=\count151
 \tikznumberofchildren=\count152
 \tikznumberofcurrentchild=\count153
 \tikz@fig@count=\count154
 
-(c:/texlive/2013/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
-File: pgfmodulematrix.code.tex 2010/08/24  (rcs-revision 1.4)
+(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\modules\pgfmodulem
+atrix.code.tex
+File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
 \pgfmatrixcurrentrow=\count155
 \pgfmatrixcurrentcolumn=\count156
 \pgf@matrix@numberofcolumns=\count157
 )
 \tikz@expandcount=\count158
 
-(c:/texlive/2013/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
-brarytopaths.code.tex
-File: tikzlibrarytopaths.code.tex 2008/06/17 v2.10 (rcs-revision 1.2)
-))) (./geometry.sty
+(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\frontendlayer\tikz
+\libraries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.0 (rcs-revision 1.2)
+)))
+(D:\GitHub\Project\diploma\MasterThesisTemplate\geometry.sty
 Package: geometry 2010/03/13 v5.3 Page Geometry
 
-(c:/texlive/2013/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
 Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 )
 \Gm@cnth=\count159
 \Gm@cntv=\count160
 \c@Gm@tempcnt=\count161
-\Gm@bindingoffset=\dimen193
-\Gm@wd@mp=\dimen194
-\Gm@odd@mp=\dimen195
-\Gm@even@mp=\dimen196
-\Gm@layoutwidth=\dimen197
-\Gm@layoutheight=\dimen198
-\Gm@layouthoffset=\dimen199
-\Gm@layoutvoffset=\dimen200
-\Gm@dimlist=\toks35
-)
+\Gm@bindingoffset=\dimen196
+\Gm@wd@mp=\dimen197
+\Gm@odd@mp=\dimen198
+\Gm@even@mp=\dimen199
+\Gm@layoutwidth=\dimen200
+\Gm@layoutheight=\dimen201
+\Gm@layouthoffset=\dimen202
+\Gm@layoutvoffset=\dimen203
+\Gm@dimlist=\toks38
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
 \tuinf@headwidth=\skip185
 \tuinf@footwidth=\skip186
 \tuinf@baselineskip=\skip187
 \tuinf@parindent=\skip188
 )
-(c:/texlive/2013/texmf-dist/tex/latex/url/url.sty
+(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\latex\url\url.sty
 \Urlmuskip=\muskip10
-Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-(c:/texlive/2013/texmf-dist/tex/latex/hyperref/hyperref.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
 Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
 
-(c:/texlive/2013/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
-Package: hobsub-hyperref 2012/05/28 v1.13 Bundle oberdiek, subset hyperref (HO)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty"
+Package: hobsub-hyperref 2012/04/25 v1.12 Bundle oberdiek, subset hyperref (HO)
 
 
-(c:/texlive/2013/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
-Package: hobsub-generic 2012/05/28 v1.13 Bundle oberdiek, subset generic (HO)
-Package: hobsub 2012/05/28 v1.13 Construct package bundles (HO)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty"
+Package: hobsub-generic 2012/04/25 v1.12 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/04/25 v1.12 Construct package bundles (HO)
 Package hobsub Info: Skipping package `infwarerr' (already loaded).
 Package hobsub Info: Skipping package `ltxcmds' (already loaded).
 Package hobsub Info: Skipping package `ifluatex' (already loaded).
@@ -956,7 +1035,7 @@ Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
 )
 Package hobsub Info: Skipping package `hobsub' (already loaded).
 Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
-Package: hopatch 2012/05/28 v1.2 Wrapper for package hooks (HO)
+Package: hopatch 2011/06/24 v1.1 Wrapper for package hooks (HO)
 Package: xcolor-patch 2011/01/30 xcolor patch
 Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
 Package atveryend Info: \enddocument detected (standard20110627).
@@ -964,24 +1043,24 @@ Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
 Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
 Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
 )
-(c:/texlive/2013/texmf-dist/tex/latex/oberdiek/auxhook.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty"
 Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
 )
-(c:/texlive/2013/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
 Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
 )
-\@linkdim=\dimen201
+\@linkdim=\dimen204
 \Hy@linkcounter=\count162
 \Hy@pagecounter=\count163
 
-(c:/texlive/2013/texmf-dist/tex/latex/hyperref/pd1enc.def
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
 File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
 \Hy@SavedSpaceFactor=\count164
 
-(c:/texlive/2013/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
 Package hyperref Info: Hyper figures OFF on input line 4443.
@@ -993,10 +1072,10 @@ Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4688.
 \c@Hy@tempcnt=\count165
 LaTeX Info: Redefining \url on input line 5041.
-\XeTeXLinkMargin=\dimen202
+\XeTeXLinkMargin=\dimen205
 \Fld@menulength=\count166
-\Field@Width=\dimen203
-\Fld@charsize=\dimen204
+\Field@Width=\dimen206
+\Fld@charsize=\dimen207
 Package hyperref Info: Hyper figures OFF on input line 6295.
 Package hyperref Info: Link nesting OFF on input line 6300.
 Package hyperref Info: Hyper index ON on input line 6303.
@@ -1010,8 +1089,8 @@ LaTeX Info: Redefining \pageref on input line 6369.
 \c@Item=\count168
 \c@Hfootnote=\count169
 )
-(c:/texlive/2013/texmf-dist/tex/latex/memoir/memhfixc.sty
-Package: memhfixc 2013/05/16 v1.16 nameref/hyperref package fixes for memoir cl
+(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\latex\memoir\memhfixc.sty
+Package: memhfixc 2013/05/30 v1.17 nameref/hyperref package fixes for memoir cl
 ass
 \c@memhycontfloat=\count170
 \c@Hpagenote=\count171
@@ -1019,30 +1098,30 @@ ass
 
 Package hyperref Message: Driver (autodetected): hpdftex.
 
-(c:/texlive/2013/texmf-dist/tex/latex/hyperref/hpdftex.def
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def"
 File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
 \Fld@listcount=\count172
 \c@bookmark@seq@number=\count173
 
-(c:/texlive/2013/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
 Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
 \Hy@SectionHShift=\skip189
 )
-(c:/texlive/2013/texmf-dist/tex/latex/algorithm2e/algorithm2e.sty
+(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\latex\algorithm2e\algorithm2e.
+sty
 Package: algorithm2e 2013/01/06 v5.00 algorithms environments
 \c@AlgoLine=\count174
-
-(c:/texlive/2013/texmf-dist/tex/latex/base/ifthen.sty
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty"
 Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
 )
-(c:/texlive/2013/texmf-dist/tex/latex/tools/xspace.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\xspace.sty"
 Package: xspace 2009/10/20 v1.13 Space after command names (DPC,MH)
 )
-(c:/texlive/2013/texmf-dist/tex/latex/relsize/relsize.sty
-Package: relsize 2013/03/29 ver 4.1
+("C:\Program Files\MiKTeX 2.9\tex\latex\ltxmisc\relsize.sty"
+Package: relsize 2003/07/04 ver 3.1
 )
 ********************************************************
 Package `algorithm2e' Release 5.0 -- january 06 2013 --
@@ -1059,22 +1138,22 @@ subscribe by emailing sympa@lirmm.fr with 'subscribe <list> <firstname name>'
 \skiplength=\skip195
 \algomargin=\skip196
 \skipalgocfslide=\skip197
-\algowidth=\dimen205
-\inoutsize=\dimen206
-\inoutindent=\dimen207
-\interspacetitleruled=\dimen208
-\interspacealgoruled=\dimen209
-\interspacetitleboxruled=\dimen210
-\algocf@inoutbox=\box38
-\algocf@inputbox=\box39
+\algowidth=\dimen208
+\inoutsize=\dimen209
+\inoutindent=\dimen210
+\interspacetitleruled=\dimen211
+\interspacealgoruled=\dimen212
+\interspacetitleboxruled=\dimen213
+\algocf@inoutbox=\box40
+\algocf@inputbox=\box41
 \AlCapSkip=\skip198
 \AlCapHSkip=\skip199
 \algoskipindent=\skip200
-\algocf@nlbox=\box40
-\algocf@hangingbox=\box41
-\algocf@untilbox=\box42
+\algocf@nlbox=\box42
+\algocf@hangingbox=\box43
+\algocf@untilbox=\box44
 \algocf@skipuntil=\skip201
-\algocf@capbox=\box43
+\algocf@capbox=\box45
 \algoheightruledefault=\skip202
 \algoheightrule=\skip203
 \algotitleheightruledefault=\skip204
@@ -1082,64 +1161,67 @@ subscribe by emailing sympa@lirmm.fr with 'subscribe <list> <firstname name>'
 \c@algocfline=\count175
 \c@algocfproc=\count176
 \c@algocf=\count177
-\algocf@algoframe=\box44
-\algocf@algobox=\box45
+\algocf@algoframe=\box46
+\algocf@algobox=\box47
 )
-(c:/texlive/2013/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
-braryarrows.code.tex
-File: tikzlibraryarrows.code.tex 2008/01/09 v2.10 (rcs-revision 1.1)
+(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\frontendlayer\tikz
+\libraries\tikzlibraryarrows.code.tex
+File: tikzlibraryarrows.code.tex 2008/01/09 v3.0.0 (rcs-revision 1.1)
 
-(c:/texlive/2013/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.code.tex
-File: pgflibraryarrows.code.tex 2008/10/27 v2.10 (rcs-revision 1.9)
-\arrowsize=\dimen211
+(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\libraries\pgflibra
+ryarrows.code.tex
+File: pgflibraryarrows.code.tex 2013/09/23 v3.0.0 (rcs-revision 1.16)
+\arrowsize=\dimen214
 ))
-(c:/texlive/2013/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
-braryautomata.code.tex
-File: tikzlibraryautomata.code.tex 2008/07/14 v2.10 (rcs-revision 1.3)
+(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\frontendlayer\tikz
+\libraries\tikzlibraryautomata.code.tex
+File: tikzlibraryautomata.code.tex 2008/07/14 v3.0.0 (rcs-revision 1.3)
 
-(c:/texlive/2013/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
-braryshapes.multipart.code.tex
-File: tikzlibraryshapes.multipart.code.tex 2008/01/09 v2.10 (rcs-revision 1.1)
+(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\frontendlayer\tikz
+\libraries\tikzlibraryshapes.multipart.code.tex
+File: tikzlibraryshapes.multipart.code.tex 2008/01/09 v3.0.0 (rcs-revision 1.1)
 
-(c:/texlive/2013/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.m
-ultipart.code.tex
-File: pgflibraryshapes.multipart.code.tex 2010/01/07 v2.10 (rcs-revision 1.2)
-\pgfnodepartlowerbox=\box46
-\pgfnodeparttwobox=\box47
-\pgfnodepartthreebox=\box48
-\pgfnodepartfourbox=\box49
-\pgfnodeparttwentybox=\box50
-\pgfnodepartnineteenbox=\box51
-\pgfnodeparteighteenbox=\box52
-\pgfnodepartseventeenbox=\box53
-\pgfnodepartsixteenbox=\box54
-\pgfnodepartfifteenbox=\box55
-\pgfnodepartfourteenbox=\box56
-\pgfnodepartthirteenbox=\box57
-\pgfnodeparttwelvebox=\box58
-\pgfnodepartelevenbox=\box59
-\pgfnodeparttenbox=\box60
-\pgfnodepartninebox=\box61
-\pgfnodeparteightbox=\box62
-\pgfnodepartsevenbox=\box63
-\pgfnodepartsixbox=\box64
-\pgfnodepartfivebox=\box65
+
+(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\libraries\shapes\p
+gflibraryshapes.multipart.code.tex
+File: pgflibraryshapes.multipart.code.tex 2010/01/07 v3.0.0 (rcs-revision 1.2)
+\pgfnodepartlowerbox=\box48
+\pgfnodeparttwobox=\box49
+\pgfnodepartthreebox=\box50
+\pgfnodepartfourbox=\box51
+\pgfnodeparttwentybox=\box52
+\pgfnodepartnineteenbox=\box53
+\pgfnodeparteighteenbox=\box54
+\pgfnodepartseventeenbox=\box55
+\pgfnodepartsixteenbox=\box56
+\pgfnodepartfifteenbox=\box57
+\pgfnodepartfourteenbox=\box58
+\pgfnodepartthirteenbox=\box59
+\pgfnodeparttwelvebox=\box60
+\pgfnodepartelevenbox=\box61
+\pgfnodeparttenbox=\box62
+\pgfnodepartninebox=\box63
+\pgfnodeparteightbox=\box64
+\pgfnodepartsevenbox=\box65
+\pgfnodepartsixbox=\box66
+\pgfnodepartfivebox=\box67
 )))
-(c:/texlive/2013/texmf-dist/tex/latex/titlesec/titlesec.sty
+(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\latex\titlesec\titlesec.sty
 Package: titlesec 2011/12/15 v2.10.0 Sectioning titles
-\ttl@box=\box66
+\ttl@box=\box68
 \beforetitleunit=\skip206
 \aftertitleunit=\skip207
-\ttl@plus=\dimen212
-\ttl@minus=\dimen213
-\ttl@toksa=\toks36
-\titlewidth=\dimen214
-\titlewidthlast=\dimen215
-\titlewidthfirst=\dimen216
+\ttl@plus=\dimen215
+\ttl@minus=\dimen216
+\ttl@toksa=\toks39
+\titlewidth=\dimen217
+\titlewidthlast=\dimen218
+\titlewidthfirst=\dimen219
 )
-(c:/texlive/2013/texmf-dist/tex/generic/german/ngerman.sty v2.5e 1998-07-08
+(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\latex\german\ngerman.sty
+v2.5e 1998-07-08
 Package: ngerman 1998/07/08 v2.5e Support for writing german texts (br)
-\grmnU@D=\dimen217
+\grmnU@D=\dimen220
 LaTeX Info: Redefining \glqq on input line 255.
 LaTeX Info: Redefining \glq on input line 268.
 LaTeX Info: Redefining \flqq on input line 281.
@@ -1147,50 +1229,50 @@ LaTeX Info: Redefining \frqq on input line 289.
 LaTeX Info: Redefining \flq on input line 297.
 LaTeX Info: Redefining \frq on input line 304.
 )
-(c:/texlive/2013/texmf-dist/tex/latex/listings/listings.sty
+(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\listings.sty
 \lst@mode=\count178
-\lst@gtempboxa=\box67
-\lst@token=\toks37
+\lst@gtempboxa=\box69
+\lst@token=\toks40
 \lst@length=\count179
-\lst@currlwidth=\dimen218
+\lst@currlwidth=\dimen221
 \lst@column=\count180
 \lst@pos=\count181
-\lst@lostspace=\dimen219
-\lst@width=\dimen220
+\lst@lostspace=\dimen222
+\lst@width=\dimen223
 \lst@newlines=\count182
 \lst@lineno=\count183
-\lst@maxwidth=\dimen221
+\lst@maxwidth=\dimen224
 
-(c:/texlive/2013/texmf-dist/tex/latex/listings/lstmisc.sty
-File: lstmisc.sty 2007/02/22 1.4 (Carsten Heinz)
+(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\lstmisc.sty
+File: lstmisc.sty 2013/08/26 1.5b (Carsten Heinz)
 \c@lstnumber=\count184
 \lst@skipnumbers=\count185
-\lst@framebox=\box68
+\lst@framebox=\box70
 )
-(c:/texlive/2013/texmf-dist/tex/latex/listings/listings.cfg
-File: listings.cfg 2007/02/22 1.4 listings configuration
+(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\listings.cfg
+File: listings.cfg 2013/08/26 1.5b listings configuration
 ))
-Package: listings 2007/02/22 1.4 (Carsten Heinz)
+Package: listings 2013/08/26 1.5b (Carsten Heinz)
 
-(c:/texlive/2013/texmf-dist/tex/latex/germbib/bibgerm.sty
+(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\latex\germbib\bibgerm.sty
 Package: bibgerm 2000/08/18 v0.1 Support for mixed language bibliographies
 
 ** Macros for german `BibTeX'ing added to Style Option `german' 20 Apr 1993 **
 ** idea and languages `german' and `USenglish' implemented by M. Wallmeier **
 ** Modified for LaTeX 2e and german.sty 2.5b by A. Scherer 1 Nov 1995 **
 ** Modified for ngerman.sty and babel.sty by H. Harders 21 August 2000 **)
-(c:/texlive/2013/texmf-dist/tex/latex/cite/cite.sty
+(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\latex\cite\cite.sty
 LaTeX Info: Redefining \cite on input line 302.
 LaTeX Info: Redefining \nocite on input line 373.
 Package: cite 2010/09/10  v 5.3
 )
-(c:/texlive/2013/texmf-dist/tex/latex/tools/varioref.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\varioref.sty"
 Package: varioref 2011/10/02 v1.4z package for extended references (FMi)
 \c@vrcnt=\count186
-) (./thesis.aux
-(./titlepage.aux) (./titlepage_en.aux))
-\openout1 = `thesis.aux'.
-
+)
+(D:\GitHub\Project\diploma\MasterThesisTemplate\thesis.aux
+(D:\GitHub\Project\diploma\MasterThesisTemplate\titlepage.aux)
+(D:\GitHub\Project\diploma\MasterThesisTemplate\titlepage_en.aux))
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 69.
 LaTeX Font Info:    ... okay on input line 69.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 69.
@@ -1207,38 +1289,23 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 69.
 LaTeX Font Info:    ... okay on input line 69.
 LaTeX Font Info:    Try loading font information for T1+ptm on input line 69.
 
-(c:/texlive/2013/texmf-dist/tex/latex/psnfss/t1ptm.fd
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\t1ptm.fd"
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 )
-(c:/texlive/2013/texmf-dist/tex/context/base/supp-pdf.mkii
+(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count187
-\scratchdimen=\dimen222
-\scratchbox=\box69
+\scratchdimen=\dimen225
+\scratchbox=\box71
 \nofMPsegments=\count188
 \nofMParguments=\count189
-\everyMPshowfont=\toks38
+\everyMPshowfont=\toks41
 \MPscratchCnt=\count190
-\MPscratchDim=\dimen223
+\MPscratchDim=\dimen226
 \MPnumerator=\count191
 \makeMPintoPDFobject=\count192
-\everyMPtoPDFconversion=\toks39
-) (c:/texlive/2013/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
-Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
-
-(c:/texlive/2013/texmf-dist/tex/latex/oberdiek/grfext.sty
-Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
-)
-Package grfext Info: Graphics extension search list:
-(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
-G,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 452.
-
-(c:/texlive/2013/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
-e
-))
-ABD: EveryShipout initializing macros
+\everyMPtoPDFconversion=\toks42
+) ABD: EveryShipout initializing macros
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -1271,12 +1338,12 @@ ABD: EveryShipout initializing macros
 * \@reversemarginfalse
 * (1in=72.27pt, 1cm=28.453pt)
 
-\AtBeginShipoutBox=\box70
+\AtBeginShipoutBox=\box72
 Package hyperref Info: Link coloring OFF on input line 69.
-(c:/texlive/2013/texmf-dist/tex/latex/hyperref/nameref.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
-(c:/texlive/2013/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count193
@@ -1288,19 +1355,16 @@ LaTeX Info: Redefining \nameref on input line 69.
 LaTeX Info: Redefining \ref on input line 69.
 LaTeX Info: Redefining \pageref on input line 69.
 LaTeX Info: Redefining \nameref on input line 69.
-(./thesis.out) (./thesis.out)
+(D:\GitHub\Project\diploma\MasterThesisTemplate\thesis.out)
+(D:\GitHub\Project\diploma\MasterThesisTemplate\thesis.out)
 \@outlinefile=\write5
-\openout5 = `thesis.out'.
-
 LaTeX Info: Redefining \Ref on input line 69.
 \c@lstlisting=\count194
 
 
 bibgerm.sty: (n)german.sty 2.5b detected
 
-\openout2 = `titlepage.aux'.
-
-(./titlepage.tex
+(D:\GitHub\Project\diploma\MasterThesisTemplate\titlepage.tex
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: pdftex
 * paper: a4paper
@@ -1334,7 +1398,8 @@ bibgerm.sty: (n)german.sty 2.5b detected
 \tmpbaselineskip=\skip208
 \tmpparindent=\skip209
 LaTeX Font Info:    Try loading font information for T1+phv on input line 42.
- (c:/texlive/2013/texmf-dist/tex/latex/psnfss/t1phv.fd
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\t1phv.fd"
 File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
 )
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
@@ -1367,7 +1432,7 @@ LaTeX Font Info:    Font shape `T1/phv/b/n' will be
 (Font)              scaled to size 13.29996pt on input line 60.
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
 (Font)              scaled to size 10.44997pt on input line 72.
-<figures/titlepage/tgm_logo.pdf, id=59, 376.40625pt x 121.20282pt>
+<figures/titlepage/tgm_logo.pdf, id=82, 376.40625pt x 121.20282pt>
 File: figures/titlepage/tgm_logo.pdf Graphic file (type pdf)
 
 <use figures/titlepage/tgm_logo.pdf>
@@ -1386,26 +1451,23 @@ Overfull \vbox (58.45044pt too high) has occurred while \output is active []
 LaTeX Font Info:    Calculating math sizes for size <14> on input line 92.
 LaTeX Font Info:    Try loading font information for U+msa on input line 92.
 
-(c:/texlive/2013/texmf-dist/tex/latex/amsfonts/umsa.fd
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Try loading font information for U+msb on input line 92.
 
-(c:/texlive/2013/texmf-dist/tex/latex/amsfonts/umsb.fd
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 
 
 
 
-{c:/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./figures/title
-page/tgm_logo.pdf>]
-[2
+{C:/Users/Aleksey/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <D:/GitHub
+/Project/diploma/MasterThesisTemplate/figures/titlepage/tgm_logo.pdf>] [2
 
 ])
-\openout2 = `titlepage_en.aux'.
-
- (./titlepage_en.tex
+(D:\GitHub\Project\diploma\MasterThesisTemplate\titlepage_en.tex
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: pdftex
 * paper: a4paper
@@ -1455,7 +1517,8 @@ Overfull \vbox (58.45044pt too high) has occurred while \output is active []
 
 ] [2
 
-]) (./chapters/erklaerung.tex
+])
+(D:\GitHub\Project\diploma\MasterThesisTemplate\chapters/erklaerung.tex
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 1.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <24.88> not available
@@ -1465,29 +1528,33 @@ Underfull \hbox (badness 10000) in paragraph at lines 8--14
 
  []
 
-) (./chapters/acknowledgements.tex [1
+) (D:\GitHub\Project\diploma\MasterThesisTemplate\chapters/acknowledgements.tex
+[1
 
 
 
 
 ] [2
 
-]) (./chapters/abstract_en.tex
+])
+(D:\GitHub\Project\diploma\MasterThesisTemplate\chapters/abstract_en.tex
 [3] [4
 
 ]) [5] [6
 
-] (./chapters/abstract_de.tex) [7
+]
+(D:\GitHub\Project\diploma\MasterThesisTemplate\chapters/abstract_de.tex)
+[7
 
 ] [8
 
-] (./thesis.toc) [9]
+] (D:\GitHub\Project\diploma\MasterThesisTemplate\thesis.toc) [9]
 [10
 
 ]
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <17.28> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 138.
- (./chapters/introduction.tex
+ (D:\GitHub\Project\diploma\MasterThesisTemplate\chapters/introduction.tex
 Underfull \hbox (badness 10000) in paragraph at lines 4--10
 
  []
@@ -1542,21 +1609,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 41--50
 
  []
 
-<graphics/ARpad.png, id=163, 282.1815pt x 188.8875pt>
+<graphics/ARpad.png, id=191, 282.1815pt x 188.8875pt>
 File: graphics/ARpad.png Graphic file (type png)
  <use graphics/ARpad.png>
 Package pdftex.def Info: graphics/ARpad.png used on input line 53.
 (pdftex.def)             Requested size: 240.0061pt x 160.65599pt.
 
-
-LaTeX Warning: Citation `javaObjectClass' on page 4 undefined on input line 54.
-
-
-
-LaTeX Warning: Citation `javaObjectClass' on page 4 undefined on input line 54.
-
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 56--58
 
  []
@@ -1566,38 +1624,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 56--58
 
  []
 
-[4 <./graphics/ARpad.png>]
-<graphics/GoogleGlasses.jpg, id=169, 1464.93243pt x 824.26865pt>
+[4 <D:/GitHub/Project/diploma/MasterThesisTemplate/graphics/ARpad.png>]
+<graphics/GoogleGlasses.jpg, id=200, 1464.93243pt x 824.26865pt>
 File: graphics/GoogleGlasses.jpg Graphic file (type jpg)
 
 <use graphics/GoogleGlasses.jpg>
 Package pdftex.def Info: graphics/GoogleGlasses.jpg used on input line 64.
 (pdftex.def)             Requested size: 239.98224pt x 135.03pt.
 
-
-LaTeX Warning: Citation `javaObjectClass' on page 5 undefined on input line 65.
-
-
-
-LaTeX Warning: Citation `javaObjectClass' on page 5 undefined on input line 65.
-
-
-<graphics/googlefunctions.png, id=170, 642.4pt x 361.35pt>
+<graphics/googlefunctions.png, id=203, 642.4pt x 361.35pt>
 File: graphics/googlefunctions.png Graphic file (type png)
 
 <use graphics/googlefunctions.png>
 Package pdftex.def Info: graphics/googlefunctions.png used on input line 98.
 (pdftex.def)             Requested size: 239.9976pt x 134.99864pt.
 
-
-LaTeX Warning: Citation `javaObjectClass' on page 5 undefined on input line 99.
-
-
-
-LaTeX Warning: Citation `javaObjectClass' on page 5 undefined on input line 99.
-
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 59--102
 
  []
@@ -1652,7 +1693,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 59--102
 
  []
 
-[5 <./graphics/GoogleGlasses.jpg>]
+[5 <D:/GitHub/Project/diploma/MasterThesisTemplate/graphics/GoogleGlasses.jpg>]
+
 Underfull \hbox (badness 10000) in paragraph at lines 104--110
 
  []
@@ -1667,22 +1709,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 104--110
 
  []
 
-[6] <graphics/smartcar.png, id=182, 209.583pt x 253.602pt>
+[6] <graphics/smartcar.png, id=217, 209.583pt x 253.602pt>
 File: graphics/smartcar.png Graphic file (type png)
 
 <use graphics/smartcar.png>
 Package pdftex.def Info: graphics/smartcar.png used on input line 120.
 (pdftex.def)             Requested size: 148.76018pt x 180.0045pt.
 
-
-LaTeX Warning: Citation `javaObjectClass' on page 7 undefined on input line 121
-.
-
-
-LaTeX Warning: Citation `javaObjectClass' on page 7 undefined on input line 121
-.
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 111--124
 
  []
@@ -1692,7 +1725,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 111--124
 
  []
 
-[7 <./graphics/googlefunctions.png>]
+[7 <D:/GitHub/Project/diploma/MasterThesisTemplate/graphics/googlefunctions.png
+>]
 Underfull \hbox (badness 10000) in paragraph at lines 125--134
 
  []
@@ -1712,7 +1746,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 125--134
 
  []
 
-[8 <./graphics/smartcar.png>]
+[8 <D:/GitHub/Project/diploma/MasterThesisTemplate/graphics/smartcar.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 135--138
 
  []
@@ -1827,28 +1861,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 183--192
 
  []
 
-<graphics/statistics.png, id=206, 622.325pt x 438.63875pt>
+<graphics/statistics.png, id=243, 622.325pt x 438.63875pt>
 File: graphics/statistics.png Graphic file (type png)
 
 <use graphics/statistics.png>
 Package pdftex.def Info: graphics/statistics.png used on input line 198.
 (pdftex.def)             Requested size: 239.99944pt x 169.16089pt.
 
-
-LaTeX Warning: Citation `javaObjectClass' on page 12 undefined on input line 19
-9.
-
-
-LaTeX Warning: Citation `javaObjectClass' on page 12 undefined on input line 19
-9.
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 193--204
 
  []
-
-
-LaTeX Warning: Citation `JavaWhat' on page 12 undefined on input line 207.
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 207--209
@@ -1861,132 +1883,38 @@ Underfull \hbox (badness 10000) in paragraph at lines 212--214
  []
 
 
-LaTeX Warning: Citation `javaWiki' on page 13 undefined on input line 217.
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 217--219
 
  []
 
-
-LaTeX Warning: Citation `progLangPop' on page 13 undefined on input line 220.
-
-
-LaTeX Warning: Citation `javaObjectClass' on page 13 undefined on input line 22
-3.
-
-
-LaTeX Warning: Citation `javaOBjectOracle' on page 13 undefined on input line 2
-26.
-
-
-LaTeX Warning: Citation `javaObjectClass' on page 13 undefined on input line 22
-6.
-
-[13 <./graphics/statistics.png>]
-
-LaTeX Warning: Citation `javaObjectClass' on page 14 undefined on input line 23
-3.
-
-<graphics/java_subclass.png, id=217, 179.92218pt x 135.50626pt>
+[13 <D:/GitHub/Project/diploma/MasterThesisTemplate/graphics/statistics.png>]
+<graphics/java_subclass.png, id=267, 179.92218pt x 135.50626pt>
 File: graphics/java_subclass.png Graphic file (type png)
 
 <use graphics/java_subclass.png>
 Package pdftex.def Info: graphics/java_subclass.png used on input line 237.
 (pdftex.def)             Requested size: 239.00797pt x 180.006pt.
-
-
-LaTeX Warning: Citation `javaObjectClass' on page 14 undefined on input line 23
-8.
-
-
-LaTeX Warning: Citation `javaObjectClass' on page 14 undefined on input line 23
-8.
-
-
-LaTeX Warning: Citation `javaAbstractVsInterface' on page 14 undefined on input
- line 244.
-
-
-LaTeX Warning: Citation `javaOBjectOracle' on page 14 undefined on input line 2
-47.
-
-[14 <./graphics/java_subclass.png>]
-
-LaTeX Warning: Citation `javaPerfromance' on page 15 undefined on input line 26
-0.
-
-
-LaTeX Warning: Citation `javaJVM' on page 15 undefined on input line 263.
-
-
+ [14 <D:/GitHub/Project/diploma/MasterThesisTemplate/graphics/java_subclass.png
+>]
 Underfull \hbox (badness 10000) in paragraph at lines 263--265
 
  []
 
-
-LaTeX Warning: Citation `javaJVM' on page 15 undefined on input line 269.
-
-
-LaTeX Warning: Citation `stackBased_vs_registerBased' on page 15 undefined on i
-nput line 269.
-
-
-LaTeX Warning: Citation `javaGarbageCollector' on page 15 undefined on input li
-ne 271.
-
-
-LaTeX Warning: Citation `javaJVM' on page 15 undefined on input line 273.
-
 [15]
-
-LaTeX Warning: Citation `javaJVM' on page 16 undefined on input line 276.
-
-<graphics/java-code-execution-process.png, id=240, 354.32375pt x 384.43625pt>
+<graphics/java-code-execution-process.png, id=306, 354.32375pt x 384.43625pt>
 File: graphics/java-code-execution-process.png Graphic file (type png)
 
 <use graphics/java-code-execution-process.png>
 Package pdftex.def Info: graphics/java-code-execution-process.png used on input
  line 282.
 (pdftex.def)             Requested size: 418.26059pt x 453.80681pt.
-
-
-LaTeX Warning: Citation `javaJVM' on page 16 undefined on input line 283.
-
-
-LaTeX Warning: Citation `javaJVM' on page 16 undefined on input line 283.
-
-
-LaTeX Warning: Citation `javaJVM' on page 16 undefined on input line 286.
-
-
-LaTeX Warning: Citation `javaJVM' on page 16 undefined on input line 292.
-
-
-LaTeX Warning: Citation `javaVMOracle' on page 16 undefined on input line 294.
-
-
-LaTeX Warning: Citation `javaJVM' on page 16 undefined on input line 297.
-
-
-LaTeX Warning: Citation `javaVMOracle' on page 16 undefined on input line 301.
-
-
-LaTeX Warning: Citation `javaJVM' on page 16 undefined on input line 303.
-
-[16] [17 <./graphics/java-code-execution-process.png>]
-
-LaTeX Warning: Citation `javaVMPaper' on page 18 undefined on input line 306.
-
-(c:/texlive/2013/texmf-dist/tex/latex/listings/lstlang1.sty
-File: lstlang1.sty 2004/09/05 1.3 listings language file
+ [16] [17 <D:/GitHub/Project/diploma/MasterThesisTemplate/graphics/java-code-ex
+ecution-process.png>]
+(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\lstlang1.sty
+File: lstlang1.sty 2013/08/26 1.5b listings language file
 )
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
 nput line 309.
-
-
-LaTeX Warning: Citation `javaVmstover' on page 18 undefined on input line 320.
-
 
 Overfull \hbox (44.88036pt too wide) in paragraph at lines 318--321
 \T1/ptm/m/n/12 to \T1/ptm/m/it/12 Sys-tem.out\T1/ptm/m/n/12 , #3 is the \T1/ptm
@@ -1994,36 +1922,21 @@ Overfull \hbox (44.88036pt too wide) in paragraph at lines 318--321
 t/12 PrintStream.println(String)
  []
 
-<graphics/java-data-areas.png, id=256, 373.395pt x 270.25969pt>
+<graphics/java-data-areas.png, id=333, 373.395pt x 270.25969pt>
 File: graphics/java-data-areas.png Graphic file (type png)
 
 <use graphics/java-data-areas.png>
 Package pdftex.def Info: graphics/java-data-areas.png used on input line 324.
 (pdftex.def)             Requested size: 418.27362pt x 302.74239pt.
-
-
-LaTeX Warning: Citation `javaDataAreas' on page 18 undefined on input line 325.
-
-
-
-LaTeX Warning: Citation `javaDataAreas' on page 18 undefined on input line 325.
-
-
-[18]
-
-LaTeX Warning: Citation `javaJVM' on page 19 undefined on input line 330.
-
-
-LaTeX Warning: Citation `javaJarMargaret' on page 19 undefined on input line 33
-3.
-
-)
+ [18])
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [19 <./graphics/java-data-areas.png>] [20] (./chapters/design.tex
+ [19 <D:/GitHub/Project/diploma/MasterThesisTemplate/graphics/java-data-areas.p
+ng>]
+[20] (D:\GitHub\Project\diploma\MasterThesisTemplate\chapters/design.tex
 LaTeX Font Info:    Try loading font information for T1+pcr on input line 2.
 
-(c:/texlive/2013/texmf-dist/tex/latex/psnfss/t1pcr.fd
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\t1pcr.fd"
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 )
 Underfull \vbox (badness 2418) has occurred while \output is active []
@@ -2031,7 +1944,7 @@ Underfull \vbox (badness 2418) has occurred while \output is active []
  [21
 
 ]
-<figures/figure1.pdf, id=294, 305.17311pt x 301.30667pt>
+<figures/figure1.pdf, id=379, 305.17311pt x 301.30667pt>
 File: figures/figure1.pdf Graphic file (type pdf)
 
 <use figures/figure1.pdf>
@@ -2039,10 +1952,792 @@ Package pdftex.def Info: figures/figure1.pdf used on input line 45.
 (pdftex.def)             Requested size: 292.77629pt x 289.081pt.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <8> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 81.
-) [22] [23 <./figures/figure1.pdf>] [24]
-(./chapters/bibliographic.tex) (./thesis.bbl [25
+)
+(D:\GitHub\Project\diploma\MasterThesisTemplate\chapters/chapter4.tex [22]
+[23 <D:/GitHub/Project/diploma/MasterThesisTemplate/figures/figure1.pdf>]
+[24]
+Underfull \hbox (badness 10000) in paragraph at lines 3--5
 
-] [26
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--8
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--14
+
+ []
+
+<graphics/chapter4/1.png, id=453, 333.245pt x 360.34625pt>
+File: graphics/chapter4/1.png Graphic file (type png)
+
+<use graphics/chapter4/1.png>
+Package pdftex.def Info: graphics/chapter4/1.png used on input line 17.
+(pdftex.def)             Requested size: 250.95476pt x 271.3697pt.
+ [25
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 23--25
+
+ []
+
+(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\lstlang1.sty
+File: lstlang1.sty 2013/08/26 1.5b listings language file
+)
+(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\lstmisc.sty
+File: lstmisc.sty 2013/08/26 1.5b (Carsten Heinz)
+)
+Overfull \hbox (92.95152pt too wide) in paragraph at lines 28--29
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
+[][] 
+ []
+
+
+Overfull \hbox (157.75218pt too wide) in paragraph at lines 29--30
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (208.1527pt too wide) in paragraph at lines 30--31
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
+[][] 
+ []
+
+
+Overfull \hbox (100.1516pt too wide) in paragraph at lines 31--32
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
+ 
+ []
+
+
+Overfull \hbox (78.55138pt too wide) in paragraph at lines 32--33
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+LaTeX Font Info:    Try loading font information for T1+DejaVuSansMono on input
+ line 33.
+LaTeX Font Info:    No file T1DejaVuSansMono.fd. on input line 33.
+
+LaTeX Font Warning: Font shape `T1/DejaVuSansMono/m/n' undefined
+(Font)              using `T1/cmr/m/n' instead on input line 33.
+
+[26 <D:/GitHub/Project/diploma/MasterThesisTemplate/graphics/chapter4/1.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 50--52
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--55
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 56--58
+
+ []
+
+<graphics/chapter4/2.png, id=476, 325.215pt x 389.455pt>
+File: graphics/chapter4/2.png Graphic file (type png)
+
+<use graphics/chapter4/2.png>
+Package pdftex.def Info: graphics/chapter4/2.png used on input line 66.
+(pdftex.def)             Requested size: 209.12683pt x 250.43886pt.
+ [27 <D:/GitHub/Project/diploma/MasterThesisTemplate/graphics/chapter4/2.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 72--75
+
+ []
+
+
+Overfull \hbox (42.55101pt too wide) in paragraph at lines 76--77
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--83
+
+ []
+
+
+Overfull \hbox (20.95079pt too wide) in paragraph at lines 84--85
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (308.95372pt too wide) in paragraph at lines 85--86
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
+[][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--92
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 93--95
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--98
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 99--101
+
+ []
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 102.
+
+<graphics/chapter4/3.png, id=483, 333.245pt x 422.57875pt>
+File: graphics/chapter4/3.png Graphic file (type png)
+
+<use graphics/chapter4/3.png>
+Package pdftex.def Info: graphics/chapter4/3.png used on input line 104.
+(pdftex.def)             Requested size: 209.12683pt x 265.19434pt.
+ [28]
+Underfull \hbox (badness 10000) in paragraph at lines 115--118
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--129
+
+ []
+
+[29 <D:/GitHub/Project/diploma/MasterThesisTemplate/graphics/chapter4/3.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 139--141
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--144
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 147--150
+
+ []
+
+
+Overfull \hbox (20.95079pt too wide) in paragraph at lines 155--158
+[][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (834.55907pt too wide) in paragraph at lines 161--162
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][] 
+ []
+
+[30]
+Underfull \hbox (badness 10000) in paragraph at lines 176--179
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 190--192
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 201--204
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 212--214
+
+ []
+
+[31]
+Underfull \hbox (badness 10000) in paragraph at lines 225--227
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 237--239
+
+ []
+
+
+Overfull \hbox (524.95592pt too wide) in paragraph at lines 247--248
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
+[][][][][][][][][] 
+ []
+
+
+Overfull \hbox (301.75365pt too wide) in paragraph at lines 253--254
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[32]
+Underfull \hbox (badness 10000) in paragraph at lines 263--265
+
+ []
+
+
+Overfull \hbox (589.75658pt too wide) in paragraph at lines 274--275
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
+[][][][][][][][][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 288--290
+
+ []
+
+
+Overfull \hbox (28.15086pt too wide) in paragraph at lines 298--299
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[33]
+Underfull \hbox (badness 10000) in paragraph at lines 302--304
+
+ []
+
+
+Overfull \hbox (294.55357pt too wide) in paragraph at lines 307--308
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 314--316
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 323--325
+
+ []
+
+
+Overfull \hbox (28.15086pt too wide) in paragraph at lines 333--334
+[][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (35.35094pt too wide) in paragraph at lines 334--335
+[][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (452.95518pt too wide) in paragraph at lines 344--345
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][] 
+ []
+
+[34]
+Overfull \hbox (172.15233pt too wide) in paragraph at lines 346--347
+[][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (164.95226pt too wide) in paragraph at lines 347--348
+[][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (143.35204pt too wide) in paragraph at lines 350--351
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (150.55211pt too wide) in paragraph at lines 351--353
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (85.75145pt too wide) in paragraph at lines 354--355
+[][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (200.95262pt too wide) in paragraph at lines 358--359
+[][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (208.1527pt too wide) in paragraph at lines 359--360
+[][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (100.1516pt too wide) in paragraph at lines 360--361
+[][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (200.95262pt too wide) in paragraph at lines 363--364
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 369--371
+
+ []
+
+[35]
+Underfull \hbox (badness 10000) in paragraph at lines 378--380
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 381--383
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 384--386
+
+ []
+
+[36] <graphics/chapter4/20.png, id=670, 481.8pt x 245.91875pt>
+File: graphics/chapter4/20.png Graphic file (type png)
+
+<use graphics/chapter4/20.png>
+Package pdftex.def Info: graphics/chapter4/20.png used on input line 396.
+(pdftex.def)             Requested size: 376.42575pt x 192.13855pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 402--404
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 412--414
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 421--424
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 429--431
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 433--436
+
+ []
+
+[37 <D:/GitHub/Project/diploma/MasterThesisTemplate/graphics/chapter4/20.png>]
+Overfull \hbox (164.95226pt too wide) in paragraph at lines 438--439
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (229.75291pt too wide) in paragraph at lines 439--440
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (251.35313pt too wide) in paragraph at lines 440--441
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
+[][] 
+ []
+
+
+Overfull \hbox (64.15123pt too wide) in paragraph at lines 441--442
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (164.95226pt too wide) in paragraph at lines 442--443
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (157.75218pt too wide) in paragraph at lines 443--444
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (920.95995pt too wide) in paragraph at lines 444--445
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][] 
+ []
+
+<graphics/chapter4/4.png, id=685, 333.245pt x 422.57875pt>
+File: graphics/chapter4/4.png Graphic file (type png)
+
+<use graphics/chapter4/4.png>
+Package pdftex.def Info: graphics/chapter4/4.png used on input line 451.
+(pdftex.def)             Requested size: 167.2989pt x 212.15288pt.
+ [38 <D:/GitHub/Project/diploma/MasterThesisTemplate/graphics/chapter4/4.png>]
+<graphics/chapter4/5.png, id=701, 406.51875pt x 722.7pt>
+File: graphics/chapter4/5.png Graphic file (type png)
+
+<use graphics/chapter4/5.png>
+Package pdftex.def Info: graphics/chapter4/5.png used on input line 463.
+(pdftex.def)             Requested size: 167.2989pt x 297.41167pt.
+
+<graphics/chapter4/6.png, id=702, 406.51875pt x 722.7pt>
+File: graphics/chapter4/6.png Graphic file (type png)
+
+<use graphics/chapter4/6.png>
+Package pdftex.def Info: graphics/chapter4/6.png used on input line 474.
+(pdftex.def)             Requested size: 167.2989pt x 297.41167pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[39 <D:/GitHub/Project/diploma/MasterThesisTemplate/graphics/chapter4/5.png>]
+<graphics/chapter4/7.png, id=708, 255.95625pt x 292.09125pt>
+File: graphics/chapter4/7.png Graphic file (type png)
+
+<use graphics/chapter4/7.png>
+Package pdftex.def Info: graphics/chapter4/7.png used on input line 485.
+(pdftex.def)             Requested size: 209.12683pt x 238.6517pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[40 <D:/GitHub/Project/diploma/MasterThesisTemplate/graphics/chapter4/6.png>]
+<graphics/chapter4/8.png, id=714, 178.704pt x 317.988pt>
+File: graphics/chapter4/8.png Graphic file (type png)
+
+<use graphics/chapter4/8.png>
+Package pdftex.def Info: graphics/chapter4/8.png used on input line 496.
+(pdftex.def)             Requested size: 209.12683pt x 372.12209pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[41 <D:/GitHub/Project/diploma/MasterThesisTemplate/graphics/chapter4/7.png>]
+<graphics/chapter4/9.png, id=722, 450.68375pt x 704.6325pt>
+File: graphics/chapter4/9.png Graphic file (type png)
+
+<use graphics/chapter4/9.png>
+Package pdftex.def Info: graphics/chapter4/9.png used on input line 507.
+(pdftex.def)             Requested size: 209.12683pt x 326.96262pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[42 <D:/GitHub/Project/diploma/MasterThesisTemplate/graphics/chapter4/8.png>]
+<graphics/chapter4/10.png, id=728, 406.51875pt x 722.7pt>
+File: graphics/chapter4/10.png Graphic file (type png)
+
+<use graphics/chapter4/10.png>
+Package pdftex.def Info: graphics/chapter4/10.png used on input line 519.
+(pdftex.def)             Requested size: 209.12683pt x 371.78113pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[43 <D:/GitHub/Project/diploma/MasterThesisTemplate/graphics/chapter4/9.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 526--529
+
+ []
+
+
+Overfull \hbox (748.15819pt too wide) in paragraph at lines 530--531
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][] 
+ []
+
+<graphics/chapter4/11.png, id=734, 357.335pt x 43.16125pt>
+File: graphics/chapter4/11.png Graphic file (type png)
+
+<use graphics/chapter4/11.png>
+Package pdftex.def Info: graphics/chapter4/11.png used on input line 536.
+(pdftex.def)             Requested size: 250.95476pt x 30.3121pt.
+ [44 <D:/GitHub/Project/diploma/MasterThesisTemplate/graphics/chapter4/10.png>]
+
+<graphics/chapter4/12.png, id=742, 332.24126pt x 44.165pt>
+File: graphics/chapter4/12.png Graphic file (type png)
+
+<use graphics/chapter4/12.png>
+Package pdftex.def Info: graphics/chapter4/12.png used on input line 545.
+(pdftex.def)             Requested size: 250.95476pt x 33.35951pt.
+
+<graphics/chapter4/13.png, id=743, 244.915pt x 155.58125pt>
+File: graphics/chapter4/13.png Graphic file (type png)
+
+<use graphics/chapter4/13.png>
+Package pdftex.def Info: graphics/chapter4/13.png used on input line 556.
+(pdftex.def)             Requested size: 167.2989pt x 106.27812pt.
+
+<graphics/chapter4/14.png, id=744, 265.99374pt x 264.99pt>
+File: graphics/chapter4/14.png Graphic file (type png)
+
+<use graphics/chapter4/14.png>
+Package pdftex.def Info: graphics/chapter4/14.png used on input line 565.
+(pdftex.def)             Requested size: 167.2989pt x 166.66962pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[45 <D:/GitHub/Project/diploma/MasterThesisTemplate/graphics/chapter4/11.png> <
+D:/GitHub/Project/diploma/MasterThesisTemplate/graphics/chapter4/12.png> <D:/Gi
+tHub/Project/diploma/MasterThesisTemplate/graphics/chapter4/13.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 570--573
+
+ []
+
+
+Overfull \hbox (236.95299pt too wide) in paragraph at lines 575--576
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
+[][][][] 
+ []
+
+
+Overfull \hbox (251.35313pt too wide) in paragraph at lines 576--577
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
+[] 
+ []
+
+
+Overfull \hbox (308.95372pt too wide) in paragraph at lines 577--578
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
+[][][][] 
+ []
+
+
+Overfull \hbox (265.75328pt too wide) in paragraph at lines 578--579
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
+[][][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 582--584
+
+ []
+
+<graphics/chapter4/15.png, id=752, 406.51875pt x 722.7pt>
+File: graphics/chapter4/15.png Graphic file (type png)
+
+<use graphics/chapter4/15.png>
+Package pdftex.def Info: graphics/chapter4/15.png used on input line 593.
+(pdftex.def)             Requested size: 167.2989pt x 297.41167pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 598--600
+
+ []
+
+[46 <D:/GitHub/Project/diploma/MasterThesisTemplate/graphics/chapter4/14.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 602--605
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 612--614
+
+ []
+
+[47 <D:/GitHub/Project/diploma/MasterThesisTemplate/graphics/chapter4/15.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 620--622
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 623--626
+
+ []
+
+
+Overfull \hbox (438.55504pt too wide) in paragraph at lines 631--632
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (949.76024pt too wide) in paragraph at lines 632--633
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (13.75072pt too wide) in paragraph at lines 633--634
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (337.75401pt too wide) in paragraph at lines 634--635
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
+[][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (373.75438pt too wide) in paragraph at lines 635--636
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
+ 
+ []
+
+
+Overfull \hbox (992.96068pt too wide) in paragraph at lines 636--637
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (35.35094pt too wide) in paragraph at lines 637--638
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (229.75291pt too wide) in paragraph at lines 643--644
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+<graphics/chapter4/16.png, id=776, 348.30125pt x 55.20625pt>
+File: graphics/chapter4/16.png Graphic file (type png)
+
+<use graphics/chapter4/16.png>
+Package pdftex.def Info: graphics/chapter4/16.png used on input line 652.
+(pdftex.def)             Requested size: 167.2989pt x 26.51721pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 657--659
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 667--670
+
+ []
+
+[48]
+Overfull \hbox (172.15233pt too wide) in paragraph at lines 683--684
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
+[][] 
+ []
+
+
+Overfull \hbox (172.15233pt too wide) in paragraph at lines 684--685
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
+[][] 
+ []
+
+[49 <D:/GitHub/Project/diploma/MasterThesisTemplate/graphics/chapter4/16.png>]
+Overfull \hbox (100.1516pt too wide) in paragraph at lines 701--702
+[][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (114.55174pt too wide) in paragraph at lines 702--703
+[][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 721--723
+
+ []
+
+
+Overfull \hbox (42.55101pt too wide) in paragraph at lines 731--733
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (128.95189pt too wide) in paragraph at lines 735--736
+[][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+<graphics/chapter4/17.png, id=842, 356.33125pt x 544.0325pt>
+File: graphics/chapter4/17.png Graphic file (type png)
+
+<use graphics/chapter4/17.png>
+Package pdftex.def Info: graphics/chapter4/17.png used on input line 746.
+(pdftex.def)             Requested size: 167.2989pt x 255.42137pt.
+) [50] [51 <D:/GitHub/Project/diploma/MasterThesisTemplate/graphics/chapter4/17
+.png>] [52
+
+]
+(D:\GitHub\Project\diploma\MasterThesisTemplate\chapters/bibliographic.tex
+
+LaTeX Warning: Citation `jour:B2BServices' on page 53 undefined on input line 9
+.
+
+
+LaTeX Warning: Citation `proc:TheWebMLApproach' on page 53 undefined on input l
+ine 9.
+
+
+LaTeX Warning: Citation `book:umlatwork' on page 53 undefined on input line 9.
+
+
+LaTeX Warning: Citation `incoll:ErhardKonrad1992' on page 53 undefined on input
+ line 9.
+
+
+LaTeX Warning: Citation `man:BPEL' on page 53 undefined on input line 9.
+
+
+LaTeX Warning: Citation `phdthesis:manuelWimmer' on page 53 undefined on input 
+line 9.
+
+
+LaTeX Warning: Citation `mast:AUMLProfile' on page 53 undefined on input line 9
+.
+
+
+LaTeX Warning: Citation `misc:BIGWebsite' on page 53 undefined on input line 9.
+
+
+) (D:\GitHub\Project\diploma\MasterThesisTemplate\thesis.bbl [53] [54
 
 ]
 bibitemlist
@@ -2051,47 +2746,50 @@ bibitemlist
 Class memoir Warning: The material used in the headers is too large
 (72.95044pt) for the given head height (14.5pt), it is recommended to
 either increase the head height or redesign the header
-(in both cases you will find help in the memoir manual). on input line 167.
+(in both cases you will find help in the memoir manual). on input line 177.
 
-[27]
+[55]
 \tf@toc=\write6
-\openout6 = `thesis.toc'.
-
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 167.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 167.
- (./thesis.aux (./titlepage.aux) (./titlepage_en.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 167.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 167.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 177.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 177.
+ (D:\GitHub\Project\diploma\MasterThesisTemplate\thesis.aux
+(D:\GitHub\Project\diploma\MasterThesisTemplate\titlepage.aux)
+(D:\GitHub\Project\diploma\MasterThesisTemplate\titlepage_en.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 177.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 177.
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: FCECCE75E3785FE5E4A46897360F037B;700.
+(rerunfilecheck)             Checksum: 7119D64D2CA22CC6FBE89817AC6D808B;1068.
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 
 LaTeX Warning: There were undefined references.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 167.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 177.
  ) 
 Here is how much of TeX's memory you used:
- 23510 strings out of 493315
- 393143 string characters out of 6141455
- 558455 words of memory out of 5000000
- 26371 multiletter control sequences out of 15000+600000
- 77335 words of font info for 98 fonts, out of 8000000 for 9000
- 957 hyphenation exceptions out of 8191
- 69i,19n,68p,1587b,1256s stack positions out of 5000i,500n,10000p,200000b,80000s
-{c:/texlive/2013/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/texlive/2013/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2013/texmf-dist/fo
-nts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2013/texmf-dist/fonts/type1/
-public/amsfonts/cm/cmr8.pfb><c:/texlive/2013/texmf-dist/fonts/type1/public/amsf
-onts/cm/cmsy10.pfb><c:/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/symb
-ols/msam10.pfb><c:/texlive/2013/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb><
-c:/texlive/2013/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb><c:/texlive/2013
-/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb><c:/texlive/2013/texmf-dist/fon
-ts/type1/urw/times/utmb8a.pfb><c:/texlive/2013/texmf-dist/fonts/type1/urw/times
-/utmr8a.pfb><c:/texlive/2013/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on thesis.pdf (41 pages, 2889364 bytes).
+ 25864 strings out of 493921
+ 458039 string characters out of 3147277
+ 606869 words of memory out of 3000000
+ 28200 multiletter control sequences out of 15000+200000
+ 77335 words of font info for 98 fonts, out of 3000000 for 9000
+ 841 hyphenation exceptions out of 8191
+ 68i,19n,68p,1587b,1947s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program File
+s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/font
+s/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/ams
+fonts/symbols/msam10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/courier/u
+crr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/
+Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Program Files/
+MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/
+type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/u
+tmri8a.pfb>
+Output written on thesis.pdf (69 pages, 3960704 bytes).
 PDF statistics:
- 471 PDF objects out of 1000 (max. 8388607)
- 388 compressed objects within 4 object streams
- 134 named destinations out of 1000 (max. 500000)
- 167 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1036 PDF objects out of 1200 (max. 8388607)
+ 469 named destinations out of 1000 (max. 500000)
+ 305 words of extra memory for PDF output out of 10000 (max. 10000000)
 

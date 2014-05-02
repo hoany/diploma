@@ -1,48 +1,61 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 
-\bibitem{misc:BIGWebsite}
-{Business Informatics Group}.
-\newblock http://www.big.tuwien.ac.at.
-\newblock Accessed: 2010-11-09.
+\bibitem{javaWiki}
 
-\bibitem{book:umlatwork}
-M.~Hitz, G.~Kappel, E.~Kapsammer, and W.~Retschitzegger.
-\newblock {\em {UML @ Work, Objektorientierte Modellierung mit UML 2}}.
-\newblock dpunkt.verlag, 3. edition, 2005 (in German).
 
-\bibitem{jour:B2BServices}
-Christian Huemer, Philipp Liegl, Rainer Schuster, and Marco Zapletal.
-\newblock {B2B Services: Worksheet-Driven Development of Modeling Artifacts and
-  Code}.
-\newblock {\em Computer Journal}, 52(2):28--67, 2009.
+\bibitem{javaGarbageCollector}
 
-\bibitem{mast:AUMLProfile}
-P.~Langer.
-\newblock {Konflikterkennung in der Modellversionierung}.
-\newblock Master's thesis, Vienna University of Technology, 2009.
 
-\bibitem{man:BPEL}
-OASIS.
-\newblock {\em {Business Process Execution Language 2.0 (WS-BPEL 2.0)}}, 2007.
+\bibitem{javaVmstover}
+Axtavt.
+\newblock Java constant pool, 2012.
 
-\bibitem{proc:TheWebMLApproach}
-A.~Schauerhuber, M.~Wimmer, W.~Schwinger, E.~Kapsammer, and W.~Retschitzegger.
-\newblock {Aspect-Oriented Modeling of Ubiquitous Web Applications: The
-  aspectWebML Approach}.
-\newblock In {\em Proceedings of the 14th Annual IEEE International Conference
-  and Workshops on the Engineering of Computer-Based Systems (ECBS '07), March
-  26-29, Tucson, Arizona, USA}, pages 569--576. IEEE CS Press, 2007.
+\bibitem{javaAbstractVsInterface}
+Divine Desert.
+\newblock Java abstract vs interface, 2012.
 
-\bibitem{incoll:ErhardKonrad1992}
-W.~Schwinger and N.~Koch.
-\newblock {Modeling Web Applications}.
-\newblock In G.~Kappel, B.~Pr\"{o}ll, S.~Reich, and W.~Retschitzegger, editors,
-  {\em {Web Engineering}}, pages 39--64. John Wiley \& Sons, Ltd, 2006.
+\bibitem{javaPerfromance}
+Ben Evans.
+\newblock java performance, 2013.
 
-\bibitem{phdthesis:manuelWimmer}
-M.~Wimmer.
-\newblock {\em {From Mining to Mapping and Roundtrip Transformations - A
-  Systematic Approach to Model-based Tool Integration}}.
-\newblock PhD thesis, Vienna University of Technology, 2008.
+\bibitem{progLangPop}
+langpop.
+\newblock prgramm languages popularity, 2014.
+
+\bibitem{javaObjectClass}
+Mozilla.
+\newblock Java object model, 2014.
+
+\bibitem{javaOBjectOracle}
+Oracle.
+\newblock Java object oriented programming, 2014.
+
+\bibitem{JavaWhat}
+Oracle.
+\newblock What is java, 2014.
+
+\bibitem{javaVMOracle}
+OracleInc.
+\newblock Java jvm oracle, 2014.
+
+\bibitem{javaVMPaper}
+Java papers.
+\newblock Java jvm run-time data areas, 2013.
+
+\bibitem{javaJVM}
+Se~Hoon Park.
+\newblock Understanding jvm internals, 2012.
+
+\bibitem{javaJarMargaret}
+Margaret Rouse.
+\newblock Java jar archive, 2005.
+
+\bibitem{stackBased_vs_registerBased}
+Kostja Stern.
+\newblock Stack based cpu vs register based, 2012.
+
+\bibitem{javaDataAreas}
+Ryan Wang.
+\newblock java run time data aarea 2, 2013.
 
 \end{thebibliography}
