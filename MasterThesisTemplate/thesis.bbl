@@ -18,6 +18,10 @@ Divine Desert.
 Ben Evans.
 \newblock java performance, 2013.
 
+\bibitem{localstorageapi}
+Pamela Fox.
+\newblock The localstorage api, May 28 2012.
+
 \bibitem{progLangPop}
 langpop.
 \newblock prgramm languages popularity, 2014.
@@ -46,6 +50,11 @@ Java papers.
 Se~Hoon Park.
 \newblock Understanding jvm internals, 2012.
 
+\bibitem{localstorageexample}
+Mark Pilgrim.
+\newblock The past, present \& future of local storage for web applications,
+  2014.
+
 \bibitem{javaJarMargaret}
 Margaret Rouse.
 \newblock Java jar archive, 2005.
@@ -53,6 +62,10 @@ Margaret Rouse.
 \bibitem{stackBased_vs_registerBased}
 Kostja Stern.
 \newblock Stack based cpu vs register based, 2012.
+
+\bibitem{w3school}
+w3school.
+\newblock Html5 web storage, 2014.
 
 \bibitem{javaDataAreas}
 Ryan Wang.

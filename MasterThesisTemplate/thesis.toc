@@ -53,38 +53,38 @@
 \contentsline {section}{\numberline {4.2}Help}{31}{section.4.2}
 \contentsline {section}{\numberline {4.3}Start Menu}{32}{section.4.3}
 \contentsline {subsection}{JavaScript Functions}{33}{figure.4.3}
-\contentsline {subsubsection}{Start Timer}{33}{figure.4.3}
-\contentsline {subsubsection}{End Timer}{33}{lstnumber.4.5.4}
-\contentsline {subsubsection}{Save time stamp}{34}{lstnumber.4.6.5}
-\contentsline {subsubsection}{Set Parameters}{35}{lstnumber.4.7.21}
-\contentsline {subsubsection}{Start Tracking}{35}{lstnumber.4.8.4}
+\contentsline {subsubsection}{Start timer}{33}{figure.4.3}
+\contentsline {subsubsection}{End timer}{33}{lstnumber.4.5.4}
+\contentsline {subsubsection}{Save the time}{34}{lstnumber.4.6.5}
+\contentsline {subsubsection}{Set parameters}{35}{lstnumber.4.7.21}
+\contentsline {subsubsection}{Start car tracking}{35}{lstnumber.4.8.4}
 \contentsline {subsubsection}{Review}{35}{lstnumber.4.9.3}
 \contentsline {subsubsection}{Turn off}{35}{lstnumber.4.10.3}
 \contentsline {subsubsection}{Home}{36}{lstnumber.4.11.3}
 \contentsline {subsubsection}{Read car name}{36}{lstnumber.4.12.3}
 \contentsline {subsubsection}{Save email}{37}{lstnumber.4.13.17}
-\contentsline {subsubsection}{Save car}{37}{lstnumber.4.14.17}
+\contentsline {subsubsection}{Save car}{37}{lstnumber.4.14.15}
 \contentsline {subsection}{Used Functionalities}{39}{lstnumber.4.19.24}
 \contentsline {subsubsection}{Session Storage}{39}{lstnumber.4.19.24}
 \contentsline {subsubsection}{Local Storage}{40}{lstnumber.4.19.24}
 \contentsline {subsubsection}{AJAX}{41}{lstnumber.4.22.1}
 \contentsline {subsection}{GUI}{42}{lstnumber.4.22.1}
-\contentsline {subsubsection}{Leasing Price}{43}{figure.4.5}
+\contentsline {subsubsection}{Leasing Price}{43}{lstnumber.4.23.9}
 \contentsline {subsubsection}{Technical Information}{43}{figure.4.6}
 \contentsline {subsubsection}{Pictures}{44}{figure.4.7}
 \contentsline {subsubsection}{Videos}{45}{figure.4.8}
 \contentsline {subsubsection}{Review}{46}{figure.4.9}
 \contentsline {subsubsection}{Get Favourites}{47}{figure.4.10}
 \contentsline {subsubsection}{Add to my Favourites}{48}{figure.4.11}
-\contentsline {subsection}{Slide Panel}{49}{figure.4.13}
+\contentsline {subsection}{Slide Panel}{48}{figure.4.13}
 \contentsline {section}{\numberline {4.4}My Favourites}{50}{section.4.4}
 \contentsline {subsection}{Loading of favourite cars}{51}{figure.4.16}
-\contentsline {subsection}{JS Functions}{53}{lstnumber.4.29.1}
-\contentsline {subsubsection}{Delete favourite car}{53}{lstnumber.4.29.1}
-\contentsline {subsubsection}{Delete all favourite cars}{54}{lstnumber.4.30.35}
-\contentsline {subsubsection}{Select favourite car}{54}{lstnumber.4.31.5}
-\contentsline {section}{\numberline {4.5}About}{55}{section.4.5}
-\contentsline {chapter}{\chapternumberline {5}Bibliographic Issues}{57}{chapter.5}
-\contentsline {section}{\numberline {5.1}Literature Search}{57}{section.5.1}
-\contentsline {section}{\numberline {5.2}BibTeX}{57}{section.5.2}
-\contentsline {chapter}{Bibliography}{59}{section*.6}
+\contentsline {subsection}{JS Functions}{52}{lstnumber.4.29.1}
+\contentsline {subsubsection}{Delete favourite car}{52}{lstnumber.4.29.1}
+\contentsline {subsubsection}{Delete all favourite cars}{53}{lstnumber.4.30.34}
+\contentsline {subsubsection}{Select favourite car}{53}{lstnumber.4.31.5}
+\contentsline {section}{\numberline {4.5}About}{54}{section.4.5}
+\contentsline {chapter}{\chapternumberline {5}Bibliographic Issues}{55}{chapter.5}
+\contentsline {section}{\numberline {5.1}Literature Search}{55}{section.5.1}
+\contentsline {section}{\numberline {5.2}BibTeX}{55}{section.5.2}
+\contentsline {chapter}{Bibliography}{57}{section*.6}

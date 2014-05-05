@@ -11,26 +11,32 @@ Warning--entry type for "javaAbstractVsInterface" isn't style-file defined
 --line 130 of file references.bib
 Warning--entry type for "javaPerfromance" isn't style-file defined
 --line 140 of file references.bib
+Warning--entry type for "localstorageapi" isn't style-file defined
+--line 150 of file references.bib
 Warning--entry type for "progLangPop" isn't style-file defined
---line 433 of file references.bib
+--line 437 of file references.bib
 Warning--entry type for "javaObjectClass" isn't style-file defined
---line 489 of file references.bib
+--line 493 of file references.bib
 Warning--entry type for "javaOBjectOracle" isn't style-file defined
---line 509 of file references.bib
+--line 513 of file references.bib
 Warning--entry type for "JavaWhat" isn't style-file defined
---line 519 of file references.bib
+--line 523 of file references.bib
 Warning--entry type for "javaVMOracle" isn't style-file defined
---line 529 of file references.bib
+--line 533 of file references.bib
 Warning--entry type for "javaJVM" isn't style-file defined
---line 539 of file references.bib
+--line 543 of file references.bib
+Warning--entry type for "localstorageexample" isn't style-file defined
+--line 553 of file references.bib
 Warning--entry type for "javaJarMargaret" isn't style-file defined
---line 571 of file references.bib
+--line 584 of file references.bib
 Warning--entry type for "stackBased_vs_registerBased" isn't style-file defined
---line 591 of file references.bib
+--line 604 of file references.bib
+Warning--entry type for "w3school" isn't style-file defined
+--line 624 of file references.bib
 Warning--entry type for "javaDataAreas" isn't style-file defined
---line 611 of file references.bib
+--line 633 of file references.bib
 Warning--entry type for "webstorm" isn't style-file defined
---line 621 of file references.bib
+--line 650 of file references.bib
 Warning--I didn't find a database entry for "jour:B2BServices"
 Warning--I didn't find a database entry for "proc:TheWebMLApproach"
 Warning--I didn't find a database entry for "book:umlatwork"
@@ -41,4 +47,4 @@ Warning--I didn't find a database entry for "mast:AUMLProfile"
 Warning--I didn't find a database entry for "misc:BIGWebsite"
 Warning--to sort, need author or key in javaWiki
 Warning--to sort, need author or key in javaGarbageCollector
-(There were 24 warnings)
+(There were 27 warnings)

@@ -1,43 +1,51 @@
 \chapter{Logic Implementation with JavaScript} \label{chapter:desgin}
 
-The logic of this app is divided into two parts. First part is JavaScript logic, that is responsible for the functionalities of each HTML site, more precisely the dynamic response to the user. Second part is Java Android logic, which is responsible for the main function called tracking and all other functionalities that could not be accomplished with help of JS. 
+The logic of this app is divided into two parts. First part is JavaScript logic, that is responsible for the functionalities of each HTML site, more precisely, the dynamic response to the user. Second part is Java Android logic, which is responsible for the main function called car tracking and all other functionalities that could not be accomplished with help of JS. 
 \\
 
-Altogether there are 10 html sites and each one of them has some functionalities that had to be implemented with JS or Android Java. A simple example of a functionality is clicking on a button that triggers a function that was declared inside the HTML site.
+Altogether there are 10 HTML sites and each one of them has some functionalities that had to be implemented with JS or Android Java. A simple example of a functionality is pressing a button. This button triggers a function inside the JS. 
 \\
 
-However, JavaScript and Android Java doesn’t provide everything that has been needed for the application. That’s the reason why the project members had to use several other web frameworks like jQuery or phonegap.js to accomplish the main goal of powerful, user-friendly mobile application. The usage of web frameworks will be explained in further chapters. 
+However, JavaScript and Android Java did not provide everything that has been needed for the project application. That's the reason why project members had to use several other web frameworks like jQuery or phonegap.js. This was necessary to accomplish the main goal of powerful, user-friendly mobile application. The usage of web frameworks will be explained in further chapters. 
 
 \section{Start Menu}
-At the beginning of the application a start menu is displayed. In this menu the user can use functions that had been specially developed for this application. Functions like help, car tracking, favourite list, about and exit.
+At the beginning of the application a start menu is displayed. In this menu the user can use functions that had been especially developed for him. Help, car tracking, favourite list, about and exit are the functions in the start menu.
 \\
 
 \begin{figure}
 \centering
-\includegraphics[width=0.6\linewidth]{graphics/chapter4/1}
-\caption{Start menu of the application}
+\includegraphics[width=0.5\linewidth]{graphics/chapter4/1}
+\caption{Start menu}
 \label{fig:1}
 \end{figure}
 \newpage
 
-Each one of these buttons have their logic that is implemented in index.html. The quell code x.x  shows the functionality behind each button.
+Each one of these buttons have their logic that is implemented in \textbf{index.html}. The listing 4.1 shows the functionality behind each button.
 \\
-
+\
+\
 \begin{lstlisting}[language=html, caption= 
 start menu source code,captionpos=b]
-<li data-icon="info" ><a  href="help.html" rel="external">Help</a></li>
+<li data-icon="info"><a href="help.html" rel="external">Help</a></li>
 <li data-icon="camera"><a href="#" onclick="trackClick();">Car Tracking</a></li>
-<li data-icon="star" ><a href="myfavourite.html" rel="external">Favourite List</a></li>
+<li data-icon="star"><a href="myfavourite.html" rel="external">Favourite List</a></li>
 <li data-icon="home" ><a href="about.html" rel="external">About</a></li>
 <li data-icon="delete"><a href="#" onclick="turnOff();">Exit</a></li>
 \end{lstlisting}
 
-\
-Functions trackClick() and turnOff() were implemented in Android Java and are described in chapter ……
-\
-\
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%to-do link to the chapter
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Functions \textit{trackClick()} and \textit{turnOff()} were implemented in Android Java and are described in chapter ……
+\\
+
+
 \begin{lstlisting}[language=html, caption= 
-JS start menu methods,captionpos=b]
+JavaScript functions,captionpos=b]
 function trackClick() {
     MyTracking.performClick();
 }
@@ -46,19 +54,21 @@ function turnOff(){
 	Exit.exitClick();
 }
 \end{lstlisting}
+\
 
-The button “help” forwards the user  to the help display (help.html). The same functionality features about and favourite list, except they link on to different displays. 
+
+The button \textbf{help} forwards the user to the help display \textit{help.html}. The same functionality features \textbf{about} and \textbf{favourite list}, except they link to another display. 
 \\
 
-“Exit” button invokes the function turnOff() calls another Android Java implemented function. “Exit.exitClick()” ends the app. Look at fig. x.x.x
+\textbf{Exit} button invokes the function \textit{turnOff()} which calls another Android Java implemented function. \textit{Exit.exitClick()} ends the application. Illustrated in listing 4.2.
 \\
 
-“Car tracking” calls a function named “trackClick()”. As “Exit” it requests another Android Java impl method. This method starts the tracking.
+\textbf{Car tracking} calls a function \textit{trackClick()}. This method starts the main function.
 \\
 
 \section{Help}
 
-The help display provides only two major options: back button and the link to the self created YouTube video. 
+The help display provides only two major options: back button and the link to the self created tutorial video. 
 
 
 \begin{figure}[b]
@@ -69,34 +79,42 @@ The help display provides only two major options: back button and the link to th
 \end{figure}
 \newpage
 
-The back button leads back to the main menu. Illustrated in figure x.x
+The back button leads to the main menu. Shown in listing 4.3.
 \\
 \begin{lstlisting}[language=html, caption= 
-back button,captionpos=b]
+Back button,captionpos=b]
 <a class="ui-btn-left" href="index.html" rel="external">Back</a>
 \end{lstlisting}
 \
 \
-If the user presses the picture “HAV AR-Help Video” he will be linked to a specific YouTube video that has been created by the project team. This video serves as a how to. It shows how to use the application’s main functions.
+
+
+If the user touches the picture \textbf{HAV AR-Help Video}, he will be linked to a specific how-to YouTube video. This video serves as a simple help to understand how the application works. It shows how to use the application's main functions and more.
 \\
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%set the length of the line so that it does not go out of the page
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{lstlisting}[language=html, caption= 
-help video,captionpos=b]
+Help video,captionpos=b]
 <ul id="Gallery" class="youtube-videogallery" align="center">
 <li><a href="https://www.youtube.com/watch?v=6U4oT5AbAsg&feature=youtu.be">NAV AR-Help Video</a></li>
 </ul>
 \end{lstlisting}
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%to-do: link to the chapter with latex
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{Start Menu}
-The most important function of the hole mobile applications is tracking. This function is executed by “MyTracking.peformClick(). More in chapter 4.1)Start Menu.
+The most important function of the whole mobile applications is \textbf{car tracking}. This function is executed by \textit{MyTracking.peformClick()}. More in chapter 4.1)Start Menu.
 \\
 
-After the car was successfully tracked, the user is linked to a new display called “index.html”. This display or better called start menu, provides the user with additional options. Options that deliver information as well review about the tracked car and other useful functions. 
+After a car was successfully tracked, the user is linked to a new display called \textbf{index.html}, which is the start menu. It provides the user with additional options. Options that deliver technical information as well as review about the tracked car and more other useful functions. 
 \\
 
-There is also a possibly to add the tracked car to user’s collection named the favourite list. Out of the favourite list the user can select one specific vehicle to use start menu options, like pictures or videos about that specific car.  
+There is also a possibly to add the tracked car to users car collection named \textbf{the favourite list}. Out of there he can select one specific vehicle to use the start menu options, like picture or videos gallery.
 \\
 
-JavaScript functions had to be created for each start menu options. These functions are described in chapter 4.3.1)JavaScript Functions.
+JavaScript functions had to be created for each  of this options. These functions are described in chapter 4.3.1)JavaScript Functions.
 \\
 
 \begin{figure}[]
@@ -109,24 +127,23 @@ JavaScript functions had to be created for each start menu options. These functi
 
 \subsection{JavaScript Functions}
 
-
-
-\subsubsection{Start Timer}
+\subsubsection{Start timer}
 When the site is loaded a timer automatically starts. Specific functions stop the timer and sends the time to the Navision server.
 \\
 \begin{lstlisting}[language=html, caption= 
-start timer function,captionpos=b]
+Start timer function,captionpos=b]
 function startTime(){
 	var d = new Date();
 	timestart = d.getTime();
 }
 \end{lstlisting}
 
-\subsubsection{End Timer}
-This function stop the timer which had been started with the method startTime() and safes the time with the method timestampsave() into the server. Start time and end time were used to get the time how long a user has selected a specific car.
+\subsubsection{End timer}
+This function stops the timer which had been started with the method \textit{startTime()} and safes the time with the method \textit{timestampsave()}. The timer was used to get the time how long a user has selected a specific car and used certain start menu options.
 \\
+
 \begin{lstlisting}[language=html, caption= 
-start timer function,captionpos=b]
+End timer function,captionpos=b]
 function endtime(){
         var d = new Date();
         var endtime = d.getTime();
@@ -135,19 +152,23 @@ function endtime(){
 \end{lstlisting}
 
 
-\subsubsection{Save time stamp}
-This function saves start time and end time of the timer, into the Navision server. The start time and end time are input parameters. 
+\subsubsection{Save the time}
+This function saves start time and end time of the timer, into the Navision server. The start time and end time are the input parameters. 
 \\
 
-To save the time into the server timestampsave() needs several other information like email and id of the tracked car. More about sending information to the server and the connectivity between application and server go to the chapter …….. 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%link to michaels chapter about the connection
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+To save the time into the server \textit{timestampsave()} needs several other information like email and id of the tracked car. More about sending information to the server and  to the connectivity between application and server read the chapter …….. 
 \\
 
 time1…..start time
-
 time2…..end time
 \\
+
 \begin{lstlisting}[language=html, caption= 
-start timer function,captionpos=b]
+Save time function,captionpos=b]
 function timestampsave(time1,time2){
         var stime	= 	time1;
         var endtime	=	time2;
@@ -172,61 +193,65 @@ function timestampsave(time1,time2){
 \end{lstlisting}
 
 
-\subsubsection{Set Parameters}
-There are two parameters that have to be saved into the session storage to use several other functions and the connection from client app to Navision server.
+\subsubsection{Set parameters}
+There are two parameters that have to be saved into the session storage to establish a connection with the Navision server. That were id of the tracked car and the email address of the user.
 \\
 \begin{lstlisting}[language=html, caption= 
-start timer function,captionpos=b]
+Set parameter function,captionpos=b]
 function setParam(){
 	window.sessionStorage.setItem('id', myVariable);
 	window.sessionStorage.setItem('email',email);
 }
 \end{lstlisting}
 
-
-
-
-\subsubsection{Start Tracking}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%link to chapter with car tracking in java android
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsubsection{Start car tracking}
 This function starts to track a car. For more explanation refer to chapter …….
 \\
 
 \begin{lstlisting}[language=html, caption= 
-start timer function,captionpos=b]
+Car tracking function,captionpos=b]
 function trackClick() {
         MyTracking.performClick();
     }
 \end{lstlisting}
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%link to chapter with the revie in android java
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \subsubsection{Review}
 This method is implemented with Java Android. More about in chapter……
 \\
+
 \begin{lstlisting}[language=html, caption= 
-start timer function,captionpos=b]
+Review function,captionpos=b]
 function reviewClick(){
         Review.performClick();
     }
 \end{lstlisting}
 
-
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%link to chapter java android implementation
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \subsubsection{Turn off}
 This function is implemented with Java Adroid and has been documented in 4.1)Start Menu.
 \\
 
 \begin{lstlisting}[language=html, caption= 
-start timer function,captionpos=b]
+Turn off funtion,captionpos=b]
 function turnOff(){
         Exit.performClick();
     }
 \end{lstlisting}
 
 
-
 \subsubsection{Home}
-This function returns the user back to the start menu. This function is coupled with the button Home. Also implemented with Java Android.
-\\
+This function returns the user back to the start menu and is implemented with Java Android.
 
 \begin{lstlisting}[language=html, caption= 
-start timer function,captionpos=b]
+Home function,captionpos=b]
 function home(){
         Home.performClick();
     }
@@ -234,11 +259,20 @@ function home(){
 
 
 \subsubsection{Read car name}
-This method returns the name of the car that had been tracked threw a car specific id. Each transport has its own unique id. This id is set after the tracking and is stored in session storage.  So the input parameter “cname” is that specific id of the tracked or out of favourite list selected car. The name of the car is stored on the Navision server. A request had to be send to receive the name. More about Connectivity in chapter …….
+This method returns the name of the car that had been tracked threw a car specific id. Each transport has its own unique id. This id is predefined and set after the tracking was successful. Later it is stored in session storage.
+\\  
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%link to chapter with ajax
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+So the input parameter \textit{cname} is that specific id of the tracked or selected car. The name of the car is stored in the Navision server. A request had to be send to receive the name. More about Connectivity in chapter …….
 \\
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%set code on one line
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 \begin{lstlisting}[language=html, caption= 
-start timer function,captionpos=b]
+Read car name function,captionpos=b]
 function readcarname(cname){
         var test = '';
         $(document).ready(function () {
@@ -258,16 +292,17 @@ function readcarname(cname){
     }
 \end{lstlisting}
 
-
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%link to chapter with ajax
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \subsubsection{Save email}
-As the name says, saveEmail() saves the email of the user. The information about users email was already stored in session storage through the function “setParam()”. Now this email is read out of the session storage and is going to be stored into the Navision server. More about connection between app and server read …….
+As the name says, \textit{saveEmail()} saves the email of the user. The information about users email was already stored in session storage through the function \textit{setParam()}. Later this email is lend to the Navision server. More about connection between app and server in chapter …….
 \\
 
 \begin{lstlisting}[language=html, caption= 
-start timer function,captionpos=b]
+Save email function,captionpos=b]
 function saveEmail(){    
         var value3 = sessionStorage.getItem('email');
-        
         $(document).ready(function () {
             $.ajax({
                 type: "GET",
@@ -281,17 +316,16 @@ function saveEmail(){
                 }
             });
         });
-
 \end{lstlisting}
 
 \subsubsection{Save car}
-This function saves the id and the name of the tracked auto. This method is used for adding new cars to users favorites.  In this function a feature that provides HTML5 for its users was used. The function can be split into 4 phases.
+This function saves the id and the name of the tracked vehicle. This method is used for adding new cars to users car collection. In this function a feature called local storage that provides HTML5 for its users, was used. The function can be split into four phases.
 \\
 
-Phase one checks if the input parameter “name” is not empty. If it is empty usere receives information about it, otherwise it proceives with other phases
+Phase one checks if the input parameter \textit{name} is not empty. If it is empty user receives information about it, otherwise it processes with the other phases.
 
 \begin{lstlisting}[language=html, caption= 
-start timer function,captionpos=b]
+Phase one,captionpos=b]
 if(name!=null){
 .....
 }else{
@@ -299,11 +333,11 @@ alert("Function is loading due to slow internet connection.");
 }
 \end{lstlisting}
 
-Phase two is the search for unique local storage place with specific name(favorites, fcarna) and inspecting if this storage exists or not. If it doesn’t exists an empty string is put inside the two local storages, otherwise nothing is done.
+Phase two is the search phase. It searches for unique local storage place threw specific name \textit{(favorites ,fcarna)} and inspects if the storage with the name exists. If it doesn't exists an empty array is put inside the two local storages, else nothing happens.
 \\
 
 \begin{lstlisting}[language=html, caption= 
-start timer function,captionpos=b]
+Phase two,captionpos=b]
 ifif ((localStorage.getItem("favorites") === null) && (localStorage.getItem("fcarname") == null)) {
 	var names = [];
 	localStorage["favorites"] = JSON.stringify(names);
@@ -311,20 +345,20 @@ ifif ((localStorage.getItem("favorites") === null) && (localStorage.getItem("fca
 }
 \end{lstlisting}
 
-In phase three variables storedIds and storedNames are filled with information inside the local storage “favorites” and “fcarname”.
+In phase three variables \textit{storedIds} and \textit{storedNames} are filled with information inside the local storage \textit{favorites} and \textit{fcarname}.
 \\
 
 \begin{lstlisting}[language=html, caption= 
-start timer function,captionpos=b]
+Phase three,captionpos=b]
 var storedIds = JSON.parse(localStorage["favorites"]);
 var storedNames = JSON.parse(localStorage["fcarname"]);
 \end{lstlisting}
 
-Phase four checks if the new car not already exists inside the local storage. If the car exists user receives information that this car already exists in his favourite list, otherwise the id and car name is saved into the local storage.
+Phase four checks if the car exists in the local storage. If it does the user receives information that this car already exists in the favourite list, else the id and car name is saved into the local storage.
 \\
 
 \begin{lstlisting}[language=html, caption= 
-start timer function,captionpos=b]
+Phase four,captionpos=b]
 if (storedIds.indexOf(id) > -1) {
 	Notifier.error('Car already exists.');
 }else{
@@ -336,9 +370,9 @@ if (storedIds.indexOf(id) > -1) {
 }
 \end{lstlisting}
 
-The abb x.yy shows the hole function with its four phases.
+The listing 4.19 shows the hole function with its four phases.
 \begin{lstlisting}[language=html, caption= 
-start timer function,captionpos=b]
+Save car function,captionpos=b]
 function LocalStorageWriteId(id,name){
 		if(name!=null){
 			if ((localStorage.getItem("favorites") === null) && (localStorage.getItem("fcarname") == null)) {
@@ -365,36 +399,42 @@ function LocalStorageWriteId(id,name){
     }
 \end{lstlisting}
 
+
+
+
 \subsection{Used Functionalities}
-In functions that were created extra for mainmenue.html were several new features and functionalities used. In this chapter all functionalities will be described 
+Several new technologies were used to create the start menu. In this chapter are all these technologies described. Some are linked to other chapters where they have already been explained. 
 \\
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%george your part about session storage copy here or link to yours
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \subsubsection{Session Storage}
 Moreover ,the function called Sessionstorage has a big importance in this project. The Sessionstorage saves the value not persist, that means if the App is closed or has been ended so the value will be wiped of . In the next Session or if the App has been started , there will be then a new Sessionstorage. In this case the Project NAVAR uses the Sessionstorage to save the ID from the car which has been tracked. Sessionstorage allows  to save a large amount of  key/value pairs and lots of text. This feature is impossible to do it via cookie. This kind of functionality uses  a protocol to save the Data. This protocol checks if the key and value is a string, but if not it convert them to a string. Furthermore if a key was already present, its entry  has to be removed and the new one will be appended. The sessionStorage has it own methods for specific functionality.
 First one is method is used to tell how many key/pair the SessionStorage contains. This method is same function ,which tells the length of an Array.
 
 \subsubsection{Local Storage}
 
-HTML 5 provides us with a new feature called Web Storage. In other words, with HTML5, web pages can store data locally within the user's browser.
+HTML5 provides us with a new feature called Web Storage. In other words, with it web pages can store data locally within the user's browser or mobile application.
 \\
 
-Earlier, this was done with cookies. However, Web Storage is more secure and faster. The data is not included with every server request, but used ONLY when asked for. It is also possible to store large amounts of data, without affecting the website's performance.
+Earlier, this was done with cookies. However, Web Storage is more secure and faster. The data is not included with every server request, but used ONLY when asked for. It is also possible to store large amounts of data, without affecting the website's performance.\cite{w3school}
 \\
 
-The data is stored in name/value pairs, and a web page can only access data stored by itself. Unlike cookies, the storage limit is far larger (at least 5MB) and information is never transferred to the server.
+The data is stored in name/value pairs, and a web page can only access data stored by itself. Unlike cookies, the storage limit is far larger (at least 5MB) and information is never transferred to the server.\cite{w3school}
 \\
 
 HTML5 Web Storage provides two new objects for storing data on the client:
 \begin{enumerate}
-\item window.localStorage - stores data with no expiration date
-\item code.sessionStorage - stores data for one session (data is lost when the tab is closed)
+\item window.localStorage - stores data with no expiration date\cite{w3school}
+\item code.sessionStorage - stores data for one session (data is lost when the tab is closed)\cite{w3school}
 \end{enumerate}
 \newpage
 
 \begin{figure}[t]
 \centering
 \includegraphics[width=0.9\linewidth]{graphics/chapter4/20}
-\caption{}
+\caption{Methods and attributes of local storage\cite{localstorageapi}}
 \label{fig:4}
 \end{figure}
 
@@ -403,7 +443,7 @@ Here is an example of setItem and getItem in local storage.
 \\
 
 \begin{lstlisting}[language=html, caption= 
-start timer function,captionpos=b]
+setItem example (Adapted from \cite{localstorageexample}),captionpos=b]
 var foo = localStorage.getItem("bar");
 // ...
 localStorage.setItem("bar", foo);
@@ -413,27 +453,40 @@ In these application not a string but an array is stored inside the local storag
 \\
 
 \begin{lstlisting}[language=html, caption= 
-start timer function,captionpos=b]
+array into local storage,captionpos=b]
 var names = [];
 localStorage["favorites"] = JSON.stringify(names);
 \end{lstlisting}
 
-And so was the array received from the local storage called “favorites”.
+Here an example how we received the array form local storage.
 \\
 \begin{lstlisting}[language=html, caption= 
 start timer function,captionpos=b]
 var storedIds = JSON.parse(localStorage["favorites"]);
 \end{lstlisting}
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%Link to ajax chapter
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \subsubsection{AJAX}
 More about AJAX in chapter ……
 \\
+\newpage
 
 \subsection{GUI}
-The GUI provides the user with 8 operations and one slide panel. Each operation is a butten which invokes self created functions that are described in chapter 4.3.1)Created Functions.
+The GUI provides the user with 8 operations and a slide panel. Each operation is a button which invokes self created functions that are described in chapter 4.3.1)Created Functions.
 \\
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=0.5\linewidth]{graphics/chapter4/4}
+\caption{GUI of the main menu}
+\label{fig:5}
+\end{figure}
+
+
 \begin{lstlisting}[language=html, caption= 
-start timer function,captionpos=b]
+GUI source code,captionpos=b]
 <ul data-role="listview" >	
             <li><a href="leasingprice.html" rel="external">Leasing Price</a></li>
             <li><a href="technicalinfo.html" rel="external">Technical Information</a></li>
@@ -446,65 +499,60 @@ start timer function,captionpos=b]
 \end{lstlisting}
 
 
-\begin{figure}[b]
-\centering
-\includegraphics[width=0.4\linewidth]{graphics/chapter4/4}
-\caption{}
-\label{fig:5}
-\end{figure}
-\newpage
 
 \subsubsection{Leasing Price}
-\
-When the user clicks on the butten Leasing price he is going to be linked to the html page “leasingprice.html” where he receives informations about the price of the tracked vehicle.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%link to chapter with leasing price technologie
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+When the user presses on button \textbf{leasing price} he will be linked to the html page \textit{leasingprice.html} where he receives informations about the specific vehicle. More about functions that had been used in leasing price in chapter ......
 
 \begin{figure}[h]
 \centering
 \includegraphics[width=0.4\linewidth]{graphics/chapter4/5}
-\caption{}
+\caption{Leasing Price}
 \label{fig:6}
 \end{figure}
 
 
 \subsubsection{Technical Information}
-As leasing price it also only links to another html site called “technicalinfo.html”. In this page several features were used. Phone Gallary and Dynamic Selection of Colour. Informations about those features are in chapters ……
+By calling \textbf{technical information} facts about a specific car are presented. To create it several new features had to be used. Phone Gallary and Dynamic Selection of Colour. Informations about those are featured in chapters ……
 \\
 \begin{figure}[h]
 \centering
 \includegraphics[width=0.4\linewidth]{graphics/chapter4/6}
-\caption{}
+\caption{Technical Information}
 \label{fig:7}
 \end{figure}
 \newpage
 
 \subsubsection{Pictures}
-Operations pictures links to a site “slide.html” that shows several modern pictures of tracked car. Feature called Photo Gallary in chapter … was used inside that site.
+Has freshest pictures of the specific car. Feature called Photo Gallery in chapter … was used to create this option.
 \\
 \begin{figure}[h]
 \centering
 \includegraphics[width=0.5\linewidth]{graphics/chapter4/7}
-\caption{}
+\caption{Pictures}
 \label{fig:8}
 \end{figure}
 \newpage
 
 \subsubsection{Videos}
-Operation videos links to a page called video.html. This page provides user with videos about the selected car from favourite list or fresh tracked one. More about video gallery in chapter……
+This option provides the user with videos about the selected car from favourite list or fresh tracked one. More about video gallery in chapter……
 \\
 \begin{figure}[h]
 \centering
-\includegraphics[width=0.5\linewidth]{graphics/chapter4/8}
-\caption{}
+\includegraphics[width=0.4\linewidth]{graphics/chapter4/8}
+\caption{Video Gallery}
 \label{fig:9}
 \end{figure}
 \newpage
 
 \subsubsection{Review}
-Operation review invokes a self created method called reviewClick(). Description to this method is in chapter 4.3.1 Created Methods, Review. Basicly review links the user to a new site where he can read review about the specific car.
+Operation review invokes a self created method called \textit{reviewClick()}. Description to thisit is in chapter 4.3.1 Created Methods, Review. Basically review links the user to a new display where he can read review about the specific car.
 \\
 \begin{figure}[h]
 \centering
-\includegraphics[width=0.5\linewidth]{graphics/chapter4/9}
+\includegraphics[width=0.4\linewidth]{graphics/chapter4/9}
 \caption{}
 \label{fig:10}
 \end{figure}
@@ -512,118 +560,125 @@ Operation review invokes a self created method called reviewClick(). Description
 
 
 \subsubsection{Get Favourites}
-This operations links the user to his favourite cars which he saved with the operation “add to my favourite”. Information about the favourite list in chapter 4.4)My Favourites.
+This operations links the user to his favourite cars which he saved with the option \textbf{add to my favourite}. Information about the favourite list in chapter 4.4)My Favourites.
 \\
 \begin{figure}[h]
 \centering
-\includegraphics[width=0.5\linewidth]{graphics/chapter4/10}
-\caption{}
+\includegraphics[width=0.
+\linewidth]{graphics/chapter4/10}
+\caption{Favourite list}
 \label{fig:11}
 \end{figure}
 \newpage
 
 \subsubsection{Add to my Favourites}
-The button “Add to my Favourites” trigger the function LocalStorageWriteId. This function saves the id and the name of the tracked car into users favourites. For the first param it takes the tracked car id from the session storage. As the second parameter the global variable globalcarname.
+The button \textbf{Add to my Favourites} trigger the function \textit{LocalStorageWriteId()}. It saves the id and the name of the tracked car into users favourites. For the first parameter it takes the tracked car id from the session storage. For the second parameter the global variable \textit{globalcarname}.
 \\
+
 \begin{lstlisting}[language=html, caption= 
-start timer function,captionpos=b]
+add favourite sorce code,captionpos=b]
 <li><a id="add_favorite" onclick="LocalStorageWriteId(sessionStorage.getItem('id'),globalcarname);" style="color:red" rel="external" >Add to my Favorites</a></li>
 \end{lstlisting}
-Before the user can add the vehicle to his favourite he has to wait several seconds. In this time the request is send to the server to get information about the car threw its id. If the user wants to access the operation in its loading time, the application denies him the acces and informs him about the loading time.
+
+Before the user can add the vehicle to his favourites he has to wait several seconds. In this time the request is send to the server for information about the car threw its id. If the user wants to access the operation in its loading time, the application denies him the access and informs him about the loading time.
 \\
+
 \begin{figure}[h]
 \centering
 \includegraphics[width=0.6\linewidth]{graphics/chapter4/11}
-\caption{}
+\caption{Not ready function}
 \label{fig:12}
 \end{figure}
 
-The operations colour changes from red to block when the operations is loaded.
+The operations colour changes from red to black when the function is loaded.
 \\
 \begin{figure}[h]
 \centering
 \includegraphics[width=0.6\linewidth]{graphics/chapter4/12}
-\caption{}
+\caption{Ready function}
 \label{fig:13}
 \end{figure}
 
 
 \subsection{Slide Panel}
-In the upper left corner of the display exists a small button which calls the slide panel to open. More about slide panel itself read in chapter ….
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%link to slide panel chapter
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+In the upper left corner of the display exists a small button that calls the slide panel to open. More about slide panel itself in chapter ….
 \\
+
 \begin{figure}[h]
 \centering
 \includegraphics[width=0.4\linewidth]{graphics/chapter4/13}
-\caption{}
+\caption{Slide panel}
 \label{fig:14}
 \end{figure}
 
-If the user calls this button a slide panel with more functions will be shown.
+After opening the slide panel more options are available. 
 \\
+
 \begin{figure}[h]
 \centering
 \includegraphics[width=0.4\linewidth]{graphics/chapter4/14}
-\caption{}
+\caption{Options of slide panel}
 \label{fig:15}
 \end{figure}
 \newpage
-Here has the user four new options. He can return to the start menu with the display home, or he can accesses his profile. Also he can start to track a new car with camera. If the user doesn’t want use the mobile application anymore, he can close it the button exit. 
+
+Here has the user four new options. He can return to the start menu with the display \textbf{home} or he can accesses his profile with \textbf{profil}. Also he can start to track a new car with \textbf{camera}. If the user doesn't want use the mobile application any more, he can close it the button \textbf{exit}. 
 \\
-\begin{lstlisting}[language=html, caption= 
-start timer function,captionpos=b]
+\begin{lstlisting}[language=html, caption=Source code of slide panel options,captionpos=b]
 <ul data-role="listview" data-theme="a" >
-                <li data-icon="home" ><a href="#" onclick="endtime();home();">Home</a></li>
-                <li data-icon="profil"><a href="profile.html" rel="external" >Profil</a></li>
-                <li data-icon="camera" ><a href="#" onclick="endtime();trackClick();">Camera</a></li>
-                <li data-icon="delete"><a href="#" onclick="endtime();turnOff();">Exit</a></li>
+<li data-icon="home" ><a href="#" onclick="endtime();home();">Home</a></li>
+ <li data-icon="profil"><a href="profile.html" rel="external" >Profil</a></li>
+<li data-icon="camera" ><a href="#" onclick="endtime();trackClick();">Camera</a></li>
+<li data-icon="delete"><a href="#" onclick="endtime();turnOff();">Exit</a></li>
 </ul>
 \end{lstlisting}
 
-The home button not only returns the user to the start menu but also ends the timer that has been started after a car was tracked. In addition, this time is send straight to the Navision server.  
+The \textbf{home} button not only returns the user to the start menu but also ends the timer that has been started after a car was tracked. In addition, this timer is send straight to the Navision server.  
 \\
 
-Display profil calls to another display called profile.html, where the user can see his profile data. 
-Camera function ends the timer and starts the tracking function. Exit ends the application.
-
-
+Display \textbf{profil} calls to another display, in which the user can see his profile data. 
+\textbf{Camera} function ends the timer and starts the tracking function. Exit ends the application.
 
 \section{My Favourites}
 \begin{figure}[h]
 \centering
 \includegraphics[width=0.4\linewidth]{graphics/chapter4/15}
-\caption{}
+\caption{My Favourites display}
 \label{fig:16}
 \end{figure}
 
-Inside the favourites are cars had been added threw the operation add to my favourites. The favourite cars can be selected or deleted. Removing the cars from favourites is possible by selecting the specific vehicle or removing all of the cars.
+Inside the favourites are cars had been added threw the operation \textbf{add to my favourites}. The favourite cars can be selected or deleted. Removing the cars from favourites is possible by selecting the specific vehicle or removing all of the cars.
 \\
 
 \subsection{Loading of favourite cars}
 Before the functions of the favourite list can be used, the list entries(cars) have to be initialized. This is done automatically when the site is loaded. Each line that is written inside document.ready starts after the document is ready. This is where the favourite cars are initialized.
 \\
 \begin{lstlisting}[language=html, caption= 
-start timer function,captionpos=b]
+source for document is ready,captionpos=b]
 $(document).ready(function () {
 .
 .
 });
 \end{lstlisting}
 
-First, all car names are loaded from local storage into an array called storedCarNames. So this array is filled with vehicle names which user added to his favourites. 
+First, all car names are loaded from local storage into an array called \textit{storedCarNames}. So this array is filled with vehicle names which user added to his favourites. 
 \\
 
 \begin{lstlisting}[language=html, caption= 
-start timer function,captionpos=b]
+Array with favourite cars,captionpos=b]
 var storedCarNames = JSON.parse(localStorage["fcarname"]); 
 \end{lstlisting}
 
-Now the filling of the cars into a list begins. The loop goes so long as the number of cars are in the array. In this loop a car name is put into the litItem1 which is just a panel shown in ref x.x
+Now the filling of the cars into a list begins. The loop goes so long as the number of cars in the array. In this loop a car name is put into the \textit{listItem1} which is just a panel shown in figure 4.17.
 \\
 
-Next listItem1 is put into another list. This list is where all panels(favourite cars) are stored. Each new vehicle is put into the list. It is dope with the line.
+Next \textit{listItem1} is put into another list. This list is where all panels(favourite cars) are stored. Each new vehicle is put into the list.
 \\
 \begin{lstlisting}[language=html, caption= 
-start timer function,captionpos=b]
+Adding list items into the list,captionpos=b]
 for (var i = 0; i < storedCarNames.length; i++)  
          {
              var key = storedCarNames[i];
@@ -650,24 +705,25 @@ for (var i = 0; i < storedCarNames.length; i++)
 \begin{figure}[h]
 \centering
 \includegraphics[width=0.4\linewidth]{graphics/chapter4/16}
-\caption{}
+\caption{A list item}
 \label{fig:17}
 \end{figure}
 
-Last but not least the liste has to be refreshed so the listItems are used. 
+Last but not least the list that has to be refreshed so the list items are displayed. 
 \\
 
 \begin{lstlisting}[language=html, caption= 
-start timer function,captionpos=b]
+Refreshing the list,captionpos=b]
 $('#liste').listview('refresh').trigger('create'); 
 \end{lstlisting}
 
 \subsection{JS Functions}
 \subsubsection{Delete favourite car}
-This method deletes selected car with help of check box. If no car is selected, nothing happens.
+This method deletes selected car with help of check box. If no car is selected, nothing happens by clicking on the button.
 \\
+
 \begin{lstlisting}[language=html, caption= 
-start timer function,captionpos=b]
+Delete function,captionpos=b]
 function deleteF(){
 	
 	Array.prototype.clean = function(deleteValue) {
@@ -689,8 +745,7 @@ function deleteF(){
 			delete storedNames[s];
             delete storedCarNames[s];
 			lengthof++;
-		}
-		
+		}		
 	}
 	if(lengthof!=0){
 		Notifier.success('Cars deleted.');
@@ -709,7 +764,7 @@ function deleteF(){
 Removes all favourite cars without selecting them.
 
 \begin{lstlisting}[language=html, caption= 
-start timer function,captionpos=b]
+Delete all function,captionpos=b]
 function deleteAll(){
     Notifier.success('All cars have been deleted.');
 	localStorage.clear();
@@ -718,12 +773,11 @@ function deleteAll(){
 \end{lstlisting}
 
 \subsubsection{Select favourite car}
-Each car inside the favourite list can be selected. After the car is selected user is linked to the start menu.
+Each car inside the favourite list can be selected. After the car is selected, the user is linked to the start menu.
 \\
 
 \begin{lstlisting}[language=html, caption=
-start timer function,captionpos=b] 
-
+Select car function,captionpos=b] 
 function EventHandler() {
 	Notifier.success('Car is selected.');
 	var id = this.id;
@@ -739,11 +793,11 @@ function EventHandler() {
 \end{lstlisting}
 
 \section{About}
-The “about” page has no logic or no self made functions except one the back butten which functionality you have learnt in 4.2)Help chapter.
+The \textbf{about} display has no logic and no self made functions except one the back button which functionality you have learnt in 4.2)Help chapter.
 \\
 \begin{figure}[h]
 \centering
 \includegraphics[width=0.4\linewidth]{graphics/chapter4/17}
-\caption{}
+\caption{About display}
 \label{fig:18}
 \end{figure}
