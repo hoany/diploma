@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.2.3)  5 MAY 2014 20:12
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.2.3)  5 MAY 2014 20:33
 entering extended mode
 **Diplomarbeit_KOPG_TGM.tex
 (D:\GitHub\Project\diploma\Diplomarbeit_TGM_TGM\Diplomarbeit_KOPG_TGM.tex
@@ -621,10 +621,10 @@ Writing nomenclature file Diplomarbeit_KOPG_TGM.nlo
 \c@summary=\count176
 \glo@main@file=\write6
 Package glossaries Info: Writing glossary file Diplomarbeit_KOPG_TGM.glo on inp
-ut line 209.
+ut line 210.
 \glo@acronym@file=\write7
 Package glossaries Info: Writing glossary file Diplomarbeit_KOPG_TGM.acn on inp
-ut line 209.
+ut line 210.
 (D:\GitHub\Project\diploma\Diplomarbeit_TGM_TGM\Diplomarbeit_KOPG_TGM.aux
 (D:\GitHub\Project\diploma\Diplomarbeit_TGM_TGM\tex/title.aux)
 (D:\GitHub\Project\diploma\Diplomarbeit_TGM_TGM\tex/prefacea.aux)
@@ -645,20 +645,20 @@ LaTeX Warning: Label `chapter:desgin' multiply defined.
 
 ) (D:\GitHub\Project\diploma\Diplomarbeit_TGM_TGM\tex/appendix.aux)
 (D:\GitHub\Project\diploma\Diplomarbeit_TGM_TGM\tex/eid.aux))
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 215.
-LaTeX Font Info:    ... okay on input line 215.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 215.
-LaTeX Font Info:    ... okay on input line 215.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 215.
-LaTeX Font Info:    ... okay on input line 215.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 215.
-LaTeX Font Info:    ... okay on input line 215.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 215.
-LaTeX Font Info:    ... okay on input line 215.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 215.
-LaTeX Font Info:    ... okay on input line 215.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 215.
-LaTeX Font Info:    ... okay on input line 215.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 216.
+LaTeX Font Info:    ... okay on input line 216.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 216.
+LaTeX Font Info:    ... okay on input line 216.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 216.
+LaTeX Font Info:    ... okay on input line 216.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 216.
+LaTeX Font Info:    ... okay on input line 216.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 216.
+LaTeX Font Info:    ... okay on input line 216.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 216.
+LaTeX Font Info:    ... okay on input line 216.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 216.
+LaTeX Font Info:    ... okay on input line 216.
 
 (C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -676,7 +676,7 @@ LaTeX Font Info:    ... okay on input line 215.
 )
 \c@lstlisting=\count183
 \AtBeginShipoutBox=\box39
-Package hyperref Info: Link coloring ON on input line 215.
+Package hyperref Info: Link coloring ON on input line 216.
  ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
@@ -685,9 +685,9 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count184
 )
-LaTeX Info: Redefining \ref on input line 215.
-LaTeX Info: Redefining \pageref on input line 215.
-LaTeX Info: Redefining \nameref on input line 215.
+LaTeX Info: Redefining \ref on input line 216.
+LaTeX Info: Redefining \pageref on input line 216.
+LaTeX Info: Redefining \nameref on input line 216.
 
 (D:\GitHub\Project\diploma\Diplomarbeit_TGM_TGM\Diplomarbeit_KOPG_TGM.out)
 (D:\GitHub\Project\diploma\Diplomarbeit_TGM_TGM\Diplomarbeit_KOPG_TGM.out)
@@ -722,7 +722,7 @@ l.84 \end{titlepage}
 ifier (name{page.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.220 \frontmatter
+l.221 \frontmatter
                   %   %% front matter will be numbered in small Roman letters
 [2
 
@@ -1277,7 +1277,11 @@ File: graphics/chapter4/1.png Graphic file (type png)
 <use graphics/chapter4/1.png>
 Package pdftex.def Info: graphics/chapter4/1.png used on input line 17.
 (pdftex.def)             Requested size: 205.96938pt x 222.72505pt.
- [29]
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[29]
 (C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\lstlang1.sty
 File: lstlang1.sty 2013/08/26 1.5b listings language file
 )
@@ -1329,58 +1333,6 @@ LaTeX Font Warning: Font shape `T1/DejaVuSansMono/m/n' undefined
 (Font)              using `T1/cmr/m/n' instead on input line 34.
 
 
-! LaTeX Error: Command \texteuro unavailable in encoding T1.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.43 ...droid Java and are described in chapter â€
-                                                  ¦â€¦
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: Command \textbrokenbar unavailable in encoding T1.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.43 ...roid Java and are described in chapter â€¦
-                                                  â€¦
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: Command \texteuro unavailable in encoding T1.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.43 ...id Java and are described in chapter â€¦â€
-                                                  ¦
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: Command \textbrokenbar unavailable in encoding T1.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.43 ...d Java and are described in chapter â€¦â€¦
-                                                  
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 43--45
 
  []
@@ -1400,13 +1352,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 66--68
 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--73
+
+ []
+
 <graphics/chapter4/2.png, id=1073, 325.215pt x 389.455pt>
 File: graphics/chapter4/2.png Graphic file (type png)
 
 <use graphics/chapter4/2.png>
 Package pdftex.def Info: graphics/chapter4/2.png used on input line 76.
 (pdftex.def)             Requested size: 205.96938pt x 246.65936pt.
- [31]
+ [31 <D:/GitHub/Project/diploma/Diplomarbeit_TGM_TGM/graphics/chapter4/2.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 82--85
 
  []
@@ -1455,17 +1412,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 117--119
 
  []
 
-
-LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 120.
-
 <graphics/chapter4/3.png, id=1079, 333.245pt x 422.57875pt>
 File: graphics/chapter4/3.png Graphic file (type png)
 
 <use graphics/chapter4/3.png>
 Package pdftex.def Info: graphics/chapter4/3.png used on input line 122.
 (pdftex.def)             Requested size: 205.96938pt x 261.19011pt.
- [32]
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[32]
 Underfull \hbox (badness 10000) in paragraph at lines 131--134
 
  []
@@ -1475,119 +1432,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 142--144
 
  []
 
-
+[33 <D:/GitHub/Project/diploma/Diplomarbeit_TGM_TGM/graphics/chapter4/3.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 156--158
 
  []
 
 
-! LaTeX Error: Command \texteuro unavailable in encoding T1.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.163 ...pplication and server read the chapter â€
-                                                  ¦â€¦..
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: Command \textbrokenbar unavailable in encoding T1.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.163 ...plication and server read the chapter â€¦
-                                                  â€¦..
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: Command \texteuro unavailable in encoding T1.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.163 ...ication and server read the chapter â€¦â€
-                                                  ¦..
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: Command \textbrokenbar unavailable in encoding T1.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.163 ...cation and server read the chapter â€¦â€¦
-                                                  ..
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 163--165
 
  []
-
-
-! LaTeX Error: Command \texteuro unavailable in encoding T1.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.166 time1â€
-             ¦..start time
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: Command \textbrokenbar unavailable in encoding T1.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.166 time1â€¦
-              ..start time
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: Command \texteuro unavailable in encoding T1.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.167 time2â€
-             ¦..end time
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: Command \textbrokenbar unavailable in encoding T1.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.167 time2â€¦
-              ..end time
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 166--169
@@ -1599,7 +1452,7 @@ Overfull \hbox (18.00996pt too wide) in paragraph at lines 176--179
 [][][][][][][][][][][][][][][][][][][][] |
  []
 
-[33]
+
 Overfull \hbox (814.47237pt too wide) in paragraph at lines 182--183
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
 ][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
@@ -1612,183 +1465,27 @@ Underfull \hbox (badness 10000) in paragraph at lines 197--200
 
  []
 
-
-! LaTeX Error: Command \texteuro unavailable in encoding T1.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.211 ... For more explanation refer to chapter â€
-                                                  ¦â€¦.
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: Command \textbrokenbar unavailable in encoding T1.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.211 ...For more explanation refer to chapter â€¦
-                                                  â€¦.
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: Command \texteuro unavailable in encoding T1.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.211 ...r more explanation refer to chapter â€¦â€
-                                                  ¦.
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: Command \textbrokenbar unavailable in encoding T1.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.211 ... more explanation refer to chapter â€¦â€¦
-                                                  .
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
+[34]
 Underfull \hbox (badness 10000) in paragraph at lines 211--213
 
  []
-
-
-! LaTeX Error: Command \texteuro unavailable in encoding T1.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.225 ...ith Java Android. More about in chapterâ€
-                                                  ¦â€¦
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: Command \textbrokenbar unavailable in encoding T1.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.225 ...th Java Android. More about in chapterâ€¦
-                                                  â€¦
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: Command \texteuro unavailable in encoding T1.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.225 ... Java Android. More about in chapterâ€¦â€
-                                                  ¦
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: Command \textbrokenbar unavailable in encoding T1.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.225 ...Java Android. More about in chapterâ€¦â€¦
-                                                  
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 225--227
 
  []
 
-[34]
+
 Underfull \hbox (badness 10000) in paragraph at lines 239--241
 
  []
 
-
-! LaTeX Error: Command \texteuro unavailable in encoding T1.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.267 ...me. More about Connectivity in chapter â€
-                                                  ¦â€¦.
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: Command \textbrokenbar unavailable in encoding T1.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.267 ...e. More about Connectivity in chapter â€¦
-                                                  â€¦.
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: Command \texteuro unavailable in encoding T1.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.267 ... More about Connectivity in chapter â€¦â€
-                                                  ¦.
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: Command \textbrokenbar unavailable in encoding T1.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.267 ...More about Connectivity in chapter â€¦â€¦
-                                                  .
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
+[35]
 Underfull \hbox (badness 10000) in paragraph at lines 262--269
 
  []
 
-[35]
+
 Overfull \hbox (511.39375pt too wide) in paragraph at lines 281--282
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
 ][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
@@ -1801,63 +1498,11 @@ Overfull \hbox (292.89522pt too wide) in paragraph at lines 287--288
  []
 
 
-! LaTeX Error: Command \texteuro unavailable in encoding T1.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.299 ...tion between app and server in chapter â€
-                                                  ¦â€¦.
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: Command \textbrokenbar unavailable in encoding T1.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.299 ...ion between app and server in chapter â€¦
-                                                  â€¦.
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: Command \texteuro unavailable in encoding T1.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.299 ...n between app and server in chapter â€¦â€
-                                                  ¦.
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: Command \textbrokenbar unavailable in encoding T1.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.299 ... between app and server in chapter â€¦â€¦
-                                                  .
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 299--301
 
  []
 
-
+[36]
 Overfull \hbox (574.82881pt too wide) in paragraph at lines 309--310
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
 ][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
@@ -1869,7 +1514,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 322--324
 
  []
 
-[36]
+
 Overfull \hbox (25.0583pt too wide) in paragraph at lines 332--333
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
 ][][][][][][][][][][][][][][][][][][][][][][] |
@@ -1886,7 +1531,7 @@ Overfull \hbox (285.84688pt too wide) in paragraph at lines 341--342
 ][][][][][][][][][][][][] |
  []
 
-
+[37]
 Underfull \hbox (badness 10000) in paragraph at lines 348--350
 
  []
@@ -1896,7 +1541,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 357--359
 
  []
 
-[37]
+
 Overfull \hbox (25.0583pt too wide) in paragraph at lines 367--368
 [][][][][][][][][][][][][][][][][][][][][][][][][][][] |
  []
@@ -1937,7 +1582,7 @@ Overfull \hbox (81.44502pt too wide) in paragraph at lines 388--389
 [][][][][][][][][][][][][][][][] |
  []
 
-
+[38]
 Overfull \hbox (194.21846pt too wide) in paragraph at lines 392--393
 [][][][][][][][][][][][][][][][][][][][][][][][][][][] |
  []
@@ -1963,7 +1608,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 406--408
 
  []
 
-[38]
+
 Underfull \hbox (badness 10000) in paragraph at lines 418--420
 
  []
@@ -1976,8 +1621,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 421--423
 
  []
 
+[39]
 
-LaTeX Warning: Citation `w3school' on page 39 undefined on input line 424.
+LaTeX Warning: Citation `w3school' on page 40 undefined on input line 424.
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 424--426
@@ -1985,12 +1631,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 424--426
  []
 
 
-LaTeX Warning: Citation `w3school' on page 39 undefined on input line 429.
+LaTeX Warning: Citation `w3school' on page 40 undefined on input line 429.
 
 
-LaTeX Warning: Citation `w3school' on page 39 undefined on input line 430.
+LaTeX Warning: Citation `w3school' on page 40 undefined on input line 430.
 
-[39] <graphics/chapter4/20.png, id=1242, 481.8pt x 245.91875pt>
+<graphics/chapter4/20.png, id=1240, 481.8pt x 245.91875pt>
 File: graphics/chapter4/20.png Graphic file (type png)
 
 <use graphics/chapter4/20.png>
@@ -2020,78 +1666,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 461--464
 
  []
 
-
-! LaTeX Error: Command \texteuro unavailable in encoding T1.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.472 More about AJAX in chapter â€
-                                   ¦â€¦
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: Command \textbrokenbar unavailable in encoding T1.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.472 More about AJAX in chapter â€¦
-                                    â€¦
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: Command \texteuro unavailable in encoding T1.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.472 More about AJAX in chapter â€¦â€
-                                      ¦
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: Command \textbrokenbar unavailable in encoding T1.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.472 More about AJAX in chapter â€¦â€¦
-                                       
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
+[40 <D:/GitHub/Project/diploma/Diplomarbeit_TGM_TGM/graphics/chapter4/20.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 472--474
 
  []
 
-[40]
+[41]
 Underfull \hbox (badness 10000) in paragraph at lines 477--479
 
  []
 
-<graphics/chapter4/4.png, id=1253, 333.245pt x 422.57875pt>
+<graphics/chapter4/4.png, id=1257, 333.245pt x 422.57875pt>
 File: graphics/chapter4/4.png Graphic file (type png)
 
 <use graphics/chapter4/4.png>
 Package pdftex.def Info: graphics/chapter4/4.png used on input line 482.
 (pdftex.def)             Requested size: 205.96938pt x 261.19011pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
 
 Overfull \hbox (158.97676pt too wide) in paragraph at lines 491--492
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
@@ -2138,69 +1728,14 @@ Overfull \hbox (899.05244pt too wide) in paragraph at lines 497--498
 ][][][][][][] |
  []
 
-<graphics/chapter4/5.png, id=1254, 406.51875pt x 722.7pt>
+<graphics/chapter4/5.png, id=1258, 406.51875pt x 722.7pt>
 File: graphics/chapter4/5.png Graphic file (type png)
 
 <use graphics/chapter4/5.png>
 Package pdftex.def Info: graphics/chapter4/5.png used on input line 511.
 (pdftex.def)             Requested size: 164.77298pt x 292.92348pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-! LaTeX Error: Command \texteuro unavailable in encoding T1.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.518 ...s about those are featured in chapters â€
-                                                  ¦â€¦
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: Command \textbrokenbar unavailable in encoding T1.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.518 ... about those are featured in chapters â€¦
-                                                  â€¦
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: Command \texteuro unavailable in encoding T1.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.518 ...bout those are featured in chapters â€¦â€
-                                                  ¦
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: Command \textbrokenbar unavailable in encoding T1.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.518 ...out those are featured in chapters â€¦â€¦
-                                                  
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-<graphics/chapter4/6.png, id=1255, 406.51875pt x 722.7pt>
+ [42 <D:/GitHub/Project/diploma/Diplomarbeit_TGM_TGM/graphics/chapter4/4.png>]
+<graphics/chapter4/6.png, id=1272, 406.51875pt x 722.7pt>
 File: graphics/chapter4/6.png Graphic file (type png)
 
 <use graphics/chapter4/6.png>
@@ -2210,36 +1745,8 @@ Package pdftex.def Info: graphics/chapter4/6.png used on input line 522.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[41]
-
-! LaTeX Error: Command \texteuro unavailable in encoding T1.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.529 ...eature called Photo Gallery in chapter â€
-                                                  ¦ was used to create this ...
-
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: Command \textbrokenbar unavailable in encoding T1.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.529 ...ature called Photo Gallery in chapter â€¦
-                                                   was used to create this o...
-
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-<graphics/chapter4/7.png, id=1269, 255.95625pt x 292.09125pt>
+[43 <D:/GitHub/Project/diploma/Diplomarbeit_TGM_TGM/graphics/chapter4/5.png>]
+<graphics/chapter4/7.png, id=1278, 255.95625pt x 292.09125pt>
 File: graphics/chapter4/7.png Graphic file (type png)
 
 <use graphics/chapter4/7.png>
@@ -2249,60 +1756,8 @@ Package pdftex.def Info: graphics/chapter4/7.png used on input line 533.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[42]
-
-! LaTeX Error: Command \texteuro unavailable in encoding T1.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.540 ...ne. More about video gallery in chapterâ€
-                                                  ¦â€¦
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: Command \textbrokenbar unavailable in encoding T1.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.540 ...e. More about video gallery in chapterâ€¦
-                                                  â€¦
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: Command \texteuro unavailable in encoding T1.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.540 ... More about video gallery in chapterâ€¦â€
-                                                  ¦
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: Command \textbrokenbar unavailable in encoding T1.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.540 ...More about video gallery in chapterâ€¦â€¦
-                                                  
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-<graphics/chapter4/8.png, id=1274, 178.704pt x 317.988pt>
+[44 <D:/GitHub/Project/diploma/Diplomarbeit_TGM_TGM/graphics/chapter4/6.png>]
+<graphics/chapter4/8.png, id=1283, 178.704pt x 317.988pt>
 File: graphics/chapter4/8.png Graphic file (type png)
 
 <use graphics/chapter4/8.png>
@@ -2312,33 +1767,40 @@ Package pdftex.def Info: graphics/chapter4/8.png used on input line 544.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[43] <graphics/chapter4/9.png, id=1280, 450.68375pt x 704.6325pt>
+[45 <D:/GitHub/Project/diploma/Diplomarbeit_TGM_TGM/graphics/chapter4/7.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 551--553
+
+ []
+
+<graphics/chapter4/9.png, id=1289, 450.68375pt x 704.6325pt>
 File: graphics/chapter4/9.png Graphic file (type png)
 
 <use graphics/chapter4/9.png>
-Package pdftex.def Info: graphics/chapter4/9.png used on input line 555.
+Package pdftex.def Info: graphics/chapter4/9.png used on input line 556.
 (pdftex.def)             Requested size: 164.77298pt x 257.62418pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[44] <graphics/chapter4/10.png, id=1285, 406.51875pt x 722.7pt>
+[46 <D:/GitHub/Project/diploma/Diplomarbeit_TGM_TGM/graphics/chapter4/8.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 564--566
+
+ []
+
+<graphics/chapter4/10.png, id=1294, 406.51875pt x 722.7pt>
 File: graphics/chapter4/10.png Graphic file (type png)
 
 <use graphics/chapter4/10.png>
-Package pdftex.def Info: graphics/chapter4/10.png used on input line 568.
+Package pdftex.def Info: graphics/chapter4/10.png used on input line 570.
 (pdftex.def)             Requested size: 0.0pt x 0.0pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[45]
-Underfull \hbox (badness 10000) in paragraph at lines 575--577
+ [47 <D:/GitHub/Project/diploma/Diplomarbeit_TGM_TGM/graphics/chapter4/9.png> <
+D:/GitHub/Project/diploma/Diplomarbeit_TGM_TGM/graphics/chapter4/10.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 577--579
 
  []
 
 
-Overfull \hbox (729.89229pt too wide) in paragraph at lines 580--581
+Overfull \hbox (729.89229pt too wide) in paragraph at lines 582--583
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
 ][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
@@ -2346,161 +1808,127 @@ Overfull \hbox (729.89229pt too wide) in paragraph at lines 580--581
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 583--585
+Underfull \hbox (badness 10000) in paragraph at lines 585--587
 
  []
 
-<graphics/chapter4/11.png, id=1290, 357.335pt x 43.16125pt>
+<graphics/chapter4/11.png, id=1299, 357.335pt x 43.16125pt>
 File: graphics/chapter4/11.png Graphic file (type png)
 
 <use graphics/chapter4/11.png>
-Package pdftex.def Info: graphics/chapter4/11.png used on input line 588.
+Package pdftex.def Info: graphics/chapter4/11.png used on input line 590.
 (pdftex.def)             Requested size: 247.16577pt x 29.85439pt.
 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<graphics/chapter4/12.png, id=1291, 332.24126pt x 44.165pt>
+<graphics/chapter4/12.png, id=1300, 332.24126pt x 44.165pt>
 File: graphics/chapter4/12.png Graphic file (type png)
 
 <use graphics/chapter4/12.png>
-Package pdftex.def Info: graphics/chapter4/12.png used on input line 597.
+Package pdftex.def Info: graphics/chapter4/12.png used on input line 599.
 (pdftex.def)             Requested size: 247.16577pt x 32.85611pt.
 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-! LaTeX Error: Command \texteuro unavailable in encoding T1.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.607 ...re about slide panel itself in chapter â€
-                                                  ¦.
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! LaTeX Error: Command \textbrokenbar unavailable in encoding T1.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.607 ...e about slide panel itself in chapter â€¦
-                                                  .
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 607--609
+Underfull \hbox (badness 10000) in paragraph at lines 609--611
 
  []
 
-<graphics/chapter4/13.png, id=1292, 244.915pt x 155.58125pt>
+<graphics/chapter4/13.png, id=1301, 244.915pt x 155.58125pt>
 File: graphics/chapter4/13.png Graphic file (type png)
 
 <use graphics/chapter4/13.png>
-Package pdftex.def Info: graphics/chapter4/13.png used on input line 612.
+Package pdftex.def Info: graphics/chapter4/13.png used on input line 614.
 (pdftex.def)             Requested size: 164.77298pt x 104.67332pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 617--619
+Underfull \hbox (badness 10000) in paragraph at lines 619--621
 
  []
 
-<graphics/chapter4/14.png, id=1293, 265.99374pt x 264.99pt>
+<graphics/chapter4/14.png, id=1302, 265.99374pt x 264.99pt>
 File: graphics/chapter4/14.png Graphic file (type png)
 
 <use graphics/chapter4/14.png>
-Package pdftex.def Info: graphics/chapter4/14.png used on input line 622.
+Package pdftex.def Info: graphics/chapter4/14.png used on input line 624.
 (pdftex.def)             Requested size: 164.77298pt x 164.15462pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[46]
-Underfull \hbox (badness 10000) in paragraph at lines 628--630
+[48 <D:/GitHub/Project/diploma/Diplomarbeit_TGM_TGM/graphics/chapter4/11.png> <
+D:/GitHub/Project/diploma/Diplomarbeit_TGM_TGM/graphics/chapter4/12.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 630--632
 
  []
 
 
-Overfull \hbox (116.68672pt too wide) in paragraph at lines 632--633
+Overfull \hbox (116.68672pt too wide) in paragraph at lines 634--635
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
 ][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
 [][][] |
  []
 
 
-Overfull \hbox (137.83174pt too wide) in paragraph at lines 633--634
+Overfull \hbox (137.83174pt too wide) in paragraph at lines 635--636
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
 ][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
 [] |
  []
 
 
-Overfull \hbox (187.17012pt too wide) in paragraph at lines 634--635
+Overfull \hbox (187.17012pt too wide) in paragraph at lines 636--637
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
 ][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
 [][][] |
  []
 
 
-Overfull \hbox (144.88008pt too wide) in paragraph at lines 635--636
+Overfull \hbox (144.88008pt too wide) in paragraph at lines 637--638
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
 ][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
 [][] |
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 639--641
+Underfull \hbox (badness 10000) in paragraph at lines 641--643
 
  []
 
-<graphics/chapter4/15.png, id=1299, 406.51875pt x 722.7pt>
+[49 <D:/GitHub/Project/diploma/Diplomarbeit_TGM_TGM/graphics/chapter4/13.png> <
+D:/GitHub/Project/diploma/Diplomarbeit_TGM_TGM/graphics/chapter4/14.png>]
+<graphics/chapter4/15.png, id=1319, 406.51875pt x 722.7pt>
 File: graphics/chapter4/15.png Graphic file (type png)
 
 <use graphics/chapter4/15.png>
-Package pdftex.def Info: graphics/chapter4/15.png used on input line 648.
+Package pdftex.def Info: graphics/chapter4/15.png used on input line 650.
 (pdftex.def)             Requested size: 164.77298pt x 292.92348pt.
 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 653--655
+Underfull \hbox (badness 10000) in paragraph at lines 655--657
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 657--660
+Underfull \hbox (badness 10000) in paragraph at lines 659--662
+
+ []
+
+[50 <D:/GitHub/Project/diploma/Diplomarbeit_TGM_TGM/graphics/chapter4/15.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 669--671
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 667--669
-
- []
-
-[47]
-Underfull \hbox (badness 10000) in paragraph at lines 675--677
+Underfull \hbox (badness 10000) in paragraph at lines 677--679
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 678--681
+Underfull \hbox (badness 10000) in paragraph at lines 680--683
 
  []
 
 
-Overfull \hbox (426.81367pt too wide) in paragraph at lines 686--687
+Overfull \hbox (426.81367pt too wide) in paragraph at lines 688--689
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
 ][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
@@ -2508,7 +1936,7 @@ Overfull \hbox (426.81367pt too wide) in paragraph at lines 686--687
  []
 
 
-Overfull \hbox (927.2458pt too wide) in paragraph at lines 687--688
+Overfull \hbox (927.2458pt too wide) in paragraph at lines 689--690
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
 ][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
@@ -2518,26 +1946,26 @@ Overfull \hbox (927.2458pt too wide) in paragraph at lines 687--688
  []
 
 
-Overfull \hbox (10.96162pt too wide) in paragraph at lines 688--689
+Overfull \hbox (10.96162pt too wide) in paragraph at lines 690--691
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] |
  []
 
 
-Overfull \hbox (328.13692pt too wide) in paragraph at lines 689--690
+Overfull \hbox (328.13692pt too wide) in paragraph at lines 691--692
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
 ][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
 [][][][][][][][][][][][][][][][][][][][][][][][] |
  []
 
 
-Overfull \hbox (363.37862pt too wide) in paragraph at lines 690--691
+Overfull \hbox (363.37862pt too wide) in paragraph at lines 692--693
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
 ][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
  |
  []
 
 
-Overfull \hbox (969.53584pt too wide) in paragraph at lines 691--692
+Overfull \hbox (969.53584pt too wide) in paragraph at lines 693--694
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
 ][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
@@ -2547,104 +1975,85 @@ Overfull \hbox (969.53584pt too wide) in paragraph at lines 691--692
  []
 
 
-Overfull \hbox (32.10664pt too wide) in paragraph at lines 692--693
+Overfull \hbox (32.10664pt too wide) in paragraph at lines 694--695
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
 ][][][][][][][][][][][][][][][][][][][][][][][][][][][] |
  []
 
 
-Overfull \hbox (222.41182pt too wide) in paragraph at lines 698--699
+Overfull \hbox (222.41182pt too wide) in paragraph at lines 700--701
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
 ][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] |
 
  []
 
-<graphics/chapter4/16.png, id=1314, 348.30125pt x 55.20625pt>
+<graphics/chapter4/16.png, id=1324, 348.30125pt x 55.20625pt>
 File: graphics/chapter4/16.png Graphic file (type png)
 
 <use graphics/chapter4/16.png>
-Package pdftex.def Info: graphics/chapter4/16.png used on input line 707.
-(pdftex.def)             Requested size: 164.77298pt x 26.11624pt.
+Package pdftex.def Info: graphics/chapter4/16.png used on input line 709.
+(pdftex.def)             Requested size: 288.35587pt x 45.70659pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 712--714
+Underfull \hbox (badness 10000) in paragraph at lines 714--716
+
+ []
+
+[51]
+Underfull \hbox (badness 10000) in paragraph at lines 724--726
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 722--724
-
- []
-
-[48]
-Overfull \hbox (166.0251pt too wide) in paragraph at lines 739--740
+Overfull \hbox (166.0251pt too wide) in paragraph at lines 741--742
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
 ][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
 [][] |
  []
 
 
-Overfull \hbox (166.0251pt too wide) in paragraph at lines 740--741
+Overfull \hbox (166.0251pt too wide) in paragraph at lines 742--743
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
 ][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
 [][] |
  []
 
-
-Overfull \hbox (95.5417pt too wide) in paragraph at lines 756--757
+[52 <D:/GitHub/Project/diploma/Diplomarbeit_TGM_TGM/graphics/chapter4/16.png>]
+Overfull \hbox (95.5417pt too wide) in paragraph at lines 758--759
 [][][][][][][][][][][][][][][][][][][][][][][][][][][] |
  []
 
 
-Overfull \hbox (109.63838pt too wide) in paragraph at lines 757--758
+Overfull \hbox (109.63838pt too wide) in paragraph at lines 759--760
 [][][][][][][][][][][][][][][][][][][][][][][][][][][] |
  []
 
-[49]
-Underfull \hbox (badness 10000) in paragraph at lines 776--778
+
+Underfull \hbox (badness 10000) in paragraph at lines 778--780
 
  []
 
 
-Overfull \hbox (39.15498pt too wide) in paragraph at lines 785--787
+Overfull \hbox (39.15498pt too wide) in paragraph at lines 787--789
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][] |
  []
 
 
-Overfull \hbox (123.73506pt too wide) in paragraph at lines 789--790
+Overfull \hbox (123.73506pt too wide) in paragraph at lines 791--792
 [][][][][][][][][][][][][][][][][][][][][][][] |
  []
 
-<graphics/chapter4/17.png, id=1381, 356.33125pt x 544.0325pt>
+<graphics/chapter4/17.png, id=1383, 356.33125pt x 544.0325pt>
 File: graphics/chapter4/17.png Graphic file (type png)
 
 <use graphics/chapter4/17.png>
-Package pdftex.def Info: graphics/chapter4/17.png used on input line 800.
+Package pdftex.def Info: graphics/chapter4/17.png used on input line 802.
 (pdftex.def)             Requested size: 164.77298pt x 251.56958pt.
-)
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[50] [51 <D:/GitHub/Project/diploma/Diplomarbeit_TGM_TGM/graphics/chapter4/2.pn
-g> <D:/GitHub/Project/diploma/Diplomarbeit_TGM_TGM/graphics/chapter4/3.png>]
-[52 <D:/GitHub/Project/diploma/Diplomarbeit_TGM_TGM/graphics/chapter4/20.png> <
-D:/GitHub/Project/diploma/Diplomarbeit_TGM_TGM/graphics/chapter4/4.png>]
-[53 <D:/GitHub/Project/diploma/Diplomarbeit_TGM_TGM/graphics/chapter4/5.png>]
-[54 <D:/GitHub/Project/diploma/Diplomarbeit_TGM_TGM/graphics/chapter4/6.png> <D
-:/GitHub/Project/diploma/Diplomarbeit_TGM_TGM/graphics/chapter4/7.png>]
-[55 <D:/GitHub/Project/diploma/Diplomarbeit_TGM_TGM/graphics/chapter4/8.png> <D
-:/GitHub/Project/diploma/Diplomarbeit_TGM_TGM/graphics/chapter4/9.png>]
-[56 <D:/GitHub/Project/diploma/Diplomarbeit_TGM_TGM/graphics/chapter4/10.png> <
-D:/GitHub/Project/diploma/Diplomarbeit_TGM_TGM/graphics/chapter4/11.png> <D:/Gi
-tHub/Project/diploma/Diplomarbeit_TGM_TGM/graphics/chapter4/12.png> <D:/GitHub/
-Project/diploma/Diplomarbeit_TGM_TGM/graphics/chapter4/13.png> <D:/GitHub/Proje
-ct/diploma/Diplomarbeit_TGM_TGM/graphics/chapter4/14.png>] [57 <D:/GitHub/Proje
-ct/diploma/Diplomarbeit_TGM_TGM/graphics/chapter4/15.png> <D:/GitHub/Project/di
-ploma/Diplomarbeit_TGM_TGM/graphics/chapter4/16.png>] [58 <D:/GitHub/Project/di
-ploma/Diplomarbeit_TGM_TGM/graphics/chapter4/17.png>]
+) [53] [54 <D:/GitHub/Project/diploma/Diplomarbeit_TGM_TGM/graphics/chapter4/17
+.png>]
 (D:\GitHub\Project\diploma\Diplomarbeit_TGM_TGM\tex/chapter5.tex
 Chapter 5.
 
@@ -2657,7 +2066,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 12--14
 
  []
 
-[59
+[55
 
 
 
@@ -2698,7 +2107,7 @@ Overfull \hbox (53.25166pt too wide) in paragraph at lines 70--71
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] |
  []
 
-[60]
+[56]
 Underfull \hbox (badness 10000) in paragraph at lines 82--84
 
  []
@@ -2719,13 +2128,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 122--124
 
  []
 
-[61]
+[57]
 Overfull \hbox (14.0347pt too wide) in paragraph at lines 158--159
 \T1/DejaVuSansMono/m/n/12 for en-ter-prise, mar-ket-ing, re-tail, pub-lish-ing 
 and in-dus-trial cases, Metaio's|
  []
 
-[62]
+[58]
 Underfull \hbox (badness 10000) in paragraph at lines 177--179
 
  []
@@ -2740,14 +2149,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 188--190
 
  []
 
-<graphics/tracking.png, id=1514, 1927.2pt x 1084.05pt>
+<graphics/tracking.png, id=1497, 1927.2pt x 1084.05pt>
 File: graphics/tracking.png Graphic file (type png)
 
 <use graphics/tracking.png>
 Package pdftex.def Info: graphics/tracking.png used on input line 203.
 (pdftex.def)             Requested size: 411.92859pt x 231.70982pt.
- [63]
-<graphics/arel.png, id=1528, 481.04718pt x 417.05812pt>
+ [59]
+<graphics/arel.png, id=1511, 481.04718pt x 417.05812pt>
 File: graphics/arel.png Graphic file (type png)
 
 <use graphics/arel.png>
@@ -2768,8 +2177,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 228--230
 
  []
 
-[64 <D:/GitHub/Project/diploma/Diplomarbeit_TGM_TGM/graphics/tracking.png>]
-[65 <D:/GitHub/Project/diploma/Diplomarbeit_TGM_TGM/graphics/arel.png>]
+[60 <D:/GitHub/Project/diploma/Diplomarbeit_TGM_TGM/graphics/tracking.png>]
+[61 <D:/GitHub/Project/diploma/Diplomarbeit_TGM_TGM/graphics/arel.png>]
 Overfull \hbox (88.49336pt too wide) in paragraph at lines 239--240
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] |
  []
@@ -2829,7 +2238,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 266--268
 
  []
 
-[66]
+[62]
 Overfull \hbox (109.63838pt too wide) in paragraph at lines 272--273
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][] |
  []
@@ -2860,7 +2269,7 @@ Overfull \hbox (32.10664pt too wide) in paragraph at lines 299--300
 [][][][][][][][][][][][][][][][][][][][][][][][][] |
  []
 
-[67]
+[63]
 Underfull \hbox (badness 10000) in paragraph at lines 319--321
 
  []
@@ -2875,13 +2284,13 @@ Overfull \hbox (39.15498pt too wide) in paragraph at lines 347--348
 [][][][][][][][][][][][][][][][][][][] |
  []
 
-[68]
+[64]
 Overfull \hbox (95.5417pt too wide) in paragraph at lines 355--356
 [][][][][][][][][][][][][][][][][][][][][][][][] |
  []
 
-) [69] (D:\GitHub\Project\diploma\Diplomarbeit_TGM_TGM\tex/chapter6.tex
-[70
+) [65] (D:\GitHub\Project\diploma\Diplomarbeit_TGM_TGM\tex/chapter6.tex
+[66
 
 
 
@@ -2897,13 +2306,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 10--12
 
  []
 
-<graphics/dynamic.png, id=1647, 588.69937pt x 553.31718pt>
+<graphics/dynamic.png, id=1630, 588.69937pt x 553.31718pt>
 File: graphics/dynamic.png Graphic file (type png)
 
 <use graphics/dynamic.png>
 Package pdftex.def Info: graphics/dynamic.png used on input line 17.
 (pdftex.def)             Requested size: 411.94301pt x 387.1843pt.
- [71] [72 <D:/GitHub/Project/diploma/Diplomarbeit_TGM_TGM/graphics/dynamic.png>
+ [67] [68 <D:/GitHub/Project/diploma/Diplomarbeit_TGM_TGM/graphics/dynamic.png>
 ]
 Overfull \hbox (25.0583pt too wide) in paragraph at lines 36--37
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
@@ -2917,17 +2326,17 @@ Overfull \hbox (278.79854pt too wide) in paragraph at lines 39--40
 ][][] |
  []
 
-) [73]
+) [69]
 No file Diplomarbeit_KOPG_TGM.acr.
 No file Diplomarbeit_KOPG_TGM.acr.
-[74
+[70
 
 ] (D:\GitHub\Project\diploma\Diplomarbeit_TGM_TGM\tex/appendix.tex
 Appendix A.
-) [75
+) [71
 
 
-] [76
+] [72
 
 
 ]
@@ -2937,7 +2346,7 @@ $\T1/DejaVuSansMono/m/n/12 / / developer . mozilla . org / en-[]US / docs / Web
  / JavaScript / Guide / Details _ of _$
  []
 
-[77
+[73
 
 ]
 Underfull \hbox (badness 1460) in paragraph at lines 100--103
@@ -2963,16 +2372,16 @@ Underfull \hbox (badness 3078) in paragraph at lines 142--145
 ginia . edu / ~cs201 / labs /$
  []
 
-[78]) [79] (D:\GitHub\Project\diploma\Diplomarbeit_TGM_TGM\tex/eid.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 12--312
+[74]) [75] (D:\GitHub\Project\diploma\Diplomarbeit_TGM_TGM\tex/eid.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 12--313
 
  []
 
-[80
+[76
 
-] [81]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 316.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 316.
+] [77]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 317.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 317.
 
 (D:\GitHub\Project\diploma\Diplomarbeit_TGM_TGM\Diplomarbeit_KOPG_TGM.aux
 (D:\GitHub\Project\diploma\Diplomarbeit_TGM_TGM\tex/title.aux)
@@ -2988,8 +2397,8 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 316.
 (D:\GitHub\Project\diploma\Diplomarbeit_TGM_TGM\tex/chapter6.aux)
 (D:\GitHub\Project\diploma\Diplomarbeit_TGM_TGM\tex/appendix.aux)
 (D:\GitHub\Project\diploma\Diplomarbeit_TGM_TGM\tex/eid.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 316.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 316.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 317.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 317.
 Package rerunfilecheck Info: File `Diplomarbeit_KOPG_TGM.out' has not changed.
 (rerunfilecheck)             Checksum: 91773B37513B3987D2C7731AB64BF5BD;8256.
 
@@ -3004,13 +2413,13 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 14631 strings out of 493921
- 212703 string characters out of 3147277
- 389700 words of memory out of 3000000
- 16759 multiletter control sequences out of 15000+200000
+ 14625 strings out of 493921
+ 212648 string characters out of 3147277
+ 385700 words of memory out of 3000000
+ 16757 multiletter control sequences out of 15000+200000
  25357 words of font info for 60 fonts, out of 3000000 for 9000
  855 hyphenation exceptions out of 8191
- 46i,8n,76p,1724b,1954s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 46i,8n,76p,1724b,2043s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\Aleksey\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi60
 0\ecrm1095.pk> <C:\Users\Aleksey\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknap
 pen\ec\dpi600\ecti1200.pk> <C:\Users\Aleksey\AppData\Local\MiKTeX\2.9\fonts\pk\
@@ -3030,9 +2439,9 @@ leksey\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecss1200.pk>
 ecsx2074.pk> <C:\Users\Aleksey\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappe
 n\ec\dpi600\ecss1728.pk><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfont
 s/cm/cmsy10.pfb>
-Output written on Diplomarbeit_KOPG_TGM.pdf (99 pages, 6565427 bytes).
+Output written on Diplomarbeit_KOPG_TGM.pdf (95 pages, 6563955 bytes).
 PDF statistics:
- 2535 PDF objects out of 2984 (max. 8388607)
- 736 named destinations out of 1000 (max. 500000)
+ 2516 PDF objects out of 2984 (max. 8388607)
+ 732 named destinations out of 1000 (max. 500000)
  1089 words of extra memory for PDF output out of 10000 (max. 10000000)
 

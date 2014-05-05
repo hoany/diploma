@@ -12,7 +12,7 @@ However, JavaScript and Android Java did not provide everything that has been ne
 At the beginning of the application a start menu is displayed. In this menu the user can use functions that had been especially developed for him. Help, car tracking, favourite list, about and exit are the functions in the start menu.
 \\
 
-\begin{figure}
+\begin{figure}[h]
 \centering
 \includegraphics[width=0.5\linewidth]{graphics/chapter4/1}
 \caption{Start menu}
@@ -40,7 +40,7 @@ start menu source code,captionpos=b]
 %%%%%%%%%%%%%%%%%%%%%%%%%%%
 %to-do link to the chapter
 %%%%%%%%%%%%%%%%%%%%%%%%%%%
-Functions \textit{trackClick()} and \textit{turnOff()} were implemented in Android Java and are described in chapter ……
+Functions \textit{trackClick()} and \textit{turnOff()} were implemented in Android Java and are described in chapter....
 \\
 
 
@@ -69,9 +69,9 @@ The button \textbf{help} forwards the user to the help display \textit{help.html
 \section{Help}
 
 The help display provides only two major options: back button and the link to the self created tutorial video. 
+\\
 
-
-\begin{figure}[b]
+\begin{figure}[h]
 \centering
 \includegraphics[width=0.5\linewidth]{graphics/chapter4/2}
 \caption{}
@@ -117,7 +117,7 @@ There is also a possibly to add the tracked car to users car collection named \t
 JavaScript functions had to be created for each  of this options. These functions are described in chapter 4.3.1)JavaScript Functions.
 \\
 
-\begin{figure}[]
+\begin{figure}[h]
 \centering
 \includegraphics[width=0.5\linewidth]{graphics/chapter4/3}
 \caption{}
@@ -160,11 +160,11 @@ This function saves start time and end time of the timer, into the Navision serv
 %link to michaels chapter about the connection
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-To save the time into the server \textit{timestampsave()} needs several other information like email and id of the tracked car. More about sending information to the server and  to the connectivity between application and server read the chapter …….. 
+To save the time into the server \textit{timestampsave()} needs several other information like email and id of the tracked car. More about sending information to the server and  to the connectivity between application and server read the chapter ...
 \\
 
-time1…..start time
-time2…..end time
+time1.....start time
+time2.....end time
 \\
 
 \begin{lstlisting}[language=html, caption= 
@@ -208,7 +208,7 @@ function setParam(){
 %link to chapter with car tracking in java android
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \subsubsection{Start car tracking}
-This function starts to track a car. For more explanation refer to chapter …….
+This function starts to track a car. For more explanation refer to chapter .......
 \\
 
 \begin{lstlisting}[language=html, caption= 
@@ -222,7 +222,7 @@ function trackClick() {
 %link to chapter with the revie in android java
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \subsubsection{Review}
-This method is implemented with Java Android. More about in chapter……
+This method is implemented with Java Android. More about in chapter...
 \\
 
 \begin{lstlisting}[language=html, caption= 
@@ -264,7 +264,7 @@ This method returns the name of the car that had been tracked threw a car specif
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %link to chapter with ajax
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-So the input parameter \textit{cname} is that specific id of the tracked or selected car. The name of the car is stored in the Navision server. A request had to be send to receive the name. More about Connectivity in chapter …….
+So the input parameter \textit{cname} is that specific id of the tracked or selected car. The name of the car is stored in the Navision server. A request had to be send to receive the name. More about Connectivity in chapter .....
 \\
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -296,7 +296,7 @@ function readcarname(cname){
 %link to chapter with ajax
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \subsubsection{Save email}
-As the name says, \textit{saveEmail()} saves the email of the user. The information about users email was already stored in session storage through the function \textit{setParam()}. Later this email is lend to the Navision server. More about connection between app and server in chapter …….
+As the name says, \textit{saveEmail()} saves the email of the user. The information about users email was already stored in session storage through the function \textit{setParam()}. Later this email is lend to the Navision server. More about connection between app and server in chapter .......
 \\
 
 \begin{lstlisting}[language=html, caption= 
@@ -429,9 +429,9 @@ HTML5 Web Storage provides two new objects for storing data on the client:
 \item window.localStorage - stores data with no expiration date\cite{w3school}
 \item code.sessionStorage - stores data for one session (data is lost when the tab is closed)\cite{w3school}
 \end{enumerate}
-\newpage
 
-\begin{figure}[t]
+
+\begin{figure}[h]
 \centering
 \includegraphics[width=0.9\linewidth]{graphics/chapter4/20}
 \caption{Methods and attributes of local storage\cite{localstorageapi}}
@@ -469,7 +469,7 @@ var storedIds = JSON.parse(localStorage["favorites"]);
 %Link to ajax chapter
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \subsubsection{AJAX}
-More about AJAX in chapter ……
+More about AJAX in chapter .....
 \\
 \newpage
 
@@ -515,7 +515,7 @@ When the user presses on button \textbf{leasing price} he will be linked to the 
 
 
 \subsubsection{Technical Information}
-By calling \textbf{technical information} facts about a specific car are presented. To create it several new features had to be used. Phone Gallary and Dynamic Selection of Colour. Informations about those are featured in chapters ……
+By calling \textbf{technical information} facts about a specific car are presented. To create it several new features had to be used. Phone Gallary and Dynamic Selection of Colour. Informations about those are featured in chapters ....
 \\
 \begin{figure}[h]
 \centering
@@ -526,7 +526,7 @@ By calling \textbf{technical information} facts about a specific car are present
 \newpage
 
 \subsubsection{Pictures}
-Has freshest pictures of the specific car. Feature called Photo Gallery in chapter … was used to create this option.
+Has freshest pictures of the specific car. Feature called Photo Gallery in chapter ..... was used to create this option.
 \\
 \begin{figure}[h]
 \centering
@@ -537,7 +537,7 @@ Has freshest pictures of the specific car. Feature called Photo Gallery in chapt
 \newpage
 
 \subsubsection{Videos}
-This option provides the user with videos about the selected car from favourite list or fresh tracked one. More about video gallery in chapter……
+This option provides the user with videos about the selected car from favourite list or fresh tracked one. More about video gallery in chapter.....
 \\
 \begin{figure}[h]
 \centering
@@ -550,6 +550,7 @@ This option provides the user with videos about the selected car from favourite 
 \subsubsection{Review}
 Operation review invokes a self created method called \textit{reviewClick()}. Description to thisit is in chapter 4.3.1 Created Methods, Review. Basically review links the user to a new display where he can read review about the specific car.
 \\
+
 \begin{figure}[h]
 \centering
 \includegraphics[width=0.4\linewidth]{graphics/chapter4/9}
@@ -562,6 +563,7 @@ Operation review invokes a self created method called \textit{reviewClick()}. De
 \subsubsection{Get Favourites}
 This operations links the user to his favourite cars which he saved with the option \textbf{add to my favourite}. Information about the favourite list in chapter 4.4)My Favourites.
 \\
+
 \begin{figure}[h]
 \centering
 \includegraphics[width=0.
@@ -604,7 +606,7 @@ The operations colour changes from red to black when the function is loaded.
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %link to slide panel chapter
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-In the upper left corner of the display exists a small button that calls the slide panel to open. More about slide panel itself in chapter ….
+In the upper left corner of the display exists a small button that calls the slide panel to open. More about slide panel itself in chapter ......
 \\
 
 \begin{figure}[h]
@@ -704,7 +706,7 @@ for (var i = 0; i < storedCarNames.length; i++)
 
 \begin{figure}[h]
 \centering
-\includegraphics[width=0.4\linewidth]{graphics/chapter4/16}
+\includegraphics[width=0.7\linewidth]{graphics/chapter4/16}
 \caption{A list item}
 \label{fig:17}
 \end{figure}
