@@ -14,5 +14,9 @@ A level-1 auxiliary file: tex/appendix.aux
 The style file: sty/IEEEtranS.bst
 A level-1 auxiliary file: tex/eid.aux
 Database file #1: tex/bib_file.bib
+Repeated entry---line 659 of file tex/bib_file.bib
+ : @online{webstorm
+ :                 ,
+I'm skipping whatever remains of this entry
 Warning--I didn't find a database entry for "ObjectClass"
-(There was 1 warning)
+(There was 1 error message)

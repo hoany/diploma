@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.2.3)  5 MAY 2014 20:33
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.2.3)  5 MAY 2014 20:46
 entering extended mode
 **Diplomarbeit_KOPG_TGM.tex
 (D:\GitHub\Project\diploma\Diplomarbeit_TGM_TGM\Diplomarbeit_KOPG_TGM.tex
@@ -759,10 +759,6 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 \tf@toc=\write9
 
 [10] (D:\GitHub\Project\diploma\Diplomarbeit_TGM_TGM\Diplomarbeit_KOPG_TGM.lof
-
-LaTeX Warning: Citation `localstorageapi' on page xi undefined on input line 18
-.
-
 [11
 
 
@@ -770,10 +766,6 @@ LaTeX Warning: Citation `localstorageapi' on page xi undefined on input line 18
 \tf@lof=\write10
  [12]
 (D:\GitHub\Project\diploma\Diplomarbeit_TGM_TGM\Diplomarbeit_KOPG_TGM.lol
-
-LaTeX Warning: Citation `localstorageexample' on page xiii undefined on input l
-ine 22.
-
 [13
 
 
@@ -783,7 +775,7 @@ ine 22.
 No file Diplomarbeit_KOPG_TGM.nls.
 (D:\GitHub\Project\diploma\Diplomarbeit_TGM_TGM\tex/chapter1.tex
 Chapter 1.
-<graphics/title/tgmlogo.pdf, id=827, 376.40625pt x 121.20282pt>
+<graphics/title/tgmlogo.pdf, id=831, 376.40625pt x 121.20282pt>
 File: graphics/title/tgmlogo.pdf Graphic file (type pdf)
 
 <use graphics/title/tgmlogo.pdf>
@@ -791,7 +783,7 @@ Package pdftex.def Info: graphics/title/tgmlogo.pdf used on input line 20.
 (pdftex.def)             Requested size: 164.77298pt x 53.05753pt.
 
 Overfull \hbox (9.24869pt too wide) in paragraph at lines 32--36
-[]\T1/cmr/m/n/12 Anmeldung zur Pro-jek-t-woche am Turn-ersee [[][]7[][]] Als Er
+[]\T1/cmr/m/n/12 Anmeldung zur Pro-jek-t-woche am Turn-ersee [[][]9[][]] Als Er
 ziehungs-berechtigte(r) meines|
  []
 
@@ -883,13 +875,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 41--50
 
  []
 
-<graphics/ARpad.png, id=882, 282.1815pt x 188.8875pt>
+<graphics/ARpad.png, id=886, 282.1815pt x 188.8875pt>
 File: graphics/ARpad.png Graphic file (type png)
  <use graphics/ARpad.png>
 Package pdftex.def Info: graphics/ARpad.png used on input line 53.
 (pdftex.def)             Requested size: 240.0061pt x 160.65599pt.
 
-<graphics/GoogleGlasses.jpg, id=884, 1464.93243pt x 824.26865pt>
+<graphics/GoogleGlasses.jpg, id=888, 1464.93243pt x 824.26865pt>
 File: graphics/GoogleGlasses.jpg Graphic file (type jpg)
 
 <use graphics/GoogleGlasses.jpg>
@@ -909,7 +901,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 57--64
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [8 <D:/GitHub/Project/diploma/Diplomarbeit_TGM_TGM/graphics/ARpad.png>]
-<graphics/googlefunctions.png, id=890, 642.4pt x 361.35pt>
+<graphics/googlefunctions.png, id=894, 642.4pt x 361.35pt>
 File: graphics/googlefunctions.png Graphic file (type png)
 
 <use graphics/googlefunctions.png>
@@ -982,7 +974,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 100--106
  []
 
 [10 <D:/GitHub/Project/diploma/Diplomarbeit_TGM_TGM/graphics/googlefunctions.pn
-g>] <graphics/smartcar.png, id=900, 209.583pt x 253.602pt>
+g>] <graphics/smartcar.png, id=904, 209.583pt x 253.602pt>
 File: graphics/smartcar.png Graphic file (type png)
 
 <use graphics/smartcar.png>
@@ -1139,7 +1131,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 179--188
 
  []
 
-<graphics/statistics.png, id=923, 622.325pt x 438.63875pt>
+<graphics/statistics.png, id=927, 622.325pt x 438.63875pt>
 File: graphics/statistics.png Graphic file (type png)
 
 <use graphics/statistics.png>
@@ -1177,7 +1169,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 213--215
 LaTeX Warning: Citation `ObjectClass' on page 17 undefined on input line 220.
 
 [17 <D:/GitHub/Project/diploma/Diplomarbeit_TGM_TGM/graphics/statistics.png>]
-<graphics/java_subclass.png, id=942, 179.92218pt x 135.50626pt>
+<graphics/java_subclass.png, id=946, 179.92218pt x 135.50626pt>
 File: graphics/java_subclass.png Graphic file (type png)
 
 <use graphics/java_subclass.png>
@@ -1190,7 +1182,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 260--262
  []
 
 [19]
-<graphics/java-code-execution-process.png, id=978, 354.32375pt x 384.43625pt>
+<graphics/java-code-execution-process.png, id=982, 354.32375pt x 384.43625pt>
 File: graphics/java-code-execution-process.png Graphic file (type png)
 
 <use graphics/java-code-execution-process.png>
@@ -1208,7 +1200,7 @@ on-process.png>]
 (C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\lstlang1.sty
 File: lstlang1.sty 2013/08/26 1.5b listings language file
 )
-[22] <graphics/java-data-areas.png, id=1017, 373.395pt x 270.25969pt>
+[22] <graphics/java-data-areas.png, id=1021, 373.395pt x 270.25969pt>
 File: graphics/java-data-areas.png Graphic file (type png)
 
 <use graphics/java-data-areas.png>
@@ -1242,7 +1234,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 39--42
 
  []
 
-<graphics/chapter3/1.png, id=1039, 980.66376pt x 571.13374pt>
+<graphics/chapter3/1.png, id=1043, 980.66376pt x 571.13374pt>
 File: graphics/chapter3/1.png Graphic file (type png)
 
 <use graphics/chapter3/1.png>
@@ -1271,7 +1263,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 12--14
 
  []
 
-<graphics/chapter4/1.png, id=1052, 333.245pt x 360.34625pt>
+<graphics/chapter4/1.png, id=1056, 333.245pt x 360.34625pt>
 File: graphics/chapter4/1.png Graphic file (type png)
 
 <use graphics/chapter4/1.png>
@@ -1357,7 +1349,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 71--73
 
  []
 
-<graphics/chapter4/2.png, id=1073, 325.215pt x 389.455pt>
+<graphics/chapter4/2.png, id=1077, 325.215pt x 389.455pt>
 File: graphics/chapter4/2.png Graphic file (type png)
 
 <use graphics/chapter4/2.png>
@@ -1412,7 +1404,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 117--119
 
  []
 
-<graphics/chapter4/3.png, id=1079, 333.245pt x 422.57875pt>
+<graphics/chapter4/3.png, id=1083, 333.245pt x 422.57875pt>
 File: graphics/chapter4/3.png Graphic file (type png)
 
 <use graphics/chapter4/3.png>
@@ -1614,47 +1606,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 418--420
  []
 
 
-LaTeX Warning: Citation `w3school' on page 39 undefined on input line 421.
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 421--423
 
  []
 
 [39]
-
-LaTeX Warning: Citation `w3school' on page 40 undefined on input line 424.
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 424--426
 
  []
 
-
-LaTeX Warning: Citation `w3school' on page 40 undefined on input line 429.
-
-
-LaTeX Warning: Citation `w3school' on page 40 undefined on input line 430.
-
-<graphics/chapter4/20.png, id=1240, 481.8pt x 245.91875pt>
+<graphics/chapter4/20.png, id=1248, 481.8pt x 245.91875pt>
 File: graphics/chapter4/20.png Graphic file (type png)
 
 <use graphics/chapter4/20.png>
 Package pdftex.def Info: graphics/chapter4/20.png used on input line 436.
 (pdftex.def)             Requested size: 370.74237pt x 189.23793pt.
 
-
-LaTeX Warning: Citation `localstorageapi' on page 40 undefined on input line 43
-7.
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 442--444
 
  []
-
-
-LaTeX Warning: Citation `localstorageexample' on page 40 undefined on input lin
-e 450.
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 452--454
@@ -1676,7 +1646,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 477--479
 
  []
 
-<graphics/chapter4/4.png, id=1257, 333.245pt x 422.57875pt>
+<graphics/chapter4/4.png, id=1268, 333.245pt x 422.57875pt>
 File: graphics/chapter4/4.png Graphic file (type png)
 
 <use graphics/chapter4/4.png>
@@ -1728,14 +1698,14 @@ Overfull \hbox (899.05244pt too wide) in paragraph at lines 497--498
 ][][][][][][] |
  []
 
-<graphics/chapter4/5.png, id=1258, 406.51875pt x 722.7pt>
+<graphics/chapter4/5.png, id=1269, 406.51875pt x 722.7pt>
 File: graphics/chapter4/5.png Graphic file (type png)
 
 <use graphics/chapter4/5.png>
 Package pdftex.def Info: graphics/chapter4/5.png used on input line 511.
 (pdftex.def)             Requested size: 164.77298pt x 292.92348pt.
  [42 <D:/GitHub/Project/diploma/Diplomarbeit_TGM_TGM/graphics/chapter4/4.png>]
-<graphics/chapter4/6.png, id=1272, 406.51875pt x 722.7pt>
+<graphics/chapter4/6.png, id=1283, 406.51875pt x 722.7pt>
 File: graphics/chapter4/6.png Graphic file (type png)
 
 <use graphics/chapter4/6.png>
@@ -1746,7 +1716,7 @@ Package pdftex.def Info: graphics/chapter4/6.png used on input line 522.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [43 <D:/GitHub/Project/diploma/Diplomarbeit_TGM_TGM/graphics/chapter4/5.png>]
-<graphics/chapter4/7.png, id=1278, 255.95625pt x 292.09125pt>
+<graphics/chapter4/7.png, id=1289, 255.95625pt x 292.09125pt>
 File: graphics/chapter4/7.png Graphic file (type png)
 
 <use graphics/chapter4/7.png>
@@ -1757,7 +1727,7 @@ Package pdftex.def Info: graphics/chapter4/7.png used on input line 533.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [44 <D:/GitHub/Project/diploma/Diplomarbeit_TGM_TGM/graphics/chapter4/6.png>]
-<graphics/chapter4/8.png, id=1283, 178.704pt x 317.988pt>
+<graphics/chapter4/8.png, id=1294, 178.704pt x 317.988pt>
 File: graphics/chapter4/8.png Graphic file (type png)
 
 <use graphics/chapter4/8.png>
@@ -1772,7 +1742,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 551--553
 
  []
 
-<graphics/chapter4/9.png, id=1289, 450.68375pt x 704.6325pt>
+<graphics/chapter4/9.png, id=1300, 450.68375pt x 704.6325pt>
 File: graphics/chapter4/9.png Graphic file (type png)
 
 <use graphics/chapter4/9.png>
@@ -1787,7 +1757,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 564--566
 
  []
 
-<graphics/chapter4/10.png, id=1294, 406.51875pt x 722.7pt>
+<graphics/chapter4/10.png, id=1305, 406.51875pt x 722.7pt>
 File: graphics/chapter4/10.png Graphic file (type png)
 
 <use graphics/chapter4/10.png>
@@ -1812,14 +1782,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 585--587
 
  []
 
-<graphics/chapter4/11.png, id=1299, 357.335pt x 43.16125pt>
+<graphics/chapter4/11.png, id=1310, 357.335pt x 43.16125pt>
 File: graphics/chapter4/11.png Graphic file (type png)
 
 <use graphics/chapter4/11.png>
 Package pdftex.def Info: graphics/chapter4/11.png used on input line 590.
 (pdftex.def)             Requested size: 247.16577pt x 29.85439pt.
 
-<graphics/chapter4/12.png, id=1300, 332.24126pt x 44.165pt>
+<graphics/chapter4/12.png, id=1311, 332.24126pt x 44.165pt>
 File: graphics/chapter4/12.png Graphic file (type png)
 
 <use graphics/chapter4/12.png>
@@ -1830,7 +1800,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 609--611
 
  []
 
-<graphics/chapter4/13.png, id=1301, 244.915pt x 155.58125pt>
+<graphics/chapter4/13.png, id=1312, 244.915pt x 155.58125pt>
 File: graphics/chapter4/13.png Graphic file (type png)
 
 <use graphics/chapter4/13.png>
@@ -1845,7 +1815,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 619--621
 
  []
 
-<graphics/chapter4/14.png, id=1302, 265.99374pt x 264.99pt>
+<graphics/chapter4/14.png, id=1313, 265.99374pt x 264.99pt>
 File: graphics/chapter4/14.png Graphic file (type png)
 
 <use graphics/chapter4/14.png>
@@ -1896,7 +1866,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 641--643
 
 [49 <D:/GitHub/Project/diploma/Diplomarbeit_TGM_TGM/graphics/chapter4/13.png> <
 D:/GitHub/Project/diploma/Diplomarbeit_TGM_TGM/graphics/chapter4/14.png>]
-<graphics/chapter4/15.png, id=1319, 406.51875pt x 722.7pt>
+<graphics/chapter4/15.png, id=1330, 406.51875pt x 722.7pt>
 File: graphics/chapter4/15.png Graphic file (type png)
 
 <use graphics/chapter4/15.png>
@@ -1987,7 +1957,7 @@ Overfull \hbox (222.41182pt too wide) in paragraph at lines 700--701
 
  []
 
-<graphics/chapter4/16.png, id=1324, 348.30125pt x 55.20625pt>
+<graphics/chapter4/16.png, id=1335, 348.30125pt x 55.20625pt>
 File: graphics/chapter4/16.png Graphic file (type png)
 
 <use graphics/chapter4/16.png>
@@ -2046,7 +2016,7 @@ Overfull \hbox (123.73506pt too wide) in paragraph at lines 791--792
 [][][][][][][][][][][][][][][][][][][][][][][] |
  []
 
-<graphics/chapter4/17.png, id=1383, 356.33125pt x 544.0325pt>
+<graphics/chapter4/17.png, id=1394, 356.33125pt x 544.0325pt>
 File: graphics/chapter4/17.png Graphic file (type png)
 
 <use graphics/chapter4/17.png>
@@ -2149,14 +2119,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 188--190
 
  []
 
-<graphics/tracking.png, id=1497, 1927.2pt x 1084.05pt>
+<graphics/tracking.png, id=1508, 1927.2pt x 1084.05pt>
 File: graphics/tracking.png Graphic file (type png)
 
 <use graphics/tracking.png>
 Package pdftex.def Info: graphics/tracking.png used on input line 203.
 (pdftex.def)             Requested size: 411.92859pt x 231.70982pt.
  [59]
-<graphics/arel.png, id=1511, 481.04718pt x 417.05812pt>
+<graphics/arel.png, id=1522, 481.04718pt x 417.05812pt>
 File: graphics/arel.png Graphic file (type png)
 
 <use graphics/arel.png>
@@ -2306,7 +2276,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 10--12
 
  []
 
-<graphics/dynamic.png, id=1630, 588.69937pt x 553.31718pt>
+<graphics/dynamic.png, id=1641, 588.69937pt x 553.31718pt>
 File: graphics/dynamic.png Graphic file (type png)
 
 <use graphics/dynamic.png>
@@ -2349,25 +2319,25 @@ $\T1/DejaVuSansMono/m/n/12 / / developer . mozilla . org / en-[]US / docs / Web
 [73
 
 ]
-Underfull \hbox (badness 1460) in paragraph at lines 100--103
+Underfull \hbox (badness 1460) in paragraph at lines 113--116
 \T1/DejaVuSansMono/m/n/12 line]. Avail-able: [][]$http : / / markfaction . word
 press . com / 2012 / 07 / 15 /$
  []
 
 
-Overfull \hbox (19.06956pt too wide) in paragraph at lines 100--103
+Overfull \hbox (19.06956pt too wide) in paragraph at lines 113--116
 $\T1/DejaVuSansMono/m/n/12 stack-[]based-[]vs-[]register-[]based-[]virtual-[]ma
 chine-[]architecture-[]and-[]the-[]dalvik-[]vm/$[][] |
  []
 
 
-Underfull \hbox (badness 5119) in paragraph at lines 142--145
+Underfull \hbox (badness 5119) in paragraph at lines 161--164
 []\T1/DejaVuSansMono/m/n/12 L. Vo-gel. (2013) An-droid de-vel-op-ment tu-to-ria
 l.
  []
 
 
-Underfull \hbox (badness 3078) in paragraph at lines 142--145
+Underfull \hbox (badness 3078) in paragraph at lines 161--164
 \T1/DejaVuSansMono/m/n/12 [On-line]. Avail-able: [][]$http : / / www . cs . vir
 ginia . edu / ~cs201 / labs /$
  []
@@ -2413,9 +2383,9 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 14625 strings out of 493921
- 212648 string characters out of 3147277
- 385700 words of memory out of 3000000
+ 14628 strings out of 493921
+ 212705 string characters out of 3147277
+ 385811 words of memory out of 3000000
  16757 multiletter control sequences out of 15000+200000
  25357 words of font info for 60 fonts, out of 3000000 for 9000
  855 hyphenation exceptions out of 8191
@@ -2439,9 +2409,9 @@ leksey\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecss1200.pk>
 ecsx2074.pk> <C:\Users\Aleksey\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappe
 n\ec\dpi600\ecss1728.pk><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfont
 s/cm/cmsy10.pfb>
-Output written on Diplomarbeit_KOPG_TGM.pdf (95 pages, 6563955 bytes).
+Output written on Diplomarbeit_KOPG_TGM.pdf (95 pages, 6567262 bytes).
 PDF statistics:
- 2516 PDF objects out of 2984 (max. 8388607)
- 732 named destinations out of 1000 (max. 500000)
+ 2533 PDF objects out of 2984 (max. 8388607)
+ 735 named destinations out of 1000 (max. 500000)
  1089 words of extra memory for PDF output out of 10000 (max. 10000000)
 
