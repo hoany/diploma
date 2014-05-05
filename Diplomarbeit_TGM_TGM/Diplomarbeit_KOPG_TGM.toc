@@ -1,0 +1,118 @@
+\contentsline {chapter}{List of Figures}{xi}{chapter*.5}
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Background and Motivation}{4}{section.1.1}
+\contentsline {subsection}{\numberline {1.1.1}Background}{4}{subsection.1.1.1}
+\contentsline {subsection}{\numberline {1.1.2}Motivation}{4}{subsection.1.1.2}
+\contentsline {section}{\numberline {1.2}Objectives of this Thesis}{4}{section.1.2}
+\contentsline {section}{\numberline {1.3}Methodology for the Developement}{4}{section.1.3}
+\contentsline {section}{\numberline {1.4}Thesis Outline}{4}{section.1.4}
+\contentsline {chapter}{\hbox to\@tempdima {\hfil }List of symbols}{1}{chapter*.6}
+\contentsline {chapter}{\numberline {2}Theoretical Basics}{5}{chapter.2}
+\contentsline {section}{\numberline {2.1}General}{5}{section.2.1}
+\contentsline {section}{\numberline {2.2}Augmented Reality}{7}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}What is Augmented Reality ?}{7}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Augmented reality vs Virtual Reality}{7}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.3}Companies for Augmented Reality}{7}{subsection.2.2.3}
+\contentsline {subsection}{\numberline {2.2.4}Google Glasses}{9}{subsection.2.2.4}
+\contentsline {subsection}{\numberline {2.2.5}Usage of Augmented Reality[8]}{11}{subsection.2.2.5}
+\contentsline {subsubsection}{\numberline {2.2.5.1}Military and Law Enforcement }{11}{subsubsection.2.2.5.1}
+\contentsline {subsubsection}{\numberline {2.2.5.2}Vehicles}{11}{subsubsection.2.2.5.2}
+\contentsline {subsubsection}{\numberline {2.2.5.3}Medical}{12}{subsubsection.2.2.5.3}
+\contentsline {subsubsection}{\numberline {2.2.5.4}Trail Rooms}{13}{subsubsection.2.2.5.4}
+\contentsline {subsubsection}{\numberline {2.2.5.5}Tourism}{13}{subsubsection.2.2.5.5}
+\contentsline {subsubsection}{\numberline {2.2.5.6}Architecture}{13}{subsubsection.2.2.5.6}
+\contentsline {subsubsection}{\numberline {2.2.5.7}Education}{14}{subsubsection.2.2.5.7}
+\contentsline {subsubsection}{\numberline {2.2.5.8}Art}{14}{subsubsection.2.2.5.8}
+\contentsline {subsubsection}{\numberline {2.2.5.9}Translation}{14}{subsubsection.2.2.5.9}
+\contentsline {subsubsection}{\numberline {2.2.5.10}Weather Forecasting}{14}{subsubsection.2.2.5.10}
+\contentsline {subsection}{\numberline {2.2.6}Future of Augmented Reality[10]}{15}{subsection.2.2.6}
+\contentsline {subsubsection}{\numberline {2.2.6.1}Virtual Experiences}{15}{subsubsection.2.2.6.1}
+\contentsline {subsubsection}{\numberline {2.2.6.2}Holograms}{15}{subsubsection.2.2.6.2}
+\contentsline {subsubsection}{\numberline {2.2.6.3}Video Conferencing}{15}{subsubsection.2.2.6.3}
+\contentsline {subsubsection}{\numberline {2.2.6.4}Movies}{16}{subsubsection.2.2.6.4}
+\contentsline {subsubsection}{\numberline {2.2.6.5}Gesture Control}{16}{subsubsection.2.2.6.5}
+\contentsline {subsection}{\numberline {2.2.7}Summary}{16}{subsection.2.2.7}
+\contentsline {section}{\numberline {2.3}Java}{17}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}What is Java}{17}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}Class Based \& Object Oriented}{17}{subsection.2.3.2}
+\contentsline {subsection}{\numberline {2.3.3}Design Patterns}{19}{subsection.2.3.3}
+\contentsline {subsection}{\numberline {2.3.4}Performance}{19}{subsection.2.3.4}
+\contentsline {subsection}{\numberline {2.3.5}JVM}{19}{subsection.2.3.5}
+\contentsline {subsection}{\numberline {2.3.6}Java bytecode}{20}{subsection.2.3.6}
+\contentsline {subsection}{\numberline {2.3.7}Java Code Execution Process}{20}{subsection.2.3.7}
+\contentsline {subsubsection}{\numberline {2.3.7.1}Class Loader}{21}{subsubsection.2.3.7.1}
+\contentsline {subsubsection}{\numberline {2.3.7.2}Runtime Data Areas}{22}{subsubsection.2.3.7.2}
+\contentsline {subsubsection}{\numberline {2.3.7.3}Execution Engine}{24}{subsubsection.2.3.7.3}
+\contentsline {subsection}{\numberline {2.3.8}.JAR File}{24}{subsection.2.3.8}
+\contentsline {subsubsection}{\numberline {2.3.8.1}Executable JAR }{24}{subsubsection.2.3.8.1}
+\contentsline {chapter}{\numberline {3}Integrated Development Environment}{25}{chapter.3}
+\contentsline {section}{\numberline {3.1}Andorid SDK Eclipse}{25}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Eclipse Workbench}{25}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {3.1.2}Android SDK}{26}{subsection.3.1.2}
+\contentsline {section}{\numberline {3.2}JetBrains WebStorm}{27}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Overview}{27}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Features}{27}{subsection.3.2.2}
+\contentsline {section}{\numberline {3.3}Visual Studio}{29}{section.3.3}
+\contentsline {chapter}{\numberline {4}Logic Implementation with JavaScript}{31}{chapter.4}
+\contentsline {section}{\numberline {4.1}Start Menu}{31}{section.4.1}
+\contentsline {section}{\numberline {4.2}Help}{33}{section.4.2}
+\contentsline {section}{\numberline {4.3}Start Menu}{34}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}JavaScript Functions}{35}{subsection.4.3.1}
+\contentsline {subsubsection}{\numberline {4.3.1.1}Start Timer}{35}{subsubsection.4.3.1.1}
+\contentsline {subsubsection}{\numberline {4.3.1.2}End Timer}{35}{subsubsection.4.3.1.2}
+\contentsline {subsubsection}{\numberline {4.3.1.3}Save time stamp}{35}{subsubsection.4.3.1.3}
+\contentsline {subsubsection}{\numberline {4.3.1.4}Set Parameters}{36}{subsubsection.4.3.1.4}
+\contentsline {subsubsection}{\numberline {4.3.1.5}Start Tracking}{36}{subsubsection.4.3.1.5}
+\contentsline {subsubsection}{\numberline {4.3.1.6}Review}{37}{subsubsection.4.3.1.6}
+\contentsline {subsubsection}{\numberline {4.3.1.7}Turn off}{37}{subsubsection.4.3.1.7}
+\contentsline {subsubsection}{\numberline {4.3.1.8}Home}{37}{subsubsection.4.3.1.8}
+\contentsline {subsubsection}{\numberline {4.3.1.9}Read car name}{37}{subsubsection.4.3.1.9}
+\contentsline {subsubsection}{\numberline {4.3.1.10}Save email}{38}{subsubsection.4.3.1.10}
+\contentsline {subsubsection}{\numberline {4.3.1.11}Save car}{39}{subsubsection.4.3.1.11}
+\contentsline {subsection}{\numberline {4.3.2}Used Functionalities}{40}{subsection.4.3.2}
+\contentsline {subsubsection}{\numberline {4.3.2.1}Session Storage}{41}{subsubsection.4.3.2.1}
+\contentsline {subsubsection}{\numberline {4.3.2.2}Local Storage}{41}{subsubsection.4.3.2.2}
+\contentsline {subsubsection}{\numberline {4.3.2.3}AJAX}{42}{subsubsection.4.3.2.3}
+\contentsline {subsection}{\numberline {4.3.3}GUI}{42}{subsection.4.3.3}
+\contentsline {subsubsection}{\numberline {4.3.3.1}Leasing Price}{44}{subsubsection.4.3.3.1}
+\contentsline {subsubsection}{\numberline {4.3.3.2}Technical Information}{44}{subsubsection.4.3.3.2}
+\contentsline {subsubsection}{\numberline {4.3.3.3}Pictures}{46}{subsubsection.4.3.3.3}
+\contentsline {subsubsection}{\numberline {4.3.3.4}Videos}{47}{subsubsection.4.3.3.4}
+\contentsline {subsubsection}{\numberline {4.3.3.5}Review}{48}{subsubsection.4.3.3.5}
+\contentsline {subsubsection}{\numberline {4.3.3.6}Get Favourites}{49}{subsubsection.4.3.3.6}
+\contentsline {subsubsection}{\numberline {4.3.3.7}Add to my Favourites}{50}{subsubsection.4.3.3.7}
+\contentsline {subsection}{\numberline {4.3.4}Slide Panel}{50}{subsection.4.3.4}
+\contentsline {section}{\numberline {4.4}My Favourites}{53}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}Loading of favourite cars}{53}{subsection.4.4.1}
+\contentsline {subsection}{\numberline {4.4.2}JS Functions}{55}{subsection.4.4.2}
+\contentsline {subsubsection}{\numberline {4.4.2.1}Delete favourite car}{55}{subsubsection.4.4.2.1}
+\contentsline {subsubsection}{\numberline {4.4.2.2}Delete all favourite cars}{56}{subsubsection.4.4.2.2}
+\contentsline {subsubsection}{\numberline {4.4.2.3}Select favourite car}{56}{subsubsection.4.4.2.3}
+\contentsline {section}{\numberline {4.5}About}{57}{section.4.5}
+\contentsline {chapter}{\numberline {5}Implementation in Android Java and Metaio Tracking}{61}{chapter.5}
+\contentsline {section}{\numberline {5.1}Android Platform}{61}{section.5.1}
+\contentsline {subsection}{\numberline {5.1.1}Android Operation System}{61}{subsection.5.1.1}
+\contentsline {subsection}{\numberline {5.1.2}Android user interface components}{61}{subsection.5.1.2}
+\contentsline {subsection}{\numberline {5.1.3}Develop an Android Application}{62}{subsection.5.1.3}
+\contentsline {subsection}{\numberline {5.1.4}Android Manifest}{62}{subsection.5.1.4}
+\contentsline {subsection}{\numberline {5.1.5}Creating an activity}{63}{subsection.5.1.5}
+\contentsline {subsection}{\numberline {5.1.6}Android web-view}{63}{subsection.5.1.6}
+\contentsline {subsection}{\numberline {5.1.7}Java JavaScript Communication}{63}{subsection.5.1.7}
+\contentsline {subsubsection}{\numberline {5.1.7.1}JavaScript Android Interface}{64}{subsubsection.5.1.7.1}
+\contentsline {section}{\numberline {5.2}Working with the Metaio SDK}{64}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}Who is Metaio}{64}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {5.2.2}Other Augmented Reality SDK's}{64}{subsection.5.2.2}
+\contentsline {subsection}{\numberline {5.2.3}Metaio Toolbox}{65}{subsection.5.2.3}
+\contentsline {subsection}{\numberline {5.2.4}AREL ( Augmented Reality Experience Language )}{66}{subsection.5.2.4}
+\contentsline {subsection}{\numberline {5.2.5}Tracking XML}{68}{subsection.5.2.5}
+\contentsline {subsection}{\numberline {5.2.6}Extracting the Tracking XML in Android}{68}{subsection.5.2.6}
+\contentsline {subsubsection}{\numberline {5.2.6.1}Loading the Tracking XML}{70}{subsubsection.5.2.6.1}
+\contentsline {section}{\numberline {5.3}Track Objects}{70}{section.5.3}
+\contentsline {chapter}{\numberline {6}Design Concept}{73}{chapter.6}
+\contentsline {section}{\numberline {6.1}Video Gallery}{73}{section.6.1}
+\contentsline {subsection}{\numberline {6.1.1}Implementation}{75}{subsection.6.1.1}
+\contentsline {section}{\numberline {6.2}hallo}{75}{section.6.2}
+\contentsline {chapter}{Glossary}{76}{section.6.2}
+\contentsline {chapter}{\numberline {A}Appendix}{77}{appendix.A}
+\contentsline {chapter}{Bibliography}{79}{section*.7}
+\contentsline {chapter}{Bibliography}{79}{appendix*.8}
