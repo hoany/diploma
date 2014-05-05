@@ -39,6 +39,13 @@ R.~Wang. (2013) java run time data aarea 2. [Online]. Available:
   \url{http://java.dzone.com/articles/jvm-run-time-data-areas}
 \BIBentrySTDinterwordspacing
 
+\bibitem{ajax}
+\BIBentryALTinterwordspacing
+w3schools. (2014) \BIBforeignlanguage{English}{Ajax introduction}. online.
+  W3Schools. [Online]. Available:
+  \url{http://www.w3schools.com/ajax/ajax_intro.asp}
+\BIBentrySTDinterwordspacing
+
 \bibitem{localstorageapi}
 \BIBentryALTinterwordspacing
 P.~Fox. (May 28 2012) The localstorage api. [Online]. Available:
@@ -144,10 +151,52 @@ M.~Rouse. (2005) Java jar archive. [Online]. Available:
   \url{http://searchdatamanagement.techtarget.com/definition/JAR-file}
 \BIBentrySTDinterwordspacing
 
+\bibitem{xml}
+\BIBentryALTinterwordspacing
+w3. (2013, 10) \BIBforeignlanguage{English}{Extensible markup language (xml)}.
+  online. W3C. [Online]. Available: \url{http://www.w3.org/XML/}
+\BIBentrySTDinterwordspacing
+
+\bibitem{xmlHttp}
+\BIBentryALTinterwordspacing
+w3schools. (2014) \BIBforeignlanguage{English}{The xmlhttprequest object}.
+  online. W3Schools. [Online]. Available:
+  \url{http://www.w3schools.com/xml/xml_http.asp}
+\BIBentrySTDinterwordspacing
+
+\bibitem{azure}
+\BIBentryALTinterwordspacing
+Microsoft. (2014) What is azure? [Online]. Available: \url{30.04.2014}
+\BIBentrySTDinterwordspacing
+
+\bibitem{azureOver}
+\BIBentryALTinterwordspacing
+system center. (2014) Azure overview. [Online]. Available:
+  \url{http://www.system-center.fr/wp-content/uploads/2012/10/how_it_works_slide_3-Azure.jpg}
+\BIBentrySTDinterwordspacing
+
+\bibitem{sqlserver}
+\BIBentryALTinterwordspacing
+Microsoft. (2014) Sql server. [Online]. Available:
+  \url{https://www.microsoft.com/sql}
+\BIBentrySTDinterwordspacing
+
+\bibitem{navOver}
+\BIBentryALTinterwordspacing
+Microsoft. (2014) Microsoft dynamics nav. [Online]. Available:
+  \url{http://www.microsoft.com/en-us/dynamics/erp-nav-overview.aspx}
+\BIBentrySTDinterwordspacing
+
 \bibitem{webstorm}
 \BIBentryALTinterwordspacing
 WebStorm. (2014) Webstorm - the smartest javascjava ide. [Online]. Available:
   \url{http://www.jetbrains.com/webstorm/}
+\BIBentrySTDinterwordspacing
+
+\bibitem{vstudio1}
+\BIBentryALTinterwordspacing
+M.~us/products/visual-studio-online-overview vs.aspx. (2014) Any app, any team.
+  [Online]. Available: \url{http://www.visualstudio.com/en-us/dn469161}
 \BIBentrySTDinterwordspacing
 
 \bibitem{w3school}

@@ -10,11 +10,14 @@ A level-1 auxiliary file: tex/chapter3.aux
 A level-1 auxiliary file: tex/chapter4.aux
 A level-1 auxiliary file: tex/chapter5.aux
 A level-1 auxiliary file: tex/chapter6.aux
+A level-1 auxiliary file: tex/chapter7.aux
+A level-1 auxiliary file: tex/chapter8.aux
+A level-1 auxiliary file: tex/chapter9.aux
 A level-1 auxiliary file: tex/appendix.aux
 The style file: sty/IEEEtranS.bst
 A level-1 auxiliary file: tex/eid.aux
 Database file #1: tex/bib_file.bib
-Repeated entry---line 659 of file tex/bib_file.bib
+Repeated entry---line 759 of file tex/bib_file.bib
  : @online{webstorm
  :                 ,
 I'm skipping whatever remains of this entry

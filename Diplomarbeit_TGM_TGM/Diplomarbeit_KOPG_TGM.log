@@ -1,7 +1,9 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.2.3)  5 MAY 2014 20:46
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.4.24)  5 MAY 2014 21:52
 entering extended mode
 **Diplomarbeit_KOPG_TGM.tex
-(D:\GitHub\Project\diploma\Diplomarbeit_TGM_TGM\Diplomarbeit_KOPG_TGM.tex
+
+(C:\Users\Michi\Favorites\Documents\Eclipse\Project\diploma\Diplomarbeit_TGM_TG
+M\Diplomarbeit_KOPG_TGM.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -31,7 +33,7 @@ File: bk12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\latex\ntgclass\a4.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\ntgclass\a4.sty"
 Package: a4 2004/04/15 v1.2g A4 based page layout
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\fontenc.sty"
@@ -110,7 +112,7 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
 LaTeX Info: Redefining \[ on input line 2665.
 LaTeX Info: Redefining \] on input line 2666.
 )
-(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\latex\fncychap\fncychap.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\fncychap\fncychap.sty"
 Package: fncychap 2007/07/30 v1.34 LaTeX package (Revised chapters)
 \RW=\skip46
 \mylen=\skip47
@@ -120,7 +122,7 @@ Package: fncychap 2007/07/30 v1.34 LaTeX package (Revised chapters)
 \pyy=\skip51
 \pxx=\skip52
 )
-(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\latex\nomencl\nomencl.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\nomencl\nomencl.sty"
 Package: nomencl 2005/09/22 v4.2 Nomenclature package (LN)
 \nomlabelwidth=\dimen112
 \nom@tempdim=\dimen113
@@ -161,7 +163,7 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen114
 \Gin@req@width=\dimen115
 )
-(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\latex\psfrag\psfrag.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\psfrag\psfrag.sty"
 Package: psfrag 1998/04/11 v3.04 PSfrag (MCG)
 \pfg@pcount=\count101
 \pfg@scount=\count102
@@ -175,7 +177,7 @@ File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
 Package color Info: Driver file: pdftex.def on input line 130.
 )
-(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\latex\units\nicefrac.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\units\nicefrac.sty"
 Package: nicefrac 1998/08/04 v0.9b Nice fractions
 \L@UnitsRaiseDisplaystyle=\skip54
 \L@UnitsRaiseTextstyle=\skip55
@@ -184,7 +186,7 @@ Package: nicefrac 1998/08/04 v0.9b Nice fractions
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty"
 Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
 ))
-(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\latex\fancyhdr\fancyhdr.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr.sty"
 \fancy@headwidth=\skip57
 \f@ncyO@elh=\skip58
 \f@ncyO@erh=\skip59
@@ -195,7 +197,7 @@ Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
 \f@ncyO@olf=\skip64
 \f@ncyO@orf=\skip65
 )
-(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\latex\subfigure\subfigure.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\subfigure\subfigure.sty"
 Package: subfigure 2002/07/30 v2.1.4 subfigure package
 \subfigtopskip=\skip66
 \subfigcapskip=\skip67
@@ -211,14 +213,14 @@ Package: subfigure 2002/07/30 v2.1.4 subfigure package
 ****************************************
 * Local config file subfigure.cfg used *
 ****************************************
-(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\latex\subfigure\subfigure.cfg)
+("C:\Program Files\MiKTeX 2.9\tex\latex\subfigure\subfigure.cfg")
 \subfig@top=\skip70
 \subfig@bottom=\skip71
 )
-(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\latex\glossaries\base\glossari
-es.sty
-Package: glossaries 2014/01/20 v4.03 (NLCT)
- ("C:\Program Files\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\glossaries\base\glossaries.sty"
+Package: glossaries 2014/04/04 v4.07 (NLCT)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.sty"
 Package: xkeyval 2012/10/14 v2.6b package option processing (HA)
 
 ("C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\xkeyval.tex"
@@ -227,11 +229,10 @@ Package: xkeyval 2012/10/14 v2.6b package option processing (HA)
 \XKV@depth=\count107
 File: xkeyval.tex 2012/10/14 v2.6b key=value parser (HA)
 ))
-(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\latex\glossaries\base\mfirstuc
-.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\glossaries\base\mfirstuc.sty"
 Package: mfirstuc 2013/11/04 v1.08 (NLCT)
 
-(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\latex\etoolbox\etoolbox.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\etoolbox\etoolbox.sty"
 Package: etoolbox 2011/01/03 v2.1 e-TeX tools for LaTeX
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\misc\etex.sty"
@@ -243,30 +244,31 @@ Package: etex 1998/03/26 v2.0 eTeX basic definition package (PEB)
 \@glsmfirst=\toks23
 \@glsmrest=\toks24
 )
-(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\latex\textcase\textcase.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\textcase\textcase.sty"
 Package: textcase 2004/10/07 v0.07 Text only upper/lower case changing (DPC)
 )
-(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\latex\xfor\xfor.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\xfor\xfor.sty"
 Package: xfor 2009/02/05 v1.05 (NLCT)
 )
-(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\latex\datatool\datatool-base.s
-ty
+("C:\Program Files\MiKTeX 2.9\tex\latex\datatool\datatool-base.sty"
 Package: datatool-base 2013/09/06 v2.18 (NLCT)
- (C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\latex\substr\substr.sty
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\substr\substr.sty"
 Package: substr 2009/10/20 v1.2 Handle substrings
 \c@su@anzahl=\count110
 )
-(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\latex\datatool\datatool-fp.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\datatool\datatool-fp.sty"
 Package: datatool-fp 2013/08/29 v2.17 (NLCT)
-(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\latex\fp\fp.sty
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\fp\fp.sty"
 Package: fp 1995/04/02
 
 `Fixed Point Package', Version 0.8, April 2, 1995 (C) Michael Mehlich
-(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\latex\fp\defpattern.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\fp\defpattern.sty"
 Package: defpattern 1994/10/12
 \actioncount=\count111
 )
-(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\latex\fp\fp-basic.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\fp\fp-basic.sty"
 Package: fp-basic 1996/05/13
 \FP@xs=\count112
 \FP@xia=\count113
@@ -278,32 +280,32 @@ Package: fp-basic 1996/05/13
 \FP@regs=\count119
 \FP@times=\count120
 )
-(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\latex\fp\fp-addons.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\fp\fp-addons.sty"
 Package: fp-addons 1995/03/15
 )
-(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\latex\fp\fp-snap.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\fp\fp-snap.sty"
 Package: fp-snap 1995/04/05
 )
-(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\latex\fp\fp-exp.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\fp\fp-exp.sty"
 Package: fp-exp 1995/04/03
 )
-(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\latex\fp\fp-trigo.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\fp\fp-trigo.sty"
 Package: fp-trigo 1995/04/14
 )
-(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\latex\fp\fp-pas.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\fp\fp-pas.sty"
 Package: fp-pas 1994/08/29
 )
-(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\latex\fp\fp-random.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\fp\fp-random.sty"
 Package: fp-random 1995/02/23
 \FPseed=\count121
 )
-(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\latex\fp\fp-eqn.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\fp\fp-eqn.sty"
 Package: fp-eqn 1995/04/03
 )
-(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\latex\fp\fp-upn.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\fp\fp-upn.sty"
 Package: fp-upn 1996/10/21
 )
-(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\latex\fp\fp-eval.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\fp\fp-eval.sty"
 Package: fp-eval 1995/04/03
 )))
 \@dtl@toks=\toks25
@@ -316,32 +318,28 @@ Package: fp-eval 1995/04/03
 \dtl@codeB=\count127
 \@dtl@foreach@level=\count128
 )
-(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\latex\glossaries\base\glossari
-es-compatible-307.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\glossaries\base\glossaries-compatible-3
+07.sty"
 Package: glossaries-compatible-307 2013/11/14 v4.0 (NLCT)
 )
 \gls@level=\count129
 \@gls@tmpb=\toks26
 \gls@tmplen=\skip73
-\glswrite=\write4
 \glskeylisttok=\toks27
 \glslabeltok=\toks28
 \glsshorttok=\toks29
 \glslongtok=\toks30
 
-(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\latex\glossaries\styles\glossa
-ry-hypernav.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\glossaries\styles\glossary-hypernav.sty
+"
 Package: glossary-hypernav 2013/11/14 v4.0 (NLCT)
-)
-(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\latex\glossaries\styles\glossa
-ry-list.sty
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\glossaries\styles\glossary-list.sty"
 Package: glossary-list 2013/11/14 v4.0 (NLCT)
 \glslistdottedwidth=\skip74
-)
-(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\latex\glossaries\styles\glossa
-ry-long.sty
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\glossaries\styles\glossary-long.sty"
 Package: glossary-long 2013/11/14 v4.0 (NLCT)
- ("C:\Program Files\MiKTeX 2.9\tex\latex\tools\longtable.sty"
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\longtable.sty"
 Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
 \LTleft=\skip75
 \LTright=\skip76
@@ -362,12 +360,10 @@ Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
 \glsdescwidth=\skip79
 \glspagelistwidth=\skip80
 )
-(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\latex\glossaries\styles\glossa
-ry-super.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\glossaries\styles\glossary-super.sty"
 Package: glossary-super 2013/11/14 v4.0 (NLCT)
 
-(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\latex\supertabular\supertabula
-r.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\supertabular\supertabular.sty"
 Package: supertabular 2004/02/20 v4.1e the supertabular environment
 \c@tracingst=\count135
 \ST@wd=\dimen119
@@ -386,17 +382,16 @@ Package: supertabular 2004/02/20 v4.1e the supertabular environment
 \ST@dimen=\dimen129
 \ST@pbox=\box32
 ))
-(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\latex\glossaries\styles\glossa
-ry-tree.sty
-Package: glossary-tree 2013/11/14 v4.0 (NLCT)
+("C:\Program Files\MiKTeX 2.9\tex\latex\glossaries\styles\glossary-tree.sty"
+Package: glossary-tree 2014/03/06 v4.04 (NLCT)
 \glstreeindent=\skip84
 ))
-(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\latex\cite\cite.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\cite\cite.sty"
 LaTeX Info: Redefining \cite on input line 302.
 LaTeX Info: Redefining \nocite on input line 373.
 Package: cite 2010/09/10  v 5.3
 )
-(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\listings.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.sty"
 \lst@mode=\count136
 \lst@gtempboxa=\box33
 \lst@token=\toks32
@@ -410,18 +405,18 @@ Package: cite 2010/09/10  v 5.3
 \lst@lineno=\count141
 \lst@maxwidth=\dimen133
 
-(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\lstmisc.sty
-File: lstmisc.sty 2013/08/26 1.5b (Carsten Heinz)
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstmisc.sty"
+File: lstmisc.sty 2014/03/04 1.5c (Carsten Heinz)
 \c@lstnumber=\count142
 \lst@skipnumbers=\count143
 \lst@framebox=\box34
 )
-(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\listings.cfg
-File: listings.cfg 2013/08/26 1.5b listings configuration
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.cfg"
+File: listings.cfg 2014/03/04 1.5c listings configuration
 ))
-Package: listings 2013/08/26 1.5b (Carsten Heinz)
+Package: listings 2014/03/04 1.5c (Carsten Heinz)
 
-(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\latex\xcolor\xcolor.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
 Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
@@ -442,7 +437,7 @@ Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\dvipsnam.def"
 File: dvipsnam.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
 ))
-(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\latex\rotating\rotating.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\rotating\rotating.sty"
 Package: rotating 2009/03/28 v2.16a rotated objects in LaTeX
 \c@r@tfl@t=\count144
 \rotFPtop=\skip85
@@ -458,7 +453,7 @@ Package: inputenc 2008/03/30 v1.1d Input encoding file
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\ansinew.def"
 File: ansinew.def 2008/03/30 v1.1d Input encoding file
 ))
-(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\latex\tocbibind\tocbibind.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\tocbibind\tocbibind.sty"
 Package: tocbibind 2010/10/13 v1.5k extra ToC listings
 Package tocbibind Info: The document has chapter divisions on input line 50.
 
@@ -558,7 +553,7 @@ Package hyperref Info: Backreferencing OFF on input line 4463.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4688.
 \c@Hy@tempcnt=\count149
-(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\latex\url\url.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\url\url.sty"
 \Urlmuskip=\muskip11
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
@@ -595,7 +590,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip87
 )
-\@nomenclaturefile=\write5
+\@nomenclaturefile=\write4
 
 Writing nomenclature file Diplomarbeit_KOPG_TGM.nlo
 \c@theorem=\count156
@@ -619,32 +614,56 @@ Writing nomenclature file Diplomarbeit_KOPG_TGM.nlo
 \c@remark=\count174
 \c@solution=\count175
 \c@summary=\count176
+\glswrite=\write5
 \glo@main@file=\write6
 Package glossaries Info: Writing glossary file Diplomarbeit_KOPG_TGM.glo on inp
 ut line 210.
 \glo@acronym@file=\write7
 Package glossaries Info: Writing glossary file Diplomarbeit_KOPG_TGM.acn on inp
 ut line 210.
-(D:\GitHub\Project\diploma\Diplomarbeit_TGM_TGM\Diplomarbeit_KOPG_TGM.aux
-(D:\GitHub\Project\diploma\Diplomarbeit_TGM_TGM\tex/title.aux)
-(D:\GitHub\Project\diploma\Diplomarbeit_TGM_TGM\tex/prefacea.aux)
-(D:\GitHub\Project\diploma\Diplomarbeit_TGM_TGM\tex/abstracta.aux)
-(D:\GitHub\Project\diploma\Diplomarbeit_TGM_TGM\tex/kurzzfsg.aux)
-(D:\GitHub\Project\diploma\Diplomarbeit_TGM_TGM\tex/nomenclature.aux)
-(D:\GitHub\Project\diploma\Diplomarbeit_TGM_TGM\tex/chapter1.aux
+
+(C:\Users\Michi\Favorites\Documents\Eclipse\Project\diploma\Diplomarbeit_TGM_TG
+M\Diplomarbeit_KOPG_TGM.aux
+(C:\Users\Michi\Favorites\Documents\Eclipse\Project\diploma\Diplomarbeit_TGM_TG
+M\tex/title.aux)
+(C:\Users\Michi\Favorites\Documents\Eclipse\Project\diploma\Diplomarbeit_TGM_TG
+M\tex/prefacea.aux)
+(C:\Users\Michi\Favorites\Documents\Eclipse\Project\diploma\Diplomarbeit_TGM_TG
+M\tex/abstracta.aux)
+(C:\Users\Michi\Favorites\Documents\Eclipse\Project\diploma\Diplomarbeit_TGM_TG
+M\tex/kurzzfsg.aux)
+(C:\Users\Michi\Favorites\Documents\Eclipse\Project\diploma\Diplomarbeit_TGM_TG
+M\tex/nomenclature.aux)
+(C:\Users\Michi\Favorites\Documents\Eclipse\Project\diploma\Diplomarbeit_TGM_TG
+M\tex/chapter1.aux
 
 LaTeX Warning: Label `fig:tgmlogo' multiply defined.
 
-) (D:\GitHub\Project\diploma\Diplomarbeit_TGM_TGM\tex/chapter2.aux)
-(D:\GitHub\Project\diploma\Diplomarbeit_TGM_TGM\tex/chapter3.aux)
-(D:\GitHub\Project\diploma\Diplomarbeit_TGM_TGM\tex/chapter4.aux)
-(D:\GitHub\Project\diploma\Diplomarbeit_TGM_TGM\tex/chapter5.aux)
-(D:\GitHub\Project\diploma\Diplomarbeit_TGM_TGM\tex/chapter6.aux
+)
+(C:\Users\Michi\Favorites\Documents\Eclipse\Project\diploma\Diplomarbeit_TGM_TG
+M\tex/chapter2.aux)
+(C:\Users\Michi\Favorites\Documents\Eclipse\Project\diploma\Diplomarbeit_TGM_TG
+M\tex/chapter3.aux)
+(C:\Users\Michi\Favorites\Documents\Eclipse\Project\diploma\Diplomarbeit_TGM_TG
+M\tex/chapter4.aux)
+(C:\Users\Michi\Favorites\Documents\Eclipse\Project\diploma\Diplomarbeit_TGM_TG
+M\tex/chapter5.aux)
+(C:\Users\Michi\Favorites\Documents\Eclipse\Project\diploma\Diplomarbeit_TGM_TG
+M\tex/chapter6.aux
 
 LaTeX Warning: Label `chapter:desgin' multiply defined.
 
-) (D:\GitHub\Project\diploma\Diplomarbeit_TGM_TGM\tex/appendix.aux)
-(D:\GitHub\Project\diploma\Diplomarbeit_TGM_TGM\tex/eid.aux))
+)
+(C:\Users\Michi\Favorites\Documents\Eclipse\Project\diploma\Diplomarbeit_TGM_TG
+M\tex/chapter7.aux)
+(C:\Users\Michi\Favorites\Documents\Eclipse\Project\diploma\Diplomarbeit_TGM_TG
+M\tex/chapter8.aux)
+(C:\Users\Michi\Favorites\Documents\Eclipse\Project\diploma\Diplomarbeit_TGM_TG
+M\tex/chapter9.aux)
+(C:\Users\Michi\Favorites\Documents\Eclipse\Project\diploma\Diplomarbeit_TGM_TG
+M\tex/appendix.aux)
+(C:\Users\Michi\Favorites\Documents\Eclipse\Project\diploma\Diplomarbeit_TGM_TG
+M\tex/eid.aux))
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 216.
 LaTeX Font Info:    ... okay on input line 216.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 216.
@@ -659,8 +678,7 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 216.
 LaTeX Font Info:    ... okay on input line 216.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 216.
 LaTeX Font Info:    ... okay on input line 216.
-
-(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
+ ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count177
 \scratchdimen=\dimen138
@@ -689,17 +707,19 @@ LaTeX Info: Redefining \ref on input line 216.
 LaTeX Info: Redefining \pageref on input line 216.
 LaTeX Info: Redefining \nameref on input line 216.
 
-(D:\GitHub\Project\diploma\Diplomarbeit_TGM_TGM\Diplomarbeit_KOPG_TGM.out)
-(D:\GitHub\Project\diploma\Diplomarbeit_TGM_TGM\Diplomarbeit_KOPG_TGM.out)
+(C:\Users\Michi\Favorites\Documents\Eclipse\Project\diploma\Diplomarbeit_TGM_TG
+M\Diplomarbeit_KOPG_TGM.out)
+(C:\Users\Michi\Favorites\Documents\Eclipse\Project\diploma\Diplomarbeit_TGM_TG
+M\Diplomarbeit_KOPG_TGM.out)
 \@outlinefile=\write8
 
-(D:\GitHub\Project\diploma\Diplomarbeit_TGM_TGM\tex/title.tex
+(C:\Users\Michi\Favorites\Documents\Eclipse\Project\diploma\Diplomarbeit_TGM_TG
+M\tex/title.tex
 LaTeX Font Info:    Try loading font information for T1+cmss on input line 42.
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1cmss.fd"
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1cmss.fd"
 File: t1cmss.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
-<graphics/title/tgmlogo2.png, id=466, 376.5267pt x 121.29315pt>
+<graphics/title/tgmlogo2.png, id=578, 376.5267pt x 121.29315pt>
 File: graphics/title/tgmlogo2.png Graphic file (type png)
 
 <use graphics/title/tgmlogo2.png>
@@ -710,8 +730,9 @@ Non-PDF special ignored!
 
 
 
-{C:/Users/Aleksey/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <D:/GitHub
-/Project/diploma/Diplomarbeit_TGM_TGM/graphics/title/tgmlogo2.png>] [2
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/Michi/Favorites/
+Documents/Eclipse/Project/diploma/Diplomarbeit_TGM_TGM/graphics/title/tgmlogo2.
+png>] [2
 
 ]pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
  been already used, duplicate ignored
@@ -727,25 +748,30 @@ l.221 \frontmatter
 [2
 
 
-] (D:\GitHub\Project\diploma\Diplomarbeit_TGM_TGM\tex/prefacea.tex) [1
+]
+(C:\Users\Michi\Favorites\Documents\Eclipse\Project\diploma\Diplomarbeit_TGM_TG
+M\tex/prefacea.tex) [1
 
 
 ]
-(D:\GitHub\Project\diploma\Diplomarbeit_TGM_TGM\tex/abstracta.tex [2
+(C:\Users\Michi\Favorites\Documents\Eclipse\Project\diploma\Diplomarbeit_TGM_TG
+M\tex/abstracta.tex [2
 
 
 
 ]) [3]
-(D:\GitHub\Project\diploma\Diplomarbeit_TGM_TGM\tex/kurzzfsg.tex [4
+(C:\Users\Michi\Favorites\Documents\Eclipse\Project\diploma\Diplomarbeit_TGM_TG
+M\tex/kurzzfsg.tex [4
 
 
 
-]) [5]
-[6
+]) [5] [6
 
 
 
-] (D:\GitHub\Project\diploma\Diplomarbeit_TGM_TGM\Diplomarbeit_KOPG_TGM.toc
+]
+(C:\Users\Michi\Favorites\Documents\Eclipse\Project\diploma\Diplomarbeit_TGM_TG
+M\Diplomarbeit_KOPG_TGM.toc
 LaTeX Font Info:    Try loading font information for U+msa on input line 3.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
@@ -755,38 +781,37 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 3.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [7] [8] [9])
+) [7] [8] [9] [10])
 \tf@toc=\write9
 
-[10] (D:\GitHub\Project\diploma\Diplomarbeit_TGM_TGM\Diplomarbeit_KOPG_TGM.lof
-[11
+[11] [12
 
 
-])
+]
+(C:\Users\Michi\Favorites\Documents\Eclipse\Project\diploma\Diplomarbeit_TGM_TG
+M\Diplomarbeit_KOPG_TGM.lof [13])
 \tf@lof=\write10
- [12]
-(D:\GitHub\Project\diploma\Diplomarbeit_TGM_TGM\Diplomarbeit_KOPG_TGM.lol
-[13
+ [14]
+(C:\Users\Michi\Favorites\Documents\Eclipse\Project\diploma\Diplomarbeit_TGM_TG
+M\Diplomarbeit_KOPG_TGM.lol [15
 
 
 ])
 \tf@lol=\write11
- [14] (D:\GitHub\Project\diploma\Diplomarbeit_TGM_TGM\tex/nomenclature.tex)
+ [16]
+(C:\Users\Michi\Favorites\Documents\Eclipse\Project\diploma\Diplomarbeit_TGM_TG
+M\tex/nomenclature.tex)
 No file Diplomarbeit_KOPG_TGM.nls.
-(D:\GitHub\Project\diploma\Diplomarbeit_TGM_TGM\tex/chapter1.tex
+
+(C:\Users\Michi\Favorites\Documents\Eclipse\Project\diploma\Diplomarbeit_TGM_TG
+M\tex/chapter1.tex
 Chapter 1.
-<graphics/title/tgmlogo.pdf, id=831, 376.40625pt x 121.20282pt>
+<graphics/title/tgmlogo.pdf, id=1021, 376.40625pt x 121.20282pt>
 File: graphics/title/tgmlogo.pdf Graphic file (type pdf)
 
 <use graphics/title/tgmlogo.pdf>
 Package pdftex.def Info: graphics/title/tgmlogo.pdf used on input line 20.
 (pdftex.def)             Requested size: 164.77298pt x 53.05753pt.
-
-Overfull \hbox (9.24869pt too wide) in paragraph at lines 32--36
-[]\T1/cmr/m/n/12 Anmeldung zur Pro-jek-t-woche am Turn-ersee [[][]9[][]] Als Er
-ziehungs-berechtigte(r) meines|
- []
-
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
@@ -800,9 +825,11 @@ l.36
 
 
 
- <D:/GitHub/Project/diploma/Diplomarbeit_TGM_TGM/graphics/title/tgmlogo.pdf>]
+ <C:/Users/Michi/Favorites/Documents/Eclipse/Project/diploma/Diplomarbeit_TGM_T
+GM/graphics/title/tgmlogo.pdf>]
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 42.
- ("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
@@ -819,7 +846,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 47--51
 
 [3
 
-]) [4] (D:\GitHub\Project\diploma\Diplomarbeit_TGM_TGM\tex/chapter2.tex
+]) [4]
+(C:\Users\Michi\Favorites\Documents\Eclipse\Project\diploma\Diplomarbeit_TGM_TG
+M\tex/chapter2.tex
 Chapter 2.
 
 Underfull \hbox (badness 10000) in paragraph at lines 4--9
@@ -875,13 +904,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 41--50
 
  []
 
-<graphics/ARpad.png, id=886, 282.1815pt x 188.8875pt>
+<graphics/ARpad.png, id=1075, 282.1815pt x 188.8875pt>
 File: graphics/ARpad.png Graphic file (type png)
- <use graphics/ARpad.png>
+
+<use graphics/ARpad.png>
 Package pdftex.def Info: graphics/ARpad.png used on input line 53.
 (pdftex.def)             Requested size: 240.0061pt x 160.65599pt.
 
-<graphics/GoogleGlasses.jpg, id=888, 1464.93243pt x 824.26865pt>
+<graphics/GoogleGlasses.jpg, id=1077, 1464.93243pt x 824.26865pt>
 File: graphics/GoogleGlasses.jpg Graphic file (type jpg)
 
 <use graphics/GoogleGlasses.jpg>
@@ -900,8 +930,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 57--64
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [8 <D:/GitHub/Project/diploma/Diplomarbeit_TGM_TGM/graphics/ARpad.png>]
-<graphics/googlefunctions.png, id=894, 642.4pt x 361.35pt>
+ [8 <C:/Users/Michi/Favorites/Documents/Eclipse/Project/diploma/Diplomarbeit_TG
+M_TGM/graphics/ARpad.png>] <graphics/googlefunctions.png, id=1083, 642.4pt x 36
+1.35pt>
 File: graphics/googlefunctions.png Graphic file (type png)
 
 <use graphics/googlefunctions.png>
@@ -957,8 +988,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 65--96
 
  []
 
-[9 <D:/GitHub/Project/diploma/Diplomarbeit_TGM_TGM/graphics/GoogleGlasses.jpg>]
-
+[9 <C:/Users/Michi/Favorites/Documents/Eclipse/Project/diploma/Diplomarbeit_TGM
+_TGM/graphics/GoogleGlasses.jpg>]
 Underfull \hbox (badness 10000) in paragraph at lines 100--106
 
  []
@@ -973,8 +1004,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 100--106
 
  []
 
-[10 <D:/GitHub/Project/diploma/Diplomarbeit_TGM_TGM/graphics/googlefunctions.pn
-g>] <graphics/smartcar.png, id=904, 209.583pt x 253.602pt>
+[10 <C:/Users/Michi/Favorites/Documents/Eclipse/Project/diploma/Diplomarbeit_TG
+M_TGM/graphics/googlefunctions.png>]
+<graphics/smartcar.png, id=1093, 209.583pt x 253.602pt>
 File: graphics/smartcar.png Graphic file (type png)
 
 <use graphics/smartcar.png>
@@ -1010,7 +1042,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 121--130
 
  []
 
-[12 <D:/GitHub/Project/diploma/Diplomarbeit_TGM_TGM/graphics/smartcar.png>]
+[12 <C:/Users/Michi/Favorites/Documents/Eclipse/Project/diploma/Diplomarbeit_TG
+M_TGM/graphics/smartcar.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 131--134
 
  []
@@ -1131,7 +1164,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 179--188
 
  []
 
-<graphics/statistics.png, id=927, 622.325pt x 438.63875pt>
+<graphics/statistics.png, id=1116, 622.325pt x 438.63875pt>
 File: graphics/statistics.png Graphic file (type png)
 
 <use graphics/statistics.png>
@@ -1168,21 +1201,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 213--215
 
 LaTeX Warning: Citation `ObjectClass' on page 17 undefined on input line 220.
 
-[17 <D:/GitHub/Project/diploma/Diplomarbeit_TGM_TGM/graphics/statistics.png>]
-<graphics/java_subclass.png, id=946, 179.92218pt x 135.50626pt>
+[17 <C:/Users/Michi/Favorites/Documents/Eclipse/Project/diploma/Diplomarbeit_TG
+M_TGM/graphics/statistics.png>]
+<graphics/java_subclass.png, id=1136, 179.92218pt x 135.50626pt>
 File: graphics/java_subclass.png Graphic file (type png)
 
 <use graphics/java_subclass.png>
 Package pdftex.def Info: graphics/java_subclass.png used on input line 234.
 (pdftex.def)             Requested size: 239.00797pt x 180.006pt.
- [18 <D:/GitHub/Project/diploma/Diplomarbeit_TGM_TGM/graphics/java_subclass.png
->]
+ [18 <C:/Users/Michi/Favorites/Documents/Eclipse/Project/diploma/Diplomarbeit_T
+GM_TGM/graphics/java_subclass.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 260--262
 
  []
 
 [19]
-<graphics/java-code-execution-process.png, id=982, 354.32375pt x 384.43625pt>
+<graphics/java-code-execution-process.png, id=1171, 354.32375pt x 384.43625pt>
 File: graphics/java-code-execution-process.png Graphic file (type png)
 
 <use graphics/java-code-execution-process.png>
@@ -1195,20 +1229,110 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [20]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [21 <D:/GitHub/Project/diploma/Diplomarbeit_TGM_TGM/graphics/java-code-executi
-on-process.png>]
-(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\lstlang1.sty
-File: lstlang1.sty 2013/08/26 1.5b listings language file
-)
-[22] <graphics/java-data-areas.png, id=1021, 373.395pt x 270.25969pt>
+ [21 <C:/Users/Michi/Favorites/Documents/Eclipse/Project/diploma/Diplomarbeit_T
+GM_TGM/graphics/java-code-execution-process.png>]
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstlang1.sty"
+File: lstlang1.sty 2014/03/04 1.5c listings language file
+) [22]
+<graphics/java-data-areas.png, id=1210, 373.395pt x 270.25969pt>
 File: graphics/java-data-areas.png Graphic file (type png)
 
 <use graphics/java-data-areas.png>
 Package pdftex.def Info: graphics/java-data-areas.png used on input line 321.
 (pdftex.def)             Requested size: 411.95505pt x 298.16907pt.
- [23 <D:/GitHub/Project/diploma/Diplomarbeit_TGM_TGM/graphics/java-data-areas.p
-ng>]) [24]
-(D:\GitHub\Project\diploma\Diplomarbeit_TGM_TGM\tex/chapter3.tex
+ [23 <C:/Users/Michi/Favorites/Documents/Eclipse/Project/diploma/Diplomarbeit_T
+GM_TGM/graphics/java-data-areas.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 335--337
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 338--340
+
+ []
+
+[24] <graphics/ajaxwork.png, id=1231, 428.35031pt x 243.91125pt>
+File: graphics/ajaxwork.png Graphic file (type png)
+
+<use graphics/ajaxwork.png>
+Package pdftex.def Info: graphics/ajaxwork.png used on input line 346.
+(pdftex.def)             Requested size: 411.94366pt x 234.56897pt.
+
+<graphics/azurePlattform.jpg, id=1234, 668.4975pt x 423.5825pt>
+File: graphics/azurePlattform.jpg Graphic file (type jpg)
+
+<use graphics/azurePlattform.jpg>
+Package pdftex.def Info: graphics/azurePlattform.jpg used on input line 357.
+(pdftex.def)             Requested size: 411.95485pt x 261.02846pt.
+ [25 <C:/Users/Michi/Favorites/Documents/Eclipse/Project/diploma/Diplomarbeit_T
+GM_TGM/graphics/ajaxwork.png>]
+<graphics/sqlserver.png, id=1244, 805.50937pt x 456.20438pt>
+File: graphics/sqlserver.png Graphic file (type png)
+
+<use graphics/sqlserver.png>
+Package pdftex.def Info: graphics/sqlserver.png used on input line 378.
+(pdftex.def)             Requested size: 512.1442pt x 290.05548pt.
+
+Overfull \hbox (100.20543pt too wide) in paragraph at lines 378--379
+ [][] |
+ []
+
+[26 <C:/Users/Michi/Favorites/Documents/Eclipse/Project/diploma/Diplomarbeit_TG
+M_TGM/graphics/azurePlattform.jpg>] [27 <C:/Users/Michi/Favorites/Documents/Ecl
+ipse/Project/diploma/Diplomarbeit_TGM_TGM/graphics/sqlserver.png>]
+Overfull \hbox (30.36223pt too wide) in paragraph at lines 383--385
+\T1/cmr/m/n/12 pro-vides func-tion-al-i-ties for man-ag-ing a whole busi-ness. 
+Such as sales,shipping,financing,|
+ []
+
+
+Overfull \hbox (3.0612pt too wide) in paragraph at lines 383--385
+\T1/cmr/m/n/12 project manage-ment,supply chain manage-ment,business in-tel-li-
+gence,reporting and|
+ []
+
+<graphics/navSales.jpg, id=1261, 949.74825pt x 616.704pt>
+File: graphics/navSales.jpg Graphic file (type jpg)
+
+<use graphics/navSales.jpg>
+Package pdftex.def Info: graphics/navSales.jpg used on input line 390.
+(pdftex.def)             Requested size: 411.9488pt x 267.49243pt.
+ [28 <C:/Users/Michi/Favorites/Documents/Eclipse/Project/diploma/Diplomarbeit_T
+GM_TGM/graphics/navSales.jpg>]
+<graphics/navTable.png, id=1268, 590.205pt x 298.86656pt>
+File: graphics/navTable.png Graphic file (type png)
+
+<use graphics/navTable.png>
+Package pdftex.def Info: graphics/navTable.png used on input line 401.
+(pdftex.def)             Requested size: 411.9429pt x 208.59863pt.
+
+Overfull \hbox (2.53917pt too wide) in paragraph at lines 397--404
+\T1/cmr/m/n/12 databases con-sist of sev-eral ta-bles, which can be cre-ated,ed
+ited and deleted.Table's|
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 397--404
+
+ []
+
+[29 <C:/Users/Michi/Favorites/Documents/Eclipse/Project/diploma/Diplomarbeit_TG
+M_TGM/graphics/navTable.png>]
+<graphics/customerlist.png, id=1275, 637.63219pt x 411.78844pt>
+File: graphics/customerlist.png Graphic file (type png)
+
+<use graphics/customerlist.png>
+Package pdftex.def Info: graphics/customerlist.png used on input line 411.
+(pdftex.def)             Requested size: 411.93608pt x 266.0319pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 406--414
+
+ []
+
+[30 <C:/Users/Michi/Favorites/Documents/Eclipse/Project/diploma/Diplomarbeit_TG
+M_TGM/graphics/customerlist.png>])
+(C:\Users\Michi\Favorites\Documents\Eclipse\Project\diploma\Diplomarbeit_TGM_TG
+M\tex/chapter3.tex
 Chapter 3.
 
 Underfull \hbox (badness 10000) in paragraph at lines 28--30
@@ -1225,7 +1349,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 36--38
 
  []
 
-[25
+[31
 
 
 
@@ -1234,19 +1358,35 @@ Underfull \hbox (badness 10000) in paragraph at lines 39--42
 
  []
 
-<graphics/chapter3/1.png, id=1043, 980.66376pt x 571.13374pt>
+<graphics/chapter3/1.png, id=1287, 980.66376pt x 571.13374pt>
 File: graphics/chapter3/1.png Graphic file (type png)
 
 <use graphics/chapter3/1.png>
 Package pdftex.def Info: graphics/chapter3/1.png used on input line 45.
 (pdftex.def)             Requested size: 411.93877pt x 239.9094pt.
- [26 <D:/GitHub/Project/diploma/Diplomarbeit_TGM_TGM/graphics/chapter3/1.png>])
- [27]
-(D:\GitHub\Project\diploma\Diplomarbeit_TGM_TGM\tex/chapter4.tex [28
+ [32 <C:/Users/Michi/Favorites/Documents/Eclipse/Project/diploma/Diplomarbeit_T
+GM_TGM/graphics/chapter3/1.png>]
+<graphics/visualstudio.png, id=1293, 1027.58907pt x 549.55313pt>
+File: graphics/visualstudio.png Graphic file (type png)
+
+<use graphics/visualstudio.png>
+Package pdftex.def Info: graphics/visualstudio.png used on input line 98.
+(pdftex.def)             Requested size: 512.1469pt x 273.89542pt.
+
+Overfull \hbox (100.20813pt too wide) in paragraph at lines 98--99
+ [][] |
+ []
 
 
+Overfull \hbox (29.94884pt too wide) in paragraph at lines 104--105
+\T1/cmr/m/n/12 Stu-dio page : http://www.visualstudio.com/products/compare-visu
+al-studio-products-|
+ []
 
-]
+[33]) [34 <C:/Users/Michi/Favorites/Documents/Eclipse/Project/diploma/Diplomarb
+eit_TGM_TGM/graphics/visualstudio.png>]
+(C:\Users\Michi\Favorites\Documents\Eclipse\Project\diploma\Diplomarbeit_TGM_TG
+M\tex/chapter4.tex
 Chapter 4.
 
 Underfull \hbox (badness 10000) in paragraph at lines 3--5
@@ -1263,7 +1403,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 12--14
 
  []
 
-<graphics/chapter4/1.png, id=1056, 333.245pt x 360.34625pt>
+<graphics/chapter4/1.png, id=1305, 333.245pt x 360.34625pt>
 File: graphics/chapter4/1.png Graphic file (type png)
 
 <use graphics/chapter4/1.png>
@@ -1273,12 +1413,15 @@ Package pdftex.def Info: graphics/chapter4/1.png used on input line 17.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[29]
-(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\lstlang1.sty
-File: lstlang1.sty 2013/08/26 1.5b listings language file
+[35
+
+
+
+] ("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstlang1.sty"
+File: lstlang1.sty 2014/03/04 1.5c listings language file
 )
-(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\lstmisc.sty
-File: lstmisc.sty 2013/08/26 1.5b (Carsten Heinz)
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstmisc.sty"
+File: lstmisc.sty 2014/03/04 1.5c (Carsten Heinz)
 )
 Underfull \hbox (badness 10000) in paragraph at lines 23--28
 
@@ -1334,7 +1477,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 60--62
 
  []
 
-[30 <D:/GitHub/Project/diploma/Diplomarbeit_TGM_TGM/graphics/chapter4/1.png>]
+[36 <C:/Users/Michi/Favorites/Documents/Eclipse/Project/diploma/Diplomarbeit_TG
+M_TGM/graphics/chapter4/1.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 63--65
 
  []
@@ -1349,13 +1493,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 71--73
 
  []
 
-<graphics/chapter4/2.png, id=1077, 325.215pt x 389.455pt>
+<graphics/chapter4/2.png, id=1327, 325.215pt x 389.455pt>
 File: graphics/chapter4/2.png Graphic file (type png)
 
 <use graphics/chapter4/2.png>
 Package pdftex.def Info: graphics/chapter4/2.png used on input line 76.
 (pdftex.def)             Requested size: 205.96938pt x 246.65936pt.
- [31 <D:/GitHub/Project/diploma/Diplomarbeit_TGM_TGM/graphics/chapter4/2.png>]
+ [37 <C:/Users/Michi/Favorites/Documents/Eclipse/Project/diploma/Diplomarbeit_T
+GM_TGM/graphics/chapter4/2.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 82--85
 
  []
@@ -1404,7 +1549,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 117--119
 
  []
 
-<graphics/chapter4/3.png, id=1083, 333.245pt x 422.57875pt>
+<graphics/chapter4/3.png, id=1332, 333.245pt x 422.57875pt>
 File: graphics/chapter4/3.png Graphic file (type png)
 
 <use graphics/chapter4/3.png>
@@ -1414,7 +1559,7 @@ Package pdftex.def Info: graphics/chapter4/3.png used on input line 122.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[32]
+[38]
 Underfull \hbox (badness 10000) in paragraph at lines 131--134
 
  []
@@ -1424,7 +1569,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 142--144
 
  []
 
-[33 <D:/GitHub/Project/diploma/Diplomarbeit_TGM_TGM/graphics/chapter4/3.png>]
+[39 <C:/Users/Michi/Favorites/Documents/Eclipse/Project/diploma/Diplomarbeit_TG
+M_TGM/graphics/chapter4/3.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 156--158
 
  []
@@ -1457,7 +1603,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 197--200
 
  []
 
-[34]
+[40]
 Underfull \hbox (badness 10000) in paragraph at lines 211--213
 
  []
@@ -1472,7 +1618,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 239--241
 
  []
 
-[35]
+[41]
 Underfull \hbox (badness 10000) in paragraph at lines 262--269
 
  []
@@ -1494,7 +1640,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 299--301
 
  []
 
-[36]
+[42]
 Overfull \hbox (574.82881pt too wide) in paragraph at lines 309--310
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
 ][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
@@ -1523,7 +1669,7 @@ Overfull \hbox (285.84688pt too wide) in paragraph at lines 341--342
 ][][][][][][][][][][][][] |
  []
 
-[37]
+[43]
 Underfull \hbox (badness 10000) in paragraph at lines 348--350
 
  []
@@ -1574,7 +1720,7 @@ Overfull \hbox (81.44502pt too wide) in paragraph at lines 388--389
 [][][][][][][][][][][][][][][][] |
  []
 
-[38]
+[44]
 Overfull \hbox (194.21846pt too wide) in paragraph at lines 392--393
 [][][][][][][][][][][][][][][][][][][][][][][][][][][] |
  []
@@ -1610,12 +1756,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 421--423
 
  []
 
-[39]
+[45]
 Underfull \hbox (badness 10000) in paragraph at lines 424--426
 
  []
 
-<graphics/chapter4/20.png, id=1248, 481.8pt x 245.91875pt>
+<graphics/chapter4/20.png, id=1497, 481.8pt x 245.91875pt>
 File: graphics/chapter4/20.png Graphic file (type png)
 
 <use graphics/chapter4/20.png>
@@ -1636,17 +1782,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 461--464
 
  []
 
-[40 <D:/GitHub/Project/diploma/Diplomarbeit_TGM_TGM/graphics/chapter4/20.png>]
+[46 <C:/Users/Michi/Favorites/Documents/Eclipse/Project/diploma/Diplomarbeit_TG
+M_TGM/graphics/chapter4/20.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 472--474
 
  []
 
-[41]
+[47]
 Underfull \hbox (badness 10000) in paragraph at lines 477--479
 
  []
 
-<graphics/chapter4/4.png, id=1268, 333.245pt x 422.57875pt>
+<graphics/chapter4/4.png, id=1518, 333.245pt x 422.57875pt>
 File: graphics/chapter4/4.png Graphic file (type png)
 
 <use graphics/chapter4/4.png>
@@ -1698,14 +1845,15 @@ Overfull \hbox (899.05244pt too wide) in paragraph at lines 497--498
 ][][][][][][] |
  []
 
-<graphics/chapter4/5.png, id=1269, 406.51875pt x 722.7pt>
+<graphics/chapter4/5.png, id=1519, 406.51875pt x 722.7pt>
 File: graphics/chapter4/5.png Graphic file (type png)
 
 <use graphics/chapter4/5.png>
 Package pdftex.def Info: graphics/chapter4/5.png used on input line 511.
 (pdftex.def)             Requested size: 164.77298pt x 292.92348pt.
- [42 <D:/GitHub/Project/diploma/Diplomarbeit_TGM_TGM/graphics/chapter4/4.png>]
-<graphics/chapter4/6.png, id=1283, 406.51875pt x 722.7pt>
+ [48 <C:/Users/Michi/Favorites/Documents/Eclipse/Project/diploma/Diplomarbeit_T
+GM_TGM/graphics/chapter4/4.png>]
+<graphics/chapter4/6.png, id=1533, 406.51875pt x 722.7pt>
 File: graphics/chapter4/6.png Graphic file (type png)
 
 <use graphics/chapter4/6.png>
@@ -1715,8 +1863,9 @@ Package pdftex.def Info: graphics/chapter4/6.png used on input line 522.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[43 <D:/GitHub/Project/diploma/Diplomarbeit_TGM_TGM/graphics/chapter4/5.png>]
-<graphics/chapter4/7.png, id=1289, 255.95625pt x 292.09125pt>
+[49 <C:/Users/Michi/Favorites/Documents/Eclipse/Project/diploma/Diplomarbeit_TG
+M_TGM/graphics/chapter4/5.png>]
+<graphics/chapter4/7.png, id=1538, 255.95625pt x 292.09125pt>
 File: graphics/chapter4/7.png Graphic file (type png)
 
 <use graphics/chapter4/7.png>
@@ -1726,8 +1875,9 @@ Package pdftex.def Info: graphics/chapter4/7.png used on input line 533.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[44 <D:/GitHub/Project/diploma/Diplomarbeit_TGM_TGM/graphics/chapter4/6.png>]
-<graphics/chapter4/8.png, id=1294, 178.704pt x 317.988pt>
+[50 <C:/Users/Michi/Favorites/Documents/Eclipse/Project/diploma/Diplomarbeit_TG
+M_TGM/graphics/chapter4/6.png>]
+<graphics/chapter4/8.png, id=1543, 178.704pt x 317.988pt>
 File: graphics/chapter4/8.png Graphic file (type png)
 
 <use graphics/chapter4/8.png>
@@ -1737,12 +1887,13 @@ Package pdftex.def Info: graphics/chapter4/8.png used on input line 544.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[45 <D:/GitHub/Project/diploma/Diplomarbeit_TGM_TGM/graphics/chapter4/7.png>]
+[51 <C:/Users/Michi/Favorites/Documents/Eclipse/Project/diploma/Diplomarbeit_TG
+M_TGM/graphics/chapter4/7.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 551--553
 
  []
 
-<graphics/chapter4/9.png, id=1300, 450.68375pt x 704.6325pt>
+<graphics/chapter4/9.png, id=1549, 450.68375pt x 704.6325pt>
 File: graphics/chapter4/9.png Graphic file (type png)
 
 <use graphics/chapter4/9.png>
@@ -1752,19 +1903,21 @@ Package pdftex.def Info: graphics/chapter4/9.png used on input line 556.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[46 <D:/GitHub/Project/diploma/Diplomarbeit_TGM_TGM/graphics/chapter4/8.png>]
+[52 <C:/Users/Michi/Favorites/Documents/Eclipse/Project/diploma/Diplomarbeit_TG
+M_TGM/graphics/chapter4/8.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 564--566
 
  []
 
-<graphics/chapter4/10.png, id=1305, 406.51875pt x 722.7pt>
+<graphics/chapter4/10.png, id=1554, 406.51875pt x 722.7pt>
 File: graphics/chapter4/10.png Graphic file (type png)
 
 <use graphics/chapter4/10.png>
 Package pdftex.def Info: graphics/chapter4/10.png used on input line 570.
 (pdftex.def)             Requested size: 0.0pt x 0.0pt.
- [47 <D:/GitHub/Project/diploma/Diplomarbeit_TGM_TGM/graphics/chapter4/9.png> <
-D:/GitHub/Project/diploma/Diplomarbeit_TGM_TGM/graphics/chapter4/10.png>]
+ [53 <C:/Users/Michi/Favorites/Documents/Eclipse/Project/diploma/Diplomarbeit_T
+GM_TGM/graphics/chapter4/9.png> <C:/Users/Michi/Favorites/Documents/Eclipse/Pro
+ject/diploma/Diplomarbeit_TGM_TGM/graphics/chapter4/10.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 577--579
 
  []
@@ -1782,14 +1935,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 585--587
 
  []
 
-<graphics/chapter4/11.png, id=1310, 357.335pt x 43.16125pt>
+<graphics/chapter4/11.png, id=1560, 357.335pt x 43.16125pt>
 File: graphics/chapter4/11.png Graphic file (type png)
 
 <use graphics/chapter4/11.png>
 Package pdftex.def Info: graphics/chapter4/11.png used on input line 590.
 (pdftex.def)             Requested size: 247.16577pt x 29.85439pt.
 
-<graphics/chapter4/12.png, id=1311, 332.24126pt x 44.165pt>
+<graphics/chapter4/12.png, id=1561, 332.24126pt x 44.165pt>
 File: graphics/chapter4/12.png Graphic file (type png)
 
 <use graphics/chapter4/12.png>
@@ -1800,7 +1953,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 609--611
 
  []
 
-<graphics/chapter4/13.png, id=1312, 244.915pt x 155.58125pt>
+<graphics/chapter4/13.png, id=1562, 244.915pt x 155.58125pt>
 File: graphics/chapter4/13.png Graphic file (type png)
 
 <use graphics/chapter4/13.png>
@@ -1815,7 +1968,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 619--621
 
  []
 
-<graphics/chapter4/14.png, id=1313, 265.99374pt x 264.99pt>
+<graphics/chapter4/14.png, id=1563, 265.99374pt x 264.99pt>
 File: graphics/chapter4/14.png Graphic file (type png)
 
 <use graphics/chapter4/14.png>
@@ -1825,8 +1978,9 @@ Package pdftex.def Info: graphics/chapter4/14.png used on input line 624.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[48 <D:/GitHub/Project/diploma/Diplomarbeit_TGM_TGM/graphics/chapter4/11.png> <
-D:/GitHub/Project/diploma/Diplomarbeit_TGM_TGM/graphics/chapter4/12.png>]
+[54 <C:/Users/Michi/Favorites/Documents/Eclipse/Project/diploma/Diplomarbeit_TG
+M_TGM/graphics/chapter4/11.png> <C:/Users/Michi/Favorites/Documents/Eclipse/Pro
+ject/diploma/Diplomarbeit_TGM_TGM/graphics/chapter4/12.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 630--632
 
  []
@@ -1864,9 +2018,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 641--643
 
  []
 
-[49 <D:/GitHub/Project/diploma/Diplomarbeit_TGM_TGM/graphics/chapter4/13.png> <
-D:/GitHub/Project/diploma/Diplomarbeit_TGM_TGM/graphics/chapter4/14.png>]
-<graphics/chapter4/15.png, id=1330, 406.51875pt x 722.7pt>
+[55 <C:/Users/Michi/Favorites/Documents/Eclipse/Project/diploma/Diplomarbeit_TG
+M_TGM/graphics/chapter4/13.png> <C:/Users/Michi/Favorites/Documents/Eclipse/Pro
+ject/diploma/Diplomarbeit_TGM_TGM/graphics/chapter4/14.png>]
+<graphics/chapter4/15.png, id=1579, 406.51875pt x 722.7pt>
 File: graphics/chapter4/15.png Graphic file (type png)
 
 <use graphics/chapter4/15.png>
@@ -1882,7 +2037,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 659--662
 
  []
 
-[50 <D:/GitHub/Project/diploma/Diplomarbeit_TGM_TGM/graphics/chapter4/15.png>]
+[56 <C:/Users/Michi/Favorites/Documents/Eclipse/Project/diploma/Diplomarbeit_TG
+M_TGM/graphics/chapter4/15.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 669--671
 
  []
@@ -1957,7 +2113,7 @@ Overfull \hbox (222.41182pt too wide) in paragraph at lines 700--701
 
  []
 
-<graphics/chapter4/16.png, id=1335, 348.30125pt x 55.20625pt>
+<graphics/chapter4/16.png, id=1584, 348.30125pt x 55.20625pt>
 File: graphics/chapter4/16.png Graphic file (type png)
 
 <use graphics/chapter4/16.png>
@@ -1972,7 +2128,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 714--716
 
  []
 
-[51]
+[57]
 Underfull \hbox (badness 10000) in paragraph at lines 724--726
 
  []
@@ -1991,7 +2147,8 @@ Overfull \hbox (166.0251pt too wide) in paragraph at lines 742--743
 [][] |
  []
 
-[52 <D:/GitHub/Project/diploma/Diplomarbeit_TGM_TGM/graphics/chapter4/16.png>]
+[58 <C:/Users/Michi/Favorites/Documents/Eclipse/Project/diploma/Diplomarbeit_TG
+M_TGM/graphics/chapter4/16.png>]
 Overfull \hbox (95.5417pt too wide) in paragraph at lines 758--759
 [][][][][][][][][][][][][][][][][][][][][][][][][][][] |
  []
@@ -2016,15 +2173,16 @@ Overfull \hbox (123.73506pt too wide) in paragraph at lines 791--792
 [][][][][][][][][][][][][][][][][][][][][][][] |
  []
 
-<graphics/chapter4/17.png, id=1394, 356.33125pt x 544.0325pt>
+<graphics/chapter4/17.png, id=1643, 356.33125pt x 544.0325pt>
 File: graphics/chapter4/17.png Graphic file (type png)
 
 <use graphics/chapter4/17.png>
 Package pdftex.def Info: graphics/chapter4/17.png used on input line 802.
 (pdftex.def)             Requested size: 164.77298pt x 251.56958pt.
-) [53] [54 <D:/GitHub/Project/diploma/Diplomarbeit_TGM_TGM/graphics/chapter4/17
-.png>]
-(D:\GitHub\Project\diploma\Diplomarbeit_TGM_TGM\tex/chapter5.tex
+) [59] [60 <C:/Users/Michi/Favorites/Documents/Eclipse/Project/diploma/Diplomar
+beit_TGM_TGM/graphics/chapter4/17.png>]
+(C:\Users\Michi\Favorites\Documents\Eclipse\Project\diploma\Diplomarbeit_TGM_TG
+M\tex/chapter5.tex
 Chapter 5.
 
 Underfull \hbox (badness 10000) in paragraph at lines 8--10
@@ -2036,7 +2194,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 12--14
 
  []
 
-[55
+[61
 
 
 
@@ -2055,8 +2213,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 59--61
 
  []
 
-(C:\Users\Aleksey\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\lstlang1.sty
-File: lstlang1.sty 2013/08/26 1.5b listings language file
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstlang1.sty"
+File: lstlang1.sty 2014/03/04 1.5c listings language file
 )
 Overfull \hbox (10.96162pt too wide) in paragraph at lines 67--68
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] |
@@ -2077,7 +2235,7 @@ Overfull \hbox (53.25166pt too wide) in paragraph at lines 70--71
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] |
  []
 
-[56]
+[62]
 Underfull \hbox (badness 10000) in paragraph at lines 82--84
 
  []
@@ -2098,13 +2256,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 122--124
 
  []
 
-[57]
+[63]
 Overfull \hbox (14.0347pt too wide) in paragraph at lines 158--159
 \T1/DejaVuSansMono/m/n/12 for en-ter-prise, mar-ket-ing, re-tail, pub-lish-ing 
 and in-dus-trial cases, Metaio's|
  []
 
-[58]
+[64]
 Underfull \hbox (badness 10000) in paragraph at lines 177--179
 
  []
@@ -2119,14 +2277,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 188--190
 
  []
 
-<graphics/tracking.png, id=1508, 1927.2pt x 1084.05pt>
+<graphics/tracking.png, id=1757, 1927.2pt x 1084.05pt>
 File: graphics/tracking.png Graphic file (type png)
 
 <use graphics/tracking.png>
 Package pdftex.def Info: graphics/tracking.png used on input line 203.
 (pdftex.def)             Requested size: 411.92859pt x 231.70982pt.
- [59]
-<graphics/arel.png, id=1522, 481.04718pt x 417.05812pt>
+ [65]
+<graphics/arel.png, id=1772, 481.04718pt x 417.05812pt>
 File: graphics/arel.png Graphic file (type png)
 
 <use graphics/arel.png>
@@ -2147,8 +2305,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 228--230
 
  []
 
-[60 <D:/GitHub/Project/diploma/Diplomarbeit_TGM_TGM/graphics/tracking.png>]
-[61 <D:/GitHub/Project/diploma/Diplomarbeit_TGM_TGM/graphics/arel.png>]
+[66 <C:/Users/Michi/Favorites/Documents/Eclipse/Project/diploma/Diplomarbeit_TG
+M_TGM/graphics/tracking.png>] [67 <C:/Users/Michi/Favorites/Documents/Eclipse/P
+roject/diploma/Diplomarbeit_TGM_TGM/graphics/arel.png>]
 Overfull \hbox (88.49336pt too wide) in paragraph at lines 239--240
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] |
  []
@@ -2208,7 +2367,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 266--268
 
  []
 
-[62]
+[68]
 Overfull \hbox (109.63838pt too wide) in paragraph at lines 272--273
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][] |
  []
@@ -2239,7 +2398,7 @@ Overfull \hbox (32.10664pt too wide) in paragraph at lines 299--300
 [][][][][][][][][][][][][][][][][][][][][][][][][] |
  []
 
-[63]
+[69]
 Underfull \hbox (badness 10000) in paragraph at lines 319--321
 
  []
@@ -2254,13 +2413,14 @@ Overfull \hbox (39.15498pt too wide) in paragraph at lines 347--348
 [][][][][][][][][][][][][][][][][][][] |
  []
 
-[64]
+[70]
 Overfull \hbox (95.5417pt too wide) in paragraph at lines 355--356
 [][][][][][][][][][][][][][][][][][][][][][][][] |
  []
 
-) [65] (D:\GitHub\Project\diploma\Diplomarbeit_TGM_TGM\tex/chapter6.tex
-[66
+) [71]
+(C:\Users\Michi\Favorites\Documents\Eclipse\Project\diploma\Diplomarbeit_TGM_TG
+M\tex/chapter6.tex [72
 
 
 
@@ -2276,14 +2436,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 10--12
 
  []
 
-<graphics/dynamic.png, id=1641, 588.69937pt x 553.31718pt>
+<graphics/dynamic.png, id=1891, 588.69937pt x 553.31718pt>
 File: graphics/dynamic.png Graphic file (type png)
 
 <use graphics/dynamic.png>
 Package pdftex.def Info: graphics/dynamic.png used on input line 17.
 (pdftex.def)             Requested size: 411.94301pt x 387.1843pt.
- [67] [68 <D:/GitHub/Project/diploma/Diplomarbeit_TGM_TGM/graphics/dynamic.png>
-]
+ [73] [74 <C:/Users/Michi/Favorites/Documents/Eclipse/Project/diploma/Diplomarb
+eit_TGM_TGM/graphics/dynamic.png>]
 Overfull \hbox (25.0583pt too wide) in paragraph at lines 36--37
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
 ][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
@@ -2296,81 +2456,296 @@ Overfull \hbox (278.79854pt too wide) in paragraph at lines 39--40
 ][][] |
  []
 
-) [69]
-No file Diplomarbeit_KOPG_TGM.acr.
-No file Diplomarbeit_KOPG_TGM.acr.
-[70
+) [75]
+(C:\Users\Michi\Favorites\Documents\Eclipse\Project\diploma\Diplomarbeit_TGM_TG
+M\tex/chapter7.tex [76
 
-] (D:\GitHub\Project\diploma\Diplomarbeit_TGM_TGM\tex/appendix.tex
-Appendix A.
-) [71
-
-
-] [72
 
 
 ]
-(D:\GitHub\Project\diploma\Diplomarbeit_TGM_TGM\Diplomarbeit_KOPG_TGM.bbl
+Chapter 7.
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 3.
+
+<graphics/networkoverview.png, id=1925, 719.68875pt x 399.74344pt>
+File: graphics/networkoverview.png Graphic file (type png)
+
+<use graphics/networkoverview.png>
+Package pdftex.def Info: graphics/networkoverview.png used on input line 8.
+(pdftex.def)             Requested size: 411.95096pt x 228.81375pt.
+ [77 <C:/Users/Michi/Favorites/Documents/Eclipse/Project/diploma/Diplomarbeit_T
+GM_TGM/graphics/networkoverview.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 15--17
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--17
+
+ []
+
+<graphics/webref.png, id=1931, 182.18062pt x 166.37157pt>
+File: graphics/webref.png Graphic file (type png)
+
+<use graphics/webref.png>
+Package pdftex.def Info: graphics/webref.png used on input line 28.
+(pdftex.def)             Requested size: 199.17615pt x 181.89227pt.
+ [78 <C:/Users/Michi/Favorites/Documents/Eclipse/Project/diploma/Diplomarbeit_T
+GM_TGM/graphics/webref.png>]
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstlang1.sty"
+File: lstlang1.sty 2014/03/04 1.5c listings language file
+)
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 49.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1cmtt.fd"
+File: t1cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+) [79]
+Overfull \hbox (67.37361pt too wide) in paragraph at lines 82--83
+[][][][][][][][][]  |
+ []
+
+[80]
+Underfull \hbox (badness 10000) in paragraph at lines 106--108
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--108
+
+ []
+
+[81]
+LaTeX Font Info:    Font shape `T1/cmtt/bx/n' in size <10> not available
+(Font)              Font shape `T1/cmtt/m/n' tried instead on input line 159.
+
+Overfull \hbox (4.86818pt too wide) in paragraph at lines 163--164
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][]  |
+ []
+
+
+Overfull \hbox (22.65932pt too wide) in paragraph at lines 164--165
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]  |
+ []
+
+[82] <graphics/trackingtable.png, id=2023, 355.3275pt x 121.45375pt>
+File: graphics/trackingtable.png Graphic file (type png)
+
+<use graphics/trackingtable.png>
+Package pdftex.def Info: graphics/trackingtable.png used on input line 191.
+(pdftex.def)             Requested size: 411.95245pt x 140.80858pt.
+
+<graphics/trackingtableexample.png, id=2024, 521.95pt x 44.165pt>
+File: graphics/trackingtableexample.png Graphic file (type png)
+
+<use graphics/trackingtableexample.png>
+Package pdftex.def Info: graphics/trackingtableexample.png used on input line 1
+98.
+(pdftex.def)             Requested size: 411.94572pt x 34.85692pt.
+ [83 <C:/Users/Michi/Favorites/Documents/Eclipse/Project/diploma/Diplomarbeit_T
+GM_TGM/graphics/trackingtable.png> <C:/Users/Michi/Favorites/Documents/Eclipse/
+Project/diploma/Diplomarbeit_TGM_TGM/graphics/trackingtableexample.png>]
+<graphics/cardatatable.png, id=2033, 354.32375pt x 203.76125pt>
+File: graphics/cardatatable.png Graphic file (type png)
+
+<use graphics/cardatatable.png>
+Package pdftex.def Info: graphics/cardatatable.png used on input line 205.
+(pdftex.def)             Requested size: 411.94576pt x 236.89796pt.
+
+<graphics/cardatatablentry.png, id=2034, 659.46375pt x 42.1575pt>
+File: graphics/cardatatablentry.png Graphic file (type png)
+
+<use graphics/cardatatablentry.png>
+Package pdftex.def Info: graphics/cardatatablentry.png used on input line 213.
+(pdftex.def)             Requested size: 411.95251pt x 26.33484pt.
+ [84 <C:/Users/Michi/Favorites/Documents/Eclipse/Project/diploma/Diplomarbeit_T
+GM_TGM/graphics/cardatatable.png> <C:/Users/Michi/Favorites/Documents/Eclipse/P
+roject/diploma/Diplomarbeit_TGM_TGM/graphics/cardatatablentry.png>]
+<graphics/userdatatable.png, id=2039, 355.3275pt x 89.33376pt>
+File: graphics/userdatatable.png Graphic file (type png)
+
+<use graphics/userdatatable.png>
+Package pdftex.def Info: graphics/userdatatable.png used on input line 221.
+(pdftex.def)             Requested size: 411.95245pt x 103.56996pt.
+
+<graphics/userdatatableentry.png, id=2040, 623.32875pt x 43.16125pt>
+File: graphics/userdatatableentry.png Graphic file (type png)
+
+<use graphics/userdatatableentry.png>
+Package pdftex.def Info: graphics/userdatatableentry.png used on input line 227
+.
+(pdftex.def)             Requested size: 411.94038pt x 28.52403pt.
+ [85 <C:/Users/Michi/Favorites/Documents/Eclipse/Project/diploma/Diplomarbeit_T
+GM_TGM/graphics/userdatatable.png> <C:/Users/Michi/Favorites/Documents/Eclipse/
+Project/diploma/Diplomarbeit_TGM_TGM/graphics/userdatatableentry.png>]
+<graphics/webservice.png, id=2045, 438.63875pt x 137.51375pt>
+File: graphics/webservice.png Graphic file (type png)
+
+<use graphics/webservice.png>
+Package pdftex.def Info: graphics/webservice.png used on input line 238.
+(pdftex.def)             Requested size: 411.94565pt x 129.14543pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 234--244
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 234--244
+
+ []
+
+[86 <C:/Users/Michi/Favorites/Documents/Eclipse/Project/diploma/Diplomarbeit_TG
+M_TGM/graphics/webservice.png>])
+(C:\Users\Michi\Favorites\Documents\Eclipse\Project\diploma\Diplomarbeit_TGM_TG
+M\tex/chapter8.tex
+Chapter 8.
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 5.
+
+[87
+
+
+
+])
+(C:\Users\Michi\Favorites\Documents\Eclipse\Project\diploma\Diplomarbeit_TGM_TG
+M\tex/chapter9.tex [88
+
+
+
+]
+Chapter 9.
+)
+Underfull \hbox (badness 10000) in paragraph at lines 3--278
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--278
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--278
+
+ []
+
+[89]
+No file Diplomarbeit_KOPG_TGM.acr.
+No file Diplomarbeit_KOPG_TGM.acr.
+[90
+
+]
+(C:\Users\Michi\Favorites\Documents\Eclipse\Project\diploma\Diplomarbeit_TGM_TG
+M\tex/appendix.tex
+Appendix A.
+) [91
+
+
+] [92
+
+
+]
+(C:\Users\Michi\Favorites\Documents\Eclipse\Project\diploma\Diplomarbeit_TGM_TG
+M\Diplomarbeit_KOPG_TGM.bbl
 Underfull \hbox (badness 10000) in paragraph at lines 26--29
 $\T1/DejaVuSansMono/m/n/12 / / developer . mozilla . org / en-[]US / docs / Web
  / JavaScript / Guide / Details _ of _$
  []
 
-[73
+** WARNING: IEEEtranS.bst: No hyphenation pattern has been
+** loaded for the language `English'. Using the pattern for
+** the default language instead.
+[93
 
 ]
-Underfull \hbox (badness 1460) in paragraph at lines 113--116
+Underfull \hbox (badness 1460) in paragraph at lines 120--123
 \T1/DejaVuSansMono/m/n/12 line]. Avail-able: [][]$http : / / markfaction . word
 press . com / 2012 / 07 / 15 /$
  []
 
 
-Overfull \hbox (19.06956pt too wide) in paragraph at lines 113--116
+Overfull \hbox (19.06956pt too wide) in paragraph at lines 120--123
 $\T1/DejaVuSansMono/m/n/12 stack-[]based-[]vs-[]register-[]based-[]virtual-[]ma
 chine-[]architecture-[]and-[]the-[]dalvik-[]vm/$[][] |
  []
 
+** WARNING: IEEEtranS.bst: No hyphenation pattern has been
+** loaded for the language `English'. Using the pattern for
+** the default language instead.
+** WARNING: IEEEtranS.bst: No hyphenation pattern has been
+** loaded for the language `English'. Using the pattern for
+** the default language instead.
 
-Underfull \hbox (badness 5119) in paragraph at lines 161--164
+Underfull \hbox (badness 1325) in paragraph at lines 174--177
+[]\T1/DejaVuSansMono/m/n/12 system cen-ter. (2014) Azure overview. [On-line]. A
+vail-
+ []
+
+[94]
+Underfull \hbox (badness 5119) in paragraph at lines 210--213
 []\T1/DejaVuSansMono/m/n/12 L. Vo-gel. (2013) An-droid de-vel-op-ment tu-to-ria
 l.
  []
 
 
-Underfull \hbox (badness 3078) in paragraph at lines 161--164
+Underfull \hbox (badness 3078) in paragraph at lines 210--213
 \T1/DejaVuSansMono/m/n/12 [On-line]. Avail-able: [][]$http : / / www . cs . vir
 ginia . edu / ~cs201 / labs /$
  []
 
-[74]) [75] (D:\GitHub\Project\diploma\Diplomarbeit_TGM_TGM\tex/eid.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 12--313
+) [95]
+(C:\Users\Michi\Favorites\Documents\Eclipse\Project\diploma\Diplomarbeit_TGM_TG
+M\tex/eid.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 12--314
 
  []
 
-[76
+[96
 
-] [77]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 317.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 317.
+] [97]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 318.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 318.
 
-(D:\GitHub\Project\diploma\Diplomarbeit_TGM_TGM\Diplomarbeit_KOPG_TGM.aux
-(D:\GitHub\Project\diploma\Diplomarbeit_TGM_TGM\tex/title.aux)
-(D:\GitHub\Project\diploma\Diplomarbeit_TGM_TGM\tex/prefacea.aux)
-(D:\GitHub\Project\diploma\Diplomarbeit_TGM_TGM\tex/abstracta.aux)
-(D:\GitHub\Project\diploma\Diplomarbeit_TGM_TGM\tex/kurzzfsg.aux)
-(D:\GitHub\Project\diploma\Diplomarbeit_TGM_TGM\tex/nomenclature.aux)
-(D:\GitHub\Project\diploma\Diplomarbeit_TGM_TGM\tex/chapter1.aux)
-(D:\GitHub\Project\diploma\Diplomarbeit_TGM_TGM\tex/chapter2.aux)
-(D:\GitHub\Project\diploma\Diplomarbeit_TGM_TGM\tex/chapter3.aux)
-(D:\GitHub\Project\diploma\Diplomarbeit_TGM_TGM\tex/chapter4.aux)
-(D:\GitHub\Project\diploma\Diplomarbeit_TGM_TGM\tex/chapter5.aux)
-(D:\GitHub\Project\diploma\Diplomarbeit_TGM_TGM\tex/chapter6.aux)
-(D:\GitHub\Project\diploma\Diplomarbeit_TGM_TGM\tex/appendix.aux)
-(D:\GitHub\Project\diploma\Diplomarbeit_TGM_TGM\tex/eid.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 317.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 317.
+(C:\Users\Michi\Favorites\Documents\Eclipse\Project\diploma\Diplomarbeit_TGM_TG
+M\Diplomarbeit_KOPG_TGM.aux
+(C:\Users\Michi\Favorites\Documents\Eclipse\Project\diploma\Diplomarbeit_TGM_TG
+M\tex/title.aux)
+(C:\Users\Michi\Favorites\Documents\Eclipse\Project\diploma\Diplomarbeit_TGM_TG
+M\tex/prefacea.aux)
+(C:\Users\Michi\Favorites\Documents\Eclipse\Project\diploma\Diplomarbeit_TGM_TG
+M\tex/abstracta.aux)
+(C:\Users\Michi\Favorites\Documents\Eclipse\Project\diploma\Diplomarbeit_TGM_TG
+M\tex/kurzzfsg.aux)
+(C:\Users\Michi\Favorites\Documents\Eclipse\Project\diploma\Diplomarbeit_TGM_TG
+M\tex/nomenclature.aux)
+(C:\Users\Michi\Favorites\Documents\Eclipse\Project\diploma\Diplomarbeit_TGM_TG
+M\tex/chapter1.aux)
+(C:\Users\Michi\Favorites\Documents\Eclipse\Project\diploma\Diplomarbeit_TGM_TG
+M\tex/chapter2.aux)
+(C:\Users\Michi\Favorites\Documents\Eclipse\Project\diploma\Diplomarbeit_TGM_TG
+M\tex/chapter3.aux)
+(C:\Users\Michi\Favorites\Documents\Eclipse\Project\diploma\Diplomarbeit_TGM_TG
+M\tex/chapter4.aux)
+(C:\Users\Michi\Favorites\Documents\Eclipse\Project\diploma\Diplomarbeit_TGM_TG
+M\tex/chapter5.aux)
+(C:\Users\Michi\Favorites\Documents\Eclipse\Project\diploma\Diplomarbeit_TGM_TG
+M\tex/chapter6.aux)
+(C:\Users\Michi\Favorites\Documents\Eclipse\Project\diploma\Diplomarbeit_TGM_TG
+M\tex/chapter7.aux)
+(C:\Users\Michi\Favorites\Documents\Eclipse\Project\diploma\Diplomarbeit_TGM_TG
+M\tex/chapter8.aux)
+(C:\Users\Michi\Favorites\Documents\Eclipse\Project\diploma\Diplomarbeit_TGM_TG
+M\tex/chapter9.aux)
+(C:\Users\Michi\Favorites\Documents\Eclipse\Project\diploma\Diplomarbeit_TGM_TG
+M\tex/appendix.aux)
+(C:\Users\Michi\Favorites\Documents\Eclipse\Project\diploma\Diplomarbeit_TGM_TG
+M\tex/eid.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 318.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 318.
 Package rerunfilecheck Info: File `Diplomarbeit_KOPG_TGM.out' has not changed.
-(rerunfilecheck)             Checksum: 91773B37513B3987D2C7731AB64BF5BD;8256.
+(rerunfilecheck)             Checksum: E613954DA5C0B3B8652D22B90065C5C6;10289.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -2383,35 +2758,37 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 14628 strings out of 493921
- 212705 string characters out of 3147277
- 385811 words of memory out of 3000000
- 16757 multiletter control sequences out of 15000+200000
- 25357 words of font info for 60 fonts, out of 3000000 for 9000
+ 15163 strings out of 493921
+ 224722 string characters out of 3147282
+ 396354 words of memory out of 3000000
+ 17095 multiletter control sequences out of 15000+200000
+ 25983 words of font info for 62 fonts, out of 3000000 for 9000
  855 hyphenation exceptions out of 8191
- 46i,8n,76p,1724b,2043s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\Aleksey\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi60
-0\ecrm1095.pk> <C:\Users\Aleksey\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknap
-pen\ec\dpi600\ecti1200.pk> <C:\Users\Aleksey\AppData\Local\MiKTeX\2.9\fonts\pk\
-ljfour\jknappen\ec\dpi600\ecbx1440.pk> <C:\Users\Aleksey\AppData\Local\MiKTeX\2
-.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1728.pk> <C:\Users\Aleksey\AppData\Lo
-cal\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1000.pk> <C:\Users\Alekse
-y\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm0700.pk> <C:\
-Users\Aleksey\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm0
-800.pk> <C:\Users\Aleksey\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\
-dpi600\ecss2488.pk> <C:\Users\Aleksey\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\
-jknappen\ec\dpi600\ecsl1200.pk> <C:\Users\Aleksey\AppData\Local\MiKTeX\2.9\font
-s\pk\ljfour\jknappen\ec\dpi600\ecbx1200.pk> <C:\Users\Aleksey\AppData\Local\MiK
-TeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1200.pk> <C:\Users\Aleksey\AppDa
-ta\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecss1440.pk> <C:\Users\A
-leksey\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecss1200.pk>
- <C:\Users\Aleksey\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\
-ecsx2074.pk> <C:\Users\Aleksey\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappe
-n\ec\dpi600\ecss1728.pk><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfont
-s/cm/cmsy10.pfb>
-Output written on Diplomarbeit_KOPG_TGM.pdf (95 pages, 6567262 bytes).
+ 46i,8n,76p,1771b,2043s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\Michi\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\
+ectt1000.pk> <C:\Users\Michi\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\
+ec\dpi600\ectt1200.pk> <C:\Users\Michi\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour
+\jknappen\ec\dpi600\ecrm1095.pk> <C:\Users\Michi\AppData\Local\MiKTeX\2.9\fonts
+\pk\ljfour\jknappen\ec\dpi600\ecti1200.pk> <C:\Users\Michi\AppData\Local\MiKTeX
+\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1440.pk> <C:\Users\Michi\AppData\Lo
+cal\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1728.pk> <C:\Users\Michi\
+AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1000.pk> <C:\Us
+ers\Michi\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm0700.
+pk> <C:\Users\Michi\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600
+\ecrm0800.pk> <C:\Users\Michi\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen
+\ec\dpi600\ecss2488.pk> <C:\Users\Michi\AppData\Local\MiKTeX\2.9\fonts\pk\ljfou
+r\jknappen\ec\dpi600\ecsl1200.pk> <C:\Users\Michi\AppData\Local\MiKTeX\2.9\font
+s\pk\ljfour\jknappen\ec\dpi600\ecbx1200.pk> <C:\Users\Michi\AppData\Local\MiKTe
+X\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1200.pk> <C:\Users\Michi\AppData\L
+ocal\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecss1440.pk> <C:\Users\Michi
+\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecss1200.pk> <C:\U
+sers\Michi\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecsx2074
+.pk> <C:\Users\Michi\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi60
+0\ecss1728.pk><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy1
+0.pfb>
+Output written on Diplomarbeit_KOPG_TGM.pdf (117 pages, 7360846 bytes).
 PDF statistics:
- 2533 PDF objects out of 2984 (max. 8388607)
- 735 named destinations out of 1000 (max. 500000)
- 1089 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 3132 PDF objects out of 3580 (max. 8388607)
+ 888 named destinations out of 1000 (max. 500000)
+ 1393 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,7 +1,7 @@
 % Chapter2
 \chapter{Theoretical Basics}
 \section{General}
-Today everybody can create a App for any Platforms. In this world, most of the pupils uses a Smartphone. So in that case this work describes from which modules or elements  the App NAVAR created of.  Furthermore it shows how to use the Modules in General and how to deploy them. However for this project we used three programming languages. For the user Interface we used JQuery Mobile Framework. This app is just only for Android supported Smartphones. The reason is the SDK that  we are using for the app, it has been just developed for Android and IOS.  A programming language is an Interface between Human and Machine, in this project Human and Smartphone. A person can understand the programing language and a machine or smartphone can process it. 
+Today everybody can create a App for any platforms. In this world, most of the pupils uses a Smartphone. So in that case this work describes from which modules or elements  the App NAVAR created of.  Furthermore it shows how to use the Modules in General and how to deploy them. However for this project we used three programming languages. For the user Interface we used JQuery Mobile Framework. This app is just only for Android supported Smartphones. The reason is the SDK that  we are using for the app, it has been just developed for Android and IOS.  A programming language is an Interface between Human and Machine, in this project Human and Smartphone. A person can understand the programing language and a machine or smartphone can process it. 
 \\\\
 The next point is, in this project we are using Javascript,HTML5 and CSS with the Framework JQuery Mobile for graphic display. The main problem was to combine the user interface with the logic implementation. Further more the connection between the smartphone and the Navision Server was also not so easy to implement.
 \\\\
@@ -10,7 +10,7 @@ In this chapter it describes the programming languages and the Frameworks, that 
 \item Java
 \item JavaScript,HTML5,CSS
 \item jQuery Mobile
-\item C\#
+\item Ajax
 \end{enumerate}
 \newpage
 \section{Augmented Reality}
@@ -331,3 +331,84 @@ A JAR \textbf{(Java ARchive)}is a file  that contains the class, image, sound, e
 
 \subsubsection{Executable JAR }
 Its also possible to create a executable .Jar files. It behaves similar to a .exe file in Windows. It can be executed with a double click when Java is installed on the system. 
+\section {Ajax}
+Ajax (Asynchronous JavaScript and XML) is a method which is widely used in web development. Ajax uses several technologies like: JavaScript, CSS, XML and XMLHttpRequest.\cite{ajax}
+\\
+\subsection{XML}
+\textit{''Extensible Markup Language (XML) is a simple, very flexible text format derived from SGML (ISO 8879). Originally designed to meet the challenges of large-scale electronic publishing, XML is also playing an increasingly important role in the exchange of a wide variety of data on the Web and elsewhere.''}\cite{xml}
+\\
+\subsection{XMLHttpRequest}
+XMLHttpRequest is used in Ajax for exchanging data with a server. The main advantages of this request is that it can be used in the background for sending data to the server, updating a page without reloading it, request and receive data from the server after the page is loaded.\cite{xmlHttp} 
+\newpage
+\subsection{How does Ajax work?}
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=\textwidth,height=\textheight,keepaspectratio]{graphics/ajaxwork.png}
+\caption{Ajax overview\cite{ajax}}
+\end{figure}
+
+As described in the graphic every time a program needs to send data from the browser to the server it creates an XMLHTTPRequest object. This request is then accepted or denied by the server and a response will be send back to the browser where it can be displayed or processed. 
+
+\section{Windows Azure}
+\textit{''Azure is an open and flexible cloud platform that enables you to quickly build, deploy and manage applications across a global network of Microsoft-managed datacenters. You can build applications using any language, tool or framework. And you can integrate your public cloud applications with your existing IT environment''}\cite{azure}
+\subsection{Overview}
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=\textwidth,height=\textheight,keepaspectratio]{graphics/azurePlattform.jpg}
+\caption{Azure overview}\cite{azureOver}
+\end{figure}
+
+The typical Windows Azure environment consists of many components such as : The Azure Service Platform, which can be several virtual machines with services.A software application which communicate with Azure over XML and other technologies. Several end users which access the azure cloud over a browser and developers who access the cloud directly. 
+\newpage
+\section{Microsoft SQL Server}
+Microsoft SQL Server is a relation database software for saving,modifying and providing data. Microsoft SQL Server can be deployed on a desktop server as well as in the cloud.It provides a edition for high-end performanc, critical applications and a lighter version for normal applications/data.\cite{sqlserver}
+\begin{description}
+   \item[There are five main releases of MS SQL Server ]~\par
+   \begin{enumerate}
+      \item Microsoft SQL Server 2005
+      \item Microsoft SQL Server 2008
+      \item Microsoft SQL Server 2012 
+      \item Microsoft SQL Server 2014
+      \cite{sqlserver}
+   \end{enumerate}
+\end{description}
+\subsection{Program Overview}
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=180mm,height=180mm,keepaspectratio]{graphics/sqlserver.png}
+\caption{SQl Server 2008 overview}
+\end{figure} 
+\newpage
+\section{Microsoft Dynamics Navision}
+Microsoft Dynamics Navision is a ERP(Enterprise Ressource Planing) software for small and medium sized corporations. It is a highly adaptable software which provides functionalities for managing a whole business. Such as sales,shipping,financing, project management,supply chain management,business intelligence,reporting and other services. 
+The look and feel of the application is based on Microsoft Office to provide a simple entry point to the product if you are familiar with Microsoft Office.MS NAV can be either installed on a local server or in the cloud to provide the best solution for a business.\cite{navOver} 
+
+\subsection{Program Overview}
+The following figure shows the graphical user interface of Microsoft Navision.It shows a example page of a sales manager with the demo Database ''CRONUS International Ltd.'' from Microsoft.
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=\textwidth,height=\textheight,keepaspectratio]{graphics/navSales.jpg}
+\caption{Program overview}\cite{azureOver}
+\end{figure}
+\newpage
+
+\subsection{Data structure}
+\subsubsection{Tables}
+Microsoft Dynamics Navision saves data in a Microsoft SQL Server database.The databases consist of several tables, which can be created,edited and deleted.Table's are the basic modules of the database and are fundamental.It allows to easily modify,delete and display data on the run.
+\\\\
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=\textwidth,height=\textheight,keepaspectratio]{graphics/navTable.png}
+\caption{Table example}
+\end{figure}
+\newpage
+\subsubsection{Pages}
+Microsoft Dynamics Navsion provides with pages a way to display and organize data. It can either be accessed via a client and displayed graphically or accessed trough a web service.
+A page is a XML object which consists of several properties and code. The following figure shows a example page with a list of customers
+\\\\
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=\textwidth,height=\textheight,keepaspectratio]{graphics/customerlist.png}
+\caption{customer page example}
+\end{figure}
+\newpage
