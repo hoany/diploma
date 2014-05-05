@@ -47,72 +47,70 @@
 \contentsline {subsubsection}{\numberline {2.3.8.1}Executable JAR }{24}{subsubsection.2.3.8.1}
 \contentsline {chapter}{\numberline {3}Integrated Development Environment}{25}{chapter.3}
 \contentsline {section}{\numberline {3.1}Andorid SDK Eclipse}{25}{section.3.1}
-\contentsline {subsection}{\numberline {3.1.1}Eclipse Workbench}{25}{subsection.3.1.1}
-\contentsline {subsection}{\numberline {3.1.2}Android SDK}{26}{subsection.3.1.2}
-\contentsline {section}{\numberline {3.2}JetBrains WebStorm}{27}{section.3.2}
-\contentsline {subsection}{\numberline {3.2.1}Overview}{27}{subsection.3.2.1}
-\contentsline {subsection}{\numberline {3.2.2}Features}{27}{subsection.3.2.2}
-\contentsline {section}{\numberline {3.3}Visual Studio}{29}{section.3.3}
-\contentsline {chapter}{\numberline {4}Logic Implementation with JavaScript}{31}{chapter.4}
-\contentsline {section}{\numberline {4.1}Start Menu}{31}{section.4.1}
-\contentsline {section}{\numberline {4.2}Help}{33}{section.4.2}
-\contentsline {section}{\numberline {4.3}Start Menu}{34}{section.4.3}
-\contentsline {subsection}{\numberline {4.3.1}JavaScript Functions}{35}{subsection.4.3.1}
-\contentsline {subsubsection}{\numberline {4.3.1.1}Start Timer}{35}{subsubsection.4.3.1.1}
-\contentsline {subsubsection}{\numberline {4.3.1.2}End Timer}{35}{subsubsection.4.3.1.2}
-\contentsline {subsubsection}{\numberline {4.3.1.3}Save time stamp}{35}{subsubsection.4.3.1.3}
-\contentsline {subsubsection}{\numberline {4.3.1.4}Set Parameters}{36}{subsubsection.4.3.1.4}
-\contentsline {subsubsection}{\numberline {4.3.1.5}Start Tracking}{36}{subsubsection.4.3.1.5}
-\contentsline {subsubsection}{\numberline {4.3.1.6}Review}{37}{subsubsection.4.3.1.6}
-\contentsline {subsubsection}{\numberline {4.3.1.7}Turn off}{37}{subsubsection.4.3.1.7}
-\contentsline {subsubsection}{\numberline {4.3.1.8}Home}{37}{subsubsection.4.3.1.8}
-\contentsline {subsubsection}{\numberline {4.3.1.9}Read car name}{37}{subsubsection.4.3.1.9}
-\contentsline {subsubsection}{\numberline {4.3.1.10}Save email}{38}{subsubsection.4.3.1.10}
-\contentsline {subsubsection}{\numberline {4.3.1.11}Save car}{39}{subsubsection.4.3.1.11}
-\contentsline {subsection}{\numberline {4.3.2}Used Functionalities}{40}{subsection.4.3.2}
-\contentsline {subsubsection}{\numberline {4.3.2.1}Session Storage}{41}{subsubsection.4.3.2.1}
-\contentsline {subsubsection}{\numberline {4.3.2.2}Local Storage}{41}{subsubsection.4.3.2.2}
-\contentsline {subsubsection}{\numberline {4.3.2.3}AJAX}{42}{subsubsection.4.3.2.3}
-\contentsline {subsection}{\numberline {4.3.3}GUI}{42}{subsection.4.3.3}
-\contentsline {subsubsection}{\numberline {4.3.3.1}Leasing Price}{44}{subsubsection.4.3.3.1}
-\contentsline {subsubsection}{\numberline {4.3.3.2}Technical Information}{44}{subsubsection.4.3.3.2}
-\contentsline {subsubsection}{\numberline {4.3.3.3}Pictures}{46}{subsubsection.4.3.3.3}
-\contentsline {subsubsection}{\numberline {4.3.3.4}Videos}{47}{subsubsection.4.3.3.4}
-\contentsline {subsubsection}{\numberline {4.3.3.5}Review}{48}{subsubsection.4.3.3.5}
-\contentsline {subsubsection}{\numberline {4.3.3.6}Get Favourites}{49}{subsubsection.4.3.3.6}
-\contentsline {subsubsection}{\numberline {4.3.3.7}Add to my Favourites}{50}{subsubsection.4.3.3.7}
-\contentsline {subsection}{\numberline {4.3.4}Slide Panel}{50}{subsection.4.3.4}
-\contentsline {section}{\numberline {4.4}My Favourites}{53}{section.4.4}
-\contentsline {subsection}{\numberline {4.4.1}Loading of favourite cars}{53}{subsection.4.4.1}
-\contentsline {subsection}{\numberline {4.4.2}JS Functions}{55}{subsection.4.4.2}
-\contentsline {subsubsection}{\numberline {4.4.2.1}Delete favourite car}{55}{subsubsection.4.4.2.1}
-\contentsline {subsubsection}{\numberline {4.4.2.2}Delete all favourite cars}{56}{subsubsection.4.4.2.2}
-\contentsline {subsubsection}{\numberline {4.4.2.3}Select favourite car}{56}{subsubsection.4.4.2.3}
-\contentsline {section}{\numberline {4.5}About}{57}{section.4.5}
-\contentsline {chapter}{\numberline {5}Implementation in Android Java and Metaio Tracking}{61}{chapter.5}
-\contentsline {section}{\numberline {5.1}Android Platform}{61}{section.5.1}
-\contentsline {subsection}{\numberline {5.1.1}Android Operation System}{61}{subsection.5.1.1}
-\contentsline {subsection}{\numberline {5.1.2}Android user interface components}{61}{subsection.5.1.2}
-\contentsline {subsection}{\numberline {5.1.3}Develop an Android Application}{62}{subsection.5.1.3}
-\contentsline {subsection}{\numberline {5.1.4}Android Manifest}{62}{subsection.5.1.4}
-\contentsline {subsection}{\numberline {5.1.5}Creating an activity}{63}{subsection.5.1.5}
-\contentsline {subsection}{\numberline {5.1.6}Android web-view}{63}{subsection.5.1.6}
-\contentsline {subsection}{\numberline {5.1.7}Java JavaScript Communication}{63}{subsection.5.1.7}
-\contentsline {subsubsection}{\numberline {5.1.7.1}JavaScript Android Interface}{64}{subsubsection.5.1.7.1}
-\contentsline {section}{\numberline {5.2}Working with the Metaio SDK}{64}{section.5.2}
-\contentsline {subsection}{\numberline {5.2.1}Who is Metaio}{64}{subsection.5.2.1}
-\contentsline {subsection}{\numberline {5.2.2}Other Augmented Reality SDK's}{64}{subsection.5.2.2}
-\contentsline {subsection}{\numberline {5.2.3}Metaio Toolbox}{65}{subsection.5.2.3}
-\contentsline {subsection}{\numberline {5.2.4}AREL ( Augmented Reality Experience Language )}{66}{subsection.5.2.4}
-\contentsline {subsection}{\numberline {5.2.5}Tracking XML}{68}{subsection.5.2.5}
-\contentsline {subsection}{\numberline {5.2.6}Extracting the Tracking XML in Android}{68}{subsection.5.2.6}
-\contentsline {subsubsection}{\numberline {5.2.6.1}Loading the Tracking XML}{70}{subsubsection.5.2.6.1}
-\contentsline {section}{\numberline {5.3}Track Objects}{70}{section.5.3}
-\contentsline {chapter}{\numberline {6}Design Concept}{73}{chapter.6}
-\contentsline {section}{\numberline {6.1}Video Gallery}{73}{section.6.1}
-\contentsline {subsection}{\numberline {6.1.1}Implementation}{75}{subsection.6.1.1}
-\contentsline {section}{\numberline {6.2}hallo}{75}{section.6.2}
-\contentsline {chapter}{Glossary}{76}{section.6.2}
-\contentsline {chapter}{\numberline {A}Appendix}{77}{appendix.A}
-\contentsline {chapter}{Bibliography}{79}{section*.7}
-\contentsline {chapter}{Bibliography}{79}{appendix*.8}
+\contentsline {section}{\numberline {3.2}JetBrains WebStorm}{25}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Overview}{25}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Features}{26}{subsection.3.2.2}
+\contentsline {section}{\numberline {3.3}Visual Studio}{27}{section.3.3}
+\contentsline {chapter}{\numberline {4}Logic Implementation with JavaScript}{29}{chapter.4}
+\contentsline {section}{\numberline {4.1}Start Menu}{29}{section.4.1}
+\contentsline {section}{\numberline {4.2}Help}{31}{section.4.2}
+\contentsline {section}{\numberline {4.3}Start Menu}{32}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}JavaScript Functions}{33}{subsection.4.3.1}
+\contentsline {subsubsection}{\numberline {4.3.1.1}Start timer}{33}{subsubsection.4.3.1.1}
+\contentsline {subsubsection}{\numberline {4.3.1.2}End timer}{33}{subsubsection.4.3.1.2}
+\contentsline {subsubsection}{\numberline {4.3.1.3}Save the time}{33}{subsubsection.4.3.1.3}
+\contentsline {subsubsection}{\numberline {4.3.1.4}Set parameters}{34}{subsubsection.4.3.1.4}
+\contentsline {subsubsection}{\numberline {4.3.1.5}Start car tracking}{34}{subsubsection.4.3.1.5}
+\contentsline {subsubsection}{\numberline {4.3.1.6}Review}{35}{subsubsection.4.3.1.6}
+\contentsline {subsubsection}{\numberline {4.3.1.7}Turn off}{35}{subsubsection.4.3.1.7}
+\contentsline {subsubsection}{\numberline {4.3.1.8}Home}{35}{subsubsection.4.3.1.8}
+\contentsline {subsubsection}{\numberline {4.3.1.9}Read car name}{35}{subsubsection.4.3.1.9}
+\contentsline {subsubsection}{\numberline {4.3.1.10}Save email}{36}{subsubsection.4.3.1.10}
+\contentsline {subsubsection}{\numberline {4.3.1.11}Save car}{37}{subsubsection.4.3.1.11}
+\contentsline {subsection}{\numberline {4.3.2}Used Functionalities}{38}{subsection.4.3.2}
+\contentsline {subsubsection}{\numberline {4.3.2.1}Session Storage}{39}{subsubsection.4.3.2.1}
+\contentsline {subsubsection}{\numberline {4.3.2.2}Local Storage}{39}{subsubsection.4.3.2.2}
+\contentsline {subsubsection}{\numberline {4.3.2.3}AJAX}{40}{subsubsection.4.3.2.3}
+\contentsline {subsection}{\numberline {4.3.3}GUI}{41}{subsection.4.3.3}
+\contentsline {subsubsection}{\numberline {4.3.3.1}Leasing Price}{41}{subsubsection.4.3.3.1}
+\contentsline {subsubsection}{\numberline {4.3.3.2}Technical Information}{41}{subsubsection.4.3.3.2}
+\contentsline {subsubsection}{\numberline {4.3.3.3}Pictures}{42}{subsubsection.4.3.3.3}
+\contentsline {subsubsection}{\numberline {4.3.3.4}Videos}{43}{subsubsection.4.3.3.4}
+\contentsline {subsubsection}{\numberline {4.3.3.5}Review}{44}{subsubsection.4.3.3.5}
+\contentsline {subsubsection}{\numberline {4.3.3.6}Get Favourites}{45}{subsubsection.4.3.3.6}
+\contentsline {subsubsection}{\numberline {4.3.3.7}Add to my Favourites}{46}{subsubsection.4.3.3.7}
+\contentsline {subsection}{\numberline {4.3.4}Slide Panel}{46}{subsection.4.3.4}
+\contentsline {section}{\numberline {4.4}My Favourites}{47}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}Loading of favourite cars}{47}{subsection.4.4.1}
+\contentsline {subsection}{\numberline {4.4.2}JS Functions}{49}{subsection.4.4.2}
+\contentsline {subsubsection}{\numberline {4.4.2.1}Delete favourite car}{49}{subsubsection.4.4.2.1}
+\contentsline {subsubsection}{\numberline {4.4.2.2}Delete all favourite cars}{50}{subsubsection.4.4.2.2}
+\contentsline {subsubsection}{\numberline {4.4.2.3}Select favourite car}{50}{subsubsection.4.4.2.3}
+\contentsline {section}{\numberline {4.5}About}{50}{section.4.5}
+\contentsline {chapter}{\numberline {5}Implementation in Android Java and Metaio Tracking}{59}{chapter.5}
+\contentsline {section}{\numberline {5.1}Android Platform}{59}{section.5.1}
+\contentsline {subsection}{\numberline {5.1.1}Android Operation System}{59}{subsection.5.1.1}
+\contentsline {subsection}{\numberline {5.1.2}Android user interface components}{59}{subsection.5.1.2}
+\contentsline {subsection}{\numberline {5.1.3}Develop an Android Application}{60}{subsection.5.1.3}
+\contentsline {subsection}{\numberline {5.1.4}Android Manifest}{60}{subsection.5.1.4}
+\contentsline {subsection}{\numberline {5.1.5}Creating an activity}{61}{subsection.5.1.5}
+\contentsline {subsection}{\numberline {5.1.6}Android web-view}{61}{subsection.5.1.6}
+\contentsline {subsection}{\numberline {5.1.7}Java JavaScript Communication}{61}{subsection.5.1.7}
+\contentsline {subsubsection}{\numberline {5.1.7.1}JavaScript Android Interface}{62}{subsubsection.5.1.7.1}
+\contentsline {section}{\numberline {5.2}Working with the Metaio SDK}{62}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}Who is Metaio}{62}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {5.2.2}Other Augmented Reality SDK's}{62}{subsection.5.2.2}
+\contentsline {subsection}{\numberline {5.2.3}Metaio Toolbox}{63}{subsection.5.2.3}
+\contentsline {subsection}{\numberline {5.2.4}AREL ( Augmented Reality Experience Language )}{64}{subsection.5.2.4}
+\contentsline {subsection}{\numberline {5.2.5}Tracking XML}{66}{subsection.5.2.5}
+\contentsline {subsection}{\numberline {5.2.6}Extracting the Tracking XML in Android}{66}{subsection.5.2.6}
+\contentsline {subsubsection}{\numberline {5.2.6.1}Loading the Tracking XML}{68}{subsubsection.5.2.6.1}
+\contentsline {section}{\numberline {5.3}Track Objects}{68}{section.5.3}
+\contentsline {chapter}{\numberline {6}Design Concept}{71}{chapter.6}
+\contentsline {section}{\numberline {6.1}Video Gallery}{71}{section.6.1}
+\contentsline {subsection}{\numberline {6.1.1}Implementation}{73}{subsection.6.1.1}
+\contentsline {section}{\numberline {6.2}hallo}{73}{section.6.2}
+\contentsline {chapter}{Glossary}{74}{section.6.2}
+\contentsline {chapter}{\numberline {A}Appendix}{75}{appendix.A}
+\contentsline {chapter}{Bibliography}{77}{section*.7}
+\contentsline {chapter}{Bibliography}{77}{appendix*.8}
