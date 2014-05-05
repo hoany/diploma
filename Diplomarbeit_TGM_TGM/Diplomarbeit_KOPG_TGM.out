@@ -1,0 +1,118 @@
+\BOOKMARK [0][]{chapter*.5}{List of Figures}{}% 1
+\BOOKMARK [0][]{chapter*.6}{List of symbols}{}% 2
+\BOOKMARK [0][]{chapter.1}{Introduction}{}% 3
+\BOOKMARK [1][]{section.1.1}{Background and Motivation}{chapter.1}% 4
+\BOOKMARK [2][]{subsection.1.1.1}{Background}{section.1.1}% 5
+\BOOKMARK [2][]{subsection.1.1.2}{Motivation}{section.1.1}% 6
+\BOOKMARK [1][]{section.1.2}{Objectives of this Thesis}{chapter.1}% 7
+\BOOKMARK [1][]{section.1.3}{Methodology for the Developement}{chapter.1}% 8
+\BOOKMARK [1][]{section.1.4}{Thesis Outline}{chapter.1}% 9
+\BOOKMARK [0][]{chapter.2}{Theoretical Basics}{}% 10
+\BOOKMARK [1][]{section.2.1}{General}{chapter.2}% 11
+\BOOKMARK [1][]{section.2.2}{Augmented Reality}{chapter.2}% 12
+\BOOKMARK [2][]{subsection.2.2.1}{What is Augmented Reality ?}{section.2.2}% 13
+\BOOKMARK [2][]{subsection.2.2.2}{Augmented reality vs Virtual Reality}{section.2.2}% 14
+\BOOKMARK [2][]{subsection.2.2.3}{Companies for Augmented Reality}{section.2.2}% 15
+\BOOKMARK [2][]{subsection.2.2.4}{Google Glasses}{section.2.2}% 16
+\BOOKMARK [2][]{subsection.2.2.5}{Usage of Augmented Reality[8]}{section.2.2}% 17
+\BOOKMARK [3][]{subsubsection.2.2.5.1}{Military and Law Enforcement }{subsection.2.2.5}% 18
+\BOOKMARK [3][]{subsubsection.2.2.5.2}{Vehicles}{subsection.2.2.5}% 19
+\BOOKMARK [3][]{subsubsection.2.2.5.3}{Medical}{subsection.2.2.5}% 20
+\BOOKMARK [3][]{subsubsection.2.2.5.4}{Trail Rooms}{subsection.2.2.5}% 21
+\BOOKMARK [3][]{subsubsection.2.2.5.5}{Tourism}{subsection.2.2.5}% 22
+\BOOKMARK [3][]{subsubsection.2.2.5.6}{Architecture}{subsection.2.2.5}% 23
+\BOOKMARK [3][]{subsubsection.2.2.5.7}{Education}{subsection.2.2.5}% 24
+\BOOKMARK [3][]{subsubsection.2.2.5.8}{Art}{subsection.2.2.5}% 25
+\BOOKMARK [3][]{subsubsection.2.2.5.9}{Translation}{subsection.2.2.5}% 26
+\BOOKMARK [3][]{subsubsection.2.2.5.10}{Weather Forecasting}{subsection.2.2.5}% 27
+\BOOKMARK [2][]{subsection.2.2.6}{Future of Augmented Reality[10]}{section.2.2}% 28
+\BOOKMARK [3][]{subsubsection.2.2.6.1}{Virtual Experiences}{subsection.2.2.6}% 29
+\BOOKMARK [3][]{subsubsection.2.2.6.2}{Holograms}{subsection.2.2.6}% 30
+\BOOKMARK [3][]{subsubsection.2.2.6.3}{Video Conferencing}{subsection.2.2.6}% 31
+\BOOKMARK [3][]{subsubsection.2.2.6.4}{Movies}{subsection.2.2.6}% 32
+\BOOKMARK [3][]{subsubsection.2.2.6.5}{Gesture Control}{subsection.2.2.6}% 33
+\BOOKMARK [2][]{subsection.2.2.7}{Summary}{section.2.2}% 34
+\BOOKMARK [1][]{section.2.3}{Java}{chapter.2}% 35
+\BOOKMARK [2][]{subsection.2.3.1}{What is Java}{section.2.3}% 36
+\BOOKMARK [2][]{subsection.2.3.2}{Class Based \046 Object Oriented}{section.2.3}% 37
+\BOOKMARK [2][]{subsection.2.3.3}{Design Patterns}{section.2.3}% 38
+\BOOKMARK [2][]{subsection.2.3.4}{Performance}{section.2.3}% 39
+\BOOKMARK [2][]{subsection.2.3.5}{JVM}{section.2.3}% 40
+\BOOKMARK [2][]{subsection.2.3.6}{Java bytecode}{section.2.3}% 41
+\BOOKMARK [2][]{subsection.2.3.7}{Java Code Execution Process}{section.2.3}% 42
+\BOOKMARK [3][]{subsubsection.2.3.7.1}{Class Loader}{subsection.2.3.7}% 43
+\BOOKMARK [3][]{subsubsection.2.3.7.2}{Runtime Data Areas}{subsection.2.3.7}% 44
+\BOOKMARK [3][]{subsubsection.2.3.7.3}{Execution Engine}{subsection.2.3.7}% 45
+\BOOKMARK [2][]{subsection.2.3.8}{.JAR File}{section.2.3}% 46
+\BOOKMARK [3][]{subsubsection.2.3.8.1}{Executable JAR }{subsection.2.3.8}% 47
+\BOOKMARK [0][]{chapter.3}{Integrated Development Environment}{}% 48
+\BOOKMARK [1][]{section.3.1}{Andorid SDK Eclipse}{chapter.3}% 49
+\BOOKMARK [2][]{subsection.3.1.1}{Eclipse Workbench}{section.3.1}% 50
+\BOOKMARK [2][]{subsection.3.1.2}{Android SDK}{section.3.1}% 51
+\BOOKMARK [1][]{section.3.2}{JetBrains WebStorm}{chapter.3}% 52
+\BOOKMARK [2][]{subsection.3.2.1}{Overview}{section.3.2}% 53
+\BOOKMARK [2][]{subsection.3.2.2}{Features}{section.3.2}% 54
+\BOOKMARK [1][]{section.3.3}{Visual Studio}{chapter.3}% 55
+\BOOKMARK [0][]{chapter.4}{Logic Implementation with JavaScript}{}% 56
+\BOOKMARK [1][]{section.4.1}{Start Menu}{chapter.4}% 57
+\BOOKMARK [1][]{section.4.2}{Help}{chapter.4}% 58
+\BOOKMARK [1][]{section.4.3}{Start Menu}{chapter.4}% 59
+\BOOKMARK [2][]{subsection.4.3.1}{JavaScript Functions}{section.4.3}% 60
+\BOOKMARK [3][]{subsubsection.4.3.1.1}{Start Timer}{subsection.4.3.1}% 61
+\BOOKMARK [3][]{subsubsection.4.3.1.2}{End Timer}{subsection.4.3.1}% 62
+\BOOKMARK [3][]{subsubsection.4.3.1.3}{Save time stamp}{subsection.4.3.1}% 63
+\BOOKMARK [3][]{subsubsection.4.3.1.4}{Set Parameters}{subsection.4.3.1}% 64
+\BOOKMARK [3][]{subsubsection.4.3.1.5}{Start Tracking}{subsection.4.3.1}% 65
+\BOOKMARK [3][]{subsubsection.4.3.1.6}{Review}{subsection.4.3.1}% 66
+\BOOKMARK [3][]{subsubsection.4.3.1.7}{Turn off}{subsection.4.3.1}% 67
+\BOOKMARK [3][]{subsubsection.4.3.1.8}{Home}{subsection.4.3.1}% 68
+\BOOKMARK [3][]{subsubsection.4.3.1.9}{Read car name}{subsection.4.3.1}% 69
+\BOOKMARK [3][]{subsubsection.4.3.1.10}{Save email}{subsection.4.3.1}% 70
+\BOOKMARK [3][]{subsubsection.4.3.1.11}{Save car}{subsection.4.3.1}% 71
+\BOOKMARK [2][]{subsection.4.3.2}{Used Functionalities}{section.4.3}% 72
+\BOOKMARK [3][]{subsubsection.4.3.2.1}{Session Storage}{subsection.4.3.2}% 73
+\BOOKMARK [3][]{subsubsection.4.3.2.2}{Local Storage}{subsection.4.3.2}% 74
+\BOOKMARK [3][]{subsubsection.4.3.2.3}{AJAX}{subsection.4.3.2}% 75
+\BOOKMARK [2][]{subsection.4.3.3}{GUI}{section.4.3}% 76
+\BOOKMARK [3][]{subsubsection.4.3.3.1}{Leasing Price}{subsection.4.3.3}% 77
+\BOOKMARK [3][]{subsubsection.4.3.3.2}{Technical Information}{subsection.4.3.3}% 78
+\BOOKMARK [3][]{subsubsection.4.3.3.3}{Pictures}{subsection.4.3.3}% 79
+\BOOKMARK [3][]{subsubsection.4.3.3.4}{Videos}{subsection.4.3.3}% 80
+\BOOKMARK [3][]{subsubsection.4.3.3.5}{Review}{subsection.4.3.3}% 81
+\BOOKMARK [3][]{subsubsection.4.3.3.6}{Get Favourites}{subsection.4.3.3}% 82
+\BOOKMARK [3][]{subsubsection.4.3.3.7}{Add to my Favourites}{subsection.4.3.3}% 83
+\BOOKMARK [2][]{subsection.4.3.4}{Slide Panel}{section.4.3}% 84
+\BOOKMARK [1][]{section.4.4}{My Favourites}{chapter.4}% 85
+\BOOKMARK [2][]{subsection.4.4.1}{Loading of favourite cars}{section.4.4}% 86
+\BOOKMARK [2][]{subsection.4.4.2}{JS Functions}{section.4.4}% 87
+\BOOKMARK [3][]{subsubsection.4.4.2.1}{Delete favourite car}{subsection.4.4.2}% 88
+\BOOKMARK [3][]{subsubsection.4.4.2.2}{Delete all favourite cars}{subsection.4.4.2}% 89
+\BOOKMARK [3][]{subsubsection.4.4.2.3}{Select favourite car}{subsection.4.4.2}% 90
+\BOOKMARK [1][]{section.4.5}{About}{chapter.4}% 91
+\BOOKMARK [0][]{chapter.5}{Implementation in Android Java and Metaio Tracking}{}% 92
+\BOOKMARK [1][]{section.5.1}{Android Platform}{chapter.5}% 93
+\BOOKMARK [2][]{subsection.5.1.1}{Android Operation System}{section.5.1}% 94
+\BOOKMARK [2][]{subsection.5.1.2}{Android user interface components}{section.5.1}% 95
+\BOOKMARK [2][]{subsection.5.1.3}{Develop an Android Application}{section.5.1}% 96
+\BOOKMARK [2][]{subsection.5.1.4}{Android Manifest}{section.5.1}% 97
+\BOOKMARK [2][]{subsection.5.1.5}{Creating an activity}{section.5.1}% 98
+\BOOKMARK [2][]{subsection.5.1.6}{Android web-view}{section.5.1}% 99
+\BOOKMARK [2][]{subsection.5.1.7}{Java JavaScript Communication}{section.5.1}% 100
+\BOOKMARK [3][]{subsubsection.5.1.7.1}{JavaScript Android Interface}{subsection.5.1.7}% 101
+\BOOKMARK [1][]{section.5.2}{Working with the Metaio SDK}{chapter.5}% 102
+\BOOKMARK [2][]{subsection.5.2.1}{Who is Metaio}{section.5.2}% 103
+\BOOKMARK [2][]{subsection.5.2.2}{Other Augmented Reality SDK's}{section.5.2}% 104
+\BOOKMARK [2][]{subsection.5.2.3}{Metaio Toolbox}{section.5.2}% 105
+\BOOKMARK [2][]{subsection.5.2.4}{AREL \( Augmented Reality Experience Language \)}{section.5.2}% 106
+\BOOKMARK [2][]{subsection.5.2.5}{Tracking XML}{section.5.2}% 107
+\BOOKMARK [2][]{subsection.5.2.6}{Extracting the Tracking XML in Android}{section.5.2}% 108
+\BOOKMARK [3][]{subsubsection.5.2.6.1}{Loading the Tracking XML}{subsection.5.2.6}% 109
+\BOOKMARK [1][]{section.5.3}{Track Objects}{chapter.5}% 110
+\BOOKMARK [0][]{chapter.6}{Design Concept}{}% 111
+\BOOKMARK [1][]{section.6.1}{Video Gallery}{chapter.6}% 112
+\BOOKMARK [2][]{subsection.6.1.1}{Implementation}{section.6.1}% 113
+\BOOKMARK [1][]{section.6.2}{hallo}{chapter.6}% 114
+\BOOKMARK [0][]{section.6.2}{Glossary}{}% 115
+\BOOKMARK [0][]{appendix.A}{Appendix}{}% 116
+\BOOKMARK [0][]{section*.7}{Bibliography}{}% 117
+\BOOKMARK [0][]{appendix*.8}{Bibliography}{}% 118
