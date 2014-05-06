@@ -803,3 +803,67 @@ The \textbf{about} display has no logic and no self made functions except one th
 \caption{About display}
 \label{fig:18}
 \end{figure}
+
+
+\subsection{Photo Gallery}
+In this subchapter it describes the functionality of the photo gallery . The photo gallery is a feature of this project NAVAR. This feature shows the picture of the car which has been tracked by the NAVAR App. The Photo gallery is a plugin  from the photo swipe webpage. The Logic of the Photo swipe is implemented in a javaScript Library from photo swipe$\rightarrow$ klass.min.js. The functionality of the Design is defined in a css file$\rightarrow$ photoswipe.css. In this project it combined the Library form the photo swipe with the Library from jQuery Mobile. Furthermore the Table shows a Code snippet how to use the Library for this project:
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=0.4\linewidth]{graphics/photoswipe.PNG}
+\caption{Photoswipe}
+\end{figure}
+
+Furthermore the pictures are saved on a server and in the Gallery we saved the URL of these pictures. The URL's are saved in an Array which has the id Gallery. For each car there is an Array with URL's of the pictures. Besides the photo swipe has the function to set a automatic Diashow.\\\\
+
+\subsection{Sessionstorage}
+Moreover ,the function called Sessionstorage is one of the big functionalities in this project. The Sessionstorage saves the value not persist, it means if the App is closed or has been ended  the value will be wiped out . In the next Session or if the App has been started , there will be a new Sessionstorage. In this case the Project NAVAR uses the Sessionstorage to save the ID from the car, which has been tracked. Sessionstorage allows  to save a large amount of  key/value pairs and lots of text. This feature is impossible to do  via cookie. This kind of functionality uses  a protocol to save the Data. This protocol checks if the key and the value are a string, but if not it convert them to a string. Furthermore if a key was already present, its entry  has to be removed and the new one will be appended. The SessionStorage has it own methods for specific functionality.\\\\
+
+First method is used to tell how many key/pair the SessionStorage contains. This method has the same function ,which tells the length of an Array, HTMLCollection \dots
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=0.4\linewidth]{graphics/sessionstorage1.PNG}
+\caption{Sessionstorage}
+\end{figure}
+
+The second Method of Sessionstorage is called \textbf{setItem(key:string,data:string)}. This method stores  a specified key  and the data. But if the key has been already stored and it uses the same key it will be overwritten. $\rightarrow$Example for setItem:\textbf{ sessionStorage.setItem('testkey','testvalue')}.
+The third function is to get Data from the a specified key ,which has been already set. This method accepts any sort of string ,which has been used as key and returns the associated string as value or null if the key has not been stored before. Example:\\
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=0.4\linewidth]{graphics/sessionstorage2.PNG}
+\caption{Sessionstorage}
+\end{figure}
+
+The last function is how to remove the key if it has no need for the Session. Example:
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=0.4\linewidth]{graphics/sessionstorage3.PNG}
+\caption{Sessionstorage}
+\end{figure}
+
+\subsection{Dynamic Selection of Colour}
+This product has the feature to select the colour of the car . In the Technical Information the user has the opportunity to chose the colour of the Car, which has been tracked. The following code in the Figure shows how to create a dynamic selector with JavaScript:
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=0.4\linewidth]{graphics/sessionstorage41.PNG}
+\caption{Sessionstorage}
+\end{figure}
+The following picture shows how the Technical Info table looks like:
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=0.4\linewidth]{graphics/chapter4/6.png}
+\caption{Table}
+\end{figure}
+The second picture shows how the dynamic List of items from the Selector looks like:
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=0.4\linewidth]{graphics/chapter4/fg6.png}
+\caption{Selector}
+\end{figure}
+Furthermore there is  a logic implemented which checks if the Colour is white or Black , that changes the colour of the font. The following code snippet shows how to write it:\\
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=0.4\linewidth]{graphics/bgfn.png}
+\caption{Condition}
+\end{figure}

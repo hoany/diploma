@@ -21,6 +21,36 @@
 \providecommand{\BIBdecl}{\relax}
 \BIBdecl
 
+\bibitem{ARpad}
+\BIBentryALTinterwordspacing
+Arpad. [Online]. Available: \url{http://www.emilyedu.info/2014/03/}
+\BIBentrySTDinterwordspacing
+
+\bibitem{glasses01}
+\BIBentryALTinterwordspacing
+C.~Janssen. Glassesbild und text. [Online]. Available:
+  \url{http://www.digitaltrends.com/mobile/entitled-acting-tech-nerd-kicks-google-glass-ban-controversy/
+  http://www.techopedia.com/definition/28524/google-glass}
+\BIBentrySTDinterwordspacing
+
+\bibitem{glassesPic}
+\BIBentryALTinterwordspacing
+ [Online]. Available:
+  \url{http://www.glassappsource.com/google-glass-features/secret-features-google-glass.html}
+\BIBentrySTDinterwordspacing
+
+\bibitem{smartcar}
+\BIBentryALTinterwordspacing
+ [Online]. Available:
+  \url{https://blogs.lt.vt.edu/jdschmitt2/augmented-reality-what-will-the-future-hold/}
+\BIBentrySTDinterwordspacing
+
+\bibitem{statistics}
+\BIBentryALTinterwordspacing
+ [Online]. Available:
+  \url{http://www.hiddenltd.com/blog/marketing-augmented-reality-infographic/}
+\BIBentrySTDinterwordspacing
+
 \bibitem{javaObjectClass}
 \BIBentryALTinterwordspacing
 Mozilla. (2014) Java object model. [Online]. Available:
@@ -46,37 +76,26 @@ w3schools. (2014) \BIBforeignlanguage{English}{Ajax introduction}. online.
   \url{http://www.w3schools.com/ajax/ajax_intro.asp}
 \BIBentrySTDinterwordspacing
 
-\bibitem{localstorageapi}
+\bibitem{augmenteddef}
 \BIBentryALTinterwordspacing
-P.~Fox. (May 28 2012) The localstorage api. [Online]. Available:
-  \url{http://www.drdobbs.com/web-development/the-localstorage-api/240000682}
+b2bsales@quinstreet.com. Augmented reality definition. [Online]. Available:
+  \url{http://www.webopedia.com/TERM/A/Augmented_Reality.html}
 \BIBentrySTDinterwordspacing
 
-\bibitem{localstorageexample}
+\bibitem{AugmentedBook}
+R.~Sood, \emph{Pro Android Augmented Reality}, S.~Anglin, Ed.\hskip 1em plus
+  0.5em minus 0.4em\relax Paul Manning, 2012.
+
+\bibitem{Tango}
 \BIBentryALTinterwordspacing
-M.~Pilgrim. (2014) The past, present \& future of local storage for web
-  applications. [Online]. Available:
-  \url{http://diveintohtml5.info/storage.html}
+Google. (2012) Project tango. [Online]. Available:
+  \url{https://www.google.com/atap/projecttango/}
 \BIBentrySTDinterwordspacing
 
-\bibitem{test}
-lol.
-
-\bibitem{koppensteiner_knowledge_2011}
-G.~Koppensteiner, R.~Hametner, R.~Paris, A.~Passani, and M.~Merdan, ``Knowledge
-  driven mobile robots applied in the disassembly domain,'' in
-  \emph{Automation, Robotics and Applications (ICARA), 2011 5th International
-  Conference on}, dec. 2011, pp. 52 --56.
-
-\bibitem{merdan_kasa_2009}
-M.~Merdan, ``Knowledge-based multi-agent architecture applied in the assembly
-  domain,'' Ph.D. dissertation, Vienna University of Technology, 2009.
-
-\bibitem{bellifemine_book2_2007}
+\bibitem{functionsglasses}
 \BIBentryALTinterwordspacing
-F.~L. Bellifemine, G.~Caire, and D.~Greenwood, \emph{Developing Multi-Agent
-  Systems with JADE V2}.\hskip 1em plus 0.5em minus 0.4em\relax Wiley, 2007.
-  [Online]. Available: \url{http://www.amazon.ca}
+T.~T.~O. INDIA. [Online]. Available:
+  \url{http://timesofindia.indiatimes.com/tech/slideshow/googleglass/Translate/itslideshow/18609226.cms}
 \BIBentrySTDinterwordspacing
 
 \bibitem{JavaWhat}
@@ -151,6 +170,23 @@ M.~Rouse. (2005) Java jar archive. [Online]. Available:
   \url{http://searchdatamanagement.techtarget.com/definition/JAR-file}
 \BIBentrySTDinterwordspacing
 
+\bibitem{javascript}
+\BIBentryALTinterwordspacing
+About.com. [Online]. Available:
+  \url{http://javascript.about.com/od/reference/p/javascript.htm}
+\BIBentrySTDinterwordspacing
+
+\bibitem{html5}
+\BIBentryALTinterwordspacing
+W3Schools. [Online]. Available:
+  \url{http://www.w3schools.com/html/html5_intro.asp}
+\BIBentrySTDinterwordspacing
+
+\bibitem{CSS3}
+\BIBentryALTinterwordspacing
+W3Schools. [Online]. Available: \url{www.w3schools.com/css/css3_intro.asp}
+\BIBentrySTDinterwordspacing
+
 \bibitem{xml}
 \BIBentryALTinterwordspacing
 w3. (2013, 10) \BIBforeignlanguage{English}{Extensible markup language (xml)}.
@@ -193,18 +229,6 @@ WebStorm. (2014) Webstorm - the smartest javascjava ide. [Online]. Available:
   \url{http://www.jetbrains.com/webstorm/}
 \BIBentrySTDinterwordspacing
 
-\bibitem{vstudio1}
-\BIBentryALTinterwordspacing
-M.~us/products/visual-studio-online-overview vs.aspx. (2014) Any app, any team.
-  [Online]. Available: \url{http://www.visualstudio.com/en-us/dn469161}
-\BIBentrySTDinterwordspacing
-
-\bibitem{w3school}
-\BIBentryALTinterwordspacing
-w3school. (2014) Html5 web storage. [Online]. Available:
-  \url{http://www.w3schools.com/html/html5_webstorage.asp}
-\BIBentrySTDinterwordspacing
-
 \bibitem{androidDevTut}
 \BIBentryALTinterwordspacing
 L.~Vogel. (2013) Android development tutorial. [Online]. Available:
@@ -239,6 +263,12 @@ Metaio. (2014) Metaio toolbox. [Online]. Available:
 \BIBentryALTinterwordspacing
 Google. (2014) Andriod async task. [Online]. Available:
   \url{http://developer.android.com/reference/android/os/AsyncTask.html}
+\BIBentrySTDinterwordspacing
+
+\bibitem{Panel}
+\BIBentryALTinterwordspacing
+jQueryMobile. [Online]. Available:
+  \url{http://demos.jquerymobile.com/1.3.0-beta.1/docs/panels/}
 \BIBentrySTDinterwordspacing
 
 \bibitem{jqueryVideo}

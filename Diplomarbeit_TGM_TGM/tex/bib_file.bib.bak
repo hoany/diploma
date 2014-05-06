@@ -29,6 +29,14 @@
   url = {http://dx.doi.org/10.1007/978-3-540-92673-3_32}
 }
 
+@ONLINE{javascript,
+  author = {About.com},
+  url = {http://javascript.about.com/od/reference/p/javascript.htm},
+  urldate = {04-05-2014},
+  owner = {User},
+  timestamp = {2014.05.04}
+}
+
 @ONLINE{javaVmstover,
   title = {Java Constant Pool},
   author = {Axtavt},
@@ -37,6 +45,15 @@
   urldate = {19-04-2014},
   owner = {Thomas},
   timestamp = {2014.04.19}
+}
+
+@ONLINE{augmenteddef,
+  title = {Augmented Reality Definition},
+  author = {b2bsales@quinstreet.com},
+  url = {http://www.webopedia.com/TERM/A/Augmented_Reality.html},
+  urldate = {04-05-2014},
+  owner = {User},
+  timestamp = {2014.05.04}
 }
 
 @ARTICLE{bellifemine_jade_2008,
@@ -147,15 +164,6 @@
   timestamp = {2014.04.20}
 }
 
-@ONLINE{localstorageapi,
-  title = {The localStorage API},
-  author = {Pamela Fox},
-  year = {May 28 2012},
-  url = {http://www.drdobbs.com/web-development/the-localstorage-api/240000682},
-  owner = {Aleksey},
-  timestamp = {2014.05.05}
-}
-
 @ONLINE{andoirdAsyncTask,
   title = {Andriod Async Task},
   author = {Google},
@@ -186,6 +194,16 @@
   timestamp = {2014.04.19}
 }
 
+@ONLINE{Tango,
+  title = {Project Tango},
+  author = {Google},
+  year = {2012},
+  url = {https://www.google.com/atap/projecttango/},
+  urldate = {04-05-2014},
+  owner = {User},
+  timestamp = {2014.05.04}
+}
+
 @ARTICLE{gruber_a-translation_1993,
   author = {Gruber, Thomas R.},
   title = {A translation approach to portable ontology specifications},
@@ -203,6 +221,23 @@
   numpages = {22},
   publisher = {Academic Press Ltd.},
   url = {http://portal.acm.org/citation.cfm?id=173743.173747}
+}
+
+@ONLINE{functionsglasses,
+  author = {THE TIMES OF INDIA},
+  url = {http://timesofindia.indiatimes.com/tech/slideshow/googleglass/Translate/itslideshow/18609226.cms},
+  urldate = {04-05-2014},
+  owner = {User},
+  timestamp = {2014.05.04}
+}
+
+@ONLINE{glasses01,
+  title = {GlassesBild und text},
+  author = {Cory Janssen},
+  url = {http://www.digitaltrends.com/mobile/entitled-acting-tech-nerd-kicks-google-glass-ban-controversy/ http://www.techopedia.com/definition/28524/google-glass},
+  urldate = {04-05-2014},
+  owner = {User},
+  timestamp = {2014.05.04}
 }
 
 @MANUAL{JavaScriptprogramminglanguage2003,
@@ -406,6 +441,14 @@
 	© 2003 - 2013 JetBrains, Inc. All rights reserved.}
 }
 
+@ONLINE{Panel,
+  author = {jQueryMobile},
+  url = {http://demos.jquerymobile.com/1.3.0-beta.1/docs/panels/},
+  urldate = {05-05-2014},
+  owner = {User},
+  timestamp = {2014.05.05}
+}
+
 @INPROCEEDINGS{koppensteiner_knowledge_2011,
   author = {Koppensteiner, G. and Hametner, R. and Paris, R. and Passani, A.M.
 	and Merdan, M.},
@@ -550,15 +593,6 @@
   timestamp = {2014.04.14}
 }
 
-@ONLINE{localstorageexample,
-  title = {THE PAST, PRESENT \& FUTURE OF LOCAL STORAGE FOR WEB APPLICATIONS},
-  author = {Mark Pilgrim},
-  year = {2014},
-  url = {http://diveintohtml5.info/storage.html},
-  owner = {Aleksey},
-  timestamp = {2014.05.05}
-}
-
 @ARTICLE{pohl_heuristic_1970,
   author = {Ira Pohl},
   title = {Heuristic search viewed as path finding in a graph},
@@ -601,6 +635,16 @@
   timestamp = {2014.04.29}
 }
 
+@BOOK{AugmentedBook,
+  title = {Pro Android Augmented Reality},
+  publisher = {Paul Manning},
+  year = {2012},
+  editor = {Steve Anglin},
+  author = {Raghav Sood},
+  owner = {User},
+  timestamp = {2014.05.04}
+}
+
 @ONLINE{stackBased_vs_registerBased,
   title = {Stack based cpu vs register based},
   author = {Kostja Stern},
@@ -621,13 +665,20 @@
   timestamp = {2014.04.19}
 }
 
-@ONLINE{w3school,
-  title = {HTML5 Web Storage},
-  author = {w3school},
-  year = {2014},
-  url = {http://www.w3schools.com/html/html5_webstorage.asp},
-  owner = {Aleksey},
-  timestamp = {2014.05.05}
+@ONLINE{CSS3,
+  author = {W3Schools},
+  url = {www.w3schools.com/css/css3_intro.asp},
+  urldate = {04-05-2014},
+  owner = {User},
+  timestamp = {2014.05.04}
+}
+
+@ONLINE{html5,
+  author = {W3Schools},
+  url = {http://www.w3schools.com/html/html5_intro.asp},
+  urldate = {04-05-2014},
+  owner = {User},
+  timestamp = {2014.05.04}
 }
 
 @ONLINE{javaDataAreas,
@@ -645,15 +696,6 @@
   booktitle = {Webstorm},
   date = {2014},
   title = {Features}
-}
-
-@ONLINE{webstorm,
-  title = {WebStorm - The smartest JavaScJava IDE},
-  author = {WebStorm},
-  year = {2014},
-  url = {http://www.jetbrains.com/webstorm/},
-  owner = {Aleksey},
-  timestamp = {2014.05.02}
 }
 
 @ONLINE{webstorm,
@@ -687,11 +729,26 @@
   urldate = {2012-09-13}
 }
 
+@ONLINE{ARpad,
+  title = {ARpad},
+  url = {http://www.emilyedu.info/2014/03/},
+  urldate = {04-05-2014},
+  owner = {User},
+  timestamp = {2014.05.04}
+}
+
 @MISC{gitWhat,
   title = {Git How To},
   owner = {Thomas},
   timestamp = {2014.04.29},
   url = {http://www.sbf5.com/~cduan/technical/git/git-1.shtml#simple-example}
+}
+
+@ONLINE{glassesPic,
+  url = {http://www.glassappsource.com/google-glass-features/secret-features-google-glass.html},
+  urldate = {04-05-2014},
+  owner = {User},
+  timestamp = {2014.05.04}
 }
 
 @MISC{javaGarbageCollector,
@@ -704,6 +761,32 @@
   owner = {Thomas},
   timestamp = {2014.04.20},
   url = {http://en.wikipedia.org/wiki/Java_%28programming_language%29}
+}
+
+@ONLINE{sessionstorage,
+  url = {https://code.google.com/p/sessionstorage/},
+  urldate = {05-05-2014},
+  owner = {User},
+  timestamp = {2014.05.05}
+}
+
+@ONLINE{smartcar,
+  url = {https://blogs.lt.vt.edu/jdschmitt2/augmented-reality-what-will-the-future-hold/},
+  urldate = {04-05-2014},
+  owner = {User},
+  timestamp = {2014.05.04}
+}
+
+@ONLINE{statistics,
+  url = {http://www.hiddenltd.com/blog/marketing-augmented-reality-infographic/},
+  urldate = {04-05-2014},
+  owner = {User},
+  timestamp = {2014.05.04}
+}
+
+@OTHER{,
+  owner = {Aleksey},
+  timestamp = {2014.05.02}
 }
 
 @comment{jabref-meta: selector_publisher:}

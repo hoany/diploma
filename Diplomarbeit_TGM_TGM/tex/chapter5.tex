@@ -167,7 +167,7 @@ There are many other augmented reality technologies on the market:
 \item \textbf{Qualcomm Vuforia}: The Vuforia platform is mostly used for image recognition.
 
 \item \textbf{Total Immersion D'Fusion}:
-D'Fusion is the world?s most widely-used commercial Augmented Reality solution. Unfortunately there are no free versions.
+D'Fusion is the world's most widely-used commercial Augmented Reality solution. Unfortunately there are no free versions.
 
 \item \textbf{Wikitude}: Wikitude is a powerful augmented reality sdk.However the cheapest SDK version costs 99\$.
 
@@ -363,3 +363,40 @@ public void onTrackingEvent(TrackingValuesVector trackingValues)
  }
 }
 \end{lstlisting}
+\section{Get Email Account from an Android device}
+This product has  a small feature, it saves the email address from the smartphone and this email Address will be sent to the Navision Server. In this paragraph it describes how the project team implemented the feature in this Application.
+Description \& Codesnippet:
+This method will be invoked by the method getmail. This method will be explained in the next row. The getAccount() method  filters the Google Accounts . This happened through the Method getAccountsByType('com.google');.
+Furthermore if the first object of the Account Array is bigger then the value of Account  it will be returned.
+
+\begin{lstlisting}[language=java, caption= Accounts]
+	private static Account getAccount(AccountManager accountManager) {
+        Account[] accounts = accountManager.getAccountsByType("com.google");
+        Account account;
+        if (accounts.length > 0) {
+            account = accounts[0];     
+        } else {
+            account = null;
+        }
+        return account;
+    }
+
+\end{lstlisting}
+
+In this  Method it returns the Account object as String value. This happens through the Accountmanager and this method invokes the getAccount method. With the account Object it checks if it null if not then it returns the email address as String object.
+
+
+\begin{lstlisting}[language=java, caption= Email]
+static String getEmail(Context context) {
+        AccountManager accountManager = AccountManager.get(context); 
+        Account account = getAccount(accountManager);
+
+        if (account == null) {
+            return null;
+        } else {
+            return account.name;
+        }
+    }
+
+\end{lstlisting}
+The Email Address will be saved in a file , so the application  have to read the email address from the file. 

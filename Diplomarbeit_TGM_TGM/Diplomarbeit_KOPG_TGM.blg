@@ -1,4 +1,6 @@
-This is BibTeX, Version 0.99dThe top-level auxiliary file: Diplomarbeit_KOPG_TGM.aux
+This is BibTeX, Version 0.99d (TeX Live 2013/W32TeX)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: Diplomarbeit_KOPG_TGM.aux
 A level-1 auxiliary file: tex/title.aux
 A level-1 auxiliary file: tex/prefacea.aux
 A level-1 auxiliary file: tex/abstracta.aux
@@ -13,13 +15,56 @@ A level-1 auxiliary file: tex/chapter6.aux
 A level-1 auxiliary file: tex/chapter7.aux
 A level-1 auxiliary file: tex/chapter8.aux
 A level-1 auxiliary file: tex/chapter9.aux
-A level-1 auxiliary file: tex/appendix.aux
 The style file: sty/IEEEtranS.bst
 A level-1 auxiliary file: tex/eid.aux
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: tex/bib_file.bib
-Repeated entry---line 759 of file tex/bib_file.bib
- : @online{webstorm
- :                 ,
-I'm skipping whatever remains of this entry
-Warning--I didn't find a database entry for "ObjectClass"
-(There was 1 error message)
+Warning--I didn't find a database entry for "localstorageapi"
+Warning--I didn't find a database entry for "localstorageexample"
+Warning--I didn't find a database entry for "w3school"
+You've used 43 entries,
+            4483 wiz_defined-function locations,
+            1088 strings with 12643 characters,
+and the built_in function-call counts, 13938 in all, are:
+= -- 1041
+> -- 158
+< -- 0
++ -- 81
+- -- 38
+* -- 363
+:= -- 2646
+add.period$ -- 80
+call.type$ -- 43
+change.case$ -- 33
+chr.to.int$ -- 0
+cite$ -- 43
+duplicate$ -- 1128
+empty$ -- 1431
+format.name$ -- 38
+if$ -- 2939
+int.to.chr$ -- 0
+int.to.str$ -- 43
+missing$ -- 294
+newline$ -- 234
+num.names$ -- 39
+pop$ -- 971
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 1097
+stack$ -- 0
+substring$ -- 0
+swap$ -- 649
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 43
+warning$ -- 0
+while$ -- 38
+width$ -- 45
+write$ -- 422
+(There were 3 warnings)
