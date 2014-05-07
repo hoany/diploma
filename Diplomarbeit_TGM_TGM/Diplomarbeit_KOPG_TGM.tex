@@ -34,6 +34,7 @@
 \usepackage{tocbibind}
 \usepackage{amsmath}
 \usepackage{float}
+\usepackage{titlesec}
 %\input{tex/acronyms}
 %%-----------------------------------------------------------------------
 % Using the Hyperref-Package for PDF-Online Version
@@ -139,6 +140,13 @@
 % Counter
 %%-----------------------------------------------------------------------
 
+\titleformat{\chapter}[display]
+  {\bfseries\huge}
+  {\filleft\Large\chaptertitlename~\thechapter}
+  {3ex}
+  {\titlerule\vspace{1.5ex}\filleft}
+  [\vspace{1ex}\titlerule]
+  
 
 \setcounter{secnumdepth}{3}%
 \setcounter{tocdepth}{3}%

@@ -43,9 +43,9 @@
 \contentsline {lstlisting}{\numberline {5.9}Email}{78}{lstlisting.5.9}
 \contentsline {lstlisting}{\numberline {6.1}jQuery Page}{81}{lstlisting.6.1}
 \contentsline {lstlisting}{\numberline {6.2}Input Library}{81}{lstlisting.6.2}
-\contentsline {lstlisting}{\numberline {6.3}Panel definition in Header}{83}{lstlisting.6.3}
-\contentsline {lstlisting}{\numberline {6.4}extracts from the video gallery src}{85}{lstlisting.6.4}
-\contentsline {lstlisting}{\numberline {6.5}extracts from the video gallery src}{87}{lstlisting.6.5}
+\contentsline {lstlisting}{\numberline {6.3}Panel definition in Header}{84}{lstlisting.6.3}
+\contentsline {lstlisting}{\numberline {6.4}extracts from the video gallery src}{86}{lstlisting.6.4}
+\contentsline {lstlisting}{\numberline {6.5}extracts from the video gallery src}{88}{lstlisting.6.5}
 \contentsline {lstlisting}{\numberline {7.1}Example reading webservice}{91}{lstlisting.7.1}
 \contentsline {lstlisting}{\numberline {7.2}Example writing to web service}{92}{lstlisting.7.2}
 \contentsline {lstlisting}{\numberline {7.3}readcarname example}{94}{lstlisting.7.3}
