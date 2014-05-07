@@ -63,7 +63,7 @@ It also contains al list of security permissions. We had to add the camera, inte
 
 
 \begin{lstlisting}[language=xml, caption= 
-extracts from our AndroidManifest]
+extracts from our AndroidManifest,captionpos=b]
 <uses-permission android:name=
 	"android.permission.CAMERA" />
 <uses-permission android:name=
@@ -89,7 +89,7 @@ We used the Activity sub-class \textbf{DroidGap} from \textbf{phonegap} to build
 
 
 \begin{lstlisting}[language=java, caption= 
-extracts from our source code]
+extracts from our source code,captionpos=b]
 public class MainMenue extends DroidGap {
 	...
 	public void onCreate(Bundle savedInstanceState)
@@ -112,7 +112,7 @@ In the section above we mentioned that we used html pages to create the view of 
 
 
 First javascript must be enabled:
-\begin{lstlisting}[language=java]
+\begin{lstlisting}[language=java,captionpos=b, caption=??????]
 super.appView.getSettings().setJavaScriptEnabled(true);
 \end{lstlisting}
 
@@ -128,7 +128,7 @@ With such an interface it is possible to call activity methods form JavaScript. 
 \\
 
 First we had to write a JavaScript function:
-\begin{lstlisting}[language=html]
+\begin{lstlisting}[language=html, captionpos=b]
 <script language="Javascript">
 function trackClick() {
         MyTracking.performClick();
@@ -144,7 +144,7 @@ function trackClick() {
 
 
 Then add a JavaScript interface to the activity:
-\begin{lstlisting}[language=java]
+\begin{lstlisting}[language=java, caption=?????, captionpos=b]
 super.addJavascriptInterface(new Object()
 {
 	public void performClick()
@@ -240,7 +240,7 @@ However AREL scenes where not use in the project because they only offered a lim
 
 \subsection{Tracking XML}
 The Tracking XML file is an XML file which can be created by the Metaio Creater or written by hand. It contains all of the tracking data. (3D Maps, etc. ..)
-\begin{lstlisting}[language=xml, caption=Tracking XML example]
+\begin{lstlisting}[language=xml, caption=Tracking XML example,captionpos=b]
 <?xml version='1.0' encoding='UTF-8'?>
 <TrackingData>
 	<Sensors>
@@ -288,7 +288,7 @@ The files than have to be extracted by the \textit{AssetsManager} to make them a
 
 The AsyncTask enables proper and easy use of the UI thread. This class allows to perform background operations and publish results on the UI thread. AsyncTasks should ideally be used for short operations (a few seconds at the most.) For threads that need to be running for long periods of time, it is recommended you use the various APIs provided by the java.util.concurrent pacakge such as \textit{Executor}, \textit{ThreadPoolExecutor} and \textit{FutureTask}.\cite{andoirdAsyncTask} 
 
-\begin{lstlisting}[language=java, caption=Extracting Assets]
+\begin{lstlisting}[language=java, caption=Extracting Assets,captionpos=b]
 private class AssetsExtracter extends AsyncTask
 {		
 	@Override
@@ -330,7 +330,7 @@ private class AssetsExtracter extends AsyncTask
 \end{lstlisting}
 The AsyncTask gets executed like this:
 
-\begin{lstlisting}[language=java, caption=executing AsyncTask]
+\begin{lstlisting}[language=java, caption=executing AsyncTask,captionpos=b]
  AssetsExtracter asyncTask=new AssetsExtracter();
  //executing the task
  asyncTask.execute(0);
@@ -348,7 +348,7 @@ onPostExecute extracts the path to the tracking.xml and than starts the Tracking
 
 \subsubsection{Loading the Tracking XML}
 The TrackingLogic class in our project loads the tracking xml using the Metaio SDK:
-\begin{lstlisting}[language=java, caption=executing AsyncTask]
+\begin{lstlisting}[language=java, caption=executing AsyncTask,captionpos=b]
 String filepath = 
 AssetsManager.getAssetPath("Tracking.xml");
 ...
@@ -368,7 +368,7 @@ In order to run the camera and start the tracking process we wrote a new Activit
 \\
 One of the most important methods.onTrackingEvent describes what happens when an object gets tracked successfully. We overwrote this method to get the ID of the tracked Object. After the object hast been tracked the Main Menue activity with all specific car informations gets started.   
 \end{enumerate} 
-\begin{lstlisting}[language=java, caption=Tracking Event]
+\begin{lstlisting}[language=java, caption=Tracking Event,captionpos=b]
 public void onTrackingEvent(TrackingValuesVector tV)
 {
  //Check through all maps 
@@ -395,7 +395,7 @@ Description \& Codesnippet:
 This method will be invoked by the method getmail. This method will be explained in the next row. The getAccount() method  filters the Google Accounts . This happened through the Method getAccountsByType('com.google');.
 Furthermore if the first object of the Account Array is bigger then the value of Account  it will be returned.
 
-\begin{lstlisting}[language=java, caption= Accounts]
+\begin{lstlisting}[language=java, caption= Accounts,captionpos=b]
 private static Account 
 	getAccount(AccountManager accountManager) {
 Account[] accounts = 
@@ -414,7 +414,7 @@ if (accounts.length > 0) {
 In this  Method it returns the Account object as String value. This happens through the Accountmanager and this method invokes the getAccount method. With the account Object it checks if it null if not then it returns the email address as String object.
 
 
-\begin{lstlisting}[language=java, caption= Email]
+\begin{lstlisting}[language=java, caption= Email,captionpos=b]
 static String getEmail(Context context) {
 AccountManager accountManager = 
 AccountManager.get(context); 

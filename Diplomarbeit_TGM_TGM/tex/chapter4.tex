@@ -116,7 +116,7 @@ If the user touches the picture \textbf{NAV AR - Help Video}, he will be linked 
 
 \begin{lstlisting}[language=html, caption= 
 Help video,captionpos=b]
-<a href="https://www.youtube.com/watch?v=6U4oT5AbAsg&feature">
+<a href="https://www.youtube.com/watch?v=6U4oT5AbAsre">
   NAV AR-Help Video
 </a>
 \end{lstlisting}
@@ -149,46 +149,45 @@ JavaScript functions had to be created for each  of this options. These function
 \
 Listing 4.23 shows the function behind each button. Some buttons only link to another, other invoke specific functions like \textit{LocalStorageWriteId()}.\\
 \begin{lstlisting}[language=html, caption= 
-GUI source code,captionpos=b]
-<ul data-role="listview" >	
-  <li>
-    <a href="leasingprice.html" rel="external">
-      Leasing Price
-    </a>
-  </li>
-  <li>
-    <a href="technicalinfo.html" rel="external">
-      Technical Information
-    </a>
-  </li>
-  <li>
-    <a href="slide.html" data-transition="slide"rel="external">
-      Picture
-    </a>
-  </li>
-  <li>
-    <a href="video.html" rel="external">
-      Videos
-    </a>
-  </li>
-  <li>
-    <a href="#" rel="#" onclick="reviewClick();">
-      Car Review
-    </a>
-  </li>
-  <li>
-    <a href="myfavourite.html"rel="external">
-      Get Favorites
-    </a>
-  </li>
-  <li>
-    <a id="add_favorite" 
-    onclick="LocalStorageWriteId(sessionStorage.getItem('id'),
-    globalcarname);" style="color:red" rel="external">
-      Add to my Favorites
-    </a>
-  </li>
-</ul>
+Main menu source code,captionpos=b]	
+<li>
+  <a href="leasingprice.html" rel="external">
+    Leasing Price
+  </a>
+</li>
+<li>
+  <a href="technicalinfo.html" rel="external">
+    Technical Information
+  </a>
+</li>
+<li>
+  <a href="slide.html" rel="external">
+    Picture
+  </a>
+</li>
+<li>
+  <a href="video.html" rel="external">
+    Videos
+  </a>
+</li>
+<li>
+  <a href="#" rel="#" onclick="reviewClick();">
+    Car Review
+  </a>
+</li>
+<li>
+  <a href="myfavourite.html"rel="external">
+    Get Favorites
+  </a>
+</li>
+<li>
+  <a id="add_favorite" 
+  onclick="LocalStorageWriteId
+  (sessionStorage.getItem('id'),globalcarname);"
+   style="color:red" rel="external">
+     Add to my Favorites
+  </a>
+</li>
 \end{lstlisting}
 \newpage
 
@@ -247,7 +246,7 @@ Operation review invokes a self created method called \textit{reviewClick()}. De
 \begin{figure}[h]
 \centering
 \includegraphics[width=0.5\linewidth]{graphics/chapter4/9}
-\caption{}
+\caption{Review}
 \end{figure}
 \newpage
 
@@ -609,7 +608,7 @@ if ((localStorage.getItem("favorites") === null) &&
    localStorage["fcarname"] = JSON.stringify(names);
 }
 \end{lstlisting}
-\newpage
+
 
 In phase three variables \textit{storedIds} and \textit{storedNames} are filled with information inside the local storage \textit{favorites} and \textit{fcarname}.
 \\
@@ -640,26 +639,26 @@ The listing 4.19 shows the hole function with its four phases.\\
 \begin{lstlisting}[language=html, caption= 
 Save car function,captionpos=b]
 function LocalStorageWriteId(id,name){
-  if(name!=null){
-    if((localStorage.getItem("favorites")===null)&&
-     (localStorage.getItem("fcarname")==null)){
-	  var names = [];
-	  localStorage["favorites"] = JSON.stringify(names);
-	  localStorage["fcarname"] = JSON.stringify(names);
-    }		
-    var storedIds = JSON.parse(localStorage["favorites"]);
-	var storedNames = JSON.parse(localStorage["fcarname"]);	
-	if(storedIds.indexOf(id)>-1){
-	  Notifier.error('Car already exists.');
-	}else{
-	  storedIds.push(id);
-	  storedNames.push(name);
-	  localStorage["favorites"] = JSON.stringify(storedIds);
-	  localStorage["fcarname"] = JSON.stringify(storedNames);
-	  Notifier.success('Car has been added.');
-	}
+ if(name!=null){
+  if((localStorage.getItem("favorites")===null)&&
+   (localStorage.getItem("fcarname")==null)){
+	var names = [];
+	localStorage["favorites"] = JSON.stringify(names);
+	localStorage["fcarname"] = JSON.stringify(names);
+  }		
+  var storedIds = JSON.parse(localStorage["favorites"]);
+  var storedNames = JSON.parse(localStorage["fcarname"]);	
+  if(storedIds.indexOf(id)>-1){
+   Notifier.error('Car already exists.');
   }else{
-    alert("Function is loading.");
+   storedIds.push(id);
+   storedNames.push(name);
+   localStorage["favorites"] = JSON.stringify(storedIds);
+   localStorage["fcarname"] = JSON.stringify(storedNames);
+   Notifier.success('Car has been added.');
+  }
+  }else{
+   alert("Function is loading.");
   }
 }
 \end{lstlisting}
@@ -673,38 +672,35 @@ This method deletes selected car with help of check box. If no car is selected, 
 \begin{lstlisting}[language=html, caption= 
 Delete function,captionpos=b]
 function deleteF(){
+  Array.prototype.clean = function(deleteValue) {
+   for (var i = 0; i < this.length; i++) {
+       if (this[i] == deleteValue) {         
+        this.splice(i, 1);
+	    i--;
+	   }
+    }
+    return this;
+  };
 	
-	Array.prototype.clean = function(deleteValue) {
-  		for (var i = 0; i < this.length; i++) {
-    		if (this[i] == deleteValue) {         
-      			this.splice(i, 1);
-				i--;
-			}
-		}
-		return this;
-	};
-	
-	var storedNames = JSON.parse(localStorage["favorites"]); //the ids of cars
-    var storedCarNames = JSON.parse(localStorage["fcarname"]); //the names of cars
-	var lengthof=0;
+var storedNames = JSON.parse(localStorage["favorites"]); 
+var storedCarNames = JSON.parse(localStorage["fcarname"]); 
+var lengthof=0;
 
-	for(var s=0;s<storedNames.length;s++){
-		if(document.getElementById(s).checked){
-			delete storedNames[s];
-            delete storedCarNames[s];
-			lengthof++;
-		}		
-	}
-	if(lengthof!=0){
-		Notifier.success('Cars deleted.');
-	
-		storedNames.clean(undefined);
-		storedCarNames.clean(undefined);
-
-		localStorage["favorites"] = JSON.stringify(storedNames);
-		localStorage["fcarname"] = JSON.stringify(storedCarNames);
-	}
-	window.location.reload();
+for(var s=0;s<storedNames.length;s++){
+  if(document.getElementById(s).checked){
+    delete storedNames[s];
+    delete storedCarNames[s];
+	lengthof++;
+  }		
+}
+if(lengthof!=0){
+  Notifier.success('Cars deleted.');
+  storedNames.clean(undefined);
+  storedCarNames.clean(undefined);
+  localStorage["favorites"]=JSON.stringify(storedNames);
+  localStorage["fcarname"]=JSON.stringify(storedCarNames);
+}
+ window.location.reload();
 }
 \end{lstlisting}
 
@@ -726,17 +722,16 @@ Each car inside the favourite list can be selected. After the car is selected, t
 
 \begin{lstlisting}[language=html, caption=
 Select car function,captionpos=b] 
-function EventHandler() {
-	Notifier.success('Car is selected.');
-	var id = this.id;
+function EventHandler(){
+  Notifier.success('Car is selected.');
+  var id = this.id;
+  var storedNames = JSON.parse(localStorage["favorites"]);
 	
-	var storedNames = JSON.parse(localStorage["favorites"]);
-	
-	for(var i=0; i<storedNames.length;i++){
-		if(id==i){
-			window.sessionStorage.setItem('id', storedNames[i]);
-		}
-	}
+  for(var i=0; i<storedNames.length;i++){
+   if(id==i){
+    window.sessionStorage.setItem('id', storedNames[i]);
+   }
+  }
 }
 \end{lstlisting}
 
@@ -882,7 +877,7 @@ Display \textbf{profil} calls to another display, in which the user can see his 
 
 \subsection{Photo Gallery}
 In this subchapter it describes the functionality of the photo gallery . The photo gallery is a feature of this project NAVAR. This feature shows the picture of the car which has been tracked by the NAVAR App. The Photo gallery is a plugin  from the photo swipe webpage. The Logic of the Photo swipe is implemented in a javaScript Library from photo swipe$\rightarrow$ klass.min.js. The functionality of the Design is defined in a css file$\rightarrow$ photoswipe.css. In this project it combined the Library form the photo swipe with the Library from jQuery Mobile. Furthermore the Table shows a Code snippet how to use the Library for this project:
-\begin{figure}[htbp]
+\begin{figure}[h]
 \centering
 \includegraphics[width=1.0\linewidth]{graphics/photoswipe.PNG}
 \caption{Photoswipe}
@@ -895,7 +890,7 @@ Moreover the function called Sessionstorage is one of the big functionalities in
 
 First method is used to tell how many key/pair the SessionStorage contains. This method has the same function ,which tells the length of an Array, HTMLCollection \dots
 
-\begin{figure}[htbp]
+\begin{figure}[h]
 \centering
 \includegraphics[width=1.0\linewidth]{graphics/sessionstorage1.PNG}
 \caption{Sessionstorage}
@@ -905,14 +900,14 @@ The second Method of Sessionstorage is called \textit{setItem(key:string,data:st
  This method stores  a specified key  and the data. But if the key has been already stored and it uses the same key it will be overwritten. $\rightarrow$Example for setItem:\textbf{ sessionStorage.setItem('testkey','testvalue')}.
 The third function is to get Data from the a specified key ,which has been already set. This method accepts any sort of string ,which has been used as key and returns the associated string as value or null if the key has not been stored before. Example:\\
 
-\begin{figure}[htbp]
+\begin{figure}[h]
 \centering
 \includegraphics[width=1.0\linewidth]{graphics/sessionstorage2.PNG}
 \caption{Sessionstorage}
 \end{figure}
 
 The last function is how to remove the key if it has no need for the Session. Example:
-\begin{figure}[htbp]
+\begin{figure}[h]
 \centering
 \includegraphics[width=1.0\linewidth]{graphics/sessionstorage3.PNG}
 \caption{Sessionstorage}
@@ -920,25 +915,32 @@ The last function is how to remove the key if it has no need for the Session. Ex
 
 \subsection{Dynamic Selection of Colour}
 This product has the feature to select the colour of the car . In the Technical Information the user has the opportunity to chose the colour of the Car, which has been tracked. The following code in the Figure shows how to create a dynamic selector with JavaScript:
-\begin{figure}[htbp]
+
+\begin{figure}[h]
 \centering
 \includegraphics[width=1.0\linewidth]{graphics/Sessionstorage41.PNG}
 \caption{Selector descritpion}
 \end{figure}
+
+\clearpage
 The following picture shows how the Technical Info table looks like:
-\begin{figure}[htbp]
+
+\begin{figure}[h]
 \centering
 \includegraphics[width=0.4\linewidth]{graphics/chapter4/6.png}
 \caption{Table}
 \end{figure}
+\clearpage
 The second picture shows how the dynamic List of items from the Selector looks like:
-\begin{figure}[htbp]
+
+\begin{figure}[h]
 \centering
 \includegraphics[width=0.4\linewidth]{graphics/chapter4/fg6.png}
 \caption{Selector}
 \end{figure}
+\clearpage
 Furthermore there is  a logic implemented which checks if the Colour is white or Black , that changes the colour of the font. The following code snippet shows how to write it:\\
-\begin{figure}[htbp]
+\begin{figure}[h]
 \centering
 \includegraphics[width=1.0\linewidth]{graphics/bgfn.PNG}
 \caption{Condition}
