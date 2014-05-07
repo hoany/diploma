@@ -1,5 +1,6 @@
 % Chapter7
 \chapter{Streaming} \label{chapter:Streaming}
+This chapter explains the network structure of the whole project and how the connections between the servers and the app are done.
 \subsection{General network}
 The following figure shows the detailed network set-up and application flow of the project.
 \begin{figure}[htbp]
@@ -25,43 +26,32 @@ The application consists of two important main parts. The first part is the comm
 
 \begin{figure}[htbp]
 \centering
-\includegraphics[width=70mm,height=\textheight,keepaspectratio]{graphics/webref.png}
+\includegraphics[width=40mm,height=\textheight,keepaspectratio]{graphics/webref.png}
 \caption{web reference}
 \end{figure}
-\newpage
 The web references can be accessed via the code in Visual Studio.
+\newpage
 \definecolor{bluekeywords}{rgb}{0.13,0.13,1}
 \definecolor{greencomments}{rgb}{0,0.5,0}
 \definecolor{redstrings}{rgb}{0.9,0,0}
 \lstset{language=[Sharp]C,
-  showspaces=false,
-  showtabs=false,
   breaklines=true,
-  showstringspaces=false,
-  breakatwhitespace=true,
-  escapeinside={(*@}{@*)},
   commentstyle=\color{greencomments},
   keywordstyle=\color{bluekeywords},
-  stringstyle=\color{redstrings},
-  basicstyle=\ttfamily
+  stringstyle=\color{redstrings}
 }
 \subsubsection{Read from the web service}
 \begin{lstlisting}[caption=Example reading webservice]
 //use the created web reference
 using NavWinProxy.NavArCarData;
-
 //Create a service object
 NavArCarDataPage_Service service = new NavArCarDataPage_Service();
-
 //set user credentials which have access rights to the Navision server
 service.Credentials = System.Net.CredentialCache.DefaultCredentials;
-
 //create a new Object for storing the data
-NavArCarDataPage carData = new NavArCarDataPage();
-                
+NavArCarDataPage carData = new NavArCarDataPage();                
 //read the data which a specific id
 carData = service.Read('1');
-
 //check if the id exists
 if (carData != null){
    //access data and store data
@@ -76,23 +66,23 @@ These are the default credentials from the user who runs the program. After that
 \begin{lstlisting}[caption=Example writing to web service]
  public string insertProfileData(string androidEmail,string profileEmail, string firstName, string lastName, string hash)
         {
-                //create the service object
-                NavArUserDataPage_Service service = new NavArUserDataPage_Service();
-                //set user credentials which have access rights to the Navision server
-                service.Credentials = System.Net.CredentialCache.DefaultCredentials;
-                //read the user data from a specific google mail address
-                NavArUserDataPage userData = service.Read(androidEmail);
-                //check if the email exist
-                if (userData != null)
-                {
-                    //set the profile data
-                    userData.Feld2 = profileEmail;
-                    userData.Feld3 = firstName;
-                    userData.Feld4 = lastName;
-                    //update the navision database with the new data
-                    service.Update(ref userData);
-                }
-                else return "fail";
+        //create the service object
+        NavArUserDataPage_Service service = new NavArUserDataPage_Service();
+        //set user credentials which have access rights to the Navision server
+        service.Credentials = System.Net.CredentialCache.DefaultCredentials;
+        //read the user data from a specific google mail address
+        NavArUserDataPage userData = service.Read(androidEmail);
+        //check if the email exis 
+        if (userData != null)
+            {
+            //set the profile data
+            userData.Feld2 = profileEmail;
+            userData.Feld3 = firstName;
+            userData.Feld4 = lastName;
+            //update the navision database with the new data
+            service.Update(ref userData);
+            }
+            else return "fail";
                 return "success";
             }
             else return "fail";
@@ -121,41 +111,9 @@ This example consist of one method ''getKFZInfo'' with two parameters id and has
 \subsubsection{Communication from mobile device to the C\# App}
 
 The mobile app access the web service of the C\# application within JavaScript. Ajax is used for providing the communication between the user and the server. In the following code example an Ajax request to the server is shown.
-\definecolor{lightgray}{rgb}{.9,.9,.9}
-\definecolor{darkgray}{rgb}{.4,.4,.4}
-\definecolor{purple}{rgb}{0.65, 0.12, 0.82}
 
-\lstdefinelanguage{JavaScript}{
-  keywords={typeof, new, true, false, catch, function, return, null, catch, switch, var, if, in, while, do, else, case, break},
-  keywordstyle=\color{blue}\bfseries,
-  ndkeywords={class, export, boolean, throw, implements, import, this},
-  ndkeywordstyle=\color{darkgray}\bfseries,
-  identifierstyle=\color{black},
-  sensitive=false,
-  comment=[l]{//},
-  morecomment=[s]{/*}{*/},
-  commentstyle=\color{purple}\ttfamily,
-  stringstyle=\color{red}\ttfamily,
-  morestring=[b]',
-  morestring=[b]"
-}
 
-\lstset{
-   language=JavaScript,
-   backgroundcolor=\color{lightgray},
-   extendedchars=true,
-   basicstyle=\footnotesize\ttfamily,
-   showstringspaces=false,
-   showspaces=false,
-   numbers=left,
-   numberstyle=\footnotesize,
-   numbersep=9pt,
-   tabsize=2,
-   breaklines=true,
-   showtabs=false,
-   captionpos=b
-}
-\begin{lstlisting}[caption=readcarname example]
+\begin{lstlisting}[language=html, caption=readcarname example]
 function readcarname(cname){
         $(document).ready(function () {
             $.ajax({
@@ -186,9 +144,10 @@ For storing and receiving the important data for the mobile application a Navisi
 \end{description}
 
 The NavArTrackingHistory table is used to save the tracking history of a user to the database. It has six columns for saving the tracking history of a user.
+\newline
 \begin{figure}[htbp]
 \centering
-\includegraphics[width=\textwidth,height=\textheight,keepaspectratio]{graphics/trackingtable.png}
+\includegraphics[width=100mm,height=\textheight,keepaspectratio]{graphics/trackingtable.png}
 \caption{NavArTtrackingHistory table}
 \end{figure}
 \newline
@@ -199,10 +158,10 @@ The NavArTrackingHistory table is used to save the tracking history of a user to
 \caption{Example table entry}
 \end{figure}
 \newpage
-The NavArCarData table stores all necessary information about the available cars which can be tracked
+The NavArCarData table stores all necessary information about the available cars which can be tracked.
 \begin{figure}[htbp]
 \centering
-\includegraphics[width=\textwidth,height=\textheight,keepaspectratio]{graphics/cardatatable.png}
+\includegraphics[width=80mm,height=\textheight,keepaspectratio]{graphics/cardatatable.png}
 \caption{NavArCarData table}
 \end{figure}
 \\
@@ -214,11 +173,11 @@ The following figure of a entry consists of a unique car ID, car name, car price
 \caption{Example table entry}
 \end{figure}
 \newpage
-The NavArUserData table has four columns which are used for saving the google email address,a custom email address,a name and a surname.
+The NavArUserData table has four columns which are used for saving the google email address,a custom email address, a name and a surname.
 \\
 \begin{figure}[htbp]
 \centering
-\includegraphics[width=\textwidth,height=\textheight,keepaspectratio]{graphics/userdatatable.png}
+\includegraphics[width=100mm,height=\textheight,keepaspectratio]{graphics/userdatatable.png}
 \caption{NavArUserData table }
 \end{figure}
 \\

@@ -179,8 +179,8 @@ Its also possible to create a executable .Jar files. It behaves similar to a .ex
   
   jQuery Mobile  also updates their Framework versions. To built a Theme with the Framework is not so difficult. The User interface has the components of jQuery Mobile. The components of jQuery will be explained in Chapter X.\\\\
   
-  \section {Ajax}
-  Ajax (Asynchronous JavaScript and XML) is a method which is widely used in web development. Ajax uses several technologies like: JavaScript, CSS, XML and XMLHttpRequest.\cite{ajax}
+  \section {AJAX}
+  AJAX (Asynchronous JavaScript and XML) is a method which is widely used in web development. Ajax uses several technologies like: JavaScript, CSS, XML and XMLHttpRequest.\cite{ajax}
   \\
   \subsection{XML}
   \textit{''Extensible Markup Language (XML) is a simple, very flexible text format derived from SGML (ISO 8879). Originally designed to meet the challenges of large-scale electronic publishing, XML is also playing an increasingly important role in the exchange of a wide variety of data on the Web and elsewhere.''}\cite{xml}
@@ -188,51 +188,52 @@ Its also possible to create a executable .Jar files. It behaves similar to a .ex
   \subsection{XMLHttpRequest}
   XMLHttpRequest is used in Ajax for exchanging data with a server. The main advantages of this request is that it can be used in the background for sending data to the server, updating a page without reloading it, request and receive data from the server after the page is loaded.\cite{xmlHttp} 
   \newpage
-  \subsection{How does Ajax work?}
+  \subsection{How does AJAX work?}
   \begin{figure}[htbp]
   \centering
-  \includegraphics[width=\textwidth,height=\textheight,keepaspectratio]{graphics/ajaxwork.png}
-  \caption{Ajax overview\cite{ajax}}
+  \includegraphics[width=100mm,height=\textheight,keepaspectratio]{graphics/ajaxwork.png}
+  \caption{AJAX overview\cite{ajax}}
   \end{figure}
   
-  As described in the graphic every time a program needs to send data from the browser to the server it creates an XMLHTTPRequest object. This request is then accepted or denied by the server and a response will be send back to the browser where it can be displayed or processed. 
+  As described in the graphic, whenever a program needs to send data from the browser to the server it creates an XMLHTTPRequest object. This request is then accepted or denied by the server and a response will be sent back to the browser where it can be displayed or processed. 
   
   \section{Windows Azure}
   \textit{''Azure is an open and flexible cloud platform that enables you to quickly build, deploy and manage applications across a global network of Microsoft-managed datacenters. You can build applications using any language, tool or framework. And you can integrate your public cloud applications with your existing IT environment''}\cite{azure}
   \subsection{Overview}
   \begin{figure}[htbp]
   \centering
-  \includegraphics[width=\textwidth,height=\textheight,keepaspectratio]{graphics/azurePlattform.jpg}
+  \includegraphics[width=100mm,height=\textheight,keepaspectratio]{graphics/azurePlattform.jpg}
   \caption{Azure overview}\cite{azureOver}
   \end{figure}
   
-  The typical Windows Azure environment consists of many components such as : The Azure Service Platform, which can be several virtual machines with services.A software application which communicate with Azure over XML and other technologies. Several end users which access the azure cloud over a browser and developers who access the cloud directly. 
+  The typical Windows Azure environment consists of many components such as the Azure Service Platform, which can be several virtual machines with services. A software application which communicate with Azure over XML and other technologies. Several end users which access the Azure cloud over a browser and developers who access the cloud directly. 
   \newpage
   \section{Microsoft SQL Server}
   Microsoft SQL Server is a relation database software for saving,modifying and providing data. Microsoft SQL Server can be deployed on a desktop server as well as in the cloud.It provides a edition for high-end performanc, critical applications and a lighter version for normal applications/data.\cite{sqlserver}
-  \begin{description}
-     \item[There are five main releases of MS SQL Server ]~\par
-     \begin{enumerate}
-        \item Microsoft SQL Server 2005
-        \item Microsoft SQL Server 2008
-        \item Microsoft SQL Server 2012 
-        \item Microsoft SQL Server 2014
+  \\\\
+  There are five main releases of MS SQL Server:
+  \begin{itemize}
+          \item Microsoft SQL Server 2005
+          \item Microsoft SQL Server 2008 
+          \item Microsoft SQL Server 2012 
+          \item Microsoft SQL Server 2014
+  \end{itemize}
         \cite{sqlserver}
-     \end{enumerate}
-  \end{description}
   \subsection{Program Overview}
   \begin{figure}[H]
   \centering
-  \includegraphics[width=180mm,height=180mm,keepaspectratio]{graphics/sqlserver.png}
+  \includegraphics[width=\textwidth,height=\textheight,keepaspectratio]{graphics/sqlserver.png}
   \caption{SQl Server 2008 overview}
   \end{figure} 
+
+  The figure shows the graphical user interface of  Microsoft SQL Server Management Studio. It is used to maintain and configure SQL databases. In the left panel of the program the available databases are shown.The panel in the middle is a simple editor for database queries.On the right side the properties of the selected datbase are displayed.    
   \newpage
-  \section{Microsoft Dynamics Navision}
-  Microsoft Dynamics Navision is a ERP(Enterprise Ressource Planing) software for small and medium sized corporations. It is a highly adaptable software which provides functionalities for managing a whole business. Such as sales,shipping,financing, project management,supply chain management,business intelligence,reporting and other services. 
-  The look and feel of the application is based on Microsoft Office to provide a simple entry point to the product if you are familiar with Microsoft Office.MS NAV can be either installed on a local server or in the cloud to provide the best solution for a business.\cite{navOver} 
+  \section{Microsoft Dynamics NAV}
+  Microsoft Dynamics NAV is an ERP(Enterprise Ressource Planing) software for small and medium sized corporations. It is a highly adaptable software which provides functionalities for managing a whole business. Such as sales, shipping, financing, project management, supply chain management, business intelligence,reporting and other services. 
+  The look and feel of the application is based on Microsoft Office to provide a simple entry point to the product if you are familiar with Microsoft Office. Microsoft NAV can be either installed on local servers as a 3-tier ,2-tier or 1-tier implementation as well as in the cloud to provide the best solution for a business.\cite{navOver} 
   
   \subsection{Program Overview}
-  The following figure shows the graphical user interface of Microsoft Navision.It shows a example page of a sales manager with the demo Database ''CRONUS International Ltd.'' from Microsoft.
+  The following figure shows the graphical user interface of Microsoft NAV, the RoleTailored client(RTC).It shows the RTC for the role sales manager with the demo Database ''CRONUS International Ltd.'' from Microsoft. 
   \begin{figure}[htbp]
   \centering
   \includegraphics[width=\textwidth,height=\textheight,keepaspectratio]{graphics/navSales.jpg}
@@ -242,7 +243,7 @@ Its also possible to create a executable .Jar files. It behaves similar to a .ex
   
   \subsection{Data structure}
   \subsubsection{Tables}
-  Microsoft Dynamics Navision saves data in a Microsoft SQL Server database.The databases consist of several tables, which can be created,edited and deleted.Table's are the basic modules of the database and are fundamental.It allows to easily modify,delete and display data on the run.
+  Microsoft Dynamics NAV saves data into a Microsoft SQL Server database.The databases consist of several tables, which can be created, edited and deleted.\\Table's are the basic modules of the database and are fundamental.It provides the functionality to modify,delete and display data on the run.
   \\\\
   \begin{figure}[htbp]
   \centering
@@ -251,12 +252,15 @@ Its also possible to create a executable .Jar files. It behaves similar to a .ex
   \end{figure}
   \newpage
   \subsubsection{Pages}
-  Microsoft Dynamics Navsion provides with pages a way to display and organize data. It can either be accessed via a client and displayed graphically or accessed trough a web service.
-  A page is a XML object which consists of several properties and code. The following figure shows a example page with a list of customers
+  A page is a XML object which consists of several properties and code. It is used to display, structure and organize data. It can either be accessed via a client and displayed graphically or trough a web service.In this project the pages are used over a web service by the C\# application. The usage of the pages are explained in the chapter ''Streaming''. 
   \\\\
+  The following figure shows an example page with a list of customers.
   \begin{figure}[htbp]
   \centering
   \includegraphics[width=\textwidth,height=\textheight,keepaspectratio]{graphics/customerlist.png}
   \caption{customer page example}
   \end{figure}
-  \newpage
+  \newline
+  This page displays the content of the table customers.
+  It consist of several attributes such as the name and the telephone number of a specific person.The page provides the functionality to create, delete or  modify the customers within the RTC.    
+ 
