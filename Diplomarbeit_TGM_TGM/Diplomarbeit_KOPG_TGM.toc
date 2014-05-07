@@ -1,4 +1,4 @@
-\contentsline {chapter}{List of Figures}{xiii}{chapter*.5}
+\contentsline {chapter}{List of Figures}{ix}{chapter*.5}
 \contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
 \contentsline {section}{\numberline {1.1}General}{1}{section.1.1}
 \contentsline {section}{\numberline {1.2}Augmented Reality}{2}{section.1.2}
@@ -35,7 +35,7 @@
 \contentsline {subsection}{\numberline {2.1.6}Java bytecode}{16}{subsection.2.1.6}
 \contentsline {subsection}{\numberline {2.1.7}Java Code Execution Process}{16}{subsection.2.1.7}
 \contentsline {subsubsection}{\numberline {2.1.7.1}Class Loader}{17}{subsubsection.2.1.7.1}
-\contentsline {subsubsection}{\numberline {2.1.7.2}Runtime Data Areas}{18}{subsubsection.2.1.7.2}
+\contentsline {subsubsection}{\numberline {2.1.7.2}Runtime Data Areas}{17}{subsubsection.2.1.7.2}
 \contentsline {subsubsection}{\numberline {2.1.7.3}Execution Engine}{20}{subsubsection.2.1.7.3}
 \contentsline {subsection}{\numberline {2.1.8}.JAR File}{20}{subsection.2.1.8}
 \contentsline {subsubsection}{\numberline {2.1.8.1}Executable JAR }{20}{subsubsection.2.1.8.1}
@@ -65,6 +65,7 @@
 \contentsline {subsection}{\numberline {3.2.1}Overview}{33}{subsection.3.2.1}
 \contentsline {subsection}{\numberline {3.2.2}Features}{33}{subsection.3.2.2}
 \contentsline {section}{\numberline {3.3}Visual Studio}{35}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Visual Studio 2013}{35}{subsection.3.3.1}
 \contentsline {chapter}{\numberline {4}Logic Implementation with JavaScript}{37}{chapter.4}
 \contentsline {section}{\numberline {4.1}Start Menu}{37}{section.4.1}
 \contentsline {section}{\numberline {4.2}Help}{39}{section.4.2}
@@ -101,9 +102,9 @@
 \contentsline {subsubsection}{\numberline {4.4.2.2}Delete all favourite cars}{61}{subsubsection.4.4.2.2}
 \contentsline {subsubsection}{\numberline {4.4.2.3}Select favourite car}{61}{subsubsection.4.4.2.3}
 \contentsline {section}{\numberline {4.5}About}{62}{section.4.5}
-\contentsline {subsection}{\numberline {4.5.1}Photo Gallery}{62}{subsection.4.5.1}
-\contentsline {subsection}{\numberline {4.5.2}Sessionstorage}{63}{subsection.4.5.2}
-\contentsline {subsection}{\numberline {4.5.3}Dynamic Selection of Colour}{64}{subsection.4.5.3}
+\contentsline {section}{\numberline {4.6}Photo Gallery}{62}{section.4.6}
+\contentsline {section}{\numberline {4.7}Sessionstorage}{63}{section.4.7}
+\contentsline {section}{\numberline {4.8}Dynamic Selection of Colour}{64}{section.4.8}
 \contentsline {chapter}{\numberline {5}Implementation in Android Java and Metaio Tracking}{67}{chapter.5}
 \contentsline {section}{\numberline {5.1}Android Platform}{67}{section.5.1}
 \contentsline {subsection}{\numberline {5.1.1}Android Operation System}{67}{subsection.5.1.1}
@@ -116,24 +117,22 @@
 \contentsline {subsubsection}{\numberline {5.1.7.1}JavaScript Android Interface}{70}{subsubsection.5.1.7.1}
 \contentsline {section}{\numberline {5.2}Working with the Metaio SDK}{70}{section.5.2}
 \contentsline {subsection}{\numberline {5.2.1}Who is Metaio}{70}{subsection.5.2.1}
-\contentsline {subsection}{\numberline {5.2.2}Other Augmented Reality SDK's}{70}{subsection.5.2.2}
+\contentsline {subsection}{\numberline {5.2.2}Other Augmented Reality SDK's}{71}{subsection.5.2.2}
 \contentsline {subsection}{\numberline {5.2.3}Metaio Toolbox}{71}{subsection.5.2.3}
 \contentsline {subsection}{\numberline {5.2.4}AREL ( Augmented Reality Experience Language )}{72}{subsection.5.2.4}
 \contentsline {subsection}{\numberline {5.2.5}Tracking XML}{74}{subsection.5.2.5}
-\contentsline {subsection}{\numberline {5.2.6}Extracting the Tracking XML in Android}{74}{subsection.5.2.6}
+\contentsline {subsection}{\numberline {5.2.6}Extracting the Tracking XML in Android}{75}{subsection.5.2.6}
 \contentsline {subsubsection}{\numberline {5.2.6.1}Loading the Tracking XML}{76}{subsubsection.5.2.6.1}
-\contentsline {section}{\numberline {5.3}Track Objects}{76}{section.5.3}
-\contentsline {section}{\numberline {5.4}Get Email Account from an Android device}{77}{section.5.4}
-\contentsline {chapter}{\numberline {6}Design Concept}{79}{chapter.6}
-\contentsline {section}{\numberline {6.1}Design concept with JQuery Mobile Framework}{79}{section.6.1}
-\contentsline {subsubsection}{\numberline {6.1.0.2}jQuery Mobile Page}{80}{subsubsection.6.1.0.2}
-\contentsline {subsubsection}{\numberline {6.1.0.3}Mainmenu}{81}{subsubsection.6.1.0.3}
-\contentsline {subsubsection}{\numberline {6.1.0.4}Slide Panel}{82}{subsubsection.6.1.0.4}
-\contentsline {subsubsection}{\numberline {6.1.0.5}jQuery Mobile Table}{83}{subsubsection.6.1.0.5}
-\contentsline {section}{\numberline {6.2}Video Gallery}{83}{section.6.2}
-\contentsline {subsection}{\numberline {6.2.1}Implementation}{85}{subsection.6.2.1}
-\contentsline {section}{\numberline {6.3}Video Gallery}{85}{section.6.3}
-\contentsline {subsection}{\numberline {6.3.1}Implementation}{87}{subsection.6.3.1}
+\contentsline {section}{\numberline {5.3}Track Objects}{77}{section.5.3}
+\contentsline {section}{\numberline {5.4}Get Email Account from an Android device}{78}{section.5.4}
+\contentsline {chapter}{\numberline {6}Design Concept}{81}{chapter.6}
+\contentsline {section}{\numberline {6.1}Design concept with JQuery Mobile Framework}{81}{section.6.1}
+\contentsline {subsubsection}{\numberline {6.1.0.2}jQuery Mobile Page}{82}{subsubsection.6.1.0.2}
+\contentsline {subsubsection}{\numberline {6.1.0.3}Mainmenu}{83}{subsubsection.6.1.0.3}
+\contentsline {subsubsection}{\numberline {6.1.0.4}Slide Panel}{84}{subsubsection.6.1.0.4}
+\contentsline {subsubsection}{\numberline {6.1.0.5}jQuery Mobile Table}{86}{subsubsection.6.1.0.5}
+\contentsline {section}{\numberline {6.2}Video Gallery}{87}{section.6.2}
+\contentsline {subsection}{\numberline {6.2.1}Implementation}{88}{subsection.6.2.1}
 \contentsline {chapter}{\numberline {7}Streaming}{89}{chapter.7}
 \contentsline {subsection}{\numberline {7.0.2}General network}{89}{subsection.7.0.2}
 \contentsline {subsection}{\numberline {7.0.3}C\# Application}{90}{subsection.7.0.3}

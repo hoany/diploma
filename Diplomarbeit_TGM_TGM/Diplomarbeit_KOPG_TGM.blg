@@ -1,4 +1,4 @@
-This is BibTeX, Version 0.99d (TeX Live 2013/W32TeX)
+This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: Diplomarbeit_KOPG_TGM.aux
 A level-1 auxiliary file: tex/title.aux
@@ -28,43 +28,43 @@ Warning--I didn't find a database entry for "localstorageexample"
 Warning--I didn't find a database entry for "w3school"
 You've used 43 entries,
             4483 wiz_defined-function locations,
-            1088 strings with 12643 characters,
-and the built_in function-call counts, 13938 in all, are:
-= -- 1041
-> -- 158
+            1090 strings with 12727 characters,
+and the built_in function-call counts, 14066 in all, are:
+= -- 1060
+> -- 161
 < -- 0
-+ -- 81
-- -- 38
-* -- 363
-:= -- 2646
-add.period$ -- 80
++ -- 82
+- -- 39
+* -- 367
+:= -- 2680
+add.period$ -- 81
 call.type$ -- 43
-change.case$ -- 33
+change.case$ -- 34
 chr.to.int$ -- 0
 cite$ -- 43
-duplicate$ -- 1128
-empty$ -- 1431
-format.name$ -- 38
-if$ -- 2939
+duplicate$ -- 1133
+empty$ -- 1437
+format.name$ -- 39
+if$ -- 2966
 int.to.chr$ -- 0
 int.to.str$ -- 43
-missing$ -- 294
+missing$ -- 295
 newline$ -- 234
-num.names$ -- 39
-pop$ -- 971
+num.names$ -- 40
+pop$ -- 967
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 1097
+skip$ -- 1111
 stack$ -- 0
 substring$ -- 0
-swap$ -- 649
+swap$ -- 658
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 43
 warning$ -- 0
-while$ -- 38
+while$ -- 39
 width$ -- 45
-write$ -- 422
+write$ -- 425
 (There were 3 warnings)

@@ -9,7 +9,7 @@ Android is an operating system based on Linux with a Java programming interface.
 \\
 
 
-Android is currently primarily developed by Google.
+Android is currently developed by Google.
 \\
 
 
@@ -64,10 +64,14 @@ It also contains al list of security permissions. We had to add the camera, inte
 
 \begin{lstlisting}[language=xml, caption= 
 extracts from our AndroidManifest]
-<uses-permission android:name="android.permission.CAMERA" />
-<uses-permission android:name="android.permission.INTERNET" />
- <uses-permission android:name="android.permission.READ_OWNER_DATA" />
-<uses-permission android:name="android.permission.GET_ACCOUNTS" /> 
+<uses-permission android:name=
+	"android.permission.CAMERA" />
+<uses-permission android:name=
+	"android.permission.INTERNET" />
+ <uses-permission android:name=
+ 	"android.permission.READ_OWNER_DATA" />
+<uses-permission android:name=
+	"android.permission.GET_ACCOUNTS" /> 
 ...
 <!-- define an activity -->
 <activity
@@ -91,7 +95,8 @@ public class MainMenue extends DroidGap {
 	public void onCreate(Bundle savedInstanceState)
 	{
 		..
-		super.loadUrl("file:///android_asset/www/mainmenue.html", 1000);
+		super.loadUrl(
+		"file:///android_asset/file.html", 10);
 		...
 	}
 }
@@ -155,7 +160,10 @@ We used the Metaio SDK track and identify 3D or 2D Objects.
 
 \subsection{Who is Metaio}
 \begin{quotation}
-"Metaio is the worldwide leader in Augmented Reality research and technology. Serving over 80,000 developers with over 1,000 apps for enterprise, marketing, retail, publishing and industrial cases, Metaio's AR software reaches over 30 Million consumers across the world." 
+"Metaio is the worldwide leader in Augmented Reality research and technology. Serving over 80,000 developers with over 1,000 apps for enterprise, marketing, retail, publishing and industrial cases,
+ 
+ 
+Metaio's AR software reaches over 30 Million consumers across the world." 
 \begin{flushright}
 (Metaio GmbH)
 \end{flushright}
@@ -236,22 +244,34 @@ The Tracking XML file is an XML file which can be created by the Metaio Creater 
 <?xml version='1.0' encoding='UTF-8'?>
 <TrackingData>
 	<Sensors>
-		<Sensor subtype='ML3D' type='FeatureBasedSensorSource'>
-			<SensorID>TrackingObject 1</SensorID>
-			<Parameters>
-				<featureorientationassignment>regular</featureorientationassignment>
-			</Parameters>
-			<SensorCOS>
-				<SensorCosID>08921d8412c4de43d04eefc13c28ee3b</SensorCosID>
-				<parameters>
-					<numextensiblefeatures>0</numextensiblefeatures>
-					<mintriangulationangle>6</mintriangulationangle>
-					<map>08921d8412c4de43d04eefc13c28ee3b.f3b</map>
-					<MinMatches>15</MinMatches>
-					<DesiredMatchesRatioExtensible>0.35</DesiredMatchesRatioExtensible>
-					<NumExtensibleFeatures>250</NumExtensibleFeatures>
-				</parameters>
-			</SensorCOS>	
+	<Sensor subtype='ML3D' type=
+		'FeatureBasedSensorSource'>
+		<SensorID>TrackingObject 1</SensorID>
+		<Parameters>
+		<featureorientationassignment>regular
+		</featureorientationassignment>
+		</Parameters>
+		<SensorCOS>
+		<SensorCosID>
+		08921d8412c4de43d04eefc13c28ee3b
+		</SensorCosID>
+		parameters>
+		 <numextensiblefeatures>
+		 	0
+		 </numextensiblefeatures>
+		 <mintriangulationangle>
+		 	6
+		 </mintriangulationangle>
+		 <map>
+		 08921d8412c4de43d04eefc13c28ee3b.f3b
+		 </map>
+		 <MinMatches>15</MinMatches>
+		 <DesiredMatchesRatioExtensible>0.35
+		 </DesiredMatchesRatioExtensible>
+		 <NumExtensibleFeatures>250
+		 </NumExtensibleFeatures>
+		</parameters>
+		</SensorCOS>	
 	</Sensors>
 </TrackingData>
 \end{lstlisting}
@@ -269,15 +289,16 @@ The files than have to be extracted by the \textit{AssetsManager} to make them a
 The AsyncTask enables proper and easy use of the UI thread. This class allows to perform background operations and publish results on the UI thread. AsyncTasks should ideally be used for short operations (a few seconds at the most.) For threads that need to be running for long periods of time, it is recommended you use the various APIs provided by the java.util.concurrent pacakge such as \textit{Executor}, \textit{ThreadPoolExecutor} and \textit{FutureTask}.\cite{andoirdAsyncTask} 
 
 \begin{lstlisting}[language=java, caption=Extracting Assets]
-private class AssetsExtracter extends AsyncTask<Integer, Integer, Boolean>
+private class AssetsExtracter extends AsyncTask
 {		
 	@Override
 	protected Boolean doInBackground(.. 
 	{
 		try 
 		{
-			// Extract all assets and overwrite existing files if debug build
-			AssetsManager.extractAllAssets(...);
+			// Extract all assets
+			AssetsManager.
+				extractAllAssets(...);
 		} 
 		catch (IOException e) 
 		{
@@ -292,11 +313,14 @@ private class AssetsExtracter extends AsyncTask<Integer, Integer, Boolean>
 	{
 		// Asset Path to the Tracking xml
 		final String arelConfigFilePath = 
-		  AssetsManager.getAssetPath("Tracking.xml");
+		  AssetsManager.
+		  getAssetPath("Tracking.xml");
 		//Starting new Activity  
-		Intent intent = new Intent(getApplicationContext(), 
-		  TrackLogic.class);
-		intent.putExtra(getPackageName()+".AREL_SCENE", 
+		Intent intent = 
+		new Intent(getApplicationContext(), 
+		 TrackLogic.class);
+		intent.
+		putExtra(getPackageName()+".AREL_SCENE", 
 		  arelConfigFilePath);
 		startActivity(intent);
 
@@ -325,7 +349,8 @@ onPostExecute extracts the path to the tracking.xml and than starts the Tracking
 \subsubsection{Loading the Tracking XML}
 The TrackingLogic class in our project loads the tracking xml using the Metaio SDK:
 \begin{lstlisting}[language=java, caption=executing AsyncTask]
-String filepath = AssetsManager.getAssetPath("Tracking.xml");
+String filepath = 
+AssetsManager.getAssetPath("Tracking.xml");
 ...
 // set the tracking configuration
  metaioSDK.setTrackingConfiguration(filepath); 
@@ -343,16 +368,17 @@ In order to run the camera and start the tracking process we wrote a new Activit
 \\
 One of the most important methods.onTrackingEvent describes what happens when an object gets tracked successfully. We overwrote this method to get the ID of the tracked Object. After the object hast been tracked the Main Menue activity with all specific car informations gets started.   
 \end{enumerate} 
-\begin{lstlisting}[language=java, caption= where the magic happens]
-public void onTrackingEvent(TrackingValuesVector trackingValues)
+\begin{lstlisting}[language=java, caption=Tracking Event]
+public void onTrackingEvent(TrackingValuesVector tV)
 {
  //Check through all maps 
- for (int i=0; i<trackingValues.size(); i++)
+ for (int i=0; i<tV.size(); i++)
  {
-  final TrackingValues v = trackingValues.get(i);
+  final TrackingValues v = tV.get(i);
   if (v.isTrackingState())
   {
-	Intent inte=new Intent(getApplicationContext(),MainMenue.class);
+	Intent inte=
+	new Intent(getApplicationContext(),Menue.class);
 	//get id of tracked object
 	inte.putExtra("id",""+v.getCoordinateSystemID());
 	startActivity(inte);
@@ -370,16 +396,18 @@ This method will be invoked by the method getmail. This method will be explained
 Furthermore if the first object of the Account Array is bigger then the value of Account  it will be returned.
 
 \begin{lstlisting}[language=java, caption= Accounts]
-	private static Account getAccount(AccountManager accountManager) {
-        Account[] accounts = accountManager.getAccountsByType("com.google");
-        Account account;
-        if (accounts.length > 0) {
-            account = accounts[0];     
-        } else {
-            account = null;
-        }
-        return account;
-    }
+private static Account 
+	getAccount(AccountManager accountManager) {
+Account[] accounts = 
+	accountManager.getAccountsByType("com.google");
+Account account;
+if (accounts.length > 0) {
+	account = accounts[0];     
+} else {
+      account = null;
+}
+   return account;
+}
 
 \end{lstlisting}
 
@@ -388,15 +416,14 @@ In this  Method it returns the Account object as String value. This happens thro
 
 \begin{lstlisting}[language=java, caption= Email]
 static String getEmail(Context context) {
-        AccountManager accountManager = AccountManager.get(context); 
-        Account account = getAccount(accountManager);
-
-        if (account == null) {
-            return null;
-        } else {
-            return account.name;
-        }
-    }
-
+AccountManager accountManager = 
+AccountManager.get(context); 
+Account account = getAccount(accountManager);
+if (account == null) {
+	return null;
+} else {
+    return account.name;
+	}
+}
 \end{lstlisting}
 The Email Address will be saved in a file , so the application  have to read the email address from the file. 

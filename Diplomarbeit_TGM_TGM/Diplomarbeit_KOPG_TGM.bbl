@@ -45,12 +45,6 @@ C.~Janssen. Glassesbild und text. [Online]. Available:
   \url{https://blogs.lt.vt.edu/jdschmitt2/augmented-reality-what-will-the-future-hold/}
 \BIBentrySTDinterwordspacing
 
-\bibitem{statistics}
-\BIBentryALTinterwordspacing
- [Online]. Available:
-  \url{http://www.hiddenltd.com/blog/marketing-augmented-reality-infographic/}
-\BIBentrySTDinterwordspacing
-
 \bibitem{javaObjectClass}
 \BIBentryALTinterwordspacing
 Mozilla. (2014) Java object model. [Online]. Available:
@@ -227,6 +221,12 @@ Microsoft. (2014) Microsoft dynamics nav. [Online]. Available:
 \BIBentryALTinterwordspacing
 WebStorm. (2014) Webstorm - the smartest javascjava ide. [Online]. Available:
   \url{http://www.jetbrains.com/webstorm/}
+\BIBentrySTDinterwordspacing
+
+\bibitem{vstudio1}
+\BIBentryALTinterwordspacing
+M.~us/products/visual-studio-online-overview vs.aspx. (2014) Any app, any team.
+  [Online]. Available: \url{http://www.visualstudio.com/en-us/dn469161}
 \BIBentrySTDinterwordspacing
 
 \bibitem{androidDevTut}

@@ -1,13 +1,12 @@
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {1.1}{\ignorespaces \cite {ARpad}}}{3}{figure.1.1}
-\contentsline {figure}{\numberline {1.2}{\ignorespaces \cite {glasses01}}}{4}{figure.1.2}
-\contentsline {figure}{\numberline {1.3}{\ignorespaces \cite {glassesPic}}}{5}{figure.1.3}
+\contentsline {figure}{\numberline {1.1}{\ignorespaces AR Example\cite {ARpad}}}{3}{figure.1.1}
+\contentsline {figure}{\numberline {1.2}{\ignorespaces Google Glasses\cite {glasses01}}}{4}{figure.1.2}
+\contentsline {figure}{\numberline {1.3}{\ignorespaces Google Glasses Ability\cite {glassesPic}}}{5}{figure.1.3}
 \contentsline {figure}{\numberline {1.4}{\ignorespaces \cite {smartcar}}}{7}{figure.1.4}
-\contentsline {figure}{\numberline {1.5}{\ignorespaces \cite {statistics}}}{12}{figure.1.5}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {2.1}{\ignorespaces \cite {javaObjectClass}}}{14}{figure.2.1}
-\contentsline {figure}{\numberline {2.2}{\ignorespaces java code execution process \cite {javaJVM}}}{17}{figure.2.2}
-\contentsline {figure}{\numberline {2.3}{\ignorespaces Java Run-time Data Areas \cite {javaDataAreas}}}{19}{figure.2.3}
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Java Subclasses}}{14}{figure.2.1}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces java code execution process}}{17}{figure.2.2}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Java Run-time Data Areas}}{19}{figure.2.3}
 \contentsline {figure}{\numberline {2.4}{\ignorespaces Ajax overview\cite {ajax}}}{24}{figure.2.4}
 \contentsline {figure}{\numberline {2.5}{\ignorespaces Azure overview}}{25}{figure.2.5}
 \contentsline {figure}{\numberline {2.6}{\ignorespaces SQl Server 2008 overview}}{26}{figure.2.6}
@@ -17,6 +16,7 @@
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {3.1}{\ignorespaces Eclipse Workbench}}{32}{figure.3.1}
 \contentsline {figure}{\numberline {3.2}{\ignorespaces WebStorm Interface}}{34}{figure.3.2}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Visualstudio development environment\cite {ajax}}}{35}{figure.3.3}
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {4.1}{\ignorespaces Start menu}}{38}{figure.4.1}
 \contentsline {figure}{\numberline {4.2}{\ignorespaces }}{39}{figure.4.2}
@@ -36,11 +36,11 @@
 \contentsline {figure}{\numberline {4.16}{\ignorespaces My Favourites display}}{58}{figure.4.16}
 \contentsline {figure}{\numberline {4.17}{\ignorespaces A list item}}{60}{figure.4.17}
 \contentsline {figure}{\numberline {4.18}{\ignorespaces About display}}{62}{figure.4.18}
-\contentsline {figure}{\numberline {4.19}{\ignorespaces Photoswipe}}{62}{figure.4.19}
+\contentsline {figure}{\numberline {4.19}{\ignorespaces Photoswipe}}{63}{figure.4.19}
 \contentsline {figure}{\numberline {4.20}{\ignorespaces Sessionstorage}}{63}{figure.4.20}
 \contentsline {figure}{\numberline {4.21}{\ignorespaces Sessionstorage}}{64}{figure.4.21}
 \contentsline {figure}{\numberline {4.22}{\ignorespaces Sessionstorage}}{64}{figure.4.22}
-\contentsline {figure}{\numberline {4.23}{\ignorespaces Sessionstorage}}{64}{figure.4.23}
+\contentsline {figure}{\numberline {4.23}{\ignorespaces Selector descritpion}}{65}{figure.4.23}
 \contentsline {figure}{\numberline {4.24}{\ignorespaces Table}}{65}{figure.4.24}
 \contentsline {figure}{\numberline {4.25}{\ignorespaces Selector}}{66}{figure.4.25}
 \contentsline {figure}{\numberline {4.26}{\ignorespaces Condition}}{66}{figure.4.26}
@@ -48,8 +48,10 @@
 \contentsline {figure}{\numberline {5.1}{\ignorespaces Metaio Tool Box}}{72}{figure.5.1}
 \contentsline {figure}{\numberline {5.2}{\ignorespaces AREL}}{73}{figure.5.2}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {6.1}{\ignorespaces dynamically fit to device screen}}{84}{figure.6.1}
-\contentsline {figure}{\numberline {6.2}{\ignorespaces dynamically fit to device screen}}{86}{figure.6.2}
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Menu Page}}{84}{figure.6.1}
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Slide Panel}}{85}{figure.6.2}
+\contentsline {figure}{\numberline {6.3}{\ignorespaces Table}}{86}{figure.6.3}
+\contentsline {figure}{\numberline {6.4}{\ignorespaces dynamically fit to device screen}}{87}{figure.6.4}
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {7.1}{\ignorespaces network overview}}{89}{figure.7.1}
 \contentsline {figure}{\numberline {7.2}{\ignorespaces web reference}}{90}{figure.7.2}

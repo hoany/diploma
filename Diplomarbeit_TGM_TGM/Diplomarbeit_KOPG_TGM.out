@@ -3,151 +3,38 @@
 \BOOKMARK [0][]{chapter.1}{Introduction}{}% 3
 \BOOKMARK [1][]{section.1.1}{General}{chapter.1}% 4
 \BOOKMARK [1][]{section.1.2}{Augmented Reality}{chapter.1}% 5
-\BOOKMARK [2][]{subsection.1.2.1}{What is Augmented Reality ?}{section.1.2}% 6
-\BOOKMARK [2][]{subsection.1.2.2}{Augmented reality vs Virtual Reality}{section.1.2}% 7
-\BOOKMARK [2][]{subsection.1.2.3}{Companies for Augmented Reality}{section.1.2}% 8
-\BOOKMARK [2][]{subsection.1.2.4}{Google Glasses}{section.1.2}% 9
-\BOOKMARK [2][]{subsection.1.2.5}{Usage of Augmented Reality}{section.1.2}% 10
-\BOOKMARK [3][]{subsubsection.1.2.5.1}{Military and Law Enforcement }{subsection.1.2.5}% 11
-\BOOKMARK [3][]{subsubsection.1.2.5.2}{Vehicles}{subsection.1.2.5}% 12
-\BOOKMARK [3][]{subsubsection.1.2.5.3}{Medical}{subsection.1.2.5}% 13
-\BOOKMARK [3][]{subsubsection.1.2.5.4}{Trail Rooms}{subsection.1.2.5}% 14
-\BOOKMARK [3][]{subsubsection.1.2.5.5}{Tourism}{subsection.1.2.5}% 15
-\BOOKMARK [3][]{subsubsection.1.2.5.6}{Architecture}{subsection.1.2.5}% 16
-\BOOKMARK [3][]{subsubsection.1.2.5.7}{Education}{subsection.1.2.5}% 17
-\BOOKMARK [3][]{subsubsection.1.2.5.8}{Art}{subsection.1.2.5}% 18
-\BOOKMARK [3][]{subsubsection.1.2.5.9}{Translation}{subsection.1.2.5}% 19
-\BOOKMARK [3][]{subsubsection.1.2.5.10}{Weather Forecasting}{subsection.1.2.5}% 20
-\BOOKMARK [2][]{subsection.1.2.6}{Future of Augmented Reality}{section.1.2}% 21
-\BOOKMARK [3][]{subsubsection.1.2.6.1}{Virtual Experiences}{subsection.1.2.6}% 22
-\BOOKMARK [3][]{subsubsection.1.2.6.2}{Holograms}{subsection.1.2.6}% 23
-\BOOKMARK [3][]{subsubsection.1.2.6.3}{Video Conferencing}{subsection.1.2.6}% 24
-\BOOKMARK [3][]{subsubsection.1.2.6.4}{Movies}{subsection.1.2.6}% 25
-\BOOKMARK [3][]{subsubsection.1.2.6.5}{Gesture Control}{subsection.1.2.6}% 26
-\BOOKMARK [2][]{subsection.1.2.7}{Summary}{section.1.2}% 27
-\BOOKMARK [0][]{chapter.2}{Theoretical Basics}{}% 28
-\BOOKMARK [1][]{section.2.1}{Java}{chapter.2}% 29
-\BOOKMARK [2][]{subsection.2.1.1}{What is Java}{section.2.1}% 30
-\BOOKMARK [2][]{subsection.2.1.2}{Class Based \046 Object Oriented}{section.2.1}% 31
-\BOOKMARK [2][]{subsection.2.1.3}{Design Patterns}{section.2.1}% 32
-\BOOKMARK [2][]{subsection.2.1.4}{Performance}{section.2.1}% 33
-\BOOKMARK [2][]{subsection.2.1.5}{JVM}{section.2.1}% 34
-\BOOKMARK [2][]{subsection.2.1.6}{Java bytecode}{section.2.1}% 35
-\BOOKMARK [2][]{subsection.2.1.7}{Java Code Execution Process}{section.2.1}% 36
-\BOOKMARK [3][]{subsubsection.2.1.7.1}{Class Loader}{subsection.2.1.7}% 37
-\BOOKMARK [3][]{subsubsection.2.1.7.2}{Runtime Data Areas}{subsection.2.1.7}% 38
-\BOOKMARK [3][]{subsubsection.2.1.7.3}{Execution Engine}{subsection.2.1.7}% 39
-\BOOKMARK [2][]{subsection.2.1.8}{.JAR File}{section.2.1}% 40
-\BOOKMARK [3][]{subsubsection.2.1.8.1}{Executable JAR }{subsection.2.1.8}% 41
-\BOOKMARK [1][]{section.2.2}{JavaScript, HTML5,CSS3}{chapter.2}% 42
-\BOOKMARK [2][]{subsection.2.2.1}{JavaScript}{section.2.2}% 43
-\BOOKMARK [2][]{subsection.2.2.2}{HTML5}{section.2.2}% 44
-\BOOKMARK [2][]{subsection.2.2.3}{CSS3}{section.2.2}% 45
-\BOOKMARK [1][]{section.2.3}{jQuery Mobile}{chapter.2}% 46
-\BOOKMARK [1][]{section.2.4}{Ajax}{chapter.2}% 47
-\BOOKMARK [2][]{subsection.2.4.1}{XML}{section.2.4}% 48
-\BOOKMARK [2][]{subsection.2.4.2}{XMLHttpRequest}{section.2.4}% 49
-\BOOKMARK [2][]{subsection.2.4.3}{How does Ajax work?}{section.2.4}% 50
-\BOOKMARK [1][]{section.2.5}{Windows Azure}{chapter.2}% 51
-\BOOKMARK [2][]{subsection.2.5.1}{Overview}{section.2.5}% 52
-\BOOKMARK [1][]{section.2.6}{Microsoft SQL Server}{chapter.2}% 53
-\BOOKMARK [2][]{subsection.2.6.1}{Program Overview}{section.2.6}% 54
-\BOOKMARK [1][]{section.2.7}{Microsoft Dynamics Navision}{chapter.2}% 55
-\BOOKMARK [2][]{subsection.2.7.1}{Program Overview}{section.2.7}% 56
-\BOOKMARK [2][]{subsection.2.7.2}{Data structure}{section.2.7}% 57
-\BOOKMARK [3][]{subsubsection.2.7.2.1}{Tables}{subsection.2.7.2}% 58
-\BOOKMARK [3][]{subsubsection.2.7.2.2}{Pages}{subsection.2.7.2}% 59
-\BOOKMARK [0][]{chapter.3}{Integrated Development Environment}{}% 60
-\BOOKMARK [1][]{section.3.1}{Andorid SDK Eclipse}{chapter.3}% 61
-\BOOKMARK [2][]{subsection.3.1.1}{Eclipse Workbench}{section.3.1}% 62
-\BOOKMARK [2][]{subsection.3.1.2}{Android SDK}{section.3.1}% 63
-\BOOKMARK [1][]{section.3.2}{JetBrains WebStorm}{chapter.3}% 64
-\BOOKMARK [2][]{subsection.3.2.1}{Overview}{section.3.2}% 65
-\BOOKMARK [2][]{subsection.3.2.2}{Features}{section.3.2}% 66
-\BOOKMARK [1][]{section.3.3}{Visual Studio}{chapter.3}% 67
-\BOOKMARK [0][]{chapter.4}{Logic Implementation with JavaScript}{}% 68
-\BOOKMARK [1][]{section.4.1}{Start Menu}{chapter.4}% 69
-\BOOKMARK [1][]{section.4.2}{Help}{chapter.4}% 70
-\BOOKMARK [1][]{section.4.3}{Start Menu}{chapter.4}% 71
-\BOOKMARK [2][]{subsection.4.3.1}{JavaScript Functions}{section.4.3}% 72
-\BOOKMARK [3][]{subsubsection.4.3.1.1}{Start timer}{subsection.4.3.1}% 73
-\BOOKMARK [3][]{subsubsection.4.3.1.2}{End timer}{subsection.4.3.1}% 74
-\BOOKMARK [3][]{subsubsection.4.3.1.3}{Save the time}{subsection.4.3.1}% 75
-\BOOKMARK [3][]{subsubsection.4.3.1.4}{Set parameters}{subsection.4.3.1}% 76
-\BOOKMARK [3][]{subsubsection.4.3.1.5}{Start car tracking}{subsection.4.3.1}% 77
-\BOOKMARK [3][]{subsubsection.4.3.1.6}{Review}{subsection.4.3.1}% 78
-\BOOKMARK [3][]{subsubsection.4.3.1.7}{Turn off}{subsection.4.3.1}% 79
-\BOOKMARK [3][]{subsubsection.4.3.1.8}{Home}{subsection.4.3.1}% 80
-\BOOKMARK [3][]{subsubsection.4.3.1.9}{Read car name}{subsection.4.3.1}% 81
-\BOOKMARK [3][]{subsubsection.4.3.1.10}{Save email}{subsection.4.3.1}% 82
-\BOOKMARK [3][]{subsubsection.4.3.1.11}{Save car}{subsection.4.3.1}% 83
-\BOOKMARK [2][]{subsection.4.3.2}{Used Functionalities}{section.4.3}% 84
-\BOOKMARK [3][]{subsubsection.4.3.2.1}{Session Storage}{subsection.4.3.2}% 85
-\BOOKMARK [3][]{subsubsection.4.3.2.2}{Local Storage}{subsection.4.3.2}% 86
-\BOOKMARK [3][]{subsubsection.4.3.2.3}{AJAX}{subsection.4.3.2}% 87
-\BOOKMARK [2][]{subsection.4.3.3}{GUI}{section.4.3}% 88
-\BOOKMARK [3][]{subsubsection.4.3.3.1}{Leasing Price}{subsection.4.3.3}% 89
-\BOOKMARK [3][]{subsubsection.4.3.3.2}{Technical Information}{subsection.4.3.3}% 90
-\BOOKMARK [3][]{subsubsection.4.3.3.3}{Pictures}{subsection.4.3.3}% 91
-\BOOKMARK [3][]{subsubsection.4.3.3.4}{Videos}{subsection.4.3.3}% 92
-\BOOKMARK [3][]{subsubsection.4.3.3.5}{Review}{subsection.4.3.3}% 93
-\BOOKMARK [3][]{subsubsection.4.3.3.6}{Get Favourites}{subsection.4.3.3}% 94
-\BOOKMARK [3][]{subsubsection.4.3.3.7}{Add to my Favourites}{subsection.4.3.3}% 95
-\BOOKMARK [2][]{subsection.4.3.4}{Slide Panel}{section.4.3}% 96
-\BOOKMARK [1][]{section.4.4}{My Favourites}{chapter.4}% 97
-\BOOKMARK [2][]{subsection.4.4.1}{Loading of favourite cars}{section.4.4}% 98
-\BOOKMARK [2][]{subsection.4.4.2}{JS Functions}{section.4.4}% 99
-\BOOKMARK [3][]{subsubsection.4.4.2.1}{Delete favourite car}{subsection.4.4.2}% 100
-\BOOKMARK [3][]{subsubsection.4.4.2.2}{Delete all favourite cars}{subsection.4.4.2}% 101
-\BOOKMARK [3][]{subsubsection.4.4.2.3}{Select favourite car}{subsection.4.4.2}% 102
-\BOOKMARK [1][]{section.4.5}{About}{chapter.4}% 103
-\BOOKMARK [2][]{subsection.4.5.1}{Photo Gallery}{section.4.5}% 104
-\BOOKMARK [2][]{subsection.4.5.2}{Sessionstorage}{section.4.5}% 105
-\BOOKMARK [2][]{subsection.4.5.3}{Dynamic Selection of Colour}{section.4.5}% 106
-\BOOKMARK [0][]{chapter.5}{Implementation in Android Java and Metaio Tracking}{}% 107
-\BOOKMARK [1][]{section.5.1}{Android Platform}{chapter.5}% 108
-\BOOKMARK [2][]{subsection.5.1.1}{Android Operation System}{section.5.1}% 109
-\BOOKMARK [2][]{subsection.5.1.2}{Android user interface components}{section.5.1}% 110
-\BOOKMARK [2][]{subsection.5.1.3}{Develop an Android Application}{section.5.1}% 111
-\BOOKMARK [2][]{subsection.5.1.4}{Android Manifest}{section.5.1}% 112
-\BOOKMARK [2][]{subsection.5.1.5}{Creating an activity}{section.5.1}% 113
-\BOOKMARK [2][]{subsection.5.1.6}{Android web-view}{section.5.1}% 114
-\BOOKMARK [2][]{subsection.5.1.7}{Java JavaScript Communication}{section.5.1}% 115
-\BOOKMARK [3][]{subsubsection.5.1.7.1}{JavaScript Android Interface}{subsection.5.1.7}% 116
-\BOOKMARK [1][]{section.5.2}{Working with the Metaio SDK}{chapter.5}% 117
-\BOOKMARK [2][]{subsection.5.2.1}{Who is Metaio}{section.5.2}% 118
-\BOOKMARK [2][]{subsection.5.2.2}{Other Augmented Reality SDK's}{section.5.2}% 119
-\BOOKMARK [2][]{subsection.5.2.3}{Metaio Toolbox}{section.5.2}% 120
-\BOOKMARK [2][]{subsection.5.2.4}{AREL \( Augmented Reality Experience Language \)}{section.5.2}% 121
-\BOOKMARK [2][]{subsection.5.2.5}{Tracking XML}{section.5.2}% 122
-\BOOKMARK [2][]{subsection.5.2.6}{Extracting the Tracking XML in Android}{section.5.2}% 123
-\BOOKMARK [3][]{subsubsection.5.2.6.1}{Loading the Tracking XML}{subsection.5.2.6}% 124
-\BOOKMARK [1][]{section.5.3}{Track Objects}{chapter.5}% 125
-\BOOKMARK [1][]{section.5.4}{Get Email Account from an Android device}{chapter.5}% 126
-\BOOKMARK [0][]{chapter.6}{Design Concept}{}% 127
-\BOOKMARK [1][]{section.6.1}{Design concept with JQuery Mobile Framework}{chapter.6}% 128
-\BOOKMARK [2][]{subsubsection.6.1.0.2}{jQuery Mobile Page}{section.6.1}% 129
-\BOOKMARK [3][]{subsubsection.6.1.0.3}{Mainmenu}{subsubsection.6.1.0.2}% 130
-\BOOKMARK [3][]{subsubsection.6.1.0.4}{Slide Panel}{subsubsection.6.1.0.2}% 131
-\BOOKMARK [3][]{subsubsection.6.1.0.5}{jQuery Mobile Table}{subsubsection.6.1.0.2}% 132
-\BOOKMARK [1][]{section.6.2}{Video Gallery}{chapter.6}% 133
-\BOOKMARK [2][]{subsection.6.2.1}{Implementation}{section.6.2}% 134
-\BOOKMARK [1][]{section.6.3}{Video Gallery}{chapter.6}% 135
-\BOOKMARK [2][]{subsection.6.3.1}{Implementation}{section.6.3}% 136
-\BOOKMARK [0][]{chapter.7}{Streaming}{}% 137
-\BOOKMARK [1][]{subsection.7.0.2}{General network}{chapter.7}% 138
-\BOOKMARK [2][]{subsection.7.0.3}{C\043 Application}{subsection.7.0.2}% 139
-\BOOKMARK [3][]{subsubsection.7.0.3.1}{Read from the web service}{subsection.7.0.3}% 140
-\BOOKMARK [3][]{subsubsection.7.0.3.2}{Write to the web service}{subsection.7.0.3}% 141
-\BOOKMARK [3][]{subsubsection.7.0.3.3}{Provide a web service}{subsection.7.0.3}% 142
-\BOOKMARK [3][]{subsubsection.7.0.3.4}{Communication from mobile device to the C\043 App}{subsection.7.0.3}% 143
-\BOOKMARK [2][]{subsection.7.0.4}{Navision Server}{subsection.7.0.2}% 144
-\BOOKMARK [3][]{subsubsection.7.0.4.1}{Table structure}{subsection.7.0.4}% 145
-\BOOKMARK [2][]{subsection.7.0.5}{Web service}{subsection.7.0.2}% 146
-\BOOKMARK [0][]{chapter.8}{Future enhancements and possibilities}{}% 147
-\BOOKMARK [1][]{subsection.8.0.6}{Support for iOS and Windows phones/tablets }{chapter.8}% 148
-\BOOKMARK [2][]{subsection.8.0.7}{Other market segments}{subsection.8.0.6}% 149
-\BOOKMARK [0][]{chapter.9}{Resume}{}% 150
-\BOOKMARK [0][]{chapter.9}{Glossary}{}% 151
-\BOOKMARK [0][]{section*.7}{Bibliography}{}% 152
-\BOOKMARK [0][]{chapter*.8}{Bibliography}{}% 153
+\BOOKMARK [0][]{chapter.2}{Theoretical Basics}{}% 6
+\BOOKMARK [1][]{section.2.1}{Java}{chapter.2}% 7
+\BOOKMARK [1][]{section.2.2}{JavaScript, HTML5,CSS3}{chapter.2}% 8
+\BOOKMARK [1][]{section.2.3}{jQuery Mobile}{chapter.2}% 9
+\BOOKMARK [1][]{section.2.4}{Ajax}{chapter.2}% 10
+\BOOKMARK [1][]{section.2.5}{Windows Azure}{chapter.2}% 11
+\BOOKMARK [1][]{section.2.6}{Microsoft SQL Server}{chapter.2}% 12
+\BOOKMARK [1][]{section.2.7}{Microsoft Dynamics Navision}{chapter.2}% 13
+\BOOKMARK [0][]{chapter.3}{Integrated Development Environment}{}% 14
+\BOOKMARK [1][]{section.3.1}{Andorid SDK Eclipse}{chapter.3}% 15
+\BOOKMARK [1][]{section.3.2}{JetBrains WebStorm}{chapter.3}% 16
+\BOOKMARK [1][]{section.3.3}{Visual Studio}{chapter.3}% 17
+\BOOKMARK [0][]{chapter.4}{Logic Implementation with JavaScript}{}% 18
+\BOOKMARK [1][]{section.4.1}{Start Menu}{chapter.4}% 19
+\BOOKMARK [1][]{section.4.2}{Help}{chapter.4}% 20
+\BOOKMARK [1][]{section.4.3}{Start Menu}{chapter.4}% 21
+\BOOKMARK [1][]{section.4.4}{My Favourites}{chapter.4}% 22
+\BOOKMARK [1][]{section.4.5}{About}{chapter.4}% 23
+\BOOKMARK [1][]{section.4.6}{Photo Gallery}{chapter.4}% 24
+\BOOKMARK [1][]{section.4.7}{Sessionstorage}{chapter.4}% 25
+\BOOKMARK [1][]{section.4.8}{Dynamic Selection of Colour}{chapter.4}% 26
+\BOOKMARK [0][]{chapter.5}{Implementation in Android Java and Metaio Tracking}{}% 27
+\BOOKMARK [1][]{section.5.1}{Android Platform}{chapter.5}% 28
+\BOOKMARK [1][]{section.5.2}{Working with the Metaio SDK}{chapter.5}% 29
+\BOOKMARK [1][]{section.5.3}{Track Objects}{chapter.5}% 30
+\BOOKMARK [1][]{section.5.4}{Get Email Account from an Android device}{chapter.5}% 31
+\BOOKMARK [0][]{chapter.6}{Design Concept}{}% 32
+\BOOKMARK [1][]{section.6.1}{Design concept with JQuery Mobile Framework}{chapter.6}% 33
+\BOOKMARK [1][]{section.6.2}{Video Gallery}{chapter.6}% 34
+\BOOKMARK [0][]{chapter.7}{Streaming}{}% 35
+\BOOKMARK [0][]{chapter.8}{Future enhancements and possibilities}{}% 36
+\BOOKMARK [0][]{chapter.9}{Resume}{}% 37
+\BOOKMARK [0][]{chapter.9}{Glossary}{}% 38
+\BOOKMARK [0][]{section*.7}{Bibliography}{}% 39
+\BOOKMARK [0][]{chapter*.8}{Bibliography}{}% 40
