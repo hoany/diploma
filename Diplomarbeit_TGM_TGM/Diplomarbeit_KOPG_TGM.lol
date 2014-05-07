@@ -38,14 +38,13 @@
 \contentsline {lstlisting}{\numberline {5.4}Extracting Assets}{75}{lstlisting.5.4}
 \contentsline {lstlisting}{\numberline {5.5}executing AsyncTask}{76}{lstlisting.5.5}
 \contentsline {lstlisting}{\numberline {5.6}executing AsyncTask}{76}{lstlisting.5.6}
-\contentsline {lstlisting}{\numberline {5.7}where the magic happens}{77}{lstlisting.5.7}
-\contentsline {lstlisting}{\numberline {5.8}Accounts}{77}{lstlisting.5.8}
+\contentsline {lstlisting}{\numberline {5.7}Tracking Event}{77}{lstlisting.5.7}
+\contentsline {lstlisting}{\numberline {5.8}Accounts}{78}{lstlisting.5.8}
 \contentsline {lstlisting}{\numberline {5.9}Email}{78}{lstlisting.5.9}
-\contentsline {lstlisting}{\numberline {6.1}jQuery Page}{81}{lstlisting.6.1}
-\contentsline {lstlisting}{\numberline {6.2}Input Library}{81}{lstlisting.6.2}
-\contentsline {lstlisting}{\numberline {6.3}Panel definition in Header}{84}{lstlisting.6.3}
-\contentsline {lstlisting}{\numberline {6.4}extracts from the video gallery src}{86}{lstlisting.6.4}
-\contentsline {lstlisting}{\numberline {6.5}extracts from the video gallery src}{88}{lstlisting.6.5}
+\contentsline {lstlisting}{\numberline {6.1}jQuery Page}{83}{lstlisting.6.1}
+\contentsline {lstlisting}{\numberline {6.2}Input Library}{83}{lstlisting.6.2}
+\contentsline {lstlisting}{\numberline {6.3}Panel definition in Header}{86}{lstlisting.6.3}
+\contentsline {lstlisting}{\numberline {6.4}extracts from the video gallery src}{88}{lstlisting.6.4}
 \contentsline {lstlisting}{\numberline {7.1}Example reading webservice}{91}{lstlisting.7.1}
 \contentsline {lstlisting}{\numberline {7.2}Example writing to web service}{92}{lstlisting.7.2}
 \contentsline {lstlisting}{\numberline {7.3}readcarname example}{94}{lstlisting.7.3}
