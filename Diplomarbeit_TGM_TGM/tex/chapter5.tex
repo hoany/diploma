@@ -112,7 +112,7 @@ In the section above we mentioned that we used html pages to create the view of 
 
 
 First javascript must be enabled:
-\begin{lstlisting}[language=java,captionpos=b, caption=??????]
+\begin{lstlisting}[language=java,captionpos=b, caption=Java-JavaScript communication]
 super.appView.getSettings().setJavaScriptEnabled(true);
 \end{lstlisting}
 
@@ -144,7 +144,7 @@ function trackClick() {
 
 
 Then add a JavaScript interface to the activity:
-\begin{lstlisting}[language=java, caption=?????, captionpos=b]
+\begin{lstlisting}[language=java, caption=JavaScript Android Interface, captionpos=b]
 super.addJavascriptInterface(new Object()
 {
 	public void performClick()
