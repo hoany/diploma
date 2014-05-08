@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.4.23)  7 MAY 2014 22:29
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.4.23)  8 MAY 2014 07:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1423,8 +1423,8 @@ File: graphics/chapter4/1.png Graphic file (type png)
 <use graphics/chapter4/1.png>
 Package pdftex.def Info: graphics/chapter4/1.png used on input line 24.
 (pdftex.def)             Requested size: 205.96938pt x 222.72505pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 29--31
+ [35 <./graphics/chapter4/1.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 30--32
 
  []
 
@@ -1433,525 +1433,527 @@ File: lstlang1.sty 2013/06/27 1.5pre1 listings language file
 )
 (/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
 File: lstmisc.sty 2013/07/10 1.5 (Carsten Heinz)
-) [35 <./graphics/chapter4/1.png>]
+)
 LaTeX Font Info:    Try loading font information for T1+DejaVuSansMono on input
- line 59.
-LaTeX Font Info:    No file T1DejaVuSansMono.fd. on input line 59.
+ line 60.
+LaTeX Font Info:    No file T1DejaVuSansMono.fd. on input line 60.
 
 
 LaTeX Font Warning: Font shape `T1/DejaVuSansMono/m/n' undefined
-(Font)              using `T1/cmr/m/n' instead on input line 59.
+(Font)              using `T1/cmr/m/n' instead on input line 60.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 62--66
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 80--82
+Underfull \hbox (badness 10000) in paragraph at lines 63--67
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 83--85
+Underfull \hbox (badness 10000) in paragraph at lines 81--83
+
+ []
+
+[36]
+Underfull \hbox (badness 10000) in paragraph at lines 84--86
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 86--88
+Underfull \hbox (badness 10000) in paragraph at lines 87--89
 
  []
 
-[36] <graphics/chapter4/2.png, id=880, 325.215pt x 389.455pt>
+[37] <graphics/chapter4/2.png, id=884, 325.215pt x 389.455pt>
 File: graphics/chapter4/2.png Graphic file (type png)
 
 <use graphics/chapter4/2.png>
-Package pdftex.def Info: graphics/chapter4/2.png used on input line 97.
+Package pdftex.def Info: graphics/chapter4/2.png used on input line 98.
 (pdftex.def)             Requested size: 205.96938pt x 246.65936pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 102--105
+Underfull \hbox (badness 10000) in paragraph at lines 103--106
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 114--116
+Underfull \hbox (badness 10000) in paragraph at lines 115--117
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 129--131
+Underfull \hbox (badness 10000) in paragraph at lines 130--132
 
  []
 
-[37 <./graphics/chapter4/2.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 132--134
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 135--137
+[38 <./graphics/chapter4/2.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 133--135
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 138--140
+Underfull \hbox (badness 10000) in paragraph at lines 136--138
 
  []
 
-<graphics/chapter4/3.png, id=892, 333.245pt x 422.57875pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--141
+
+ []
+
+<graphics/chapter4/3.png, id=896, 333.245pt x 422.57875pt>
 File: graphics/chapter4/3.png Graphic file (type png)
 
 <use graphics/chapter4/3.png>
-Package pdftex.def Info: graphics/chapter4/3.png used on input line 143.
+Package pdftex.def Info: graphics/chapter4/3.png used on input line 144.
 (pdftex.def)             Requested size: 205.96938pt x 261.19011pt.
- [38 <./graphics/chapter4/3.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 149--152
+ [39 <./graphics/chapter4/3.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 150--153
 
  []
 
-[39]
-Underfull \hbox (badness 10000) in paragraph at lines 199--202
+[40]
+Underfull \hbox (badness 10000) in paragraph at lines 200--203
 
  []
 
-<graphics/chapter4/5.png, id=940, 406.51875pt x 722.7pt>
+<graphics/chapter4/5.png, id=944, 406.51875pt x 722.7pt>
 File: graphics/chapter4/5.png Graphic file (type png)
 
 <use graphics/chapter4/5.png>
-Package pdftex.def Info: graphics/chapter4/5.png used on input line 205.
+Package pdftex.def Info: graphics/chapter4/5.png used on input line 206.
 (pdftex.def)             Requested size: 205.96938pt x 366.16812pt.
- [40 <./graphics/chapter4/5.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 212--214
+ [41 <./graphics/chapter4/5.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 213--215
 
  []
 
-<graphics/chapter4/6.png, id=946, 406.51875pt x 722.7pt>
+<graphics/chapter4/6.png, id=950, 406.51875pt x 722.7pt>
 File: graphics/chapter4/6.png Graphic file (type png)
 
 <use graphics/chapter4/6.png>
-Package pdftex.def Info: graphics/chapter4/6.png used on input line 217.
+Package pdftex.def Info: graphics/chapter4/6.png used on input line 218.
 (pdftex.def)             Requested size: 205.96938pt x 366.16812pt.
- [41 <./graphics/chapter4/6.png>]
-<graphics/chapter4/7.png, id=952, 255.95625pt x 292.09125pt>
+ [42 <./graphics/chapter4/6.png>]
+<graphics/chapter4/7.png, id=957, 255.95625pt x 292.09125pt>
 File: graphics/chapter4/7.png Graphic file (type png)
 
 <use graphics/chapter4/7.png>
-Package pdftex.def Info: graphics/chapter4/7.png used on input line 227.
+Package pdftex.def Info: graphics/chapter4/7.png used on input line 228.
 (pdftex.def)             Requested size: 205.96938pt x 235.04604pt.
- [42 <./graphics/chapter4/7.png>]
-<graphics/chapter4/8.png, id=960, 178.704pt x 317.988pt>
+ [43 <./graphics/chapter4/7.png>]
+<graphics/chapter4/8.png, id=964, 178.704pt x 317.988pt>
 File: graphics/chapter4/8.png Graphic file (type png)
 
 <use graphics/chapter4/8.png>
-Package pdftex.def Info: graphics/chapter4/8.png used on input line 237.
+Package pdftex.def Info: graphics/chapter4/8.png used on input line 238.
 (pdftex.def)             Requested size: 205.96938pt x 366.50336pt.
- [43 <./graphics/chapter4/8.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 243--245
+ [44 <./graphics/chapter4/8.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 244--246
 
  []
 
-<graphics/chapter4/9.png, id=966, 450.68375pt x 704.6325pt>
+<graphics/chapter4/9.png, id=970, 450.68375pt x 704.6325pt>
 File: graphics/chapter4/9.png Graphic file (type png)
 
 <use graphics/chapter4/9.png>
-Package pdftex.def Info: graphics/chapter4/9.png used on input line 248.
+Package pdftex.def Info: graphics/chapter4/9.png used on input line 249.
 (pdftex.def)             Requested size: 205.96938pt x 322.02754pt.
- [44 <./graphics/chapter4/9.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 255--257
+ [45 <./graphics/chapter4/9.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 256--258
 
  []
 
-<graphics/chapter4/10.png, id=972, 406.51875pt x 722.7pt>
+<graphics/chapter4/10.png, id=976, 406.51875pt x 722.7pt>
 File: graphics/chapter4/10.png Graphic file (type png)
 
 <use graphics/chapter4/10.png>
-Package pdftex.def Info: graphics/chapter4/10.png used on input line 260.
+Package pdftex.def Info: graphics/chapter4/10.png used on input line 261.
 (pdftex.def)             Requested size: 205.96938pt x 366.16812pt.
- [45 <./graphics/chapter4/10.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 266--268
+ [46 <./graphics/chapter4/10.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 267--269
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 281--284
+Underfull \hbox (badness 10000) in paragraph at lines 282--285
 
  []
 
-<graphics/chapter4/11.png, id=978, 357.335pt x 43.16125pt>
+<graphics/chapter4/11.png, id=982, 357.335pt x 43.16125pt>
 File: graphics/chapter4/11.png Graphic file (type png)
 
 <use graphics/chapter4/11.png>
-Package pdftex.def Info: graphics/chapter4/11.png used on input line 287.
+Package pdftex.def Info: graphics/chapter4/11.png used on input line 288.
 (pdftex.def)             Requested size: 267.75768pt x 32.34319pt.
 
-<graphics/chapter4/12.png, id=979, 332.24126pt x 44.165pt>
+<graphics/chapter4/12.png, id=983, 332.24126pt x 44.165pt>
 File: graphics/chapter4/12.png Graphic file (type png)
 
 <use graphics/chapter4/12.png>
-Package pdftex.def Info: graphics/chapter4/12.png used on input line 296.
+Package pdftex.def Info: graphics/chapter4/12.png used on input line 297.
 (pdftex.def)             Requested size: 267.75768pt x 35.59485pt.
- [46 <./graphics/chapter4/11.png> <./graphics/chapter4/12.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 302--304
+ [47 <./graphics/chapter4/11.png> <./graphics/chapter4/12.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 303--305
 
  []
 
-<graphics/chapter4/15.png, id=993, 406.51875pt x 722.7pt>
+<graphics/chapter4/15.png, id=997, 406.51875pt x 722.7pt>
 File: graphics/chapter4/15.png Graphic file (type png)
 
 <use graphics/chapter4/15.png>
-Package pdftex.def Info: graphics/chapter4/15.png used on input line 307.
+Package pdftex.def Info: graphics/chapter4/15.png used on input line 308.
 (pdftex.def)             Requested size: 164.77298pt x 292.92348pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 315--317
+Underfull \hbox (badness 10000) in paragraph at lines 316--318
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 318--322
+Underfull \hbox (badness 10000) in paragraph at lines 319--323
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 318--322
+Underfull \hbox (badness 10000) in paragraph at lines 319--323
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 318--322
+Underfull \hbox (badness 10000) in paragraph at lines 319--323
 
  []
 
-[47 <./graphics/chapter4/15.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 331--333
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 341--343
+[48 <./graphics/chapter4/15.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 332--334
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 344--347
+Underfull \hbox (badness 10000) in paragraph at lines 342--344
 
  []
 
-<graphics/chapter4/16.png, id=1000, 348.30125pt x 55.20625pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 345--348
+
+ []
+
+<graphics/chapter4/16.png, id=1005, 348.30125pt x 55.20625pt>
 File: graphics/chapter4/16.png Graphic file (type png)
 
 <use graphics/chapter4/16.png>
-Package pdftex.def Info: graphics/chapter4/16.png used on input line 358.
+Package pdftex.def Info: graphics/chapter4/16.png used on input line 359.
 (pdftex.def)             Requested size: 288.35587pt x 45.70659pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 362--364
+Underfull \hbox (badness 10000) in paragraph at lines 363--365
 
  []
 
-<graphics/chapter4/17.png, id=1001, 356.33125pt x 544.0325pt>
+<graphics/chapter4/17.png, id=1006, 356.33125pt x 544.0325pt>
 File: graphics/chapter4/17.png Graphic file (type png)
 
 <use graphics/chapter4/17.png>
-Package pdftex.def Info: graphics/chapter4/17.png used on input line 376.
+Package pdftex.def Info: graphics/chapter4/17.png used on input line 377.
 (pdftex.def)             Requested size: 164.77298pt x 251.56958pt.
- [48 <./graphics/chapter4/16.png>] [49 <./graphics/chapter4/17.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 386--389
+ [49 <./graphics/chapter4/16.png>] [50 <./graphics/chapter4/17.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 387--390
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 397--399
+Underfull \hbox (badness 10000) in paragraph at lines 398--400
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 411--413
+Underfull \hbox (badness 10000) in paragraph at lines 412--414
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 418--420
+Underfull \hbox (badness 10000) in paragraph at lines 419--421
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 421--425
+Underfull \hbox (badness 10000) in paragraph at lines 422--426
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 421--425
-
- []
-
-[50]
-Underfull \hbox (badness 10000) in paragraph at lines 453--456
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 467--472
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 467--472
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 467--472
+Underfull \hbox (badness 10000) in paragraph at lines 422--426
 
  []
 
 [51]
-Underfull \hbox (badness 10000) in paragraph at lines 482--484
+Underfull \hbox (badness 10000) in paragraph at lines 454--457
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 496--498
+Underfull \hbox (badness 10000) in paragraph at lines 468--473
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 508--509
+Underfull \hbox (badness 10000) in paragraph at lines 468--473
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 519--527
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 519--527
+Underfull \hbox (badness 10000) in paragraph at lines 468--473
 
  []
 
 [52]
-Underfull \hbox (badness 10000) in paragraph at lines 557--558
+Underfull \hbox (badness 10000) in paragraph at lines 483--485
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 559--561
+Underfull \hbox (badness 10000) in paragraph at lines 497--499
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 509--510
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 520--528
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 520--528
 
  []
 
 [53]
-Underfull \hbox (badness 10000) in paragraph at lines 583--585
+Underfull \hbox (badness 10000) in paragraph at lines 558--559
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 599--601
+Underfull \hbox (badness 10000) in paragraph at lines 560--562
 
  []
 
 [54]
-Underfull \hbox (badness 10000) in paragraph at lines 613--615
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 622--624
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 638--640
+Underfull \hbox (badness 10000) in paragraph at lines 584--586
 
  []
 
 [55]
-Underfull \hbox (badness 10000) in paragraph at lines 669--671
+Underfull \hbox (badness 10000) in paragraph at lines 600--602
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 614--616
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 623--625
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 639--641
 
  []
 
 [56]
-Underfull \hbox (badness 10000) in paragraph at lines 720--722
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 760--762
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 766--768
+Underfull \hbox (badness 10000) in paragraph at lines 670--672
 
  []
 
 [57]
+Underfull \hbox (badness 10000) in paragraph at lines 721--723
 
-LaTeX Warning: Citation `w3school' on page 58 undefined on input line 769.
+ []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 769--771
+[58]
+Underfull \hbox (badness 10000) in paragraph at lines 761--763
 
  []
 
 
-LaTeX Warning: Citation `w3school' on page 58 undefined on input line 772.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 772--774
+Underfull \hbox (badness 10000) in paragraph at lines 767--769
 
  []
 
 
-LaTeX Warning: Citation `w3school' on page 58 undefined on input line 777.
+LaTeX Warning: Citation `w3school' on page 59 undefined on input line 770.
 
 
-LaTeX Warning: Citation `w3school' on page 58 undefined on input line 778.
+Underfull \hbox (badness 10000) in paragraph at lines 770--772
 
-<graphics/chapter4/20.png, id=1242, 481.8pt x 245.91875pt>
+ []
+
+
+LaTeX Warning: Citation `w3school' on page 59 undefined on input line 773.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 773--775
+
+ []
+
+
+LaTeX Warning: Citation `w3school' on page 59 undefined on input line 778.
+
+
+LaTeX Warning: Citation `w3school' on page 59 undefined on input line 779.
+
+<graphics/chapter4/20.png, id=1244, 481.8pt x 245.91875pt>
 File: graphics/chapter4/20.png Graphic file (type png)
 
 <use graphics/chapter4/20.png>
-Package pdftex.def Info: graphics/chapter4/20.png used on input line 784.
+Package pdftex.def Info: graphics/chapter4/20.png used on input line 785.
 (pdftex.def)             Requested size: 370.74237pt x 189.23793pt.
 
 
-LaTeX Warning: Citation `localstorageapi' on page 58 undefined on input line 78
-5.
+LaTeX Warning: Citation `localstorageapi' on page 59 undefined on input line 78
+6.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 789--791
-
- []
+LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-LaTeX Warning: Citation `localstorageexample' on page 58 undefined on input lin
-e 797.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 799--801
+Underfull \hbox (badness 10000) in paragraph at lines 790--792
 
  []
 
-[58 <./graphics/chapter4/20.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 810--813
+
+LaTeX Warning: Citation `localstorageexample' on page 59 undefined on input lin
+e 798.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 800--802
 
  []
 
 [59]
-Underfull \hbox (badness 10000) in paragraph at lines 824--826
+Underfull \hbox (badness 10000) in paragraph at lines 811--814
 
  []
 
-<graphics/chapter4/13.png, id=1260, 244.915pt x 155.58125pt>
+[60 <./graphics/chapter4/20.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 825--827
+
+ []
+
+<graphics/chapter4/13.png, id=1265, 244.915pt x 155.58125pt>
 File: graphics/chapter4/13.png Graphic file (type png)
 
 <use graphics/chapter4/13.png>
-Package pdftex.def Info: graphics/chapter4/13.png used on input line 829.
+Package pdftex.def Info: graphics/chapter4/13.png used on input line 830.
 (pdftex.def)             Requested size: 205.96938pt x 130.84402pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 833--835
+Underfull \hbox (badness 10000) in paragraph at lines 834--836
 
  []
 
-<graphics/chapter4/14.png, id=1261, 265.99374pt x 264.99pt>
+<graphics/chapter4/14.png, id=1266, 265.99374pt x 264.99pt>
 File: graphics/chapter4/14.png Graphic file (type png)
 
 <use graphics/chapter4/14.png>
-Package pdftex.def Info: graphics/chapter4/14.png used on input line 838.
+Package pdftex.def Info: graphics/chapter4/14.png used on input line 839.
 (pdftex.def)             Requested size: 205.96938pt x 205.1953pt.
- [60 <./graphics/chapter4/13.png> <./graphics/chapter4/14.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 843--845
+ [61 <./graphics/chapter4/13.png> <./graphics/chapter4/14.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 844--846
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 870--872
+Underfull \hbox (badness 10000) in paragraph at lines 871--873
 
  []
 
-[61] <graphics/photoswipe.PNG, id=1295, 685.8122pt x 155.83218pt>
+[62] <graphics/photoswipe.PNG, id=1299, 685.8122pt x 155.83218pt>
 File: graphics/photoswipe.PNG Graphic file (type png)
 
 <use graphics/photoswipe.PNG>
-Package pdftex.def Info: graphics/photoswipe.PNG used on input line 882.
+Package pdftex.def Info: graphics/photoswipe.PNG used on input line 883.
 (pdftex.def)             Requested size: 411.93877pt x 93.60464pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 886--887
+Underfull \hbox (badness 10000) in paragraph at lines 887--888
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 886--887
+Underfull \hbox (badness 10000) in paragraph at lines 887--888
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 889--890
+Underfull \hbox (badness 10000) in paragraph at lines 890--891
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 889--890
+Underfull \hbox (badness 10000) in paragraph at lines 890--891
 
  []
 
-[62 <./graphics/photoswipe.PNG>]
-<graphics/sessionstorage1.PNG, id=1303, 683.55376pt x 181.42781pt>
+[63 <./graphics/photoswipe.PNG>]
+<graphics/sessionstorage1.PNG, id=1307, 683.55376pt x 181.42781pt>
 File: graphics/sessionstorage1.PNG Graphic file (type png)
 
 <use graphics/sessionstorage1.PNG>
-Package pdftex.def Info: graphics/sessionstorage1.PNG used on input line 895.
+Package pdftex.def Info: graphics/sessionstorage1.PNG used on input line 896.
 (pdftex.def)             Requested size: 411.93877pt x 109.33922pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 899--902
+Underfull \hbox (badness 10000) in paragraph at lines 900--903
 
  []
 
-<graphics/sessionstorage2.PNG, id=1304, 685.8122pt x 159.59625pt>
+<graphics/sessionstorage2.PNG, id=1308, 685.8122pt x 159.59625pt>
 File: graphics/sessionstorage2.PNG Graphic file (type png)
 
 <use graphics/sessionstorage2.PNG>
-Package pdftex.def Info: graphics/sessionstorage2.PNG used on input line 905.
+Package pdftex.def Info: graphics/sessionstorage2.PNG used on input line 906.
 (pdftex.def)             Requested size: 411.93877pt x 95.86562pt.
 
-<graphics/sessionstorage3.PNG, id=1305, 685.05937pt x 114.4275pt>
+<graphics/sessionstorage3.PNG, id=1309, 685.05937pt x 114.4275pt>
 File: graphics/sessionstorage3.PNG Graphic file (type png)
 
 <use graphics/sessionstorage3.PNG>
-Package pdftex.def Info: graphics/sessionstorage3.PNG used on input line 912.
+Package pdftex.def Info: graphics/sessionstorage3.PNG used on input line 913.
 (pdftex.def)             Requested size: 411.93877pt x 68.80893pt.
- [63 <./graphics/sessionstorage1.PNG> <./graphics/sessionstorage2.PNG> <./graph
+ [64 <./graphics/sessionstorage1.PNG> <./graphics/sessionstorage2.PNG> <./graph
 ics/sessionstorage3.PNG>]
-<graphics/Sessionstorage41.PNG, id=1313, 685.8122pt x 269.50688pt>
+<graphics/Sessionstorage41.PNG, id=1317, 685.8122pt x 269.50688pt>
 File: graphics/Sessionstorage41.PNG Graphic file (type png)
 
 <use graphics/Sessionstorage41.PNG>
-Package pdftex.def Info: graphics/Sessionstorage41.PNG used on input line 921.
+Package pdftex.def Info: graphics/Sessionstorage41.PNG used on input line 922.
 (pdftex.def)             Requested size: 411.93877pt x 161.8863pt.
- [64 <./graphics/Sessionstorage41.PNG>]
+ [65 <./graphics/Sessionstorage41.PNG>]
 File: graphics/chapter4/6.png Graphic file (type png)
 
 <use graphics/chapter4/6.png>
-Package pdftex.def Info: graphics/chapter4/6.png used on input line 930.
-(pdftex.def)             Requested size: 164.77298pt x 292.92348pt.
- [65
-
-]
-<graphics/chapter4/fg6.png, id=1324, 406.51875pt x 722.7pt>
-File: graphics/chapter4/fg6.png Graphic file (type png)
-
-<use graphics/chapter4/fg6.png>
-Package pdftex.def Info: graphics/chapter4/fg6.png used on input line 938.
+Package pdftex.def Info: graphics/chapter4/6.png used on input line 931.
 (pdftex.def)             Requested size: 164.77298pt x 292.92348pt.
  [66
 
+]
+<graphics/chapter4/fg6.png, id=1329, 406.51875pt x 722.7pt>
+File: graphics/chapter4/fg6.png Graphic file (type png)
+
+<use graphics/chapter4/fg6.png>
+Package pdftex.def Info: graphics/chapter4/fg6.png used on input line 939.
+(pdftex.def)             Requested size: 164.77298pt x 292.92348pt.
+ [67
+
  <./graphics/chapter4/fg6.png>]
-<graphics/bgfn.PNG, id=1330, 685.05937pt x 308.65312pt>
+<graphics/bgfn.PNG, id=1334, 685.05937pt x 308.65312pt>
 File: graphics/bgfn.PNG Graphic file (type png)
 
 <use graphics/bgfn.PNG>
-Package pdftex.def Info: graphics/bgfn.PNG used on input line 945.
+Package pdftex.def Info: graphics/bgfn.PNG used on input line 946.
 (pdftex.def)             Requested size: 411.93877pt x 185.60303pt.
-) [67
+) [68
 
  <./graphics/bgfn.PNG>]
 \openout2 = `tex/chapter5.aux'.
@@ -1968,7 +1970,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 12--14
 
  []
 
-[68
+[69
 
 
 
@@ -1989,7 +1991,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 59--61
 
 (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2013/06/27 1.5pre1 listings language file
-) [69]
+) [70]
 Underfull \hbox (badness 10000) in paragraph at lines 86--88
 
  []
@@ -1999,12 +2001,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 109--111
 
  []
 
-[70]
+[71]
 Underfull \hbox (badness 10000) in paragraph at lines 127--129
 
  []
 
-[71]
+[72]
 Underfull \hbox (badness 10000) in paragraph at lines 185--187
 
  []
@@ -2019,14 +2021,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 196--198
 
  []
 
-[72] <graphics/tracking.png, id=1437, 1927.2pt x 1084.05pt>
+[73] <graphics/tracking.png, id=1441, 1927.2pt x 1084.05pt>
 File: graphics/tracking.png Graphic file (type png)
 
 <use graphics/tracking.png>
 Package pdftex.def Info: graphics/tracking.png used on input line 211.
 (pdftex.def)             Requested size: 411.92859pt x 231.70982pt.
 
-<graphics/arel.PNG, id=1438, 481.04718pt x 417.05812pt>
+<graphics/arel.PNG, id=1442, 481.04718pt x 417.05812pt>
 File: graphics/arel.PNG Graphic file (type png)
 
 <use graphics/arel.PNG>
@@ -2042,12 +2044,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 229--231
 
  []
 
-[73 <./graphics/tracking.png>] [74 <./graphics/arel.PNG>]
+[74 <./graphics/tracking.png>] [75 <./graphics/arel.PNG>]
 Underfull \hbox (badness 10000) in paragraph at lines 236--238
 
  []
 
-[75]
+[76]
 Underfull \hbox (badness 10000) in paragraph at lines 282--284
 
  []
@@ -2057,17 +2059,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 286--288
 
  []
 
-[76]
+[77]
 Underfull \hbox (badness 10000) in paragraph at lines 343--345
 
  []
 
-[77] [78] [79]) [80]
+[78] [79] [80]) [81]
 \openout2 = `tex/chapter6.aux'.
 
  (./tex/chapter6.tex
 Chapter 6.
-<graphics/AppStructure.PNG, id=1610, 517.935pt x 319.1925pt>
+<graphics/AppStructure.PNG, id=1614, 517.935pt x 319.1925pt>
 File: graphics/AppStructure.PNG Graphic file (type png)
 
 <use graphics/AppStructure.PNG>
@@ -2093,7 +2095,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 6--16
 
  []
 
-[81
+[82
 
 
 
@@ -2112,7 +2114,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 26--27
 
  []
 
-[82]
+[83]
 Underfull \hbox (badness 10000) in paragraph at lines 56--57
 
  []
@@ -2122,7 +2124,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 56--57
 
  []
 
-[83] <graphics/Menu.PNG, id=1651, 773.89125pt x 368.87813pt>
+[84] <graphics/Menu.PNG, id=1656, 773.89125pt x 368.87813pt>
 File: graphics/Menu.PNG Graphic file (type png)
 
 <use graphics/Menu.PNG>
@@ -2138,29 +2140,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 74--75
 
  []
 
-
+[85 <./graphics/Menu.PNG>]
 Underfull \hbox (badness 10000) in paragraph at lines 77--79
 
  []
 
-<graphics/SPanel.PNG, id=1653, 664.73344pt x 448.67625pt>
+<graphics/SPanel.PNG, id=1663, 664.73344pt x 448.67625pt>
 File: graphics/SPanel.PNG Graphic file (type png)
 
 <use graphics/SPanel.PNG>
 Package pdftex.def Info: graphics/SPanel.PNG used on input line 83.
 (pdftex.def)             Requested size: 411.93877pt x 278.04633pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[84 <./graphics/Menu.PNG>] [85 <./graphics/SPanel.PNG>]
-<graphics/Table.PNG, id=1667, 823.57687pt x 461.47406pt>
+ [86 <./graphics/SPanel.PNG>]
+<graphics/Table.PNG, id=1671, 823.57687pt x 461.47406pt>
 File: graphics/Table.PNG Graphic file (type png)
 
 <use graphics/Table.PNG>
 Package pdftex.def Info: graphics/Table.PNG used on input line 105.
 (pdftex.def)             Requested size: 411.93877pt x 230.82095pt.
- [86
+ [87
 
  <./graphics/Table.PNG>]
 Underfull \hbox (badness 10000) in paragraph at lines 113--115
@@ -2172,25 +2170,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 117--119
 
  []
 
-<graphics/dynamic.png, id=1684, 588.69937pt x 553.31718pt>
+<graphics/dynamic.png, id=1688, 588.69937pt x 553.31718pt>
 File: graphics/dynamic.png Graphic file (type png)
 
 <use graphics/dynamic.png>
 Package pdftex.def Info: graphics/dynamic.png used on input line 124.
 (pdftex.def)             Requested size: 411.94301pt x 387.1843pt.
- [87 <./graphics/dynamic.png>]) [88]
+ [88 <./graphics/dynamic.png>]) [89]
 \openout2 = `tex/chapter7.aux'.
 
 
 (./tex/chapter7.tex
 Chapter 7.
-<graphics/networkoverview.png, id=1714, 719.68875pt x 399.74344pt>
+<graphics/networkoverview.png, id=1718, 719.68875pt x 399.74344pt>
 File: graphics/networkoverview.png Graphic file (type png)
 
 <use graphics/networkoverview.png>
 Package pdftex.def Info: graphics/networkoverview.png used on input line 9.
 (pdftex.def)             Requested size: 411.95096pt x 228.81375pt.
- [89
+ [90
 
 
 
@@ -2204,16 +2202,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 16--18
 
  []
 
-<graphics/webref.png, id=1720, 182.18062pt x 166.37157pt>
+<graphics/webref.png, id=1725, 182.18062pt x 166.37157pt>
 File: graphics/webref.png Graphic file (type png)
 
 <use graphics/webref.png>
 Package pdftex.def Info: graphics/webref.png used on input line 29.
 (pdftex.def)             Requested size: 113.80977pt x 103.93372pt.
- [90 <./graphics/webref.png>]
+ [91 <./graphics/webref.png>]
 (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2013/06/27 1.5pre1 listings language file
-) [91] [92]
+) [92] [93]
 Underfull \hbox (badness 10000) in paragraph at lines 96--99
 
  []
@@ -2223,51 +2221,51 @@ Underfull \hbox (badness 10000) in paragraph at lines 96--99
 
  []
 
-[93] [94] <graphics/trackingtable.png, id=1810, 265.74281pt x 90.3375pt>
+[94] [95] <graphics/trackingtable.png, id=1814, 265.74281pt x 90.3375pt>
 File: graphics/trackingtable.png Graphic file (type png)
 
 <use graphics/trackingtable.png>
 Package pdftex.def Info: graphics/trackingtable.png used on input line 151.
 (pdftex.def)             Requested size: 284.5488pt x 96.73045pt.
 
-<graphics/trackingtableexample.png, id=1811, 521.95pt x 44.165pt>
+<graphics/trackingtableexample.png, id=1815, 521.95pt x 44.165pt>
 File: graphics/trackingtableexample.png Graphic file (type png)
 
 <use graphics/trackingtableexample.png>
 Package pdftex.def Info: graphics/trackingtableexample.png used on input line 1
 58.
 (pdftex.def)             Requested size: 411.94572pt x 34.85692pt.
- [95 <./graphics/trackingtable.png> <./graphics/trackingtableexample.png>]
-<graphics/cardatatable.png, id=1823, 263.48438pt x 152.82094pt>
+ [96 <./graphics/trackingtable.png> <./graphics/trackingtableexample.png>]
+<graphics/cardatatable.png, id=1828, 263.48438pt x 152.82094pt>
 File: graphics/cardatatable.png Graphic file (type png)
 
 <use graphics/cardatatable.png>
 Package pdftex.def Info: graphics/cardatatable.png used on input line 165.
 (pdftex.def)             Requested size: 227.63342pt x 132.02737pt.
 
-<graphics/cardatatablentry.png, id=1824, 659.46375pt x 42.1575pt>
+<graphics/cardatatablentry.png, id=1829, 659.46375pt x 42.1575pt>
 File: graphics/cardatatablentry.png Graphic file (type png)
 
 <use graphics/cardatatablentry.png>
 Package pdftex.def Info: graphics/cardatatablentry.png used on input line 173.
 (pdftex.def)             Requested size: 411.95251pt x 26.33484pt.
- [96 <./graphics/cardatatable.png> <./graphics/cardatatablentry.png>]
-<graphics/userdatatable.png, id=1831, 355.3275pt x 89.33376pt>
+ [97 <./graphics/cardatatable.png> <./graphics/cardatatablentry.png>]
+<graphics/userdatatable.png, id=1835, 355.3275pt x 89.33376pt>
 File: graphics/userdatatable.png Graphic file (type png)
 
 <use graphics/userdatatable.png>
 Package pdftex.def Info: graphics/userdatatable.png used on input line 181.
 (pdftex.def)             Requested size: 284.53346pt x 71.53525pt.
 
-<graphics/userdatatableentry.png, id=1832, 623.32875pt x 43.16125pt>
+<graphics/userdatatableentry.png, id=1836, 623.32875pt x 43.16125pt>
 File: graphics/userdatatableentry.png Graphic file (type png)
 
 <use graphics/userdatatableentry.png>
 Package pdftex.def Info: graphics/userdatatableentry.png used on input line 187
 .
 (pdftex.def)             Requested size: 411.94038pt x 28.52403pt.
- [97 <./graphics/userdatatable.png> <./graphics/userdatatableentry.png>]
-<graphics/webservice.png, id=1837, 438.63875pt x 137.51375pt>
+ [98 <./graphics/userdatatable.png> <./graphics/userdatatableentry.png>]
+<graphics/webservice.png, id=1841, 438.63875pt x 137.51375pt>
 File: graphics/webservice.png Graphic file (type png)
 
 <use graphics/webservice.png>
@@ -2283,12 +2281,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 194--204
 
  []
 
-[98 <./graphics/webservice.png>])
+[99 <./graphics/webservice.png>])
 \openout2 = `tex/chapter8.aux'.
 
  (./tex/chapter8.tex
 Chapter 8.
-[99
+[100
 
 
 
@@ -2312,14 +2310,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--11
 
  []
 
-[100
+[101
 
 
 
 ])
 No file Diplomarbeit_KOPG_TGM.acr.
 No file Diplomarbeit_KOPG_TGM.acr.
-[101
+[102
 
 
 ] (./Diplomarbeit_KOPG_TGM.bbl
@@ -2354,7 +2352,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 50--53
 ** WARNING: IEEEtranS.bst: No hyphenation pattern has been
 ** loaded for the language `English'. Using the pattern for
 ** the default language instead.
-[102
+[103
 
 
 ]
@@ -2375,7 +2373,7 @@ hine-[]architecture-[]and-[]the-[]dalvik-[]vm/$[][] |
 ** WARNING: IEEEtranS.bst: No hyphenation pattern has been
 ** loaded for the language `English'. Using the pattern for
 ** the default language instead.
-[103]
+[104]
 Underfull \hbox (badness 1325) in paragraph at lines 204--207
 []\T1/DejaVuSansMono/m/n/12 system cen-ter. (2014) Azure overview. [On-line]. A
 vail-
@@ -2395,7 +2393,7 @@ ginia . edu / ~cs201 / labs /
 
 )
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 326.
- [104]
+ [105]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 326.
  (./Diplomarbeit_KOPG_TGM.aux (./tex/title.aux) (./tex/eid.aux)
 (./tex/prefacea.aux) (./tex/abstracta.aux) (./tex/kurzzfsg.aux)
@@ -2419,13 +2417,13 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 15070 strings out of 493307
- 211483 string characters out of 6139905
- 417095 words of memory out of 5000000
+ 15071 strings out of 493307
+ 211491 string characters out of 6139905
+ 417101 words of memory out of 5000000
  17016 multiletter control sequences out of 15000+600000
  22137 words of font info for 50 fonts, out of 8000000 for 9000
  971 hyphenation exceptions out of 8191
- 46i,7n,76p,1473b,2088s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 46i,7n,76p,1473b,2039s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/
 type1/public/cm-super/sfbx1200.pfb></usr/share/texmf/fonts/type1/public/cm-supe
@@ -2438,10 +2436,10 @@ pe1/public/cm-super/sfss1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/
 sfss1728.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss2488.pfb></usr/s
 hare/texmf/fonts/type1/public/cm-super/sfsx2074.pfb></usr/share/texmf/fonts/typ
 e1/public/cm-super/sfti1200.pfb>
-Output written on Diplomarbeit_KOPG_TGM.pdf (117 pages, 7678357 bytes).
+Output written on Diplomarbeit_KOPG_TGM.pdf (118 pages, 7676681 bytes).
 PDF statistics:
- 2204 PDF objects out of 2487 (max. 8388607)
- 1970 compressed objects within 20 object streams
- 1037 named destinations out of 1200 (max. 500000)
+ 2208 PDF objects out of 2487 (max. 8388607)
+ 1973 compressed objects within 20 object streams
+ 1038 named destinations out of 1200 (max. 500000)
  566 words of extra memory for PDF output out of 10000 (max. 10000000)
 
