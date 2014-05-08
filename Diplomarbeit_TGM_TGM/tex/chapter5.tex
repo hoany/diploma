@@ -112,7 +112,7 @@ In the section above we mentioned that we used html pages to create the view of 
 
 
 First javascript must be enabled:
-\begin{lstlisting}[language=java,captionpos=b, caption=??????]
+\begin{lstlisting}[language=java,captionpos=b, caption=Java-JavaScript communication]
 super.appView.getSettings().setJavaScriptEnabled(true);
 \end{lstlisting}
 
@@ -144,7 +144,7 @@ function trackClick() {
 
 
 Then add a JavaScript interface to the activity:
-\begin{lstlisting}[language=java, caption=?????, captionpos=b]
+\begin{lstlisting}[language=java, caption=JavaScript Android Interface, captionpos=b]
 super.addJavascriptInterface(new Object()
 {
 	public void performClick()
@@ -390,7 +390,7 @@ public void onTrackingEvent(TrackingValuesVector tV)
 }
 \end{lstlisting}
 \section{Get Email Account from an Android device}
-This product has  a small feature, it saves the email address from the smartphone and this email Address will be sent to the Navision Server. In this paragraph it describes how the project team implemented the feature in this Application.
+This product has  a small feature, it saves the email address from the smartphone and this email address will be sent to the NAV Server. In this paragraph it describes how the project team implemented the feature in this Application.
 Description \& Codesnippet:
 This method will be invoked by the method getmail. This method will be explained in the next row. The getAccount() method  filters the Google Accounts . This happened through the Method getAccountsByType('com.google');.
 Furthermore if the first object of the Account Array is bigger then the value of Account  it will be returned.
