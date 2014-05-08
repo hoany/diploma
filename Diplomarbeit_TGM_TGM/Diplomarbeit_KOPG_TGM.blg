@@ -1,4 +1,6 @@
-This is BibTeX, Version 0.99dThe top-level auxiliary file: Diplomarbeit_KOPG_TGM.aux
+This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: Diplomarbeit_KOPG_TGM.aux
 A level-1 auxiliary file: tex/title.aux
 A level-1 auxiliary file: tex/prefacea.aux
 A level-1 auxiliary file: tex/eid.aux
@@ -15,8 +17,50 @@ A level-1 auxiliary file: tex/chapter8.aux
 A level-1 auxiliary file: tex/chapter9.aux
 A level-1 auxiliary file: tex/chapter10.aux
 The style file: sty/IEEEtranS.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: tex/bib_file.bib
-Warning--I didn't find a database entry for "localstorageapi"
-Warning--I didn't find a database entry for "localstorageexample"
-Warning--I didn't find a database entry for "w3school"
-(There were 3 warnings)
+You've used 47 entries,
+            4483 wiz_defined-function locations,
+            1115 strings with 14187 characters,
+and the built_in function-call counts, 16213 in all, are:
+= -- 1295
+> -- 186
+< -- 0
++ -- 93
+- -- 46
+* -- 441
+:= -- 3142
+add.period$ -- 97
+call.type$ -- 47
+change.case$ -- 45
+chr.to.int$ -- 0
+cite$ -- 47
+duplicate$ -- 1271
+empty$ -- 1610
+format.name$ -- 46
+if$ -- 3425
+int.to.chr$ -- 0
+int.to.str$ -- 47
+missing$ -- 326
+newline$ -- 254
+num.names$ -- 47
+pop$ -- 1021
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 1310
+stack$ -- 0
+substring$ -- 0
+swap$ -- 789
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 47
+warning$ -- 0
+while$ -- 46
+width$ -- 49
+write$ -- 485

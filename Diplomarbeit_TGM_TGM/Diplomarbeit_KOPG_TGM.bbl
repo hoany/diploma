@@ -54,6 +54,19 @@ w3schools. (2014) \BIBforeignlanguage{English}{Ajax introduction, last
   \url{http://www.w3schools.com/ajax/ajax_intro.asp}
 \BIBentrySTDinterwordspacing
 
+\bibitem{localstorageapi}
+\BIBentryALTinterwordspacing
+P.~Fox. (May 28 2012) The localstorage api. [Online]. Available:
+  \url{http://www.drdobbs.com/web-development/the-localstorage-api/240000682}
+\BIBentrySTDinterwordspacing
+
+\bibitem{localstorageexample}
+\BIBentryALTinterwordspacing
+M.~Pilgrim. (2014) The past, present \& future of local storage for web
+  applications. [Online]. Available:
+  \url{http://diveintohtml5.info/storage.html}
+\BIBentrySTDinterwordspacing
+
 \bibitem{augmenteddef}
 \BIBentryALTinterwordspacing
 b2bsales@quinstreet.com. (2010) Augmented reality definition, last visited:
@@ -229,8 +242,7 @@ Microsoft. (2014) Microsoft dynamics nav, last visited:04.05.2014. [Online].
 
 \bibitem{webstorm}
 \BIBentryALTinterwordspacing
-WebStorm. (2014) Webstorm - the smartvisited:04.05.2014 , last
-  visited:04.05.2014. [Online]. Available:
+WebStorm. (2014) Webstorm - the smartest javascjava ide. [Online]. Available:
   \url{http://www.jetbrains.com/webstorm/}
 \BIBentrySTDinterwordspacing
 
@@ -239,6 +251,12 @@ WebStorm. (2014) Webstorm - the smartvisited:04.05.2014 , last
 M.~us/products/visual-studio-online-overview vs.aspx. (2014) Any app, any team
   , last vivisited:30.04.2014. [Online]. Available:
   \url{http://www.visualstudio.com/en-us/dn469161}
+\BIBentrySTDinterwordspacing
+
+\bibitem{w3school}
+\BIBentryALTinterwordspacing
+w3school. (2014) Html5 web storage. [Online]. Available:
+  \url{http://www.w3schools.com/html/html5_webstorage.asp}
 \BIBentrySTDinterwordspacing
 
 \bibitem{androidDevTut}
