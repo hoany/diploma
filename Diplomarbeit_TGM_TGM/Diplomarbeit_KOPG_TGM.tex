@@ -36,6 +36,7 @@
 \usepackage{float}
 \usepackage{titlesec}
 \usepackage {ulem}
+\usepackage{pdfpages}
 %\input{tex/acronyms}
 %%-----------------------------------------------------------------------
 % Using the Hyperref-Package for PDF-Online Version
@@ -65,7 +66,8 @@
 	breaklines=false,                 % sets automatic line breaking
 	stringstyle=\color{red},     % string literal style
 	rulecolor=\color{black},         % if not set, the frame-color may be changed on line-breaks within not-black text (e.g. comments (green here))
-	keywordstyle=\color{blue}       % keyword style
+	keywordstyle=\color{blue},       % keyword style
+	frame=single       % code frame
 }
 %%-----------------------------------------------------------------------
 % Rearranging Nomenclature
@@ -290,6 +292,8 @@
 \include{tex/chapter7}%
 \include{tex/chapter8}%
 \include{tex/chapter9}%
+\include{tex/chapter10}
+
 
 
 \addcontentsline{toc}{chapter}{Glossary} 

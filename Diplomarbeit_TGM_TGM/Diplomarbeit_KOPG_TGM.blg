@@ -1,11 +1,9 @@
-This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
-Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
-The top-level auxiliary file: Diplomarbeit_KOPG_TGM.aux
+This is BibTeX, Version 0.99dThe top-level auxiliary file: Diplomarbeit_KOPG_TGM.aux
 A level-1 auxiliary file: tex/title.aux
 A level-1 auxiliary file: tex/prefacea.aux
+A level-1 auxiliary file: tex/eid.aux
 A level-1 auxiliary file: tex/abstracta.aux
 A level-1 auxiliary file: tex/kurzzfsg.aux
-A level-1 auxiliary file: tex/nomenclature.aux
 A level-1 auxiliary file: tex/chapter1.aux
 A level-1 auxiliary file: tex/chapter2.aux
 A level-1 auxiliary file: tex/chapter3.aux
@@ -15,56 +13,10 @@ A level-1 auxiliary file: tex/chapter6.aux
 A level-1 auxiliary file: tex/chapter7.aux
 A level-1 auxiliary file: tex/chapter8.aux
 A level-1 auxiliary file: tex/chapter9.aux
+A level-1 auxiliary file: tex/chapter10.aux
 The style file: sty/IEEEtranS.bst
-A level-1 auxiliary file: tex/eid.aux
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
-Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: tex/bib_file.bib
 Warning--I didn't find a database entry for "localstorageapi"
 Warning--I didn't find a database entry for "localstorageexample"
 Warning--I didn't find a database entry for "w3school"
-You've used 43 entries,
-            4483 wiz_defined-function locations,
-            1090 strings with 12727 characters,
-and the built_in function-call counts, 14066 in all, are:
-= -- 1060
-> -- 161
-< -- 0
-+ -- 82
-- -- 39
-* -- 367
-:= -- 2680
-add.period$ -- 81
-call.type$ -- 43
-change.case$ -- 34
-chr.to.int$ -- 0
-cite$ -- 43
-duplicate$ -- 1133
-empty$ -- 1437
-format.name$ -- 39
-if$ -- 2966
-int.to.chr$ -- 0
-int.to.str$ -- 43
-missing$ -- 295
-newline$ -- 234
-num.names$ -- 40
-pop$ -- 967
-preamble$ -- 1
-purify$ -- 0
-quote$ -- 0
-skip$ -- 1111
-stack$ -- 0
-substring$ -- 0
-swap$ -- 658
-text.length$ -- 0
-text.prefix$ -- 0
-top$ -- 0
-type$ -- 43
-warning$ -- 0
-while$ -- 39
-width$ -- 45
-write$ -- 425
 (There were 3 warnings)

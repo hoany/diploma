@@ -23,56 +23,41 @@
 
 \bibitem{ARpad}
 \BIBentryALTinterwordspacing
-Arpad. [Online]. Available: \url{http://www.emilyedu.info/2014/03/}
+Google. (2012) Arpad , last visited:04.05.2014. [Online]. Available:
+  \url{http://www.emilyedu.info/2014/03/}
 \BIBentrySTDinterwordspacing
 
 \bibitem{glasses01}
 \BIBentryALTinterwordspacing
-C.~Janssen. Glassesbild und text. [Online]. Available:
+C.~Janssen. (2008) Glassespcture with description, last visited:04.05.2014.
+  [Online]. Available:
   \url{http://www.digitaltrends.com/mobile/entitled-acting-tech-nerd-kicks-google-glass-ban-controversy/
   http://www.techopedia.com/definition/28524/google-glass}
 \BIBentrySTDinterwordspacing
 
 \bibitem{glassesPic}
 \BIBentryALTinterwordspacing
- [Online]. Available:
+G.~Inc. (2014) Glasses, last visited:04.05.2014. [Online]. Available:
   \url{http://www.glassappsource.com/google-glass-features/secret-features-google-glass.html}
 \BIBentrySTDinterwordspacing
 
 \bibitem{smartcar}
 \BIBentryALTinterwordspacing
- [Online]. Available:
+Blog.lt. (2014) Smart car, last visited:04.05.2014. [Online]. Available:
   \url{https://blogs.lt.vt.edu/jdschmitt2/augmented-reality-what-will-the-future-hold/}
-\BIBentrySTDinterwordspacing
-
-\bibitem{javaObjectClass}
-\BIBentryALTinterwordspacing
-Mozilla. (2014) Java object model. [Online]. Available:
-  \url{https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Details_of_the_Object_Model#Class-Based_vs._Prototype-Based_Language}
-\BIBentrySTDinterwordspacing
-
-\bibitem{javaJVM}
-\BIBentryALTinterwordspacing
-S.~H. Park. (2012) Understanding jvm internals. [Online]. Available:
-  \url{http://www.cubrid.org/blog/dev-platform/understanding-jvm-internals/}
-\BIBentrySTDinterwordspacing
-
-\bibitem{javaDataAreas}
-\BIBentryALTinterwordspacing
-R.~Wang. (2013) java run time data aarea 2. [Online]. Available:
-  \url{http://java.dzone.com/articles/jvm-run-time-data-areas}
 \BIBentrySTDinterwordspacing
 
 \bibitem{ajax}
 \BIBentryALTinterwordspacing
-w3schools. (2014) \BIBforeignlanguage{English}{Ajax introduction}. online.
-  W3Schools. [Online]. Available:
+w3schools. (2014) \BIBforeignlanguage{English}{Ajax introduction, last
+  vivisited:30.04.2014}. online. W3Schools. [Online]. Available:
   \url{http://www.w3schools.com/ajax/ajax_intro.asp}
 \BIBentrySTDinterwordspacing
 
 \bibitem{augmenteddef}
 \BIBentryALTinterwordspacing
-b2bsales@quinstreet.com. Augmented reality definition. [Online]. Available:
+b2bsales@quinstreet.com. (2010) Augmented reality definition, last visited:
+  04.05.2014. [Online]. Available:
   \url{http://www.webopedia.com/TERM/A/Augmented_Reality.html}
 \BIBentrySTDinterwordspacing
 
@@ -82,19 +67,20 @@ R.~Sood, \emph{Pro Android Augmented Reality}, S.~Anglin, Ed.\hskip 1em plus
 
 \bibitem{Tango}
 \BIBentryALTinterwordspacing
-Google. (2012) Project tango. [Online]. Available:
+Google. (2012) Project tango, last visited:04.05.2014. [Online]. Available:
   \url{https://www.google.com/atap/projecttango/}
 \BIBentrySTDinterwordspacing
 
 \bibitem{functionsglasses}
 \BIBentryALTinterwordspacing
-T.~T.~O. INDIA. [Online]. Available:
+T.~T.~O. INDIA. (2010) Google glasses functions, last visited: 04.05.2014.
+  [Online]. Available:
   \url{http://timesofindia.indiatimes.com/tech/slideshow/googleglass/Translate/itslideshow/18609226.cms}
 \BIBentrySTDinterwordspacing
 
 \bibitem{JavaWhat}
 \BIBentryALTinterwordspacing
-Oracle. (2014) What is java. [Online]. Available:
+Oracle. (2014) What is java, last visited:14.04.2014. [Online]. Available:
   \url{https://www.java.com/en/download/faq/whatis_java.xml}
 \BIBentrySTDinterwordspacing
 
@@ -106,32 +92,48 @@ Oracle. (2014) What is java. [Online]. Available:
 
 \bibitem{progLangPop}
 \BIBentryALTinterwordspacing
-langpop. (2014) prgramm languages popularity. [Online]. Available:
-  \url{http://www.langpop.com/}
+langpop. (2014) prgramm languages popularity, last visited:20.04.2014.
+  [Online]. Available: \url{http://www.langpop.com/}
 \BIBentrySTDinterwordspacing
 
 \bibitem{javaOBjectOracle}
 \BIBentryALTinterwordspacing
-Oracle. (2014) Java object oriented programming. [Online]. Available:
+Oracle. (2014) Java object oriented programming, last visited:20.04.2014.
+  [Online]. Available:
   \url{http://docs.oracle.com/javase/tutorial/java/concepts/}
+\BIBentrySTDinterwordspacing
+
+\bibitem{javaObjectClass}
+\BIBentryALTinterwordspacing
+Mozilla. (2014) Java object model, last visited:20.04.2014. [Online].
+  Available:
+  \url{https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Details_of_the_Object_Model#Class-Based_vs._Prototype-Based_Language}
 \BIBentrySTDinterwordspacing
 
 \bibitem{javaAbstractVsInterface}
 \BIBentryALTinterwordspacing
-D.~Desert. (2012) Java abstract vs interface. [Online]. Available:
+D.~Desert. (2012) Java abstract, last visited:20.04.2014. [Online]. Available:
   \url{http://stackoverflow.com/questions/10040069/abstract-class-vs-interface-in-java}
 \BIBentrySTDinterwordspacing
 
 \bibitem{javaPerfromance}
 \BIBentryALTinterwordspacing
-B.~Evans. (2013) java performance. [Online]. Available:
-  \url{http://www.infoq.com/articles/9_Fallacies_Java_Performance}
+B.~Evans. (2013) java performance, last visited:20.04.2014. [Online].
+  Available: \url{http://www.infoq.com/articles/9_Fallacies_Java_Performance}
+\BIBentrySTDinterwordspacing
+
+\bibitem{javaJVM}
+\BIBentryALTinterwordspacing
+S.~H. Park. (2012) Understanding jvm internals, last visited:14.04.2014.
+  [Online]. Available:
+  \url{http://www.cubrid.org/blog/dev-platform/understanding-jvm-internals/}
 \BIBentrySTDinterwordspacing
 
 \bibitem{stackBased_vs_registerBased}
 \BIBentryALTinterwordspacing
-K.~Stern. (2012) Stack based cpu vs register based. [Online]. Available:
-  \url{http://markfaction.wordpress.com/2012/07/15/stack-based-vs-register-based-virtual-machine-architecture-and-the-dalvik-vm/}
+K.~Stern. (2012) Stack based cpu vs register based, last visited:14.04.2014.
+  [Online]. Available:
+  \url{http://markfaction.wordpress.com/2012/07/15/stack-based-vs-register-based-virtual-machine-architecture}
 \BIBentrySTDinterwordspacing
 
 \bibitem{javaGarbageCollector}
@@ -142,136 +144,161 @@ K.~Stern. (2012) Stack based cpu vs register based. [Online]. Available:
 
 \bibitem{javaVMOracle}
 \BIBentryALTinterwordspacing
-OracleInc. (2014) Java jvm oracle. [Online]. Available:
+OracleInc. (2014) Java jvm oracle, last visited:16.04.2014. [Online].
+  Available:
   \url{http://docs.oracle.com/javase/specs/jvms/se7/html/jvms-2.html}
 \BIBentrySTDinterwordspacing
 
 \bibitem{javaVMPaper}
 \BIBentryALTinterwordspacing
-J.~papers. (2013) Java jvm run-time data areas. [Online]. Available:
+J.~papers. (2013) Java jvm run-time data areas, last visited:19.04.2014.
+  [Online]. Available:
   \url{http://javapapers.com/core-java/java-jvm-run-time-data-areas/}
 \BIBentrySTDinterwordspacing
 
 \bibitem{javaVmstover}
 \BIBentryALTinterwordspacing
-Axtavt. (2012) Java constant pool. [Online]. Available:
+Axtavt. (2012) Java constant pool, last visited:19.04.2014. [Online].
+  Available:
   \url{http://stackoverflow.com/questions/10209952/java-constant-pool}
 \BIBentrySTDinterwordspacing
 
 \bibitem{javaJarMargaret}
 \BIBentryALTinterwordspacing
-M.~Rouse. (2005) Java jar archive. [Online]. Available:
+M.~Rouse. (2005) Java jar archive, last visited:20.04.2014. [Online].
+  Available:
   \url{http://searchdatamanagement.techtarget.com/definition/JAR-file}
 \BIBentrySTDinterwordspacing
 
 \bibitem{javascript}
 \BIBentryALTinterwordspacing
-About.com. [Online]. Available:
+About.com. (2012) Javascript, last visited: 04.05.2014. [Online]. Available:
   \url{http://javascript.about.com/od/reference/p/javascript.htm}
 \BIBentrySTDinterwordspacing
 
 \bibitem{html5}
 \BIBentryALTinterwordspacing
-W3Schools. [Online]. Available:
+W3Schools. (2012) Html5, last visited:04.05.2014. [Online]. Available:
   \url{http://www.w3schools.com/html/html5_intro.asp}
 \BIBentrySTDinterwordspacing
 
 \bibitem{CSS3}
 \BIBentryALTinterwordspacing
-W3Schools. [Online]. Available: \url{www.w3schools.com/css/css3_intro.asp}
+W3Schools. (2012) Css3 , last visited:04.05.2014. [Online]. Available:
+  \url{www.w3schools.com/css/css3_intro.asp}
 \BIBentrySTDinterwordspacing
 
 \bibitem{xml}
 \BIBentryALTinterwordspacing
-w3. (2013, 10) \BIBforeignlanguage{English}{Extensible markup language (xml)}.
+w3. (2013, 10) \BIBforeignlanguage{English}{Xml, last visited:30.04.2014}.
   online. W3C. [Online]. Available: \url{http://www.w3.org/XML/}
 \BIBentrySTDinterwordspacing
 
 \bibitem{xmlHttp}
 \BIBentryALTinterwordspacing
-w3schools. (2014) \BIBforeignlanguage{English}{The xmlhttprequest object}.
+w3schools. (2014) \BIBforeignlanguage{English}{Xml, last visited30.04.2014}.
   online. W3Schools. [Online]. Available:
   \url{http://www.w3schools.com/xml/xml_http.asp}
 \BIBentrySTDinterwordspacing
 
 \bibitem{azure}
 \BIBentryALTinterwordspacing
-Microsoft. (2014) What is azure? [Online]. Available: \url{30.04.2014}
+Microsoft. (2014) What is azure?, last visited:30.04.2014. [Online]. Available:
+  \url{http://www.azure.microsoft.com/en-us/overview/what-is-azure/}
 \BIBentrySTDinterwordspacing
 
 \bibitem{azureOver}
 \BIBentryALTinterwordspacing
-system center. (2014) Azure overview. [Online]. Available:
+system center. (2014) Azure overview, last visited:04.05.2014. [Online].
+  Available:
   \url{http://www.system-center.fr/wp-content/uploads/2012/10/how_it_works_slide_3-Azure.jpg}
 \BIBentrySTDinterwordspacing
 
 \bibitem{sqlserver}
 \BIBentryALTinterwordspacing
-Microsoft. (2014) Sql server. [Online]. Available:
+Microsoft. (2014) Sql server, last visited:04.05.2014. [Online]. Available:
   \url{https://www.microsoft.com/sql}
 \BIBentrySTDinterwordspacing
 
 \bibitem{navOver}
 \BIBentryALTinterwordspacing
-Microsoft. (2014) Microsoft dynamics nav. [Online]. Available:
+Microsoft. (2014) Microsoft dynamics nav, last visited:04.05.2014. [Online].
+  Available:
   \url{http://www.microsoft.com/en-us/dynamics/erp-nav-overview.aspx}
 \BIBentrySTDinterwordspacing
 
 \bibitem{webstorm}
 \BIBentryALTinterwordspacing
-WebStorm. (2014) Webstorm - the smartest javascjava ide. [Online]. Available:
+WebStorm. (2014) Webstorm - the smartvisited:04.05.2014 , last
+  visited:04.05.2014. [Online]. Available:
   \url{http://www.jetbrains.com/webstorm/}
 \BIBentrySTDinterwordspacing
 
 \bibitem{vstudio1}
 \BIBentryALTinterwordspacing
-M.~us/products/visual-studio-online-overview vs.aspx. (2014) Any app, any team.
-  [Online]. Available: \url{http://www.visualstudio.com/en-us/dn469161}
+M.~us/products/visual-studio-online-overview vs.aspx. (2014) Any app, any team
+  , last vivisited:30.04.2014. [Online]. Available:
+  \url{http://www.visualstudio.com/en-us/dn469161}
 \BIBentrySTDinterwordspacing
 
 \bibitem{androidDevTut}
 \BIBentryALTinterwordspacing
-L.~Vogel. (2013) Android development tutorial. [Online]. Available:
+L.~Vogel. (2013) Android development tutorial, last visited:19.04.2014.
+  [Online]. Available:
   \url{http://www.cs.virginia.edu/~cs201/labs/Vogella-Android-Development-Tutorial.pdf}
 \BIBentrySTDinterwordspacing
 
 \bibitem{androidWebView}
 \BIBentryALTinterwordspacing
-Google. (2014) Andoird web view. [Online]. Available:
+Google. (2014) Andoird web view, last visited:19.04.2014. [Online]. Available:
   \url{http://developer.android.com/guide/webapps/webview.html}
 \BIBentrySTDinterwordspacing
 
 \bibitem{androidManifest}
 \BIBentryALTinterwordspacing
-Google. (2014) Android manifest. [Online]. Available:
+Google. (2014) Android manifest, last visited:19.04.2014. [Online]. Available:
   \url{http://developer.android.com/guide/topics/manifest/manifest-intro.html}
 \BIBentrySTDinterwordspacing
 
 \bibitem{augmentedRealitySDk}
 \BIBentryALTinterwordspacing
-newdigimarketing. (2014) Augmented reality sdks. [Online]. Available:
+newdigimarketing. (2014) Augmented reality sdks, last visited:19.04.2014.
+  [Online]. Available:
   \url{http://augmentedrealitynews.org/ar-sdk/top-5-augmented-reality-sdks/}
 \BIBentrySTDinterwordspacing
 
 \bibitem{metaioToolBox}
 \BIBentryALTinterwordspacing
-Metaio. (2014) Metaio toolbox. [Online]. Available:
+Metaio. (2014) Metaio toolbox, last visited:19.04.2014. [Online]. Available:
   \url{https://dev.metaio.com/sdk/toolbox/}
 \BIBentrySTDinterwordspacing
 
 \bibitem{andoirdAsyncTask}
 \BIBentryALTinterwordspacing
-Google. (2014) Andriod async task. [Online]. Available:
+Google. (2014) Androidtask, last visited:19.04.2014. [Online]. Available:
   \url{http://developer.android.com/reference/android/os/AsyncTask.html}
 \BIBentrySTDinterwordspacing
 
 \bibitem{Panel}
 \BIBentryALTinterwordspacing
-jQueryMobile. [Online]. Available:
-  \url{http://demos.jquerymobile.com/1.3.0-beta.1/docs/panels/}
+jQueryMobile. (2011) jquery mobile, last visited: 05.05.2014. [Online].
+  Available: \url{http://demos.jquerymobile.com/1.3.0-beta.1/docs/panels/}
 \BIBentrySTDinterwordspacing
 
 \bibitem{jqueryVideo}
 J.~Moore.
+
+\bibitem{metaioPlatforms}
+\BIBentryALTinterwordspacing
+Metaio. (2014) App creation with the metaio sdk, last visited:07.05.2014.
+  [Online]. Available: \url{http://dev.metaio.com/sdk/getting-started/}
+\BIBentrySTDinterwordspacing
+
+\bibitem{metaioGlass}
+\BIBentryALTinterwordspacing
+Metaio. (2014) Run metaio sdk on google glass, last visited:07.05.2014.
+  [Online]. Available:
+  \url{http://dev.metaio.com/sdk/tutorials/run-metaio-sdk-on-google-glasstm/}
+\BIBentrySTDinterwordspacing
 
 \end{thebibliography}
