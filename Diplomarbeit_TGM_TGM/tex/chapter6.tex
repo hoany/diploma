@@ -3,7 +3,7 @@
 \chapter{Design Concept} \label{chapter:desgin}
 
 \section{Design concept with JQuery Mobile Framework}
-In this chapter it will be explained how the project NAVAR used the jQuery Mobile Framework,CSS3 and HTML5 to create the user Interface of the APP NAVAR. This chapter will describe how to use  the components of the JQuery mobile framework. The reason why the project NAVAR uses Javascript,HTML5,
+In this chapter it will be explained how the project NAVAR used the jQuery Mobile Framework,CSS3 and HTML5 to create the user Interface for the app NAVAR. This chapter will describe how to use  the components of the jQuery Mobile framework. The reason why the project NAVAR uses Javascript,HTML5,
 CSS3 and jQuery Mobile for the user interface is, that the design can be used for other platforms. This pictures shows how the app is built:
 \\\\
 \begin{figure}[htbp]
@@ -11,7 +11,7 @@ CSS3 and jQuery Mobile for the user interface is, that the design can be used fo
 \includegraphics[width=240pt,height=180pt,keepaspectratio]{graphics/AppStructure.PNG}
 \end{figure}
 \\\\
-The blue arrow shows the SDK of Metaio. The Metaio SDK will be explained in the chapter Implementation. Moreover, if Metaio GmbH creates a SDK for another platform, so it should be necessary to change the SDK and Java Components of this project NAVAR(green arrow). NAVAR was built with modularity. There is then no need to change something in the user interface because it can be used for every mobile platform.
+The blue arrow shows the SDK of Metaio. The Metaio SDK will be explained in the chapter "Implementation in Android " . Moreover, if Metaio GmbH creates a SDK for another platform, so it should be necessary to change the SDK and Java Components of this project NAVAR(green arrow). NAVAR was built with modularity. There is then no need to change something in the user interface because it can be used for every mobile platform.
 \\\\
 
 \subsubsection{jQuery Mobile Page}
@@ -85,7 +85,7 @@ Afterwards the project has List Items in the panel for a menu. The user can navi
 \end{figure}
 \clearpage
 
-The Panel has to defined in the header of jQuery Mobile page or as Button function. This  code snippet  shows how to do it. First all the Panel has to been defined with a id to get reference of it.
+The Panel has to be defined in the header of jQuery Mobile page or as Button function. This  code snippet  shows how to do it. First all the Panel has to been defined with a id to get reference of it.
 Codesnippet:
 \begin{lstlisting}[language=html,caption= Panel definition in Header,captionpos=b]
 <div data-role="header">
@@ -99,13 +99,13 @@ Codesnippet:
 s
 \end{lstlisting}
 \subsubsection{jQuery Mobile Table}
-JQuery Mobile Framework has the feature to create a table. In this project tables are very important, because the Information from the Navision Server will be list in a table. The following code snippet will show how it works :
+JQuery Mobile Framework has the feature to create a table. In this project tables are very important, because the Information from the NAV Server will be list in a table. The following code snippet will show how it works :
 \begin{figure}[H]
 \centering
 \includegraphics[width=1.0\linewidth]{graphics/Table.PNG}
 \caption{Table}
 \end{figure}
-shows the attribute data-role should have bee defined as 'table'(Blue Arrow).With the other attributes such as:
+The Figure shows the attribute data-role should have bee defined as 'table'(Blue Arrow).With the other attributes such as:
 Data--mode, data--column--popup--theme. With these attributes it is possible to define the appearance of the table.
 
 \newpage
