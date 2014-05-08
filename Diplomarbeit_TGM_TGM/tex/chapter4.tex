@@ -12,8 +12,6 @@ However, JavaScript and Android Java did not provide everything that has been ne
 
 
 \section{Display}
-This chapter describes the functionality behind each display of mobile application. 
-
 
 \subsection{Start Menu}
 The Start menu is displayed after the application was started. It provides user with several functions like help, car tracking, favourite list, about and exit. Basically it is the first thing that user sees and from there he navigates threw the whole application.
@@ -105,7 +103,7 @@ The back button leads to the main menu. Shown in listing 4.3.
 \begin{lstlisting}[language=html, caption= 
 Back button,captionpos=b]
 <a class="ui-btn-left" href="index.html" rel="external">
-	Back
+  Back
 </a>
 \end{lstlisting}
 \
@@ -126,7 +124,7 @@ Help video,captionpos=b]
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %New Chapter Main Menu
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\newpage
+
 \subsection{Main Menu}
 The most important function of the whole mobile applications is \textbf{car tracking}. This function is executed by \textit{MyTracking.peformClick()}. More in chapter 4.1)''Start Menu''.
 \\
@@ -145,9 +143,12 @@ JavaScript functions had to be created for each  of this options. These function
 \includegraphics[width=0.5\linewidth]{graphics/chapter4/3}
 \caption{Main Menu}
 \end{figure}
-\clearpage
 
-Listing 4.5 shows the function behind each button. Some buttons only link to another, other invoke specific functions like \textit{LocalStorageWriteId()}.\\
+
+Listing 4.5 shows the function behind each button. Some buttons only link to another, other invoke specific functions like \textit{LocalStorageWriteId()}.
+\\
+\newpage
+
 \begin{lstlisting}[language=html, caption= 
 Main menu source code,captionpos=b]	
 <li>
@@ -188,7 +189,7 @@ Main menu source code,captionpos=b]
      Add to my Favorites
   </a>
 \end{lstlisting}
-\newpage
+
 
 
 \subsubsection{Leasing Price}
@@ -219,7 +220,7 @@ By calling \textbf{technical information} facts about a specific car are present
 \newpage
 
 \subsubsection{Pictures}
-Has freshest pictures of the specific car. Feature called Photo Gallery in chapter ..... was used to create this option.
+Has freshest pictures of the specific car. Feature called Photo Gallery in chapter 4.3.3)''Photo Gallery'' was used to create this option.
 \\\\\\
 \begin{figure}[h]
 \centering
@@ -267,13 +268,11 @@ The button \textbf{Add to my Favourites} trigger the function \textit{LocalStora
 
 \begin{lstlisting}[language=html, caption= 
 add favourite sorce code,captionpos=b]
-<li>
-  <a id="add_favorite"onclick="LocalStorageWriteId
+<a id="add_favorite"onclick="LocalStorageWriteId
   (sessionStorage.getItem('id'),globalcarname);"
   style="color:red" rel="external">
     Add to my Favorites
-   </a>
-</li>
+</a>
 \end{lstlisting}
 \
 
@@ -414,7 +413,7 @@ This function saves start time and end time of the timer, into the NAV server. T
 %link to michaels chapter about the connection
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-To save the time into the server \textit{timestampsave()} needs several other information like email and id of the tracked car. More about sending information to the server and  to the connectivity between application and server read the chapter 7.0.3.4)''Communication from mobile device to the C App''.
+To save the time into the server \textit{timestampsave()} needs several other information like email and id of the tracked car. More about sending information to the server and  to the connectivity between application and server read the chapter 7.0.3.4)''Communication from mobile device to the C\# App''.
 \\
 
 time1.....start time
@@ -467,7 +466,7 @@ function setParam(){
 This function starts to track a car. For more explanation refer to chapter 5)'Implementation in Android Java and Metaio Tracking'.
 \\
 \newline
-\newline
+
 \begin{lstlisting}[language=html, caption= 
 Car tracking function,captionpos=b]
 function trackClick() {
@@ -615,9 +614,12 @@ Phase three,captionpos=b]
 var storedIds = JSON.parse(localStorage["favorites"]);
 var storedNames = JSON.parse(localStorage["fcarname"]);
 \end{lstlisting}
-\newpage
+
+
 Phase four checks if the car exists in the local storage. If it does the user receives information that this car already exists in the favourite list, else the id and car name is saved into the local storage.
 \\
+\newpage
+
 
 \begin{lstlisting}[language=html, caption= 
 Phase four,captionpos=b]
@@ -631,6 +633,7 @@ if(storedIds.indexOf(id)>-1){
   Notifier.success('Car has been added.');
 }
 \end{lstlisting}
+
 
 The listing 4.19 shows the hole function with its four phases.\\
 \begin{lstlisting}[language=html, caption= 
@@ -732,7 +735,7 @@ function EventHandler(){
 }
 \end{lstlisting}
 
-
+\newpage
 
 
 
@@ -756,8 +759,6 @@ function EventHandler(){
 \section{Features}
 Several new technologies were used to create the start menu. This chapter describes all those technologies. Some are linked to other chapters where they have already been explained. 
 \\
-
-\newpage
 \subsection{Local Storage}
 
 HTML5 provides us with a new feature called Web Storage. In other words, with it web pages can store data locally within the user's browser or mobile application.
@@ -811,7 +812,6 @@ start timer function,captionpos=b]
 var storedIds = JSON.parse(localStorage["favorites"]);
 \end{lstlisting}
 
-\newpage
 \subsection{Slide Panel}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %link to slide panel chapter
@@ -834,7 +834,9 @@ After opening the slide panel more options are available.
 \end{figure}
 
 Here has the user four new options. He can return to the start menu with the display \textbf{home} or he can accesses his profile with \textbf{profil}. Also he can start to track a new car with \textbf{camera}. If the user doesn't want use the mobile application any more, he can close it the button \textbf{exit}. 
+
 \newpage
+
 \begin{lstlisting}[language=html, caption=Source code of slide panel options,captionpos=b]
 <ul data-role="listview" data-theme="a">
   <li data-icon="home" >
