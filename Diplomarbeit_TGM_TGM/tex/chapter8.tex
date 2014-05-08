@@ -2,8 +2,26 @@
 \chapter{Future enhancements and possibilities} \label{chapter:Future enhancement and possibilities}
 
 The developed application can provide several possibilites for the future.
-\subsection{Support for iOS and Windows phones/tablets }
-The idea of the design of the application was to program platform independent as possible. The only platform dependent code is the code to access the Metaio SDK via Java. So it is possible to simply swap out the Java code with c code for the iOs operation system. It would be the same on Windows phones, however Metaio currently stopped developing the Metaio SDK for windows phones.
-\subsection{Other market segments}    
-The application was developed for the main purpose to display information from tracked cars.However the same code structure can be implied for several other market segments.For instance you could make a application which tracks food from a supermarket shelf and displays information about the product. Such as the name,nutrient content, price and custom offers.Another scenario could be shopping malls. In this approach the application could track clothes or toys and display information about them. These are just two examples to show the possibilities but there a lot more of them.    
+\subsection{Support for other platforms}
+The Metaio SDK is available for several platforms.  \\It currently supports:
+\begin{itemize}
+\item Android
+\item iOS
+\item Windows(PC)
+\item Unity
+\end{itemize}
+ \cite{metaioPlatforms} 
+        \\
+        \\
+As described in chapter 6 ''Design Concept'' the application was implemented to be platform independent as possible.To run the application on another platform it is only necessary to swap the dependent Java code which access the Metaio SDK.For example it is possible to change the dependent code with C code to provide an app for the platform iOS. 
+
+
+\newpage
+\subsection{Support for Google Glass}
+The Metaio SDK provides support for Google Glass if the operation system is Android with the version 4.4.2 .\cite{metaioGlass}\\
+If the mobile app will be adapted to Google Glass in the future the user controls need to be updated. It is necessary because the current application  uses the touchscreen of the mobile phone  for user input and Google Glass uses speech recognition. Speech recognition is a technology to translate spoken words into text.    
+More information about Google Glass can be found in  chapter 1 ''Google Glasses''.   
+\subsection{Real estate}
+The application currently is used to track cars.However Metaio also provides the functionality to track objects with the size of a building. Another enhancement for the future could be to track buildings instead of a car.In this scenario the application is for the real estate market.So every person who walks by a property can simply put there mobile phone out and track the building to get information. Such as the price, number of rooms and so on.    
+  
 \newpage

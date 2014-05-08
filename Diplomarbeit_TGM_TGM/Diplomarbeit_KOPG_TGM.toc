@@ -1,4 +1,5 @@
 \contentsline {chapter}{List of Figures}{ix}{chapter*.5}
+\contentsline {chapter}{Listings}{xi}{chapter*.5}
 \contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
 \contentsline {section}{\numberline {1.1}General}{1}{section.1.1}
 \contentsline {section}{\numberline {1.2}Augmented Reality}{2}{section.1.2}
@@ -24,129 +25,125 @@
 \contentsline {subsubsection}{\numberline {1.2.6.4}Movies}{11}{subsubsection.1.2.6.4}
 \contentsline {subsubsection}{\numberline {1.2.6.5}Gesture Control}{11}{subsubsection.1.2.6.5}
 \contentsline {subsection}{\numberline {1.2.7}Summary}{11}{subsection.1.2.7}
-\contentsline {chapter}{\hbox to\@tempdima {\hfil }List of symbols}{1}{chapter*.6}
-\contentsline {chapter}{\numberline {2}Theoretical Basics}{13}{chapter.2}
-\contentsline {section}{\numberline {2.1}Java}{13}{section.2.1}
-\contentsline {subsection}{\numberline {2.1.1}What is Java}{13}{subsection.2.1.1}
-\contentsline {subsection}{\numberline {2.1.2}Class Based \& Object Oriented}{13}{subsection.2.1.2}
-\contentsline {subsection}{\numberline {2.1.3}Design Patterns}{15}{subsection.2.1.3}
-\contentsline {subsection}{\numberline {2.1.4}Performance}{15}{subsection.2.1.4}
-\contentsline {subsection}{\numberline {2.1.5}JVM}{15}{subsection.2.1.5}
-\contentsline {subsection}{\numberline {2.1.6}Java bytecode}{16}{subsection.2.1.6}
-\contentsline {subsection}{\numberline {2.1.7}Java Code Execution Process}{16}{subsection.2.1.7}
-\contentsline {subsubsection}{\numberline {2.1.7.1}Class Loader}{17}{subsubsection.2.1.7.1}
-\contentsline {subsubsection}{\numberline {2.1.7.2}Runtime Data Areas}{17}{subsubsection.2.1.7.2}
-\contentsline {subsubsection}{\numberline {2.1.7.3}Execution Engine}{20}{subsubsection.2.1.7.3}
-\contentsline {subsection}{\numberline {2.1.8}.JAR File}{20}{subsection.2.1.8}
-\contentsline {subsubsection}{\numberline {2.1.8.1}Executable JAR }{20}{subsubsection.2.1.8.1}
-\contentsline {section}{\numberline {2.2}JavaScript, HTML5,CSS3}{20}{section.2.2}
-\contentsline {subsection}{\numberline {2.2.1}JavaScript}{20}{subsection.2.2.1}
-\contentsline {subsection}{\numberline {2.2.2}HTML5}{20}{subsection.2.2.2}
-\contentsline {subsection}{\numberline {2.2.3}CSS3}{21}{subsection.2.2.3}
-\contentsline {section}{\numberline {2.3}jQuery Mobile}{22}{section.2.3}
-\contentsline {section}{\numberline {2.4}Ajax}{22}{section.2.4}
-\contentsline {subsection}{\numberline {2.4.1}XML}{23}{subsection.2.4.1}
-\contentsline {subsection}{\numberline {2.4.2}XMLHttpRequest}{23}{subsection.2.4.2}
-\contentsline {subsection}{\numberline {2.4.3}How does Ajax work?}{24}{subsection.2.4.3}
-\contentsline {section}{\numberline {2.5}Windows Azure}{24}{section.2.5}
-\contentsline {subsection}{\numberline {2.5.1}Overview}{24}{subsection.2.5.1}
-\contentsline {section}{\numberline {2.6}Microsoft SQL Server}{25}{section.2.6}
-\contentsline {subsection}{\numberline {2.6.1}Program Overview}{26}{subsection.2.6.1}
-\contentsline {section}{\numberline {2.7}Microsoft Dynamics Navision}{27}{section.2.7}
-\contentsline {subsection}{\numberline {2.7.1}Program Overview}{27}{subsection.2.7.1}
-\contentsline {subsection}{\numberline {2.7.2}Data structure}{28}{subsection.2.7.2}
-\contentsline {subsubsection}{\numberline {2.7.2.1}Tables}{28}{subsubsection.2.7.2.1}
-\contentsline {subsubsection}{\numberline {2.7.2.2}Pages}{29}{subsubsection.2.7.2.2}
-\contentsline {chapter}{\numberline {3}Integrated Development Environment}{31}{chapter.3}
-\contentsline {section}{\numberline {3.1}Andorid SDK Eclipse}{31}{section.3.1}
-\contentsline {subsection}{\numberline {3.1.1}Eclipse Workbench}{31}{subsection.3.1.1}
-\contentsline {subsection}{\numberline {3.1.2}Android SDK}{32}{subsection.3.1.2}
-\contentsline {section}{\numberline {3.2}JetBrains WebStorm}{33}{section.3.2}
-\contentsline {subsection}{\numberline {3.2.1}Overview}{33}{subsection.3.2.1}
-\contentsline {subsection}{\numberline {3.2.2}Features}{33}{subsection.3.2.2}
-\contentsline {section}{\numberline {3.3}Visual Studio}{35}{section.3.3}
-\contentsline {subsection}{\numberline {3.3.1}Visual Studio 2013}{35}{subsection.3.3.1}
-\contentsline {chapter}{\numberline {4}Logic Implementation with JavaScript}{37}{chapter.4}
-\contentsline {section}{\numberline {4.1}Start Menu}{37}{section.4.1}
-\contentsline {section}{\numberline {4.2}Help}{39}{section.4.2}
-\contentsline {section}{\numberline {4.3}Start Menu}{40}{section.4.3}
-\contentsline {subsection}{\numberline {4.3.1}JavaScript Functions}{41}{subsection.4.3.1}
-\contentsline {subsubsection}{\numberline {4.3.1.1}Start timer}{41}{subsubsection.4.3.1.1}
-\contentsline {subsubsection}{\numberline {4.3.1.2}End timer}{41}{subsubsection.4.3.1.2}
-\contentsline {subsubsection}{\numberline {4.3.1.3}Save the time}{42}{subsubsection.4.3.1.3}
-\contentsline {subsubsection}{\numberline {4.3.1.4}Set parameters}{43}{subsubsection.4.3.1.4}
-\contentsline {subsubsection}{\numberline {4.3.1.5}Start car tracking}{43}{subsubsection.4.3.1.5}
-\contentsline {subsubsection}{\numberline {4.3.1.6}Review}{43}{subsubsection.4.3.1.6}
-\contentsline {subsubsection}{\numberline {4.3.1.7}Turn off}{43}{subsubsection.4.3.1.7}
-\contentsline {subsubsection}{\numberline {4.3.1.8}Home}{44}{subsubsection.4.3.1.8}
-\contentsline {subsubsection}{\numberline {4.3.1.9}Read car name}{44}{subsubsection.4.3.1.9}
-\contentsline {subsubsection}{\numberline {4.3.1.10}Save email}{44}{subsubsection.4.3.1.10}
-\contentsline {subsubsection}{\numberline {4.3.1.11}Save car}{45}{subsubsection.4.3.1.11}
-\contentsline {subsection}{\numberline {4.3.2}Used Functionalities}{47}{subsection.4.3.2}
-\contentsline {subsubsection}{\numberline {4.3.2.1}Session Storage}{47}{subsubsection.4.3.2.1}
-\contentsline {subsubsection}{\numberline {4.3.2.2}Local Storage}{47}{subsubsection.4.3.2.2}
-\contentsline {subsubsection}{\numberline {4.3.2.3}AJAX}{49}{subsubsection.4.3.2.3}
-\contentsline {subsection}{\numberline {4.3.3}GUI}{50}{subsection.4.3.3}
-\contentsline {subsubsection}{\numberline {4.3.3.1}Leasing Price}{50}{subsubsection.4.3.3.1}
-\contentsline {subsubsection}{\numberline {4.3.3.2}Technical Information}{51}{subsubsection.4.3.3.2}
-\contentsline {subsubsection}{\numberline {4.3.3.3}Pictures}{52}{subsubsection.4.3.3.3}
-\contentsline {subsubsection}{\numberline {4.3.3.4}Videos}{53}{subsubsection.4.3.3.4}
-\contentsline {subsubsection}{\numberline {4.3.3.5}Review}{54}{subsubsection.4.3.3.5}
-\contentsline {subsubsection}{\numberline {4.3.3.6}Get Favourites}{55}{subsubsection.4.3.3.6}
-\contentsline {subsubsection}{\numberline {4.3.3.7}Add to my Favourites}{56}{subsubsection.4.3.3.7}
-\contentsline {subsection}{\numberline {4.3.4}Slide Panel}{56}{subsection.4.3.4}
-\contentsline {section}{\numberline {4.4}My Favourites}{58}{section.4.4}
-\contentsline {subsection}{\numberline {4.4.1}Loading of favourite cars}{58}{subsection.4.4.1}
-\contentsline {subsection}{\numberline {4.4.2}JS Functions}{60}{subsection.4.4.2}
-\contentsline {subsubsection}{\numberline {4.4.2.1}Delete favourite car}{60}{subsubsection.4.4.2.1}
-\contentsline {subsubsection}{\numberline {4.4.2.2}Delete all favourite cars}{61}{subsubsection.4.4.2.2}
-\contentsline {subsubsection}{\numberline {4.4.2.3}Select favourite car}{61}{subsubsection.4.4.2.3}
-\contentsline {section}{\numberline {4.5}About}{62}{section.4.5}
-\contentsline {section}{\numberline {4.6}Photo Gallery}{62}{section.4.6}
-\contentsline {section}{\numberline {4.7}Sessionstorage}{63}{section.4.7}
-\contentsline {section}{\numberline {4.8}Dynamic Selection of Colour}{64}{section.4.8}
-\contentsline {chapter}{\numberline {5}Implementation in Android Java and Metaio Tracking}{67}{chapter.5}
-\contentsline {section}{\numberline {5.1}Android Platform}{67}{section.5.1}
-\contentsline {subsection}{\numberline {5.1.1}Android Operation System}{67}{subsection.5.1.1}
-\contentsline {subsection}{\numberline {5.1.2}Android user interface components}{67}{subsection.5.1.2}
-\contentsline {subsection}{\numberline {5.1.3}Develop an Android Application}{68}{subsection.5.1.3}
-\contentsline {subsection}{\numberline {5.1.4}Android Manifest}{68}{subsection.5.1.4}
-\contentsline {subsection}{\numberline {5.1.5}Creating an activity}{69}{subsection.5.1.5}
-\contentsline {subsection}{\numberline {5.1.6}Android web-view}{69}{subsection.5.1.6}
-\contentsline {subsection}{\numberline {5.1.7}Java JavaScript Communication}{69}{subsection.5.1.7}
-\contentsline {subsubsection}{\numberline {5.1.7.1}JavaScript Android Interface}{70}{subsubsection.5.1.7.1}
-\contentsline {section}{\numberline {5.2}Working with the Metaio SDK}{70}{section.5.2}
-\contentsline {subsection}{\numberline {5.2.1}Who is Metaio}{70}{subsection.5.2.1}
-\contentsline {subsection}{\numberline {5.2.2}Other Augmented Reality SDK's}{71}{subsection.5.2.2}
-\contentsline {subsection}{\numberline {5.2.3}Metaio Toolbox}{71}{subsection.5.2.3}
-\contentsline {subsection}{\numberline {5.2.4}AREL ( Augmented Reality Experience Language )}{72}{subsection.5.2.4}
-\contentsline {subsection}{\numberline {5.2.5}Tracking XML}{74}{subsection.5.2.5}
-\contentsline {subsection}{\numberline {5.2.6}Extracting the Tracking XML in Android}{75}{subsection.5.2.6}
-\contentsline {subsubsection}{\numberline {5.2.6.1}Loading the Tracking XML}{76}{subsubsection.5.2.6.1}
-\contentsline {section}{\numberline {5.3}Track Objects}{77}{section.5.3}
-\contentsline {section}{\numberline {5.4}Get Email Account from an Android device}{78}{section.5.4}
-\contentsline {chapter}{\numberline {6}Design Concept}{81}{chapter.6}
-\contentsline {section}{\numberline {6.1}Design concept with JQuery Mobile Framework}{81}{section.6.1}
-\contentsline {subsubsection}{\numberline {6.1.0.2}jQuery Mobile Page}{82}{subsubsection.6.1.0.2}
-\contentsline {subsubsection}{\numberline {6.1.0.3}Mainmenu}{83}{subsubsection.6.1.0.3}
-\contentsline {subsubsection}{\numberline {6.1.0.4}Slide Panel}{84}{subsubsection.6.1.0.4}
-\contentsline {subsubsection}{\numberline {6.1.0.5}jQuery Mobile Table}{86}{subsubsection.6.1.0.5}
-\contentsline {section}{\numberline {6.2}Video Gallery}{87}{section.6.2}
-\contentsline {subsection}{\numberline {6.2.1}Implementation}{88}{subsection.6.2.1}
-\contentsline {chapter}{\numberline {7}Streaming}{89}{chapter.7}
-\contentsline {subsection}{\numberline {7.0.2}General network}{89}{subsection.7.0.2}
-\contentsline {subsection}{\numberline {7.0.3}C\# Application}{90}{subsection.7.0.3}
-\contentsline {subsubsection}{\numberline {7.0.3.1}Read from the web service}{91}{subsubsection.7.0.3.1}
-\contentsline {subsubsection}{\numberline {7.0.3.2}Write to the web service}{92}{subsubsection.7.0.3.2}
-\contentsline {subsubsection}{\numberline {7.0.3.3}Provide a web service}{93}{subsubsection.7.0.3.3}
-\contentsline {subsubsection}{\numberline {7.0.3.4}Communication from mobile device to the C\# App}{94}{subsubsection.7.0.3.4}
-\contentsline {subsection}{\numberline {7.0.4}Navision Server}{95}{subsection.7.0.4}
-\contentsline {subsubsection}{\numberline {7.0.4.1}Table structure}{95}{subsubsection.7.0.4.1}
-\contentsline {subsection}{\numberline {7.0.5}Web service}{98}{subsection.7.0.5}
-\contentsline {chapter}{\numberline {8}Future enhancements and possibilities}{99}{chapter.8}
-\contentsline {subsection}{\numberline {8.0.6}Support for iOS and Windows phones/tablets }{99}{subsection.8.0.6}
-\contentsline {subsection}{\numberline {8.0.7}Other market segments}{99}{subsection.8.0.7}
-\contentsline {chapter}{\numberline {9}Resume}{101}{chapter.9}
-\contentsline {chapter}{Glossary}{102}{chapter.9}
-\contentsline {chapter}{Bibliography}{103}{section*.7}
-\contentsline {chapter}{Bibliography}{103}{chapter*.8}
+\contentsline {chapter}{\numberline {2}Theoretical Basics}{12}{chapter.2}
+\contentsline {section}{\numberline {2.1}Java}{12}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}What is Java}{12}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}Class Based \& Object Oriented}{12}{subsection.2.1.2}
+\contentsline {subsection}{\numberline {2.1.3}Design Patterns}{14}{subsection.2.1.3}
+\contentsline {subsection}{\numberline {2.1.4}Performance}{14}{subsection.2.1.4}
+\contentsline {subsection}{\numberline {2.1.5}JVM}{14}{subsection.2.1.5}
+\contentsline {subsection}{\numberline {2.1.6}Java bytecode}{15}{subsection.2.1.6}
+\contentsline {subsection}{\numberline {2.1.7}Java Code Execution Process}{15}{subsection.2.1.7}
+\contentsline {subsubsection}{\numberline {2.1.7.1}Class Loader}{16}{subsubsection.2.1.7.1}
+\contentsline {subsubsection}{\numberline {2.1.7.2}Runtime Data Areas}{16}{subsubsection.2.1.7.2}
+\contentsline {subsubsection}{\numberline {2.1.7.3}Execution Engine}{19}{subsubsection.2.1.7.3}
+\contentsline {subsection}{\numberline {2.1.8}.JAR File}{19}{subsection.2.1.8}
+\contentsline {subsubsection}{\numberline {2.1.8.1}Executable JAR }{19}{subsubsection.2.1.8.1}
+\contentsline {section}{\numberline {2.2}JavaScript, HTML5,CSS3}{19}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}JavaScript}{19}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}HTML5}{19}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.3}CSS3}{20}{subsection.2.2.3}
+\contentsline {section}{\numberline {2.3}jQuery Mobile}{21}{section.2.3}
+\contentsline {section}{\numberline {2.4}AJAX}{21}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}XML}{22}{subsection.2.4.1}
+\contentsline {subsection}{\numberline {2.4.2}XMLHttpRequest}{22}{subsection.2.4.2}
+\contentsline {subsection}{\numberline {2.4.3}How does AJAX work?}{23}{subsection.2.4.3}
+\contentsline {section}{\numberline {2.5}Windows Azure}{23}{section.2.5}
+\contentsline {subsection}{\numberline {2.5.1}Overview}{23}{subsection.2.5.1}
+\contentsline {section}{\numberline {2.6}Microsoft SQL Server}{24}{section.2.6}
+\contentsline {subsection}{\numberline {2.6.1}Program Overview}{25}{subsection.2.6.1}
+\contentsline {section}{\numberline {2.7}Microsoft Dynamics NAV}{26}{section.2.7}
+\contentsline {subsection}{\numberline {2.7.1}Program Overview}{26}{subsection.2.7.1}
+\contentsline {subsection}{\numberline {2.7.2}Data structure}{27}{subsection.2.7.2}
+\contentsline {subsubsection}{\numberline {2.7.2.1}Tables}{27}{subsubsection.2.7.2.1}
+\contentsline {subsubsection}{\numberline {2.7.2.2}Pages}{28}{subsubsection.2.7.2.2}
+\contentsline {chapter}{\numberline {3}IDE}{29}{chapter.3}
+\contentsline {section}{\numberline {3.1}Andorid SDK Eclipse}{29}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Eclipse Workbench}{29}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {3.1.2}Android SDK}{29}{subsection.3.1.2}
+\contentsline {section}{\numberline {3.2}JetBrains WebStorm}{30}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Overview}{31}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Features}{31}{subsection.3.2.2}
+\contentsline {section}{\numberline {3.3}Visual Studio}{32}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Visual Studio 2013}{32}{subsection.3.3.1}
+\contentsline {chapter}{\numberline {4}Implementation in JavaScript}{34}{chapter.4}
+\contentsline {section}{\numberline {4.1}Display}{35}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Start Menu}{35}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}Help}{38}{subsection.4.1.2}
+\contentsline {subsection}{\numberline {4.1.3}Main Menu}{39}{subsection.4.1.3}
+\contentsline {subsubsection}{\numberline {4.1.3.1}Leasing Price}{41}{subsubsection.4.1.3.1}
+\contentsline {subsubsection}{\numberline {4.1.3.2}Technical Information}{42}{subsubsection.4.1.3.2}
+\contentsline {subsubsection}{\numberline {4.1.3.3}Pictures}{43}{subsubsection.4.1.3.3}
+\contentsline {subsubsection}{\numberline {4.1.3.4}Videos}{44}{subsubsection.4.1.3.4}
+\contentsline {subsubsection}{\numberline {4.1.3.5}Review}{45}{subsubsection.4.1.3.5}
+\contentsline {subsubsection}{\numberline {4.1.3.6}Get Favourites}{46}{subsubsection.4.1.3.6}
+\contentsline {subsubsection}{\numberline {4.1.3.7}Add to my Favourites}{47}{subsubsection.4.1.3.7}
+\contentsline {subsection}{\numberline {4.1.4}My Favourites}{48}{subsection.4.1.4}
+\contentsline {subsubsection}{\numberline {4.1.4.1}Loading of favourite cars}{48}{subsubsection.4.1.4.1}
+\contentsline {subsection}{\numberline {4.1.5}About}{50}{subsection.4.1.5}
+\contentsline {section}{\numberline {4.2}Implemented Function}{51}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Start timer}{51}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}End timer}{51}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}Save the time}{51}{subsection.4.2.3}
+\contentsline {subsection}{\numberline {4.2.4}Set parameters}{52}{subsection.4.2.4}
+\contentsline {subsection}{\numberline {4.2.5}Start car tracking}{52}{subsection.4.2.5}
+\contentsline {subsection}{\numberline {4.2.6}Review}{53}{subsection.4.2.6}
+\contentsline {subsection}{\numberline {4.2.7}Turn off}{53}{subsection.4.2.7}
+\contentsline {subsection}{\numberline {4.2.8}Home}{53}{subsection.4.2.8}
+\contentsline {subsection}{\numberline {4.2.9}Read car name}{54}{subsection.4.2.9}
+\contentsline {subsection}{\numberline {4.2.10}Save email}{54}{subsection.4.2.10}
+\contentsline {subsection}{\numberline {4.2.11}Save car}{55}{subsection.4.2.11}
+\contentsline {subsection}{\numberline {4.2.12}Delete favourite car}{57}{subsection.4.2.12}
+\contentsline {subsection}{\numberline {4.2.13}Delete all favourite cars}{58}{subsection.4.2.13}
+\contentsline {subsection}{\numberline {4.2.14}Select favourite car}{58}{subsection.4.2.14}
+\contentsline {section}{\numberline {4.3}Features}{59}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Local Storage}{59}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}Slide Panel}{61}{subsection.4.3.2}
+\contentsline {subsection}{\numberline {4.3.3}Photo Gallery}{63}{subsection.4.3.3}
+\contentsline {subsection}{\numberline {4.3.4}Sessionstorage}{63}{subsection.4.3.4}
+\contentsline {subsection}{\numberline {4.3.5}Dynamic Selection of Colour}{65}{subsection.4.3.5}
+\contentsline {chapter}{\numberline {5}Implementation in Android}{69}{chapter.5}
+\contentsline {section}{\numberline {5.1}Android Platform}{69}{section.5.1}
+\contentsline {subsection}{\numberline {5.1.1}Android Operation System}{69}{subsection.5.1.1}
+\contentsline {subsection}{\numberline {5.1.2}Android user interface components}{69}{subsection.5.1.2}
+\contentsline {subsection}{\numberline {5.1.3}Develop an Android Application}{70}{subsection.5.1.3}
+\contentsline {subsection}{\numberline {5.1.4}Android Manifest}{70}{subsection.5.1.4}
+\contentsline {subsection}{\numberline {5.1.5}Creating an activity}{71}{subsection.5.1.5}
+\contentsline {subsection}{\numberline {5.1.6}Android web-view}{71}{subsection.5.1.6}
+\contentsline {subsection}{\numberline {5.1.7}Java JavaScript Communication}{71}{subsection.5.1.7}
+\contentsline {subsubsection}{\numberline {5.1.7.1}JavaScript Android Interface}{72}{subsubsection.5.1.7.1}
+\contentsline {section}{\numberline {5.2}Working with the Metaio SDK}{72}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}Who is Metaio}{72}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {5.2.2}Other Augmented Reality SDK's}{73}{subsection.5.2.2}
+\contentsline {subsection}{\numberline {5.2.3}Metaio Toolbox}{73}{subsection.5.2.3}
+\contentsline {subsection}{\numberline {5.2.4}AREL ( Augmented Reality Experience Language )}{74}{subsection.5.2.4}
+\contentsline {subsection}{\numberline {5.2.5}Tracking XML}{76}{subsection.5.2.5}
+\contentsline {subsection}{\numberline {5.2.6}Extracting the Tracking XML in Android}{77}{subsection.5.2.6}
+\contentsline {subsubsection}{\numberline {5.2.6.1}Loading the Tracking XML}{79}{subsubsection.5.2.6.1}
+\contentsline {section}{\numberline {5.3}Track Objects}{79}{section.5.3}
+\contentsline {section}{\numberline {5.4}Get Email Account from an Android device}{80}{section.5.4}
+\contentsline {chapter}{\numberline {6}Design Concept}{82}{chapter.6}
+\contentsline {section}{\numberline {6.1}Design concept with JQuery Mobile Framework}{82}{section.6.1}
+\contentsline {subsubsection}{\numberline {6.1.0.2}jQuery Mobile Page}{83}{subsubsection.6.1.0.2}
+\contentsline {subsubsection}{\numberline {6.1.0.3}Mainmenu}{84}{subsubsection.6.1.0.3}
+\contentsline {subsubsection}{\numberline {6.1.0.4}Slide Panel}{86}{subsubsection.6.1.0.4}
+\contentsline {subsubsection}{\numberline {6.1.0.5}jQuery Mobile Table}{87}{subsubsection.6.1.0.5}
+\contentsline {section}{\numberline {6.2}Video Gallery}{88}{section.6.2}
+\contentsline {subsection}{\numberline {6.2.1}Implementation}{89}{subsection.6.2.1}
+\contentsline {chapter}{\numberline {7}Streaming}{90}{chapter.7}
+\contentsline {subsection}{\numberline {7.0.2}General network}{90}{subsection.7.0.2}
+\contentsline {subsection}{\numberline {7.0.3}C\# Application}{91}{subsection.7.0.3}
+\contentsline {subsubsection}{\numberline {7.0.3.1}Read from the web service}{92}{subsubsection.7.0.3.1}
+\contentsline {subsubsection}{\numberline {7.0.3.2}Write to the web service}{93}{subsubsection.7.0.3.2}
+\contentsline {subsubsection}{\numberline {7.0.3.3}Provide a web service}{94}{subsubsection.7.0.3.3}
+\contentsline {subsubsection}{\numberline {7.0.3.4}Communication from mobile device to the C\# App}{95}{subsubsection.7.0.3.4}
+\contentsline {subsection}{\numberline {7.0.4}Navision Server}{96}{subsection.7.0.4}
+\contentsline {subsubsection}{\numberline {7.0.4.1}Table structure}{96}{subsubsection.7.0.4.1}
+\contentsline {subsection}{\numberline {7.0.5}Web service}{99}{subsection.7.0.5}
+\contentsline {chapter}{\numberline {8}Future enhancements and possibilities}{100}{chapter.8}
+\contentsline {subsection}{\numberline {8.0.6}Support for other platforms}{100}{subsection.8.0.6}
+\contentsline {subsection}{\numberline {8.0.7}Support for Google Glass}{101}{subsection.8.0.7}
+\contentsline {subsection}{\numberline {8.0.8}Real estate}{101}{subsection.8.0.8}
+\contentsline {chapter}{\numberline {9}Resume}{102}{chapter.9}
+\contentsline {chapter}{Glossary}{103}{chapter.9}
+\contentsline {chapter}{Bibliography}{104}{chapter*.8}
