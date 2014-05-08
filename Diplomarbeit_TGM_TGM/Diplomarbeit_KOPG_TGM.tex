@@ -2,7 +2,7 @@
 % Loading the packages and classes
 %%-----------------------------------------------------------------------
 
-\documentclass[12pt,twoside,a4paper,final]{book}%
+\documentclass[12pt,oneside,a4paper,final]{book}%
 %\usepackage{glossaries}
 \usepackage{a4}%                        %% Verwendet mehr Platz auf einer A4 Seite als Option a4paper in book
 %\usepackage[english,ngerman]{babel}%    %% Babel Sprachen
@@ -71,19 +71,19 @@
 %%-----------------------------------------------------------------------
 
 
-\renewcommand{\nomname}{List of symbols}
+%\renewcommand{\nomname}{List of symbols}
 %\renewcommand{\nompreamble}{The following list only contains symbols
 %  that are used continuously throughout the text. Local symbols are
 %  not listed.}
-\renewcommand{\nomgroup}[1]{
- \ifthenelse{\equal{#1}{A}}{\item[\textbf{General symbols}\bigskip]}{
- \ifthenelse{\equal{#1}{B}}{\item[\bigskip\bigskip\textbf{Chapter 2}\bigskip]}{
- \ifthenelse{\equal{#1}{C}}{\item[\bigskip\bigskip\textbf{Chapter 3}\bigskip]}{
- \ifthenelse{\equal{#1}{D}}{\item[\bigskip\bigskip\textbf{Chapter 4}\bigskip]}{
- \ifthenelse{\equal{#1}{E}}{\item[\bigskip\bigskip\textbf{Chapter 5}\bigskip]}{
- \ifthenelse{\equal{#1}{F}}{\item[\bigskip\bigskip\textbf{Appendix}\bigskip]}{
- }}}}}}}
-\makenomenclature
+%\renewcommand{\nomgroup}[1]{
+% \ifthenelse{\equal{#1}{A}}{\item[\textbf{General symbols}\bigskip]}{
+% \ifthenelse{\equal{#1}{B}}{\item[\bigskip\bigskip\textbf{Chapter 2}\bigskip]}{
+% \ifthenelse{\equal{#1}{C}}{\item[\bigskip\bigskip\textbf{Chapter 3}\bigskip]}{
+% \ifthenelse{\equal{#1}{D}}{\item[\bigskip\bigskip\textbf{Chapter 4}\bigskip]}{
+% \ifthenelse{\equal{#1}{E}}{\item[\bigskip\bigskip\textbf{Chapter 5}\bigskip]}{
+% \ifthenelse{\equal{#1}{F}}{\item[\bigskip\bigskip\textbf{Appendix}\bigskip]}{
+% }}}}}}}
+%\makenomenclature
 
 
 
@@ -212,7 +212,7 @@
 % Define month
 %%-----------------------------------------------------------------------
 
-\def\monthdis{Oktober 2012}
+\def\monthdis{Mai 2014}
 
 \makeglossaries
 %%-----------------------------------------------------------------------
@@ -231,6 +231,7 @@
 
 
 \include{tex/prefacea}%
+\include{tex/eid}
 \include{tex/abstracta}%
 %\selectlanguage{ngerman}%
 \include{tex/kurzzfsg}%
@@ -253,22 +254,24 @@
 \clearpage
 \listoffigures
 \clearpage
-\lstlistoflistings %\listoftables
+\addcontentsline{toc}{chapter}{Listings}
+\lstlistoflistings
 \clearpage 
-\markboth{Contents}{Contents}
+%\markboth{Contents}{Contents}
 
 
 %\addcontentsline{toc}{chapter}{\numberline{}\listfigurename}%
 %\listoffigures
 %\listoftables%
 %\addcontentsline{toc}{chapter}{\numberline{}\listtablename}%
-\clearpage%
+%\clearpage%
 
 
-\include{tex/nomenclature}
-\markboth{\nomname}{\nomname}%
-\addcontentsline{toc}{chapter}{\numberline{}\nomname}%
-\printnomenclature
+%\include{tex/nomenclature}
+%%%%%%%%%%%%kommented KORA
+%\markboth{\nomname}{\nomname}%
+%\addcontentsline{toc}{chapter}{\numberline{}\nomname}%
+%\printnomenclature
 
 
 \mainmatter%   %% main part will be numbered in Arabic letter
@@ -306,7 +309,7 @@
 % GATHER
 %\input "bib_file.bib"
 \phantomsection{}
-\addcontentsline{toc}{chapter}{\bibname}
+%\addcontentsline{toc}{chapter}{\bibname}
 \pagestyle{myheadings}\markboth{\bibname}{\bibname}
 \bibliography{tex/bib_file}
 
@@ -317,7 +320,7 @@
 %\addcontentsline{toc}{chapter}{\numberline{}\indexname}%
 
 %% include affidavit
-\include{tex/eid}%
+%
 
 
 
