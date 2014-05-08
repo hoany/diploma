@@ -1,6 +1,6 @@
 % Chapter5
 
-\chapter{Implementation in Android Java and Metaio Tracking} \label{chapter:metaio}
+\chapter{Implementation in Android} \label{chapter:metaio}
 \section{Android Platform}
 We choose Android because it is the most popular mobile platform and we already had experience in developing apps for android. 
 
@@ -61,7 +61,7 @@ Every application must have an AndroidManifest.xml file in its root directory. T
 
 It also contains al list of security permissions. We had to add the camera, internet, read\_owner\_data and get\_accounts permissions to implement all functions of our application. 
 
-
+\newpage
 \begin{lstlisting}[language=xml, caption= 
 extracts from our AndroidManifest,captionpos=b]
 <uses-permission android:name=
@@ -112,7 +112,7 @@ In the section above we mentioned that we used html pages to create the view of 
 
 
 First javascript must be enabled:
-\begin{lstlisting}[language=java,captionpos=b, caption=??????]
+\begin{lstlisting}[language=java,captionpos=b, caption=Java-JavaScript communication]
 super.appView.getSettings().setJavaScriptEnabled(true);
 \end{lstlisting}
 
@@ -144,7 +144,7 @@ function trackClick() {
 
 
 Then add a JavaScript interface to the activity:
-\begin{lstlisting}[language=java, caption=?????, captionpos=b]
+\begin{lstlisting}[language=java, caption=JavaScript Android Interface, captionpos=b]
 super.addJavascriptInterface(new Object()
 {
 	public void performClick()
@@ -222,7 +222,7 @@ With Areal Scenes its possible to create a script with all tracking object and t
 \includegraphics[width=\textwidth,height=\textheight,keepaspectratio]{graphics/arel.PNG}
 \caption{AREL}
 \end{figure}
-
+\newpage
 AREL consists of the following parts:
 \\
 
@@ -237,7 +237,7 @@ The HTML 5 layer, this part provides graphical user interface and interacts usin
 \\
 
 However AREL scenes where not use in the project because they only offered a limited size of Actions. For instance we needed to get the ID of the tracked object to determine which car had been recognized. It turned out that this is a much more difficult process in AREL so we wrote the whole logic in Java using the Metaio SDK.     
-
+\newpage
 \subsection{Tracking XML}
 The Tracking XML file is an XML file which can be created by the Metaio Creater or written by hand. It contains all of the tracking data. (3D Maps, etc. ..)
 \begin{lstlisting}[language=xml, caption=Tracking XML example,captionpos=b]
@@ -288,7 +288,7 @@ The files than have to be extracted by the \textit{AssetsManager} to make them a
 
 The AsyncTask enables proper and easy use of the UI thread. This class allows to perform background operations and publish results on the UI thread. AsyncTasks should ideally be used for short operations (a few seconds at the most.) For threads that need to be running for long periods of time, it is recommended you use the various APIs provided by the java.util.concurrent pacakge such as \textit{Executor}, \textit{ThreadPoolExecutor} and \textit{FutureTask}.\cite{andoirdAsyncTask} 
 
-\begin{lstlisting}[language=java, caption=Extracting Assets,captionpos=b]
+\begin{lstlisting}[language=java, caption=Extracting Assets 1.,captionpos=b]
 private class AssetsExtracter extends AsyncTask
 {		
 	@Override
@@ -307,7 +307,10 @@ private class AssetsExtracter extends AsyncTask
 			
 		return true;
 	}
-		
+\end{lstlisting}
+\newpage
+\begin{lstlisting}[language=java, caption=Extracting Assets 2.,captionpos=b]
+	
 	Override
 	protected void onPostExecute(Boolean result) 
 	{
@@ -345,7 +348,7 @@ Android first runs the \textit{doInBackground} method, in this case the method e
 
 
 onPostExecute extracts the path to the tracking.xml and than starts the TrackingLogic class. This Activity is where the tracking happens.
-
+\newpage
 \subsubsection{Loading the Tracking XML}
 The TrackingLogic class in our project loads the tracking xml using the Metaio SDK:
 \begin{lstlisting}[language=java, caption=executing AsyncTask,captionpos=b]
@@ -368,6 +371,7 @@ In order to run the camera and start the tracking process we wrote a new Activit
 \\
 One of the most important methods.onTrackingEvent describes what happens when an object gets tracked successfully. We overwrote this method to get the ID of the tracked Object. After the object hast been tracked the Main Menue activity with all specific car informations gets started.   
 \end{enumerate} 
+\newpage
 \begin{lstlisting}[language=java, caption=Tracking Event,captionpos=b]
 public void onTrackingEvent(TrackingValuesVector tV)
 {
@@ -390,11 +394,11 @@ public void onTrackingEvent(TrackingValuesVector tV)
 }
 \end{lstlisting}
 \section{Get Email Account from an Android device}
-This product has  a small feature, it saves the email address from the smartphone and this email Address will be sent to the Navision Server. In this paragraph it describes how the project team implemented the feature in this Application.
+This product has  a small feature, it saves the email address from the smartphone and this email address will be sent to the NAV Server. In this paragraph it describes how the project team implemented the feature in this Application.
 Description \& Codesnippet:
 This method will be invoked by the method getmail. This method will be explained in the next row. The getAccount() method  filters the Google Accounts . This happened through the Method getAccountsByType('com.google');.
 Furthermore if the first object of the Account Array is bigger then the value of Account  it will be returned.
-
+\newpage
 \begin{lstlisting}[language=java, caption= Accounts,captionpos=b]
 private static Account 
 	getAccount(AccountManager accountManager) {
@@ -403,14 +407,11 @@ Account[] accounts =
 Account account;
 if (accounts.length > 0) {
 	account = accounts[0];     
-} else {
+} else
       account = null;
-}
    return account;
 }
-
 \end{lstlisting}
-\newpage
 In this  Method it returns the Account object as String value. This happens through the Accountmanager and this method invokes the getAccount method. With the account Object it checks if it null if not then it returns the email address as String object.
 
 

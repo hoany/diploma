@@ -1,4 +1,5 @@
-\contentsline {chapter}{List of Figures}{vii}{chapter*.4}
+\contentsline {chapter}{List of Figures}{ix}{chapter*.5}
+\contentsline {chapter}{Listings}{xi}{chapter*.5}
 \contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
 \contentsline {section}{\numberline {1.1}General}{1}{section.1.1}
 \contentsline {section}{\numberline {1.2}Augmented Reality}{2}{section.1.2}
@@ -24,7 +25,6 @@
 \contentsline {subsubsection}{\numberline {1.2.6.4}Movies}{11}{subsubsection.1.2.6.4}
 \contentsline {subsubsection}{\numberline {1.2.6.5}Gesture Control}{11}{subsubsection.1.2.6.5}
 \contentsline {subsection}{\numberline {1.2.7}Summary}{11}{subsection.1.2.7}
-\contentsline {chapter}{\hbox to\@tempdima {\hfil }List of symbols}{1}{chapter*.5}
 \contentsline {chapter}{\numberline {2}Theoretical Basics}{12}{chapter.2}
 \contentsline {section}{\numberline {2.1}Java}{12}{section.2.1}
 \contentsline {subsection}{\numberline {2.1.1}What is Java}{12}{subsection.2.1.1}
@@ -57,7 +57,7 @@
 \contentsline {subsection}{\numberline {2.7.2}Data structure}{27}{subsection.2.7.2}
 \contentsline {subsubsection}{\numberline {2.7.2.1}Tables}{27}{subsubsection.2.7.2.1}
 \contentsline {subsubsection}{\numberline {2.7.2.2}Pages}{28}{subsubsection.2.7.2.2}
-\contentsline {chapter}{\numberline {3}Integrated Development Environment}{29}{chapter.3}
+\contentsline {chapter}{\numberline {3}IDE}{29}{chapter.3}
 \contentsline {section}{\numberline {3.1}Andorid SDK Eclipse}{29}{section.3.1}
 \contentsline {subsection}{\numberline {3.1.1}Eclipse Workbench}{29}{subsection.3.1.1}
 \contentsline {subsection}{\numberline {3.1.2}Android SDK}{29}{subsection.3.1.2}
@@ -66,7 +66,7 @@
 \contentsline {subsection}{\numberline {3.2.2}Features}{31}{subsection.3.2.2}
 \contentsline {section}{\numberline {3.3}Visual Studio}{32}{section.3.3}
 \contentsline {subsection}{\numberline {3.3.1}Visual Studio 2013}{32}{subsection.3.3.1}
-\contentsline {chapter}{\numberline {4}Logic Implementation with JavaScript}{34}{chapter.4}
+\contentsline {chapter}{\numberline {4}Implementation in JavaScript}{34}{chapter.4}
 \contentsline {section}{\numberline {4.1}Display}{35}{section.4.1}
 \contentsline {subsection}{\numberline {4.1.1}Start Menu}{35}{subsection.4.1.1}
 \contentsline {subsection}{\numberline {4.1.2}Help}{38}{subsection.4.1.2}
@@ -102,7 +102,7 @@
 \contentsline {subsection}{\numberline {4.3.3}Photo Gallery}{63}{subsection.4.3.3}
 \contentsline {subsection}{\numberline {4.3.4}Sessionstorage}{63}{subsection.4.3.4}
 \contentsline {subsection}{\numberline {4.3.5}Dynamic Selection of Colour}{65}{subsection.4.3.5}
-\contentsline {chapter}{\numberline {5}Implementation in Android Java and Metaio Tracking}{69}{chapter.5}
+\contentsline {chapter}{\numberline {5}Implementation in Android}{69}{chapter.5}
 \contentsline {section}{\numberline {5.1}Android Platform}{69}{section.5.1}
 \contentsline {subsection}{\numberline {5.1.1}Android Operation System}{69}{subsection.5.1.1}
 \contentsline {subsection}{\numberline {5.1.2}Android user interface components}{69}{subsection.5.1.2}
@@ -141,9 +141,9 @@
 \contentsline {subsubsection}{\numberline {7.0.4.1}Table structure}{96}{subsubsection.7.0.4.1}
 \contentsline {subsection}{\numberline {7.0.5}Web service}{99}{subsection.7.0.5}
 \contentsline {chapter}{\numberline {8}Future enhancements and possibilities}{100}{chapter.8}
-\contentsline {subsection}{\numberline {8.0.6}Support for iOS and Windows phones/tablets }{100}{subsection.8.0.6}
-\contentsline {subsection}{\numberline {8.0.7}Other market segments}{100}{subsection.8.0.7}
-\contentsline {chapter}{\numberline {9}Resume}{101}{chapter.9}
-\contentsline {chapter}{Glossary}{102}{chapter.9}
-\contentsline {chapter}{Bibliography}{103}{section*.6}
-\contentsline {chapter}{Bibliography}{103}{chapter*.7}
+\contentsline {subsection}{\numberline {8.0.6}Support for other platforms}{100}{subsection.8.0.6}
+\contentsline {subsection}{\numberline {8.0.7}Support for Google Glass}{101}{subsection.8.0.7}
+\contentsline {subsection}{\numberline {8.0.8}Real estate}{101}{subsection.8.0.8}
+\contentsline {chapter}{\numberline {9}Resume}{102}{chapter.9}
+\contentsline {chapter}{Glossary}{103}{chapter.9}
+\contentsline {chapter}{Bibliography}{104}{chapter*.8}

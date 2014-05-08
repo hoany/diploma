@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.4.23)  8 MAY 2014 08:05
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.4.23)  8 MAY 2014 09:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -465,6 +465,18 @@ Package: titlesec 2011/12/15 v2.10.0 Sectioning titles
 \titlewidthlast=\dimen137
 \titlewidthfirst=\dimen138
 )
+(/usr/share/texlive/texmf-dist/tex/generic/ulem/ulem.sty
+\UL@box=\box39
+\UL@hyphenbox=\box40
+\UL@skip=\skip89
+\UL@hook=\toks39
+\UL@height=\dimen139
+\UL@pe=\count146
+\UL@pixel=\dimen140
+\ULC@box=\box41
+Package: ulem 2012/05/18
+\ULdepth=\dimen141
+)
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
 
@@ -521,14 +533,14 @@ Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
 (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
 )
-\@linkdim=\dimen139
-\Hy@linkcounter=\count146
-\Hy@pagecounter=\count147
+\@linkdim=\dimen142
+\Hy@linkcounter=\count147
+\Hy@pagecounter=\count148
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
 )
-\Hy@SavedSpaceFactor=\count148
+\Hy@SavedSpaceFactor=\count149
 
 (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
@@ -549,16 +561,16 @@ Package hyperref Info: Plain pages OFF on input line 4458.
 Package hyperref Info: Backreferencing OFF on input line 4463.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4688.
-\c@Hy@tempcnt=\count149
+\c@Hy@tempcnt=\count150
 (/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip11
 Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 5041.
-\XeTeXLinkMargin=\dimen140
-\Fld@menulength=\count150
-\Field@Width=\dimen141
-\Fld@charsize=\dimen142
+\XeTeXLinkMargin=\dimen143
+\Fld@menulength=\count151
+\Field@Width=\dimen144
+\Fld@charsize=\dimen145
 Package hyperref Info: Hyper figures OFF on input line 6295.
 Package hyperref Info: Link nesting OFF on input line 6300.
 Package hyperref Info: Hyper index ON on input line 6303.
@@ -568,100 +580,95 @@ Package hyperref Info: Link coloring with OCG OFF on input line 6320.
 Package hyperref Info: PDF/A mode OFF on input line 6325.
 LaTeX Info: Redefining \ref on input line 6365.
 LaTeX Info: Redefining \pageref on input line 6369.
-\Hy@abspage=\count151
-\c@Item=\count152
-\c@Hfootnote=\count153
+\Hy@abspage=\count152
+\c@Item=\count153
+\c@Hfootnote=\count154
 )
 
 Package hyperref Message: Driver: hpdftex.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
 File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
-\Fld@listcount=\count154
-\c@bookmark@seq@number=\count155
+\Fld@listcount=\count155
+\c@bookmark@seq@number=\count156
 
 (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
 Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
-\Hy@SectionHShift=\skip89
+\Hy@SectionHShift=\skip90
 )
-\@nomenclaturefile=\write5
-\openout5 = `Diplomarbeit_KOPG_TGM.nlo'.
-
-
-Writing nomenclature file Diplomarbeit_KOPG_TGM.nlo
-\c@theorem=\count156
-\c@acknowledgement=\count157
-\c@algorithm=\count158
-\c@axiom=\count159
-\c@case=\count160
-\c@claim=\count161
-\c@conclusion=\count162
-\c@condition=\count163
-\c@conjecture=\count164
-\c@corollary=\count165
-\c@criterion=\count166
-\c@definition=\count167
-\c@example=\count168
-\c@exercise=\count169
-\c@lemma=\count170
-\c@notation=\count171
-\c@problem=\count172
-\c@proposition=\count173
-\c@remark=\count174
-\c@solution=\count175
-\c@summary=\count176
-\glo@main@file=\write6
-\openout6 = `Diplomarbeit_KOPG_TGM.glo'.
+\c@theorem=\count157
+\c@acknowledgement=\count158
+\c@algorithm=\count159
+\c@axiom=\count160
+\c@case=\count161
+\c@claim=\count162
+\c@conclusion=\count163
+\c@condition=\count164
+\c@conjecture=\count165
+\c@corollary=\count166
+\c@criterion=\count167
+\c@definition=\count168
+\c@example=\count169
+\c@exercise=\count170
+\c@lemma=\count171
+\c@notation=\count172
+\c@problem=\count173
+\c@proposition=\count174
+\c@remark=\count175
+\c@solution=\count176
+\c@summary=\count177
+\glo@main@file=\write5
+\openout5 = `Diplomarbeit_KOPG_TGM.glo'.
 
 Package glossaries Info: Writing glossary file Diplomarbeit_KOPG_TGM.glo on inp
-ut line 217.
-\glo@acronym@file=\write7
-\openout7 = `Diplomarbeit_KOPG_TGM.acn'.
+ut line 218.
+\glo@acronym@file=\write6
+\openout6 = `Diplomarbeit_KOPG_TGM.acn'.
 
 Package glossaries Info: Writing glossary file Diplomarbeit_KOPG_TGM.acn on inp
-ut line 217.
-(./Diplomarbeit_KOPG_TGM.aux (./tex/title.aux) (./tex/eid.aux)
-(./tex/prefacea.aux) (./tex/abstracta.aux) (./tex/kurzzfsg.aux)
-(./tex/nomenclature.aux) (./tex/chapter1.aux) (./tex/chapter2.aux)
-(./tex/chapter3.aux) (./tex/chapter4.aux) (./tex/chapter5.aux)
-(./tex/chapter6.aux
+ut line 218.
+
+(./Diplomarbeit_KOPG_TGM.aux (./tex/title.aux) (./tex/prefacea.aux)
+(./tex/eid.aux) (./tex/abstracta.aux) (./tex/kurzzfsg.aux) (./tex/chapter1.aux)
+(./tex/chapter2.aux) (./tex/chapter3.aux) (./tex/chapter4.aux)
+(./tex/chapter5.aux) (./tex/chapter6.aux
 
 LaTeX Warning: Label `chapter:desgin' multiply defined.
 
 ) (./tex/chapter7.aux) (./tex/chapter8.aux) (./tex/chapter9.aux))
 \openout1 = `Diplomarbeit_KOPG_TGM.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 223.
-LaTeX Font Info:    ... okay on input line 223.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 223.
-LaTeX Font Info:    ... okay on input line 223.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 223.
-LaTeX Font Info:    ... okay on input line 223.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 223.
-LaTeX Font Info:    ... okay on input line 223.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 223.
-LaTeX Font Info:    ... okay on input line 223.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 223.
-LaTeX Font Info:    ... okay on input line 223.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 223.
-LaTeX Font Info:    ... okay on input line 223.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 224.
+LaTeX Font Info:    ... okay on input line 224.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 224.
+LaTeX Font Info:    ... okay on input line 224.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 224.
+LaTeX Font Info:    ... okay on input line 224.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 224.
+LaTeX Font Info:    ... okay on input line 224.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 224.
+LaTeX Font Info:    ... okay on input line 224.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 224.
+LaTeX Font Info:    ... okay on input line 224.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 224.
+LaTeX Font Info:    ... okay on input line 224.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count177
-\scratchdimen=\dimen143
-\scratchbox=\box39
-\nofMPsegments=\count178
-\nofMParguments=\count179
-\everyMPshowfont=\toks39
-\MPscratchCnt=\count180
-\MPscratchDim=\dimen144
-\MPnumerator=\count181
-\makeMPintoPDFobject=\count182
-\everyMPtoPDFconversion=\toks40
+\scratchcounter=\count178
+\scratchdimen=\dimen146
+\scratchbox=\box42
+\nofMPsegments=\count179
+\nofMParguments=\count180
+\everyMPshowfont=\toks40
+\MPscratchCnt=\count181
+\MPscratchDim=\dimen147
+\MPnumerator=\count182
+\makeMPintoPDFobject=\count183
+\everyMPtoPDFconversion=\toks41
 ) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
 
@@ -676,9 +683,9 @@ Package grfext Info: Graphics extension search list:
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-\c@lstlisting=\count183
-\AtBeginShipoutBox=\box40
-Package hyperref Info: Link coloring ON on input line 223.
+\c@lstlisting=\count184
+\AtBeginShipoutBox=\box43
+Package hyperref Info: Link coloring ON on input line 224.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -686,15 +693,15 @@ Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count184
+\c@section@level=\count185
 )
-LaTeX Info: Redefining \ref on input line 223.
-LaTeX Info: Redefining \pageref on input line 223.
-LaTeX Info: Redefining \nameref on input line 223.
+LaTeX Info: Redefining \ref on input line 224.
+LaTeX Info: Redefining \pageref on input line 224.
+LaTeX Info: Redefining \nameref on input line 224.
 
 (./Diplomarbeit_KOPG_TGM.out) (./Diplomarbeit_KOPG_TGM.out)
-\@outlinefile=\write8
-\openout8 = `Diplomarbeit_KOPG_TGM.out'.
+\@outlinefile=\write7
+\openout7 = `Diplomarbeit_KOPG_TGM.out'.
 
 \openout2 = `tex/title.aux'.
 
@@ -704,7 +711,7 @@ LaTeX Font Info:    Try loading font information for T1+cmss on input line 42.
 (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmss.fd
 File: t1cmss.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
-<graphics/title/tgmlogo2.png, id=143, 376.5267pt x 121.29315pt>
+<graphics/title/tgmlogo2.png, id=138, 376.5267pt x 121.29315pt>
 File: graphics/title/tgmlogo2.png Graphic file (type png)
 
 <use graphics/title/tgmlogo2.png>
@@ -726,18 +733,43 @@ l.84 \end{titlepage}
                      [1
 
 ])
-\openout2 = `tex/eid.aux'.
+\openout2 = `tex/prefacea.aux'.
 
- (./tex/eid.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 12--233
+ (./tex/prefacea.tex
+Overfull \hbox (2.2782pt too wide) in paragraph at lines 8--13
+\T1/cmr/m/n/12 The fol-low-ing page shows,which team-mem-ber worked on which pa
+rt of the diploma|
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--13
 
  []
 
-[1
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 14.
+(/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 14.
+ [1
 
 
 
-] [2]
+
+]) [2]
+\openout2 = `tex/eid.aux'.
+
+
+(./tex/eid.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 12--237
+
+ []
+
+[3
+
+
+] [4]
 \openout2 = `tex/abstracta.aux'.
 
  (./tex/abstracta.tex
@@ -750,80 +782,70 @@ Underfull \hbox (badness 10000) in paragraph at lines 6--8
 
  []
 
-) [3
+) [5
 
 
 
 ]
 \openout2 = `tex/kurzzfsg.aux'.
 
- (./tex/kurzzfsg.tex) [4
+ (./tex/kurzzfsg.tex) [6
 
 
 
 ] (./Diplomarbeit_KOPG_TGM.toc
-LaTeX Font Info:    Try loading font information for U+msa on input line 3.
+LaTeX Font Info:    Try loading font information for U+msa on input line 4.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 3.
+LaTeX Font Info:    Try loading font information for U+msb on input line 4.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [5
+) [7
 
 
 
 ])
-\tf@toc=\write9
-\openout9 = `Diplomarbeit_KOPG_TGM.toc'.
+\tf@toc=\write8
+\openout8 = `Diplomarbeit_KOPG_TGM.toc'.
 
- [6]
-(./Diplomarbeit_KOPG_TGM.lof [7
+ [8]
+(./Diplomarbeit_KOPG_TGM.lof [9
 
 
 ]
 
-LaTeX Warning: Citation `localstorageapi' on page viii undefined on input line 
-35.
+LaTeX Warning: Citation `localstorageapi' on page x undefined on input line 35.
+
 
 )
-\tf@lof=\write10
-\openout10 = `Diplomarbeit_KOPG_TGM.lof'.
+\tf@lof=\write9
+\openout9 = `Diplomarbeit_KOPG_TGM.lof'.
 
- [8] (./Diplomarbeit_KOPG_TGM.lol
+ [10] (./Diplomarbeit_KOPG_TGM.lol
 
-LaTeX Warning: Citation `localstorageexample' on page ix undefined on input lin
+LaTeX Warning: Citation `localstorageexample' on page xi undefined on input lin
 e 31.
 
-[9
+[11
 
 
 ])
-\tf@lol=\write11
-\openout11 = `Diplomarbeit_KOPG_TGM.lol'.
+\tf@lol=\write10
+\openout10 = `Diplomarbeit_KOPG_TGM.lol'.
 
- [10]
-\openout2 = `tex/nomenclature.aux'.
-
- (./tex/nomenclature.tex)
-No file Diplomarbeit_KOPG_TGM.nls.
+ [12]
 \openout2 = `tex/chapter1.aux'.
 
-(./tex/chapter1.tex
+ (./tex/chapter1.tex
 Chapter 1.
 
 Underfull \hbox (badness 10000) in paragraph at lines 4--8
 
  []
 
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 9.
-(/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
-File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 9.
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
@@ -834,9 +856,6 @@ l.14  \newpage
 
 
 
-
-
-
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 17--21
 
@@ -867,7 +886,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 30--39
 
  []
 
-[2] <graphics/ARpad.png, id=494, 282.1815pt x 188.8875pt>
+[2] <graphics/ARpad.png, id=497, 282.1815pt x 188.8875pt>
 File: graphics/ARpad.png Graphic file (type png)
 
 <use graphics/ARpad.png>
@@ -893,14 +912,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 40--56
 
  []
 
-<graphics/GoogleGlasses.jpg, id=497, 1464.93243pt x 824.26865pt>
+<graphics/GoogleGlasses.jpg, id=500, 1464.93243pt x 824.26865pt>
 File: graphics/GoogleGlasses.jpg Graphic file (type jpg)
 
 <use graphics/GoogleGlasses.jpg>
 Package pdftex.def Info: graphics/GoogleGlasses.jpg used on input line 62.
 (pdftex.def)             Requested size: 239.98224pt x 135.03pt.
 
-<graphics/googlefunctions.png, id=500, 642.4pt x 361.35pt>
+<graphics/googlefunctions.png, id=503, 642.4pt x 361.35pt>
 File: graphics/googlefunctions.png Graphic file (type png)
 
 <use graphics/googlefunctions.png>
@@ -977,7 +996,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 102--108
  []
 
 [5 <./graphics/googlefunctions.png>]
-<graphics/smartcar.PNG, id=519, 209.583pt x 253.602pt>
+<graphics/smartcar.PNG, id=523, 209.583pt x 253.602pt>
 File: graphics/smartcar.PNG Graphic file (type png)
 
 <use graphics/smartcar.PNG>
@@ -1157,7 +1176,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 14--16
 
 
 
-] <graphics/java_subclass.PNG, id=597, 963.6pt x 722.7pt>
+] <graphics/java_subclass.PNG, id=601, 963.6pt x 722.7pt>
 File: graphics/java_subclass.PNG Graphic file (type png)
 
 <use graphics/java_subclass.PNG>
@@ -1169,7 +1188,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 60--62
  []
 
 [14]
-<graphics/java-code-execution-process.png, id=633, 1012.78375pt x 774.895pt>
+<graphics/java-code-execution-process.png, id=636, 1012.78375pt x 774.895pt>
 File: graphics/java-code-execution-process.png Graphic file (type png)
 
 <use graphics/java-code-execution-process.png>
@@ -1180,7 +1199,7 @@ Package pdftex.def Info: graphics/java-code-execution-process.png used on input
 (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2013/06/27 1.5pre1 listings language file
 )
-<graphics/java-data-areas.PNG, id=663, 1012.78375pt x 774.895pt>
+<graphics/java-data-areas.PNG, id=666, 1012.78375pt x 774.895pt>
 File: graphics/java-data-areas.PNG Graphic file (type png)
 
 <use graphics/java-data-areas.PNG>
@@ -1276,14 +1295,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 186--188
 
  []
 
-[21] [22] <graphics/ajaxwork.png, id=724, 428.35031pt x 243.91125pt>
+[21] [22] <graphics/ajaxwork.png, id=727, 428.35031pt x 243.91125pt>
 File: graphics/ajaxwork.png Graphic file (type png)
 
 <use graphics/ajaxwork.png>
 Package pdftex.def Info: graphics/ajaxwork.png used on input line 194.
 (pdftex.def)             Requested size: 284.5291pt x 162.01657pt.
 
-<graphics/azurePlattform.jpg, id=727, 668.4975pt x 423.5825pt>
+<graphics/azurePlattform.jpg, id=730, 668.4975pt x 423.5825pt>
 File: graphics/azurePlattform.jpg Graphic file (type jpg)
 
 <use graphics/azurePlattform.jpg>
@@ -1294,21 +1313,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 212--215
 
  []
 
-<graphics/sqlserver.PNG, id=739, 805.50937pt x 456.20438pt>
+<graphics/sqlserver.PNG, id=743, 805.50937pt x 456.20438pt>
 File: graphics/sqlserver.PNG Graphic file (type png)
 
 <use graphics/sqlserver.PNG>
 Package pdftex.def Info: graphics/sqlserver.PNG used on input line 225.
 (pdftex.def)             Requested size: 411.93512pt x 233.30156pt.
  [24 <./graphics/azurePlattform.jpg>] [25 <./graphics/sqlserver.PNG>] <graphics
-/navSales.jpg, id=754, 949.74825pt x 616.704pt>
+/navSales.jpg, id=757, 949.74825pt x 616.704pt>
 File: graphics/navSales.jpg Graphic file (type jpg)
 
 <use graphics/navSales.jpg>
 Package pdftex.def Info: graphics/navSales.jpg used on input line 239.
 (pdftex.def)             Requested size: 411.9488pt x 267.49243pt.
  [26 <./graphics/navSales.jpg>]
-<graphics/navTable.PNG, id=762, 590.205pt x 298.86656pt>
+<graphics/navTable.PNG, id=765, 590.205pt x 298.86656pt>
 File: graphics/navTable.PNG Graphic file (type png)
 
 <use graphics/navTable.PNG>
@@ -1320,7 +1339,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 246--253
  []
 
 [27 <./graphics/navTable.PNG>]
-<graphics/customerlist.PNG, id=771, 637.63219pt x 411.78844pt>
+<graphics/customerlist.PNG, id=774, 637.63219pt x 411.78844pt>
 File: graphics/customerlist.PNG Graphic file (type png)
 
 <use graphics/customerlist.PNG>
@@ -1336,7 +1355,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 255--266
 
  (./tex/chapter3.tex
 Chapter 3.
-<graphics/eclipse.png, id=778, 803.0pt x 702.625pt>
+<graphics/eclipse.png, id=781, 803.0pt x 702.625pt>
 File: graphics/eclipse.png Graphic file (type png)
  <use graphics/eclipse.png>
 Package pdftex.def Info: graphics/eclipse.png used on input line 16.
@@ -1345,16 +1364,16 @@ Package pdftex.def Info: graphics/eclipse.png used on input line 16.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--47
+
+ []
+
 [29
 
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 45--47
-
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 50--52
 
  []
@@ -1369,7 +1388,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 57--59
 
  []
 
-<graphics/chapter3/1.png, id=799, 980.66376pt x 571.13374pt>
+<graphics/chapter3/1.png, id=803, 980.66376pt x 571.13374pt>
 File: graphics/chapter3/1.png Graphic file (type png)
 
 <use graphics/chapter3/1.png>
@@ -1379,7 +1398,7 @@ Package pdftex.def Info: graphics/chapter3/1.png used on input line 62.
 LaTeX Font Info:    Font shape `OMS/cmr/m/it' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 71.
 
-<graphics/visualstudio.PNG, id=815, 1027.58907pt x 549.55313pt>
+<graphics/visualstudio.PNG, id=818, 1027.58907pt x 549.55313pt>
 File: graphics/visualstudio.PNG Graphic file (type png)
 
 <use graphics/visualstudio.PNG>
@@ -1410,7 +1429,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 19--21
 
  []
 
-<graphics/chapter4/1.png, id=832, 333.245pt x 360.34625pt>
+<graphics/chapter4/1.png, id=835, 333.245pt x 360.34625pt>
 File: graphics/chapter4/1.png Graphic file (type png)
 
 <use graphics/chapter4/1.png>
@@ -1455,7 +1474,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 87--89
 
  []
 
-[37] <graphics/chapter4/2.png, id=879, 325.215pt x 389.455pt>
+[37] <graphics/chapter4/2.png, id=883, 325.215pt x 389.455pt>
 File: graphics/chapter4/2.png Graphic file (type png)
 
 <use graphics/chapter4/2.png>
@@ -1491,7 +1510,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 139--141
 
  []
 
-<graphics/chapter4/3.png, id=892, 333.245pt x 422.57875pt>
+<graphics/chapter4/3.png, id=895, 333.245pt x 422.57875pt>
 File: graphics/chapter4/3.png Graphic file (type png)
 
 <use graphics/chapter4/3.png>
@@ -1507,7 +1526,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 200--203
 
  []
 
-<graphics/chapter4/5.png, id=940, 406.51875pt x 722.7pt>
+<graphics/chapter4/5.png, id=943, 406.51875pt x 722.7pt>
 File: graphics/chapter4/5.png Graphic file (type png)
 
 <use graphics/chapter4/5.png>
@@ -1518,21 +1537,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 213--215
 
  []
 
-<graphics/chapter4/6.png, id=946, 406.51875pt x 722.7pt>
+<graphics/chapter4/6.png, id=950, 406.51875pt x 722.7pt>
 File: graphics/chapter4/6.png Graphic file (type png)
 
 <use graphics/chapter4/6.png>
 Package pdftex.def Info: graphics/chapter4/6.png used on input line 218.
 (pdftex.def)             Requested size: 205.96938pt x 366.16812pt.
  [42 <./graphics/chapter4/6.png>]
-<graphics/chapter4/7.png, id=952, 255.95625pt x 292.09125pt>
+<graphics/chapter4/7.png, id=956, 255.95625pt x 292.09125pt>
 File: graphics/chapter4/7.png Graphic file (type png)
 
 <use graphics/chapter4/7.png>
 Package pdftex.def Info: graphics/chapter4/7.png used on input line 228.
 (pdftex.def)             Requested size: 205.96938pt x 235.04604pt.
  [43 <./graphics/chapter4/7.png>]
-<graphics/chapter4/8.png, id=960, 178.704pt x 317.988pt>
+<graphics/chapter4/8.png, id=963, 178.704pt x 317.988pt>
 File: graphics/chapter4/8.png Graphic file (type png)
 
 <use graphics/chapter4/8.png>
@@ -1543,7 +1562,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 244--246
 
  []
 
-<graphics/chapter4/9.png, id=966, 450.68375pt x 704.6325pt>
+<graphics/chapter4/9.png, id=969, 450.68375pt x 704.6325pt>
 File: graphics/chapter4/9.png Graphic file (type png)
 
 <use graphics/chapter4/9.png>
@@ -1554,7 +1573,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 256--258
 
  []
 
-<graphics/chapter4/10.png, id=972, 406.51875pt x 722.7pt>
+<graphics/chapter4/10.png, id=975, 406.51875pt x 722.7pt>
 File: graphics/chapter4/10.png Graphic file (type png)
 
 <use graphics/chapter4/10.png>
@@ -1570,14 +1589,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 282--285
 
  []
 
-<graphics/chapter4/11.png, id=978, 357.335pt x 43.16125pt>
+<graphics/chapter4/11.png, id=981, 357.335pt x 43.16125pt>
 File: graphics/chapter4/11.png Graphic file (type png)
 
 <use graphics/chapter4/11.png>
 Package pdftex.def Info: graphics/chapter4/11.png used on input line 288.
 (pdftex.def)             Requested size: 267.75768pt x 32.34319pt.
 
-<graphics/chapter4/12.png, id=979, 332.24126pt x 44.165pt>
+<graphics/chapter4/12.png, id=982, 332.24126pt x 44.165pt>
 File: graphics/chapter4/12.png Graphic file (type png)
 
 <use graphics/chapter4/12.png>
@@ -1588,7 +1607,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 303--305
 
  []
 
-<graphics/chapter4/15.png, id=993, 406.51875pt x 722.7pt>
+<graphics/chapter4/15.png, id=997, 406.51875pt x 722.7pt>
 File: graphics/chapter4/15.png Graphic file (type png)
 
 <use graphics/chapter4/15.png>
@@ -1629,7 +1648,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 345--348
 
  []
 
-<graphics/chapter4/16.png, id=1000, 348.30125pt x 55.20625pt>
+<graphics/chapter4/16.png, id=1004, 348.30125pt x 55.20625pt>
 File: graphics/chapter4/16.png Graphic file (type png)
 
 <use graphics/chapter4/16.png>
@@ -1640,7 +1659,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 363--365
 
  []
 
-<graphics/chapter4/17.png, id=1001, 356.33125pt x 544.0325pt>
+<graphics/chapter4/17.png, id=1005, 356.33125pt x 544.0325pt>
 File: graphics/chapter4/17.png Graphic file (type png)
 
 <use graphics/chapter4/17.png>
@@ -1798,7 +1817,7 @@ LaTeX Warning: Citation `w3school' on page 59 undefined on input line 778.
 
 LaTeX Warning: Citation `w3school' on page 59 undefined on input line 779.
 
-<graphics/chapter4/20.png, id=1240, 481.8pt x 245.91875pt>
+<graphics/chapter4/20.png, id=1243, 481.8pt x 245.91875pt>
 File: graphics/chapter4/20.png Graphic file (type png)
 
 <use graphics/chapter4/20.png>
@@ -1836,7 +1855,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 825--827
 
  []
 
-<graphics/chapter4/13.png, id=1260, 244.915pt x 155.58125pt>
+<graphics/chapter4/13.png, id=1264, 244.915pt x 155.58125pt>
 File: graphics/chapter4/13.png Graphic file (type png)
 
 <use graphics/chapter4/13.png>
@@ -1847,7 +1866,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 834--836
 
  []
 
-<graphics/chapter4/14.png, id=1261, 265.99374pt x 264.99pt>
+<graphics/chapter4/14.png, id=1265, 265.99374pt x 264.99pt>
 File: graphics/chapter4/14.png Graphic file (type png)
 
 <use graphics/chapter4/14.png>
@@ -1863,7 +1882,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 871--873
 
  []
 
-[62] <graphics/photoswipe.PNG, id=1295, 685.8122pt x 155.83218pt>
+[62] <graphics/photoswipe.PNG, id=1298, 685.8122pt x 155.83218pt>
 File: graphics/photoswipe.PNG Graphic file (type png)
 
 <use graphics/photoswipe.PNG>
@@ -1890,7 +1909,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 890--891
  []
 
 [63 <./graphics/photoswipe.PNG>]
-<graphics/sessionstorage1.PNG, id=1303, 683.55376pt x 181.42781pt>
+<graphics/sessionstorage1.PNG, id=1306, 683.55376pt x 181.42781pt>
 File: graphics/sessionstorage1.PNG Graphic file (type png)
 
 <use graphics/sessionstorage1.PNG>
@@ -1901,14 +1920,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 900--903
 
  []
 
-<graphics/sessionstorage2.PNG, id=1304, 685.8122pt x 159.59625pt>
+<graphics/sessionstorage2.PNG, id=1307, 685.8122pt x 159.59625pt>
 File: graphics/sessionstorage2.PNG Graphic file (type png)
 
 <use graphics/sessionstorage2.PNG>
 Package pdftex.def Info: graphics/sessionstorage2.PNG used on input line 906.
 (pdftex.def)             Requested size: 411.93877pt x 95.86562pt.
 
-<graphics/sessionstorage3.PNG, id=1305, 685.05937pt x 114.4275pt>
+<graphics/sessionstorage3.PNG, id=1308, 685.05937pt x 114.4275pt>
 File: graphics/sessionstorage3.PNG Graphic file (type png)
 
 <use graphics/sessionstorage3.PNG>
@@ -1916,7 +1935,7 @@ Package pdftex.def Info: graphics/sessionstorage3.PNG used on input line 913.
 (pdftex.def)             Requested size: 411.93877pt x 68.80893pt.
  [64 <./graphics/sessionstorage1.PNG> <./graphics/sessionstorage2.PNG> <./graph
 ics/sessionstorage3.PNG>]
-<graphics/Sessionstorage41.PNG, id=1313, 685.8122pt x 269.50688pt>
+<graphics/Sessionstorage41.PNG, id=1316, 685.8122pt x 269.50688pt>
 File: graphics/Sessionstorage41.PNG Graphic file (type png)
 
 <use graphics/Sessionstorage41.PNG>
@@ -1931,7 +1950,7 @@ Package pdftex.def Info: graphics/chapter4/6.png used on input line 931.
  [66
 
 ]
-<graphics/chapter4/fg6.png, id=1324, 406.51875pt x 722.7pt>
+<graphics/chapter4/fg6.png, id=1328, 406.51875pt x 722.7pt>
 File: graphics/chapter4/fg6.png Graphic file (type png)
 
 <use graphics/chapter4/fg6.png>
@@ -1940,7 +1959,7 @@ Package pdftex.def Info: graphics/chapter4/fg6.png used on input line 939.
  [67
 
  <./graphics/chapter4/fg6.png>]
-<graphics/bgfn.PNG, id=1330, 685.05937pt x 308.65312pt>
+<graphics/bgfn.PNG, id=1333, 685.05937pt x 308.65312pt>
 File: graphics/bgfn.PNG Graphic file (type png)
 
 <use graphics/bgfn.PNG>
@@ -2014,14 +2033,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 196--198
 
  []
 
-[73] <graphics/tracking.png, id=1437, 1927.2pt x 1084.05pt>
+[73] <graphics/tracking.png, id=1440, 1927.2pt x 1084.05pt>
 File: graphics/tracking.png Graphic file (type png)
 
 <use graphics/tracking.png>
 Package pdftex.def Info: graphics/tracking.png used on input line 211.
 (pdftex.def)             Requested size: 411.92859pt x 231.70982pt.
 
-<graphics/arel.PNG, id=1438, 481.04718pt x 417.05812pt>
+<graphics/arel.PNG, id=1441, 481.04718pt x 417.05812pt>
 File: graphics/arel.PNG Graphic file (type png)
 
 <use graphics/arel.PNG>
@@ -2062,7 +2081,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 343--345
 
  (./tex/chapter6.tex
 Chapter 6.
-<graphics/AppStructure.PNG, id=1610, 517.935pt x 319.1925pt>
+<graphics/AppStructure.PNG, id=1613, 517.935pt x 319.1925pt>
 File: graphics/AppStructure.PNG Graphic file (type png)
 
 <use graphics/AppStructure.PNG>
@@ -2117,7 +2136,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 56--57
 
  []
 
-[84] <graphics/Menu.PNG, id=1651, 773.89125pt x 368.87813pt>
+[84] <graphics/Menu.PNG, id=1655, 773.89125pt x 368.87813pt>
 File: graphics/Menu.PNG Graphic file (type png)
 
 <use graphics/Menu.PNG>
@@ -2138,14 +2157,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 77--79
 
  []
 
-<graphics/SPanel.PNG, id=1659, 664.73344pt x 448.67625pt>
+<graphics/SPanel.PNG, id=1662, 664.73344pt x 448.67625pt>
 File: graphics/SPanel.PNG Graphic file (type png)
 
 <use graphics/SPanel.PNG>
 Package pdftex.def Info: graphics/SPanel.PNG used on input line 83.
 (pdftex.def)             Requested size: 411.93877pt x 278.04633pt.
  [86 <./graphics/SPanel.PNG>]
-<graphics/Table.PNG, id=1667, 823.57687pt x 461.47406pt>
+<graphics/Table.PNG, id=1670, 823.57687pt x 461.47406pt>
 File: graphics/Table.PNG Graphic file (type png)
 
 <use graphics/Table.PNG>
@@ -2163,7 +2182,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 117--119
 
  []
 
-<graphics/dynamic.png, id=1684, 588.69937pt x 553.31718pt>
+<graphics/dynamic.png, id=1687, 588.69937pt x 553.31718pt>
 File: graphics/dynamic.png Graphic file (type png)
 
 <use graphics/dynamic.png>
@@ -2175,7 +2194,7 @@ Package pdftex.def Info: graphics/dynamic.png used on input line 124.
 
 (./tex/chapter7.tex
 Chapter 7.
-<graphics/networkoverview.png, id=1713, 719.68875pt x 399.74344pt>
+<graphics/networkoverview.png, id=1718, 719.68875pt x 399.74344pt>
 File: graphics/networkoverview.png Graphic file (type png)
 
 <use graphics/networkoverview.png>
@@ -2195,7 +2214,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 16--18
 
  []
 
-<graphics/webref.png, id=1720, 182.18062pt x 166.37157pt>
+<graphics/webref.png, id=1724, 182.18062pt x 166.37157pt>
 File: graphics/webref.png Graphic file (type png)
 
 <use graphics/webref.png>
@@ -2214,14 +2233,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 96--99
 
  []
 
-[94] [95] <graphics/trackingtable.png, id=1810, 265.74281pt x 90.3375pt>
+[94] [95] <graphics/trackingtable.png, id=1814, 265.74281pt x 90.3375pt>
 File: graphics/trackingtable.png Graphic file (type png)
 
 <use graphics/trackingtable.png>
 Package pdftex.def Info: graphics/trackingtable.png used on input line 151.
 (pdftex.def)             Requested size: 284.5488pt x 96.73045pt.
 
-<graphics/trackingtableexample.png, id=1811, 521.95pt x 44.165pt>
+<graphics/trackingtableexample.png, id=1815, 521.95pt x 44.165pt>
 File: graphics/trackingtableexample.png Graphic file (type png)
 
 <use graphics/trackingtableexample.png>
@@ -2229,28 +2248,28 @@ Package pdftex.def Info: graphics/trackingtableexample.png used on input line 1
 58.
 (pdftex.def)             Requested size: 411.94572pt x 34.85692pt.
  [96 <./graphics/trackingtable.png> <./graphics/trackingtableexample.png>]
-<graphics/cardatatable.png, id=1823, 263.48438pt x 152.82094pt>
+<graphics/cardatatable.png, id=1827, 263.48438pt x 152.82094pt>
 File: graphics/cardatatable.png Graphic file (type png)
 
 <use graphics/cardatatable.png>
 Package pdftex.def Info: graphics/cardatatable.png used on input line 165.
 (pdftex.def)             Requested size: 227.63342pt x 132.02737pt.
 
-<graphics/cardatatablentry.png, id=1824, 659.46375pt x 42.1575pt>
+<graphics/cardatatablentry.png, id=1828, 659.46375pt x 42.1575pt>
 File: graphics/cardatatablentry.png Graphic file (type png)
 
 <use graphics/cardatatablentry.png>
 Package pdftex.def Info: graphics/cardatatablentry.png used on input line 173.
 (pdftex.def)             Requested size: 411.95251pt x 26.33484pt.
  [97 <./graphics/cardatatable.png> <./graphics/cardatatablentry.png>]
-<graphics/userdatatable.png, id=1831, 355.3275pt x 89.33376pt>
+<graphics/userdatatable.png, id=1834, 355.3275pt x 89.33376pt>
 File: graphics/userdatatable.png Graphic file (type png)
 
 <use graphics/userdatatable.png>
 Package pdftex.def Info: graphics/userdatatable.png used on input line 181.
 (pdftex.def)             Requested size: 284.53346pt x 71.53525pt.
 
-<graphics/userdatatableentry.png, id=1832, 623.32875pt x 43.16125pt>
+<graphics/userdatatableentry.png, id=1835, 623.32875pt x 43.16125pt>
 File: graphics/userdatatableentry.png Graphic file (type png)
 
 <use graphics/userdatatableentry.png>
@@ -2258,7 +2277,7 @@ Package pdftex.def Info: graphics/userdatatableentry.png used on input line 187
 .
 (pdftex.def)             Requested size: 411.94038pt x 28.52403pt.
  [98 <./graphics/userdatatable.png> <./graphics/userdatatableentry.png>]
-<graphics/webservice.png, id=1837, 438.63875pt x 137.51375pt>
+<graphics/webservice.png, id=1840, 438.63875pt x 137.51375pt>
 File: graphics/webservice.png Graphic file (type png)
 
 <use graphics/webservice.png>
@@ -2279,11 +2298,24 @@ Underfull \hbox (badness 10000) in paragraph at lines 194--204
 
  (./tex/chapter8.tex
 Chapter 8.
+
+LaTeX Warning: Citation `metaioPlatforms' on page 100 undefined on input line 1
+3.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--17
+
+ []
+
 [100
 
 
 
-])
+]
+
+LaTeX Warning: Citation `metaioGlass' on page 101 undefined on input line 21.
+
+[101])
 \openout2 = `tex/chapter9.aux'.
 
  (./tex/chapter9.tex
@@ -2303,14 +2335,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--11
 
  []
 
-[101
+[102
 
 
 
 ])
 No file Diplomarbeit_KOPG_TGM.acr.
 No file Diplomarbeit_KOPG_TGM.acr.
-[102
+[103
 
 
 ] (./Diplomarbeit_KOPG_TGM.bbl
@@ -2345,7 +2377,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 50--53
 ** WARNING: IEEEtranS.bst: No hyphenation pattern has been
 ** loaded for the language `English'. Using the pattern for
 ** the default language instead.
-[103
+[104
 
 
 ]
@@ -2366,7 +2398,7 @@ hine-[]architecture-[]and-[]the-[]dalvik-[]vm/$[][] |
 ** WARNING: IEEEtranS.bst: No hyphenation pattern has been
 ** loaded for the language `English'. Using the pattern for
 ** the default language instead.
-[104]
+[105]
 Underfull \hbox (badness 1325) in paragraph at lines 204--207
 []\T1/DejaVuSansMono/m/n/12 system cen-ter. (2014) Azure overview. [On-line]. A
 vail-
@@ -2385,16 +2417,16 @@ ginia . edu / ~cs201 / labs /
  []
 
 )
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 326.
- [105]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 326.
- (./Diplomarbeit_KOPG_TGM.aux (./tex/title.aux) (./tex/eid.aux)
-(./tex/abstracta.aux) (./tex/kurzzfsg.aux) (./tex/nomenclature.aux)
-(./tex/chapter1.aux) (./tex/chapter2.aux) (./tex/chapter3.aux)
-(./tex/chapter4.aux) (./tex/chapter5.aux) (./tex/chapter6.aux)
-(./tex/chapter7.aux) (./tex/chapter8.aux) (./tex/chapter9.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 326.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 326.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 331.
+ [106]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 331.
+ (./Diplomarbeit_KOPG_TGM.aux (./tex/title.aux) (./tex/prefacea.aux)
+(./tex/eid.aux) (./tex/abstracta.aux) (./tex/kurzzfsg.aux) (./tex/chapter1.aux)
+(./tex/chapter2.aux) (./tex/chapter3.aux) (./tex/chapter4.aux)
+(./tex/chapter5.aux) (./tex/chapter6.aux) (./tex/chapter7.aux)
+(./tex/chapter8.aux) (./tex/chapter9.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 331.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 331.
 
 
 Package rerunfilecheck Warning: File `Diplomarbeit_KOPG_TGM.out' has changed.
@@ -2402,8 +2434,8 @@ Package rerunfilecheck Warning: File `Diplomarbeit_KOPG_TGM.out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `Diplomarbeit_KOPG_TGM.out':
-(rerunfilecheck)             Before: C0AEBF9EFB336EFA4DE4E51013DDE442;2088
-(rerunfilecheck)             After:  D97F5F56AFF0430A2D9123A141ADDEC0;2088.
+(rerunfilecheck)             Before: 6155C010726410E6B18A0852A6C4A12F;1994
+(rerunfilecheck)             After:  0F48C5065159BCC0A0CAAD86C7627517;1969.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -2415,38 +2447,29 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 15068 strings out of 493307
- 211436 string characters out of 6139905
- 417097 words of memory out of 5000000
- 17016 multiletter control sequences out of 15000+600000
- 22137 words of font info for 50 fonts, out of 8000000 for 9000
+ 15146 strings out of 493307
+ 212161 string characters out of 6139905
+ 417003 words of memory out of 5000000
+ 17091 multiletter control sequences out of 15000+600000
+ 22243 words of font info for 51 fonts, out of 8000000 for 9000
  971 hyphenation exceptions out of 8191
  46i,7n,76p,1473b,2039s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{chapter*.8} has been referenced but does not exis
-t, replaced by a fixed one
-
-pdfTeX warning (dest): name{section*.7} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{chapter*.6} has been referenced but does not exist,
- replaced by a fixed one
-
-{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texlive/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/ty
-pe1/public/cm-super/sfbx1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/
-sfbx1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1728.pfb></usr/s
-hare/texmf/fonts/type1/public/cm-super/sfbx2488.pfb></usr/share/texmf/fonts/typ
-e1/public/cm-super/sfrm1095.pfb></usr/share/texmf/fonts/type1/public/cm-super/s
-frm1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsl1200.pfb></usr/sh
-are/texmf/fonts/type1/public/cm-super/sfss1200.pfb></usr/share/texmf/fonts/type
-1/public/cm-super/sfss1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sf
-ss1728.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss2488.pfb></usr/sha
-re/texmf/fonts/type1/public/cm-super/sfsx2074.pfb></usr/share/texmf/fonts/type1
-/public/cm-super/sfti1200.pfb>
-Output written on Diplomarbeit_KOPG_TGM.pdf (117 pages, 7677821 bytes).
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texliv
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/
+type1/public/cm-super/sfbx1200.pfb></usr/share/texmf/fonts/type1/public/cm-supe
+r/sfbx1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1728.pfb></usr
+/share/texmf/fonts/type1/public/cm-super/sfbx2488.pfb></usr/share/texmf/fonts/t
+ype1/public/cm-super/sfrm1095.pfb></usr/share/texmf/fonts/type1/public/cm-super
+/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsl1200.pfb></usr/
+share/texmf/fonts/type1/public/cm-super/sfss1200.pfb></usr/share/texmf/fonts/ty
+pe1/public/cm-super/sfss1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/
+sfss1728.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss2488.pfb></usr/s
+hare/texmf/fonts/type1/public/cm-super/sfsx2074.pfb></usr/share/texmf/fonts/typ
+e1/public/cm-super/sfti1200.pfb>
+Output written on Diplomarbeit_KOPG_TGM.pdf (120 pages, 7677155 bytes).
 PDF statistics:
- 2207 PDF objects out of 2487 (max. 8388607)
- 1973 compressed objects within 20 object streams
- 1039 named destinations out of 1200 (max. 500000)
- 566 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2214 PDF objects out of 2487 (max. 8388607)
+ 1977 compressed objects within 20 object streams
+ 1041 named destinations out of 1200 (max. 500000)
+ 558 words of extra memory for PDF output out of 10000 (max. 10000000)
 

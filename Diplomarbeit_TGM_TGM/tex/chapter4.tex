@@ -1,4 +1,4 @@
-\chapter{Logic Implementation with JavaScript} \label{chapter:desgin}
+\chapter{Implementation in JavaScript} \label{chapter:desgin}
 
 The logic of this app is divided into two parts. First part is JavaScript logic, that is responsible for the functionalities of each HTML site, more precisely, the dynamic response to the user. Second part is Java Android logic, which is responsible for the main function called car tracking and all other functionalities that could not be accomplished with help of JS. 
 \\
@@ -86,7 +86,6 @@ The button \textbf{help} forwards the user to the help display \textit{help.html
 
 \textbf{Car tracking} calls a function \textit{trackClick()}. This method starts the main function.
 \\
-\newpage
 
 
 \subsection{Help}
@@ -100,8 +99,9 @@ The help display provides only two major options: back button and the link to a 
 \end{figure}
 
 
+
+\newpage
 The back button leads to the main menu. Shown in listing 4.3.
-\\
 \begin{lstlisting}[language=html, caption= 
 Back button,captionpos=b]
 <a class="ui-btn-left" href="index.html" rel="external">
@@ -126,6 +126,7 @@ Help video,captionpos=b]
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %New Chapter Main Menu
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newpage
 \subsection{Main Menu}
 The most important function of the whole mobile applications is \textbf{car tracking}. This function is executed by \textit{MyTracking.peformClick()}. More in chapter 4.1)''Start Menu''.
 \\
@@ -144,11 +145,9 @@ JavaScript functions had to be created for each  of this options. These function
 \includegraphics[width=0.5\linewidth]{graphics/chapter4/3}
 \caption{Main Menu}
 \end{figure}
-\newpage
+\clearpage
 
-
-\
-Listing 4.23 shows the function behind each button. Some buttons only link to another, other invoke specific functions like \textit{LocalStorageWriteId()}.\\
+Listing 4.5 shows the function behind each button. Some buttons only link to another, other invoke specific functions like \textit{LocalStorageWriteId()}.\\
 \begin{lstlisting}[language=html, caption= 
 Main menu source code,captionpos=b]	
 <li>
@@ -188,7 +187,6 @@ Main menu source code,captionpos=b]
    style="color:red" rel="external">
      Add to my Favorites
   </a>
-</li>
 \end{lstlisting}
 \newpage
 
@@ -222,7 +220,7 @@ By calling \textbf{technical information} facts about a specific car are present
 
 \subsubsection{Pictures}
 Has freshest pictures of the specific car. Feature called Photo Gallery in chapter ..... was used to create this option.
-
+\\\\\\
 \begin{figure}[h]
 \centering
 \includegraphics[width=0.5\linewidth]{graphics/chapter4/7}
@@ -232,7 +230,7 @@ Has freshest pictures of the specific car. Feature called Photo Gallery in chapt
 
 \subsubsection{Videos}
 This option provides the user with videos about the selected car from favourite list or fresh tracked one. More about video gallery in chapter.....
-\\
+\\\\\\
 \begin{figure}[h]
 \centering
 \includegraphics[width=0.5\linewidth]{graphics/chapter4/8}
@@ -242,7 +240,7 @@ This option provides the user with videos about the selected car from favourite 
 
 \subsubsection{Review}
 Operation review invokes a self created method called \textit{reviewClick()}. Description to thisit is in chapter 4.3.1 Created Methods, Review. Basically review links the user to a new display where he can read review about the specific car.
-\\
+\\\\\\
 
 \begin{figure}[h]
 \centering
@@ -254,7 +252,7 @@ Operation review invokes a self created method called \textit{reviewClick()}. De
 
 \subsubsection{Get Favourites}
 This operations links the user to his favourite cars which he saved with the option \textbf{add to my favourite}. Information about the favourite list in chapter 4.4)My Favourites.
-\\
+\\\\\\
 
 \begin{figure}[h]
 \centering
@@ -371,7 +369,7 @@ $('#liste').listview('refresh').trigger('create');
 
 \subsection{About}
 The \textbf{about} display has no logic and no self made functions except one the back button which functionality you have learnt in 4.2)Help chapter.
-\\
+\\\\\\
 \begin{figure}[h]
 \centering
 \includegraphics[width=0.4\linewidth]{graphics/chapter4/17}
@@ -464,6 +462,7 @@ function setParam(){
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %link to chapter with car tracking in java android
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newpage
 \subsection{Start car tracking}
 This function starts to track a car. For more explanation refer to chapter 5)'Implementation in Android Java and Metaio Tracking'.
 \\
@@ -504,7 +503,7 @@ function turnOff(){
     }
 \end{lstlisting}
 
-
+\newpage
 \subsection{Home}
 This function returns the user back to the start menu and is implemented with Android Java.\\
 
@@ -582,8 +581,7 @@ function saveEmail(){
 
 \subsection{Save car}
 This function saves the id and the name of the tracked vehicle. This method is used for adding new cars to users car collection. In this function a feature called local storage that provides HTML5 for its users, was used. The function can be split into four phases.
-\\
-
+\newpage
 Phase one checks if the input parameter \textit{name} is not empty. If it is empty user receives information about it, otherwise it processes with the other phases.
 
 \begin{lstlisting}[language=html, caption= 
@@ -594,9 +592,7 @@ if(name!=null){
   alert("Function is loading.");
 }
 \end{lstlisting}
-\
-\
-\newpage
+
 Phase two is the search phase. It searches for unique local storage place threw specific name \textit{(favorites ,fcarna)} and inspects if the storage with the name exists. If it doesn't exists an empty array is put inside the two local storages, else nothing happens.
 \\
 
@@ -619,7 +615,7 @@ Phase three,captionpos=b]
 var storedIds = JSON.parse(localStorage["favorites"]);
 var storedNames = JSON.parse(localStorage["fcarname"]);
 \end{lstlisting}
-
+\newpage
 Phase four checks if the car exists in the local storage. If it does the user receives information that this car already exists in the favourite list, else the id and car name is saved into the local storage.
 \\
 
@@ -704,7 +700,7 @@ if(lengthof!=0){
  window.location.reload();
 }
 \end{lstlisting}
-
+\newpage
 \subsection{Delete all favourite cars}
 Removes all favourite cars without selecting them.
 
@@ -761,7 +757,7 @@ function EventHandler(){
 Several new technologies were used to create the start menu. This chapter describes all those technologies. Some are linked to other chapters where they have already been explained. 
 \\
 
-
+\newpage
 \subsection{Local Storage}
 
 HTML5 provides us with a new feature called Web Storage. In other words, with it web pages can store data locally within the user's browser or mobile application.
@@ -816,8 +812,6 @@ var storedIds = JSON.parse(localStorage["favorites"]);
 \end{lstlisting}
 
 \newpage
-
-
 \subsection{Slide Panel}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %link to slide panel chapter
@@ -830,19 +824,17 @@ In the upper left corner of the display exists a small button that calls the sli
 \includegraphics[width=0.5\linewidth]{graphics/chapter4/13}
 \caption{Slide panel}
 \end{figure}
-
 After opening the slide panel more options are available. 
-\\
+
 
 \begin{figure}[h]
 \centering
 \includegraphics[width=0.5\linewidth]{graphics/chapter4/14}
 \caption{Options of slide panel}
 \end{figure}
-\newpage
 
 Here has the user four new options. He can return to the start menu with the display \textbf{home} or he can accesses his profile with \textbf{profil}. Also he can start to track a new car with \textbf{camera}. If the user doesn't want use the mobile application any more, he can close it the button \textbf{exit}. 
-\\
+\newpage
 \begin{lstlisting}[language=html, caption=Source code of slide panel options,captionpos=b]
 <ul data-role="listview" data-theme="a">
   <li data-icon="home" >
@@ -923,12 +915,11 @@ This product has the feature to select the colour of the car . In the Technical 
 \caption{Selector descritpion}
 \end{figure}
 
-\clearpage
 The following picture shows how the Technical Info table looks like:
 
 \begin{figure}[h]
 \centering
-\includegraphics[width=0.4\linewidth]{graphics/chapter4/6.png}
+\includegraphics[width=0.32\linewidth]{graphics/chapter4/6.png}
 \caption{Table}
 \end{figure}
 \clearpage
@@ -936,13 +927,12 @@ The second picture shows how the dynamic List of items from the Selector looks l
 
 \begin{figure}[h]
 \centering
-\includegraphics[width=0.4\linewidth]{graphics/chapter4/fg6.png}
+\includegraphics[width=0.32\linewidth]{graphics/chapter4/fg6.png}
 \caption{Selector}
 \end{figure}
-\clearpage
 Furthermore there is  a logic implemented which checks if the Colour is white or Black , that changes the colour of the font. The following code snippet shows how to write it:\\
 \begin{figure}[h]
 \centering
-\includegraphics[width=1.0\linewidth]{graphics/bgfn.PNG}
+\includegraphics[width=0.8\linewidth]{graphics/bgfn.PNG}
 \caption{Condition}
 \end{figure}

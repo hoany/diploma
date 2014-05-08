@@ -10,10 +10,10 @@ The following figure shows the detailed network set-up and application flow of t
 \caption{network overview}
 \end{figure}
 
-The front end consists of an application which runs on a mobile device and is operated by a user. On the back end is a Microsoft Windows Azure platform which contains the following two server instances. The server with Microsoft SQL in the top of the graphic is for saving and processing the data. The bottom server in the graphic, the main server on which runs Microsoft Navision 2013(NAV) and a domain for communicating with the SQL server. Both of these server operation systems are windows server 2008 R2. The C\# application is installed as a windows service and is used to communicate between back end and front end.
+The front end consists of an application which runs on a mobile device and is operated by a user. On the back end is a Microsoft Windows Azure platform which contains the following two server instances. The server with Microsoft SQL in the top of the graphic is for saving and processing the data. The bottom server in the graphic, the main server on which runs Microsoft NAV 2013 and a domain for communicating with the SQL server. Both of these server operation systems are windows server 2008 R2. The C\# application is installed as a windows service and is used to communicate between back end and front end.
 
 \subsection{C\# Application}
-The application consists of two important main parts. The first part is the communication between the Navision server and the C\# program. To solve this problem it uses a Navision web service to access and receive the needed data. The Navision web service will be explained in the following sub chapter ''Navision Server''. When the set up of the NAV web service is done it can be simply added as a web reference in Visual Studio to access it in the code.
+The application consists of two important main parts. The first part is the communication between the NAV server and the C\# program. To solve this problem it uses a NAV web service to access and receive the needed data. The NAV web service will be explained in the following sub chapter ''NAV Server''. When the set up of the NAV web service is done it can be simply added as a web reference in Visual Studio to access it in the code.
 \\\\
 \begin{description}
    \item[The application has three web references]~\par
@@ -46,7 +46,7 @@ The web references can be accessed via the code in Visual Studio.
 using NavWinProxy.NavArCarData;
 //Create a service object
 NavArCarDataPage_Service service = new NavArCarDataPage_Service();
-//set user credentials which have access rights to the Navision server
+//set user credentials which have access rights to the NAV server
 service.Credentials = System.Net.CredentialCache.DefaultCredentials;
 //create a new Object for storing the data
 NavArCarDataPage carData = new NavArCarDataPage();                
@@ -68,7 +68,7 @@ These are the default credentials from the user who runs the program. After that
         {
         //create the service object
         NavArUserDataPage_Service service = new NavArUserDataPage_Service();
-        //set user credentials which have access rights to the Navision server
+        //set user credentials which have access rights to the NAV server
         service.Credentials = System.Net.CredentialCache.DefaultCredentials;
         //read the user data from a specific google mail address
         NavArUserDataPage userData = service.Read(androidEmail);
@@ -79,7 +79,7 @@ These are the default credentials from the user who runs the program. After that
             userData.Feld2 = profileEmail;
             userData.Feld3 = firstName;
             userData.Feld4 = lastName;
-            //update the navision database with the new data
+            //update the nav database with the new data
             service.Update(ref userData);
             }
             else return "fail";
@@ -96,7 +96,7 @@ The beginning of the example code is similar to reading from the web service.At 
 The other important part of this application is to provide a web service for communication with the mobile devices.  To provide the functionality the C\# program uses ''System.Service.Model.web'' which contains several methods for implementing a web service.  In the following code example an operation contract is made to publish specific methods so that the mobile devices can access these methods.
 \\\\
 \begin{lstlisting}[caption=
-????,captionpos=b]
+ServiceContract,captionpos=b]
 [ServiceContract]
     public interface IOrderService
     {
@@ -132,8 +132,8 @@ function readcarname(cname){
 \end{lstlisting}
 This example consist of one function readcarname(cname) which sends an Ajax request with a given parameter to the server. The first part of the url in the request represents the azure domain: http://tgm.cloudapp.net:9090 where the C\# application is hosted and the second part is the method which should be called. The dataType is JSONP so that it is possible to transfer and receive data over different domains. The success method in the Ajax request will be triggered after the server sends the data back. In this example the response data from the server is stored in the variable ''globalcarname''.
 \newpage
-\subsection{Navision Server}
-For storing and receiving the important data for the mobile application a Navision Server 2013 is used.
+\subsection{NAV Server}
+For storing and receiving the important data for the mobile application a NAV Server 2013 is used.
 \subsubsection{Table structure}
 \begin{description}
    \item[The table structure contains three tables for storing]~\par
@@ -173,9 +173,9 @@ The following figure of a entry consists of a unique car ID, car name, car price
 \includegraphics[width=\textwidth,height=\textheight,keepaspectratio]{graphics/cardatatablentry.png}
 \caption{Example table entry}
 \end{figure}
-\newpage
+\newline
 The NavArUserData table has four columns which are used for saving the google email address,a custom email address, a name and a surname.
-\\
+\\\\
 \begin{figure}[htbp]
 \centering
 \includegraphics[width=100mm,height=\textheight,keepaspectratio]{graphics/userdatatable.png}
@@ -187,11 +187,10 @@ The NavArUserData table has four columns which are used for saving the google em
 \includegraphics[width=\textwidth,height=\textheight,keepaspectratio]{graphics/userdatatableentry.png}
 \caption{Example table entry}
 \end{figure}
-\\
-To provide access to these three tables a page for each table was created with the same structure as the tables.  
 \newpage
+To provide access to these three tables a page for each table was created with the same structure as the tables.  
 \subsection{Web service}
-The communication between the C\# application and the Navision server was achieved by a web service. The web service functionality is built in the Navision server and can be used to publish pages.A page was published for each of the mentioned tables of the previous chapter. 
+The communication between the C\# application and the NAV server was achieved by a web service. The web service functionality is built in the NAV server and can be used to publish pages.A page was published for each of the mentioned tables of the previous chapter. 
 \\\\
 \begin{figure}[htbp]
 \centering
