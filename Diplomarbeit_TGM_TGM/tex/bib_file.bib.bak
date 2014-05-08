@@ -2,13 +2,23 @@
 % Encoding: UTF8
 
 @ONLINE{javaVMPaper,
-  title = {Java JVM Run-time Data Areas},
+  title = {Java JVM Run-time Data Areas, last visited:19.04.2014},
   author = {Java papers},
   year = {2013},
   url = {http://javapapers.com/core-java/java-jvm-run-time-data-areas/},
   urldate = {19-04-2014},
   owner = {Thomas},
   timestamp = {2014.04.19}
+}
+
+@ONLINE{vstudio1,
+  title = {Any App, Any Team , last vivisited:30.04.2014},
+  author = {Microsoftvstudio1http://www.visualstudio.com/en-us/products/visual-studio-online-overview-vs.aspx},
+  year = {2014},
+  url = {http://www.visualstudio.com/en-us/dn469161},
+  urldate = {30.04.2014},
+  owner = {Michi},
+  timestamp = {2014.04.30}
 }
 
 @INCOLLECTION{abecker_ontologies_2009,
@@ -30,7 +40,9 @@
 }
 
 @ONLINE{javascript,
+  title = {JavaScript, last visited: 04.05.2014},
   author = {About.com},
+  year = {2012},
   url = {http://javascript.about.com/od/reference/p/javascript.htm},
   urldate = {04-05-2014},
   owner = {User},
@@ -38,7 +50,7 @@
 }
 
 @ONLINE{javaVmstover,
-  title = {Java Constant Pool},
+  title = {Java Constant Pool, last visited:19.04.2014},
   author = {Axtavt},
   year = {2012},
   url = {http://stackoverflow.com/questions/10209952/java-constant-pool},
@@ -48,8 +60,9 @@
 }
 
 @ONLINE{augmenteddef,
-  title = {Augmented Reality Definition},
+  title = {Augmented Reality Definition, last visited: 04.05.2014},
   author = {b2bsales@quinstreet.com},
+  year = {2010},
   url = {http://www.webopedia.com/TERM/A/Augmented_Reality.html},
   urldate = {04-05-2014},
   owner = {User},
@@ -144,8 +157,18 @@
   url = {http://www.amazon.ca}
 }
 
+@ONLINE{smartcar,
+  title = {Smart Car, last visited:04.05.2014},
+  author = {Blog.lt},
+  year = {2014},
+  url = {https://blogs.lt.vt.edu/jdschmitt2/augmented-reality-what-will-the-future-hold/},
+  urldate = {04-05-2014},
+  owner = {User},
+  timestamp = {2014.05.04}
+}
+
 @ONLINE{javaAbstractVsInterface,
-  title = {Java Abstract vs Interface},
+  title = {Java Abstract, last visited:20.04.2014},
   author = {Divine Desert},
   year = {2012},
   url = {http://stackoverflow.com/questions/10040069/abstract-class-vs-interface-in-java},
@@ -155,7 +178,7 @@
 }
 
 @ONLINE{javaPerfromance,
-  title = {java performance},
+  title = {java performance, last visited:20.04.2014},
   author = {Ben Evans},
   year = {2013},
   url = {http://www.infoq.com/articles/9_Fallacies_Java_Performance},
@@ -164,8 +187,17 @@
   timestamp = {2014.04.20}
 }
 
+@ONLINE{localstorageapi,
+  title = {The localStorage API},
+  author = {Pamela Fox},
+  year = {May 28 2012},
+  url = {http://www.drdobbs.com/web-development/the-localstorage-api/240000682},
+  owner = {Aleksey},
+  timestamp = {2014.05.05}
+}
+
 @ONLINE{andoirdAsyncTask,
-  title = {Andriod Async Task},
+  title = {AndroidTask, last visited:19.04.2014},
   author = {Google},
   year = {2014},
   url = {http://developer.android.com/reference/android/os/AsyncTask.html},
@@ -175,7 +207,7 @@
 }
 
 @ONLINE{androidManifest,
-  title = {Android Manifest},
+  title = {Android Manifest, last visited:19.04.2014},
   author = {Google},
   year = {2014},
   url = {http://developer.android.com/guide/topics/manifest/manifest-intro.html},
@@ -185,7 +217,7 @@
 }
 
 @ONLINE{androidWebView,
-  title = {Andoird web view},
+  title = {Andoird web view, last visited:19.04.2014},
   author = {Google},
   year = {2014},
   url = {http://developer.android.com/guide/webapps/webview.html},
@@ -194,8 +226,18 @@
   timestamp = {2014.04.19}
 }
 
+@ONLINE{ARpad,
+  title = {ARpad , last visited:04.05.2014},
+  author = {Google},
+  year = {2012},
+  url = {http://www.emilyedu.info/2014/03/},
+  urldate = {04-05-2014},
+  owner = {User},
+  timestamp = {2014.05.04}
+}
+
 @ONLINE{Tango,
-  title = {Project Tango},
+  title = {Project Tango, last visited:04.05.2014},
   author = {Google},
   year = {2012},
   url = {https://www.google.com/atap/projecttango/},
@@ -223,8 +265,30 @@
   url = {http://portal.acm.org/citation.cfm?id=173743.173747}
 }
 
+@ONLINE{glassesPic,
+  title = {Glasses, last visited:04.05.2014},
+  author = {Google Inc},
+  year = {2014},
+  url = {http://www.glassappsource.com/google-glass-features/secret-features-google-glass.html},
+  urldate = {04-05-2014},
+  owner = {User},
+  timestamp = {2014.05.04}
+}
+
+@ONLINE{sessionstorage,
+  title = {Sessionstorage ,last visited:05.05.2014},
+  author = {Google Inc},
+  year = {2014},
+  url = {https://code.google.com/p/sessionstorage/},
+  urldate = {05-05-2014},
+  owner = {User},
+  timestamp = {2014.05.05}
+}
+
 @ONLINE{functionsglasses,
+  title = {Google Glasses functions, last visited: 04.05.2014},
   author = {THE TIMES OF INDIA},
+  year = {2010},
   url = {http://timesofindia.indiatimes.com/tech/slideshow/googleglass/Translate/itslideshow/18609226.cms},
   urldate = {04-05-2014},
   owner = {User},
@@ -232,8 +296,9 @@
 }
 
 @ONLINE{glasses01,
-  title = {GlassesBild und text},
+  title = {GlassesPcture with description, last visited:04.05.2014},
   author = {Cory Janssen},
+  year = {2008},
   url = {http://www.digitaltrends.com/mobile/entitled-acting-tech-nerd-kicks-google-glass-ban-controversy/ http://www.techopedia.com/definition/28524/google-glass},
   urldate = {04-05-2014},
   owner = {User},
@@ -248,201 +313,59 @@
 	the complete experience for productive Web development and (incl.64-bit)},
   year = {2003},
   file = {:figures\\guRHGZs9gzMFcnF9CBYV58-30.pdf:PDF},
-  review = {Key Facts
-	
-	
-	System Requirements JetBrains WebStorm is a professional JavaScript
-	IDE that supports a wide range 
-	
-	
-	
-	– Microsoft Windows of modern technologies related to JavaScript programming
-	language, HTML and 
-	
-	
-	8/7/Vista/2003/XP CSS, and provides the complete experience for productive
-	Web development.
-	
-	
-	(incl.64-bit)
-	
-	
-	
-	– Mac OS X 10.5 or Key Benefits
-	
-	
-	higher, including 10.8 
-	
-	
-	(Mountain Lion)
-	
-	
-	
-	WebStorm offers developers an intelligent code editor that truly understands
-	
-	
-	– GNOME or KDE desktop the structure of code written in JavaScript,
-	HTML or CSS, as well as their modern 
-	
-	
-	
-	for Linux
-	
-	
-	successors. It features the best-of-breed coding assistance for a
-	whole set of 
-	
-	
-	
-	– 1 GB RAM minimum, cutting-edge web technologies, including code
-	completion, refactorings, code 
-	
-	
-	2 GB RAM recommended
-	
-	
-	
-	formatting, on-the-fly error prevention, and much more. WebStorm is
-	also 
-	
-	
-	– JDK 1.6 or Higher great for developing Node.js applications. Together
-	with integrated instruments 
-	
-	
-	– 1024x768 minimum for testing, debugging and code analysis and integration
-	with various VCS, 
-	
-	
-	
-	screen resolution WebStorm is an essential tool for powerful and productive
-	web development.
-	
-	
-	
-	Key Features
-	
-	
-	– Intelligent JavaScript, HTML, and CSS editor with syntax highlighting,
-	code 
-	
-	
-	completion, configurable formatting configuration, refactorings, on-the-fly
-	
-	
-	error detection and support of language mixtures.
-	
-	
-	
-	Headquarters and 
-	
-	
-	International Sales – Support for a wide range of technologies: TypeScript,
-	CoffeeScript, Dart, LESS, 
-	
-	
-	
-	Sass, Stylus, Compass, EJS, Handlebars, Mustache, Web Components,
-	Jade, 
-	
-	
-	JetBrains s.r.o. Emmet, and many more.
-	
-	
-	Kavčí Hory Office Park
-	
-	
-	Na hřebenech II 1718/10 – Productivity-boosting Live Edit feature:
-	See the changes in the browser 
-	
-	
-	Praha 4 — Nusle — 147 00 immediately without reloading the page.
-	
-	
-	Czech Republic – JavaScript debugger for Chrome and Firefox, with
-	breakpoints, stepping, 
-	
-	
-	Tel: +420 2 4172 2501 frames view and watchers. Full-featured debugging
-	of TypeScript, CoffeeScript 
-	
-	
-	Fax: +420 2 4172 2540 and Dart with sourcemaps.
-	
-	
+  review = {Key Facts System Requirements JetBrains WebStorm is a professional
+	JavaScript IDE that supports a wide range – Microsoft Windows of
+	modern technologies related to JavaScript programming language, HTML
+	and 8/7/Vista/2003/XP CSS, and provides the complete experience for
+	productive Web development. (incl.64-bit) – Mac OS X 10.5 or Key
+	Benefits higher, including 10.8 (Mountain Lion) WebStorm offers developers
+	an intelligent code editor that truly understands – GNOME or KDE
+	desktop the structure of code written in JavaScript, HTML or CSS,
+	as well as their modern for Linux successors. It features the best-of-breed
+	coding assistance for a whole set of – 1 GB RAM minimum, cutting-edge
+	web technologies, including code completion, refactorings, code 2
+	GB RAM recommended formatting, on-the-fly error prevention, and much
+	more. WebStorm is also – JDK 1.6 or Higher great for developing Node.js
+	applications. Together with integrated instruments – 1024x768 minimum
+	for testing, debugging and code analysis and integration with various
+	VCS, screen resolution WebStorm is an essential tool for powerful
+	and productive web development. Key Features – Intelligent JavaScript,
+	HTML, and CSS editor with syntax highlighting, code completion, configurable
+	formatting configuration, refactorings, on-the-fly error detection
+	and support of language mixtures. Headquarters and International
+	Sales – Support for a wide range of technologies: TypeScript, CoffeeScript,
+	Dart, LESS, Sass, Stylus, Compass, EJS, Handlebars, Mustache, Web
+	Components, Jade, JetBrains s.r.o. Emmet, and many more. Kavčí Hory
+	Office Park Na hřebenech II 1718/10 – Productivity-boosting Live
+	Edit feature: See the changes in the browser Praha 4 — Nusle — 147
+	00 immediately without reloading the page. Czech Republic – JavaScript
+	debugger for Chrome and Firefox, with breakpoints, stepping, Tel:
+	+420 2 4172 2501 frames view and watchers. Full-featured debugging
+	of TypeScript, CoffeeScript Fax: +420 2 4172 2540 and Dart with sourcemaps.
 	sales@jetbrains.com – File Watchers for automatic compilation/transpilation
-	of higher-level 
-	
-	
-	
-	North American Sales languages like TypeScript, CoffeeScript, LESS,
-	Sass, and Stylus.
-	
-	
-	
-	sales.us@jetbrains.com – A debugger for Node.js applications with
-	the latest features of 
-	
-	
-	
-	East Coast V8 Debugger Protocol.
-	
-	
-	
+	of higher-level North American Sales languages like TypeScript, CoffeeScript,
+	LESS, Sass, and Stylus. sales.us@jetbrains.com – A debugger for Node.js
+	applications with the latest features of East Coast V8 Debugger Protocol.
 	324 New Brooklyn Road – Intelligent code inspections, one-click quick-fix
-	suggestions, JSHint, JSLint, 
-	
-	
-	Berlin NJ 08009 and Google Closure Linter.
-	
-	
+	suggestions, JSHint, JSLint, Berlin NJ 08009 and Google Closure Linter.
 	Tel: +1 609 714 7883 – JavaScript unit testing with integrated JSTestDriver
-	or Karma test runner 
-	
-	
-	Fax: +1 866 838-6784 with code coverage.
-	
-	
-	West Coast Sales and – Built-in HTTP Server, REST Client, Terminal
-	and Node.js package manager npm.
-	
-	
-	Business Development – New Project Wizard with well-known project
-	templates like Twitter Bootstrap 
-	
-	
-	1900 South Norfolk St. and Node.js Express App.
-	
-	
-	Suite 350 San Mateo,
-	
-	
-	CA 94403 – Integration with Version Control Systems including Git,
-	Subversion, Mercurial, 
-	
-	
-	
-	Tel: +1 650 577 2345 CVS, Perforce, and GitHub.
-	
-	
-	
-	Fax: +1 866 838 6784 – Easily configurable FTP/FTPS/SFTP deployment.
-	
-	
-	
-	– Integration with various issue trackers. 
-	
-	
-	
-	www.jetbrains.com For more information please see http://www.jetbrains.com/webstorm/
-	
-	
-	
-	© 2003 - 2013 JetBrains, Inc. All rights reserved.}
+	or Karma test runner Fax: +1 866 838-6784 with code coverage. West
+	Coast Sales and – Built-in HTTP Server, REST Client, Terminal and
+	Node.js package manager npm. Business Development – New Project Wizard
+	with well-known project templates like Twitter Bootstrap 1900 South
+	Norfolk St. and Node.js Express App. Suite 350 San Mateo, CA 94403
+	– Integration with Version Control Systems including Git, Subversion,
+	Mercurial, Tel: +1 650 577 2345 CVS, Perforce, and GitHub. Fax: +1
+	866 838 6784 – Easily configurable FTP/FTPS/SFTP deployment. – Integration
+	with various issue trackers. www.jetbrains.com For more information
+	please see http://www.jetbrains.com/webstorm/ © 2003 - 2013 JetBrains,
+	Inc. All rights reserved.}
 }
 
 @ONLINE{Panel,
+  title = {jQuery Mobile, last visited: 05.05.2014},
   author = {jQueryMobile},
+  year = {2011},
   url = {http://demos.jquerymobile.com/1.3.0-beta.1/docs/panels/},
   urldate = {05-05-2014},
   owner = {User},
@@ -478,7 +401,7 @@
 }
 
 @ONLINE{progLangPop,
-  title = {prgramm languages popularity},
+  title = {prgramm languages popularity, last visited:20.04.2014},
   author = {langpop},
   year = {2014},
   url = {http://www.langpop.com/},
@@ -517,14 +440,74 @@
   file = {:D\:\\TGM\\Schuljahr1213\\Projektwoche\\DissertationGK_2012_09_08\\Diplomarbeit_TGM_TGM\\literature\\merdan_semantische_2010.pdf:PDF}
 }
 
+@ONLINE{metaioGlass,
+  title = {Run metaio SDK on Google Glass, last visited:07.05.2014},
+  author = {Metaio},
+  year = {2014},
+  url = {http://dev.metaio.com/sdk/tutorials/run-metaio-sdk-on-google-glasstm/},
+  urldate = {2014-05-07},
+  owner = {Michi},
+  timestamp = {2014.05.07}
+}
+
+@ONLINE{metaioPlatforms,
+  title = {App Creation with the metaio SDK, last visited:07.05.2014},
+  author = {Metaio},
+  year = {2014},
+  url = {http://dev.metaio.com/sdk/getting-started/},
+  urldate = {2014-05-07},
+  owner = {Michi},
+  timestamp = {2014.05.07}
+}
+
 @ONLINE{metaioToolBox,
-  title = {Metaio Toolbox},
+  title = {Metaio Toolbox, last visited:19.04.2014},
   author = {Metaio},
   year = {2014},
   url = {https://dev.metaio.com/sdk/toolbox/},
   urldate = {19-04-2014},
   owner = {Thomas},
   timestamp = {2014.04.19}
+}
+
+@ONLINE{azure,
+  title = {What is Azure?, last visited:30.04.2014},
+  author = {Microsoft},
+  year = {2014},
+  url = {http://www.azure.microsoft.com/en-us/overview/what-is-azure/},
+  urldate = {30.04.2014},
+  owner = {Michi},
+  timestamp = {2014.04.30}
+}
+
+@ONLINE{navOver,
+  title = {Microsoft Dynamics NAV, last visited:04.05.2014},
+  author = {Microsoft},
+  year = {2014},
+  url = {http://www.microsoft.com/en-us/dynamics/erp-nav-overview.aspx},
+  urldate = {2014-05-04},
+  owner = {Michi},
+  timestamp = {2014.05.04}
+}
+
+@ONLINE{sqlserver,
+  title = {SQL Server, last visited:04.05.2014},
+  author = {Microsoft},
+  year = {2014},
+  url = {https://www.microsoft.com/sql},
+  urldate = {2014-05-04},
+  owner = {Michi},
+  timestamp = {2014.05.04}
+}
+
+@ONLINE{vstudio2,
+  title = {Visual Studio with MSDN, last visited:30.04.2014},
+  author = {Microsoft},
+  year = {2014},
+  url = {http://www.visualstudio.com/en-us/products/visual-studio-online-overview-vs.aspx},
+  urldate = {30.04.2014},
+  owner = {Michi},
+  timestamp = {2014.04.30}
 }
 
 @MISC{jqueryVideo,
@@ -534,7 +517,7 @@
 }
 
 @ONLINE{javaObjectClass,
-  title = {Java Object Model},
+  title = {Java Object Model, last visited:20.04.2014},
   author = {Mozilla},
   year = {2014},
   url = {https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Details_of_the_Object_Model#Class-Based_vs._Prototype-Based_Language},
@@ -544,7 +527,7 @@
 }
 
 @ONLINE{augmentedRealitySDk,
-  title = {Augmented reality SDKs},
+  title = {Augmented reality SDKs, last visited:19.04.2014},
   author = {newdigimarketing},
   year = {2014},
   url = {http://augmentedrealitynews.org/ar-sdk/top-5-augmented-reality-sdks/},
@@ -554,7 +537,7 @@
 }
 
 @ONLINE{javaOBjectOracle,
-  title = {Java Object Oriented Programming},
+  title = {Java Object Oriented Programming, last visited:20.04.2014},
   author = {Oracle},
   year = {2014},
   url = {http://docs.oracle.com/javase/tutorial/java/concepts/},
@@ -564,7 +547,7 @@
 }
 
 @ONLINE{JavaWhat,
-  title = {What is Java},
+  title = {What is Java, last visited:14.04.2014},
   author = {Oracle},
   year = {2014},
   url = {https://www.java.com/en/download/faq/whatis_java.xml},
@@ -574,7 +557,7 @@
 }
 
 @ONLINE{javaVMOracle,
-  title = {Java JVM Oracle},
+  title = {Java JVM Oracle, last visited:16.04.2014},
   author = {OracleInc},
   year = {2014},
   url = {http://docs.oracle.com/javase/specs/jvms/se7/html/jvms-2.html},
@@ -584,13 +567,22 @@
 }
 
 @ONLINE{javaJVM,
-  title = {Understanding JVM Internals},
+  title = {Understanding JVM Internals, last visited:14.04.2014},
   author = {Se Hoon Park},
   year = {2012},
   url = {http://www.cubrid.org/blog/dev-platform/understanding-jvm-internals/},
   urldate = {14-04-2014},
   owner = {Thomas},
   timestamp = {2014.04.14}
+}
+
+@ONLINE{localstorageexample,
+  title = {THE PAST, PRESENT \& FUTURE OF LOCAL STORAGE FOR WEB APPLICATIONS},
+  author = {Mark Pilgrim},
+  year = {2014},
+  url = {http://diveintohtml5.info/storage.html},
+  owner = {Aleksey},
+  timestamp = {2014.05.05}
 }
 
 @ARTICLE{pohl_heuristic_1970,
@@ -616,7 +608,7 @@
 }
 
 @ONLINE{javaJarMargaret,
-  title = {Java Jar archive},
+  title = {Java Jar archive, last visited:20.04.2014},
   author = {Margaret Rouse},
   year = {2005},
   url = {http://searchdatamanagement.techtarget.com/definition/JAR-file},
@@ -626,7 +618,7 @@
 }
 
 @ONLINE{gitHead,
-  title = {Git Basics},
+  title = {Git Basics, last visited:29.04.2014},
   author = {Akiri Solutions},
   year = {2014},
   url = {http://www.gitguys.com/topics/head-where-are-we-where-were-we/},
@@ -646,17 +638,27 @@
 }
 
 @ONLINE{stackBased_vs_registerBased,
-  title = {Stack based cpu vs register based},
+  title = {Stack based cpu vs register based, last visited:14.04.2014},
   author = {Kostja Stern},
   year = {2012},
-  url = {http://markfaction.wordpress.com/2012/07/15/stack-based-vs-register-based-virtual-machine-architecture-and-the-dalvik-vm/},
+  url = {http://markfaction.wordpress.com/2012/07/15/stack-based-vs-register-based-virtual-machine-architecture},
   urldate = {14-04-2014},
   owner = {Thomas},
   timestamp = {2014.04.14}
 }
 
+@ONLINE{azureOver,
+  title = {Azure Overview, last visited:04.05.2014},
+  author = {system-center},
+  year = {2014},
+  url = {http://www.system-center.fr/wp-content/uploads/2012/10/how_it_works_slide_3-Azure.jpg},
+  urldate = {2014-05-04},
+  owner = {Michi},
+  timestamp = {2014.05.04}
+}
+
 @ONLINE{androidDevTut,
-  title = {Android Development Tutorial},
+  title = {Android Development Tutorial, last visited:19.04.2014},
   author = {Lars Vogel},
   year = {2013},
   url = {http://www.cs.virginia.edu/~cs201/labs/Vogella-Android-Development-Tutorial.pdf},
@@ -665,8 +667,59 @@
   timestamp = {2014.04.19}
 }
 
+@ONLINE{xml,
+  title = {XML, last visited:30.04.2014},
+  author = {w3},
+  year = {2013},
+  url = {http://www.w3.org/XML/},
+  urldate = {30.04.2014},
+  howpublished = {online},
+  language = {English},
+  month = {10},
+  organization = {W3C},
+  owner = {Michi},
+  timestamp = {2014.04.29}
+}
+
+@ONLINE{w3school,
+  title = {HTML5 Web Storage},
+  author = {w3school},
+  year = {2014},
+  url = {http://www.w3schools.com/html/html5_webstorage.asp},
+  owner = {Aleksey},
+  timestamp = {2014.05.05}
+}
+
+@ONLINE{ajax,
+  title = {AJAX Introduction, last vivisited:30.04.2014},
+  author = {w3schools},
+  year = {2014},
+  url = {http://www.w3schools.com/ajax/ajax_intro.asp},
+  urldate = {30.04.2014},
+  howpublished = {online},
+  language = {English},
+  organization = {W3Schools},
+  owner = {Michael Fegerl},
+  timestamp = {2014.04.29}
+}
+
+@ONLINE{xmlHttp,
+  title = {XML, last visited30.04.2014},
+  author = {w3schools},
+  year = {2014},
+  url = {http://www.w3schools.com/xml/xml_http.asp},
+  urldate = {30.04.2014},
+  howpublished = {online},
+  language = {English},
+  organization = {W3Schools},
+  owner = {Michi},
+  timestamp = {2014.04.29}
+}
+
 @ONLINE{CSS3,
+  title = {CSS3 , last visited:04.05.2014},
   author = {W3Schools},
+  year = {2012},
   url = {www.w3schools.com/css/css3_intro.asp},
   urldate = {04-05-2014},
   owner = {User},
@@ -674,7 +727,9 @@
 }
 
 @ONLINE{html5,
+  title = {HTML5, last visited:04.05.2014},
   author = {W3Schools},
+  year = {2012},
   url = {http://www.w3schools.com/html/html5_intro.asp},
   urldate = {04-05-2014},
   owner = {User},
@@ -682,7 +737,7 @@
 }
 
 @ONLINE{javaDataAreas,
-  title = {java run time data Aarea 2},
+  title = {java run time data Aarea 2, last visited:19.04.2014},
   author = {Ryan Wang},
   year = {2013},
   url = {http://java.dzone.com/articles/jvm-run-time-data-areas},
@@ -691,7 +746,7 @@
   timestamp = {2014.04.19}
 }
 
-@OTHER{JavaScriptprogramminglanguage2003,
+@OTHER{webstorma,
   author = {webstorm},
   booktitle = {Webstorm},
   date = {2014},
@@ -729,26 +784,11 @@
   urldate = {2012-09-13}
 }
 
-@ONLINE{ARpad,
-  title = {ARpad},
-  url = {http://www.emilyedu.info/2014/03/},
-  urldate = {04-05-2014},
-  owner = {User},
-  timestamp = {2014.05.04}
-}
-
 @MISC{gitWhat,
   title = {Git How To},
   owner = {Thomas},
   timestamp = {2014.04.29},
   url = {http://www.sbf5.com/~cduan/technical/git/git-1.shtml#simple-example}
-}
-
-@ONLINE{glassesPic,
-  url = {http://www.glassappsource.com/google-glass-features/secret-features-google-glass.html},
-  urldate = {04-05-2014},
-  owner = {User},
-  timestamp = {2014.05.04}
 }
 
 @MISC{javaGarbageCollector,
@@ -761,32 +801,6 @@
   owner = {Thomas},
   timestamp = {2014.04.20},
   url = {http://en.wikipedia.org/wiki/Java_%28programming_language%29}
-}
-
-@ONLINE{sessionstorage,
-  url = {https://code.google.com/p/sessionstorage/},
-  urldate = {05-05-2014},
-  owner = {User},
-  timestamp = {2014.05.05}
-}
-
-@ONLINE{smartcar,
-  url = {https://blogs.lt.vt.edu/jdschmitt2/augmented-reality-what-will-the-future-hold/},
-  urldate = {04-05-2014},
-  owner = {User},
-  timestamp = {2014.05.04}
-}
-
-@ONLINE{statistics,
-  url = {http://www.hiddenltd.com/blog/marketing-augmented-reality-infographic/},
-  urldate = {04-05-2014},
-  owner = {User},
-  timestamp = {2014.05.04}
-}
-
-@OTHER{,
-  owner = {Aleksey},
-  timestamp = {2014.05.02}
 }
 
 @comment{jabref-meta: selector_publisher:}
