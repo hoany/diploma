@@ -1,5 +1,5 @@
-\BOOKMARK [0][]{chapter*.5}{List of Figures}{}% 1
-\BOOKMARK [0][]{chapter*.6}{List of symbols}{}% 2
+\BOOKMARK [0][]{chapter*.4}{List of Figures}{}% 1
+\BOOKMARK [0][]{chapter*.5}{List of symbols}{}% 2
 \BOOKMARK [0][]{chapter.1}{Introduction}{}% 3
 \BOOKMARK [1][]{section.1.1}{General}{chapter.1}% 4
 \BOOKMARK [1][]{section.1.2}{Augmented Reality}{chapter.1}% 5
@@ -7,34 +7,29 @@
 \BOOKMARK [1][]{section.2.1}{Java}{chapter.2}% 7
 \BOOKMARK [1][]{section.2.2}{JavaScript, HTML5,CSS3}{chapter.2}% 8
 \BOOKMARK [1][]{section.2.3}{jQuery Mobile}{chapter.2}% 9
-\BOOKMARK [1][]{section.2.4}{Ajax}{chapter.2}% 10
+\BOOKMARK [1][]{section.2.4}{AJAX}{chapter.2}% 10
 \BOOKMARK [1][]{section.2.5}{Windows Azure}{chapter.2}% 11
 \BOOKMARK [1][]{section.2.6}{Microsoft SQL Server}{chapter.2}% 12
-\BOOKMARK [1][]{section.2.7}{Microsoft Dynamics Navision}{chapter.2}% 13
+\BOOKMARK [1][]{section.2.7}{Microsoft Dynamics NAV}{chapter.2}% 13
 \BOOKMARK [0][]{chapter.3}{Integrated Development Environment}{}% 14
 \BOOKMARK [1][]{section.3.1}{Andorid SDK Eclipse}{chapter.3}% 15
 \BOOKMARK [1][]{section.3.2}{JetBrains WebStorm}{chapter.3}% 16
 \BOOKMARK [1][]{section.3.3}{Visual Studio}{chapter.3}% 17
 \BOOKMARK [0][]{chapter.4}{Logic Implementation with JavaScript}{}% 18
-\BOOKMARK [1][]{section.4.1}{Start Menu}{chapter.4}% 19
-\BOOKMARK [1][]{section.4.2}{Help}{chapter.4}% 20
-\BOOKMARK [1][]{section.4.3}{Start Menu}{chapter.4}% 21
-\BOOKMARK [1][]{section.4.4}{My Favourites}{chapter.4}% 22
-\BOOKMARK [1][]{section.4.5}{About}{chapter.4}% 23
-\BOOKMARK [1][]{section.4.6}{Photo Gallery}{chapter.4}% 24
-\BOOKMARK [1][]{section.4.7}{Sessionstorage}{chapter.4}% 25
-\BOOKMARK [1][]{section.4.8}{Dynamic Selection of Colour}{chapter.4}% 26
-\BOOKMARK [0][]{chapter.5}{Implementation in Android Java and Metaio Tracking}{}% 27
-\BOOKMARK [1][]{section.5.1}{Android Platform}{chapter.5}% 28
-\BOOKMARK [1][]{section.5.2}{Working with the Metaio SDK}{chapter.5}% 29
-\BOOKMARK [1][]{section.5.3}{Track Objects}{chapter.5}% 30
-\BOOKMARK [1][]{section.5.4}{Get Email Account from an Android device}{chapter.5}% 31
-\BOOKMARK [0][]{chapter.6}{Design Concept}{}% 32
-\BOOKMARK [1][]{section.6.1}{Design concept with JQuery Mobile Framework}{chapter.6}% 33
-\BOOKMARK [1][]{section.6.2}{Video Gallery}{chapter.6}% 34
-\BOOKMARK [0][]{chapter.7}{Streaming}{}% 35
-\BOOKMARK [0][]{chapter.8}{Future enhancements and possibilities}{}% 36
-\BOOKMARK [0][]{chapter.9}{Resume}{}% 37
-\BOOKMARK [0][]{chapter.9}{Glossary}{}% 38
-\BOOKMARK [0][]{section*.7}{Bibliography}{}% 39
-\BOOKMARK [0][]{chapter*.8}{Bibliography}{}% 40
+\BOOKMARK [1][]{section.4.1}{Display}{chapter.4}% 19
+\BOOKMARK [1][]{section.4.2}{Implemented Function}{chapter.4}% 20
+\BOOKMARK [1][]{section.4.3}{Features}{chapter.4}% 21
+\BOOKMARK [0][]{chapter.5}{Implementation in Android Java and Metaio Tracking}{}% 22
+\BOOKMARK [1][]{section.5.1}{Android Platform}{chapter.5}% 23
+\BOOKMARK [1][]{section.5.2}{Working with the Metaio SDK}{chapter.5}% 24
+\BOOKMARK [1][]{section.5.3}{Track Objects}{chapter.5}% 25
+\BOOKMARK [1][]{section.5.4}{Get Email Account from an Android device}{chapter.5}% 26
+\BOOKMARK [0][]{chapter.6}{Design Concept}{}% 27
+\BOOKMARK [1][]{section.6.1}{Design concept with JQuery Mobile Framework}{chapter.6}% 28
+\BOOKMARK [1][]{section.6.2}{Video Gallery}{chapter.6}% 29
+\BOOKMARK [0][]{chapter.7}{Streaming}{}% 30
+\BOOKMARK [0][]{chapter.8}{Future enhancements and possibilities}{}% 31
+\BOOKMARK [0][]{chapter.9}{Resume}{}% 32
+\BOOKMARK [0][]{chapter.9}{Glossary}{}% 33
+\BOOKMARK [0][]{section*.6}{Bibliography}{}% 34
+\BOOKMARK [0][]{chapter*.7}{Bibliography}{}% 35

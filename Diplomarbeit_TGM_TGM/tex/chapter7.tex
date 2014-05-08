@@ -41,7 +41,7 @@ The web references can be accessed via the code in Visual Studio.
   stringstyle=\color{redstrings}
 }
 \subsubsection{Read from the web service}
-\begin{lstlisting}[caption=Example reading webservice]
+\begin{lstlisting}[caption=Example reading webservice,captionpos=b]
 //use the created web reference
 using NavWinProxy.NavArCarData;
 //Create a service object
@@ -63,7 +63,7 @@ In this code example the web reference can simply accessed with the using statem
 These are the default credentials from the user who runs the program. After that a  NavArCarDataPage object is created for storing data from the web service. Then the data can easily read with service object with service.Read(String ID)  method.
 \newpage
 \subsubsection{Write to the web service}
-\begin{lstlisting}[caption=Example writing to web service]
+\begin{lstlisting}[caption=Example writing to web service,captionpos=b]
  public string insertProfileData(string androidEmail,string profileEmail, string firstName, string lastName, string hash)
         {
         //create the service object
@@ -95,7 +95,8 @@ The beginning of the example code is similar to reading from the web service.At 
 
 The other important part of this application is to provide a web service for communication with the mobile devices.  To provide the functionality the C\# program uses ''System.Service.Model.web'' which contains several methods for implementing a web service.  In the following code example an operation contract is made to publish specific methods so that the mobile devices can access these methods.
 \\\\
-\begin{lstlisting}
+\begin{lstlisting}[caption=
+????,captionpos=b]
 [ServiceContract]
     public interface IOrderService
     {
@@ -113,7 +114,7 @@ This example consist of one method ''getKFZInfo'' with two parameters id and has
 The mobile app access the web service of the C\# application within JavaScript. Ajax is used for providing the communication between the user and the server. In the following code example an Ajax request to the server is shown.
 
 
-\begin{lstlisting}[language=html, caption=readcarname example]
+\begin{lstlisting}[language=html, caption=readcarname example,captionpos=b]
 function readcarname(cname){
         $(document).ready(function () {
             $.ajax({

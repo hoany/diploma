@@ -2,7 +2,7 @@
 % Loading the packages and classes
 %%-----------------------------------------------------------------------
 
-\documentclass[12pt,twoside,a4paper,final]{book}%
+\documentclass[12pt,oneside,a4paper,final]{book}%
 %\usepackage{glossaries}
 \usepackage{a4}%                        %% Verwendet mehr Platz auf einer A4 Seite als Option a4paper in book
 %\usepackage[english,ngerman]{babel}%    %% Babel Sprachen
@@ -212,7 +212,7 @@
 % Define month
 %%-----------------------------------------------------------------------
 
-\def\monthdis{Oktober 2012}
+\def\monthdis{Mai 2014}
 
 \makeglossaries
 %%-----------------------------------------------------------------------
@@ -224,13 +224,15 @@
 %\selectlanguage{english}%
 \renewcommand{\indexname}{Index}%
 \topmargin15.0mm
+\oddsidemargin20.5mm
 \include{tex/title}
 \frontmatter%   %% front matter will be numbered in small Roman letters
 
 %%-----------------------------------------------------------------------
 
+\include{tex/eid}%
+%\include{tex/prefacea}%
 
-\include{tex/prefacea}%
 \include{tex/abstracta}%
 %\selectlanguage{ngerman}%
 \include{tex/kurzzfsg}%
@@ -314,10 +316,10 @@
 %\clearpage%
 %\markboth{\indexname}{\indexname}%
 %\printindex%
-%\addcontentsline{toc}{chapter}{\numberline{}\indexname}%
+%\addcontentsline{toc}{chapter}{\numberline{} %\indexname}%
 
 %% include affidavit
-\include{tex/eid}%
+
 
 
 
