@@ -1,5 +1,5 @@
-\contentsline {chapter}{List of Figures}{ix}{chapter*.5}
-\contentsline {chapter}{Listings}{xi}{chapter*.5}
+\contentsline {chapter}{List of Figures}{vii}{chapter*.4}
+\contentsline {chapter}{Listings}{ix}{chapter*.4}
 \contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
 \contentsline {section}{\numberline {1.1}General}{1}{section.1.1}
 \contentsline {section}{\numberline {1.2}Augmented Reality}{2}{section.1.2}
@@ -147,4 +147,4 @@
 \contentsline {chapter}{\numberline {9}Resume}{100}{chapter.9}
 \contentsline {chapter}{\numberline {10}Glossary}{101}{chapter.10}
 \contentsline {chapter}{\numberline {11}Time recording}{102}{chapter.11}
-\contentsline {chapter}{Bibliography}{119}{chapter*.8}
+\contentsline {chapter}{Bibliography}{121}{chapter*.8}

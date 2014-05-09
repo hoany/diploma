@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.4.23)  8 MAY 2014 18:11
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.4.23)  9 MAY 2014 09:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -664,15 +664,15 @@ ut line 220.
 Package glossaries Info: Writing glossary file Diplomarbeit_KOPG_TGM.acn on inp
 ut line 220.
 
-(./Diplomarbeit_KOPG_TGM.aux (./tex/title.aux) (./tex/prefacea.aux)
-(./tex/eid.aux) (./tex/abstracta.aux) (./tex/kurzzfsg.aux) (./tex/chapter1.aux)
+(./Diplomarbeit_KOPG_TGM.aux (./tex/title.aux) (./tex/eid.aux)
+(./tex/abstracta.aux) (./tex/kurzzfsg.aux) (./tex/chapter1.aux)
 (./tex/chapter2.aux) (./tex/chapter3.aux) (./tex/chapter4.aux)
 (./tex/chapter5.aux) (./tex/chapter6.aux
 
 LaTeX Warning: Label `chapter:desgin' multiply defined.
 
 ) (./tex/chapter7.aux) (./tex/chapter8.aux) (./tex/chapter9.aux)
-(./tex/chapter10.aux))
+(./tex/chapter10.aux) (./tex/prefacea.aux))
 \openout1 = `Diplomarbeit_KOPG_TGM.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 226.
@@ -759,45 +759,19 @@ Non-PDF special ignored!
 
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./graphics/title/tgmlogo2.
-png>]pdfTeX warning (ext4): destination with the same identifier (name{page.1})
- has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.84 \end{titlepage}
-                     [1
-
-])
-\openout2 = `tex/prefacea.aux'.
-
- (./tex/prefacea.tex
-Underfull \hbox (badness 10000) in paragraph at lines 8--13
-
- []
-
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 14.
-(/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
-File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 14.
- [1
-
-
-
-
-]) [2]
+png>])
 \openout2 = `tex/eid.aux'.
 
-
-(./tex/eid.tex)
+ (./tex/eid.tex)
 Underfull \hbox (badness 10000) in paragraph at lines 12--239
 
  []
 
-[3
+[1
 
 
-] [4]
+
+] [2]
 \openout2 = `tex/abstracta.aux'.
 
  (./tex/abstracta.tex
@@ -810,14 +784,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 6--8
 
  []
 
-) [5
+) [3
 
 
 
 ]
 \openout2 = `tex/kurzzfsg.aux'.
 
- (./tex/kurzzfsg.tex) [6
+ (./tex/kurzzfsg.tex) [4
 
 
 
@@ -831,7 +805,7 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 4.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [7
+) [5
 
 
 
@@ -839,15 +813,15 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 \tf@toc=\write8
 \openout8 = `Diplomarbeit_KOPG_TGM.toc'.
 
- [8]
-(./Diplomarbeit_KOPG_TGM.lof [9
+ [6]
+(./Diplomarbeit_KOPG_TGM.lof [7
 
 
 ])
 \tf@lof=\write9
 \openout9 = `Diplomarbeit_KOPG_TGM.lof'.
 
- [10] (./Diplomarbeit_KOPG_TGM.lol [11
+ [8] (./Diplomarbeit_KOPG_TGM.lol [9
 
 
 ])
@@ -855,7 +829,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 \openout10 = `Diplomarbeit_KOPG_TGM.lol'.
 
 
-[12]
+[10]
 \openout2 = `tex/chapter1.aux'.
 
  (./tex/chapter1.tex
@@ -865,6 +839,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--8
 
  []
 
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 9.
+(/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 9.
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
@@ -905,7 +885,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 30--39
 
  []
 
-[2] <graphics/ARpad.png, id=509, 282.1815pt x 188.8875pt>
+[2] <graphics/ARpad.png, id=497, 282.1815pt x 188.8875pt>
 File: graphics/ARpad.png Graphic file (type png)
 
 <use graphics/ARpad.png>
@@ -931,14 +911,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 40--56
 
  []
 
-<graphics/GoogleGlasses.jpg, id=512, 1464.93243pt x 824.26865pt>
+<graphics/GoogleGlasses.jpg, id=500, 1464.93243pt x 824.26865pt>
 File: graphics/GoogleGlasses.jpg Graphic file (type jpg)
 
 <use graphics/GoogleGlasses.jpg>
 Package pdftex.def Info: graphics/GoogleGlasses.jpg used on input line 62.
 (pdftex.def)             Requested size: 239.98224pt x 135.03pt.
 
-<graphics/googlefunctions.png, id=515, 642.4pt x 361.35pt>
+<graphics/googlefunctions.png, id=503, 642.4pt x 361.35pt>
 File: graphics/googlefunctions.png Graphic file (type png)
 
 <use graphics/googlefunctions.png>
@@ -1015,7 +995,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 102--108
  []
 
 [5 <./graphics/googlefunctions.png>]
-<graphics/smartcar.PNG, id=536, 209.583pt x 253.602pt>
+<graphics/smartcar.PNG, id=522, 209.583pt x 253.602pt>
 File: graphics/smartcar.PNG Graphic file (type png)
 
 <use graphics/smartcar.PNG>
@@ -1195,7 +1175,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 14--16
 
 
 
-] <graphics/java_subclass.PNG, id=613, 963.6pt x 722.7pt>
+] <graphics/java_subclass.PNG, id=600, 963.6pt x 722.7pt>
 File: graphics/java_subclass.PNG Graphic file (type png)
 
 <use graphics/java_subclass.PNG>
@@ -1207,7 +1187,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 60--62
  []
 
 [14] [15]
-<graphics/java-code-execution-process.png, id=658, 1012.78375pt x 774.895pt>
+<graphics/java-code-execution-process.png, id=645, 1012.78375pt x 774.895pt>
 File: graphics/java-code-execution-process.png Graphic file (type png)
 
 <use graphics/java-code-execution-process.png>
@@ -1218,7 +1198,7 @@ Package pdftex.def Info: graphics/java-code-execution-process.png used on input
 (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2013/06/27 1.5pre1 listings language file
 ) [17]
-<graphics/java-data-areas.PNG, id=691, 1012.78375pt x 774.895pt>
+<graphics/java-data-areas.PNG, id=678, 1012.78375pt x 774.895pt>
 File: graphics/java-data-areas.PNG Graphic file (type png)
 
 <use graphics/java-data-areas.PNG>
@@ -1314,14 +1294,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 187--189
 
  []
 
-<graphics/ajaxwork.png, id=731, 428.35031pt x 243.91125pt>
+<graphics/ajaxwork.png, id=719, 428.35031pt x 243.91125pt>
 File: graphics/ajaxwork.png Graphic file (type png)
 
 <use graphics/ajaxwork.png>
 Package pdftex.def Info: graphics/ajaxwork.png used on input line 195.
 (pdftex.def)             Requested size: 284.5291pt x 162.01657pt.
  [22 <./graphics/ajaxwork.png>]
-<graphics/azurePlattform.jpg, id=744, 668.4975pt x 423.5825pt>
+<graphics/azurePlattform.jpg, id=732, 668.4975pt x 423.5825pt>
 File: graphics/azurePlattform.jpg Graphic file (type jpg)
 
 <use graphics/azurePlattform.jpg>
@@ -1332,21 +1312,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 213--216
 
  []
 
-<graphics/sqlserver.PNG, id=756, 805.50937pt x 456.20438pt>
+<graphics/sqlserver.PNG, id=743, 805.50937pt x 456.20438pt>
 File: graphics/sqlserver.PNG Graphic file (type png)
 
 <use graphics/sqlserver.PNG>
 Package pdftex.def Info: graphics/sqlserver.PNG used on input line 226.
 (pdftex.def)             Requested size: 411.93512pt x 233.30156pt.
  [24 <./graphics/sqlserver.PNG>]
-<graphics/navSales.jpg, id=765, 949.74825pt x 616.704pt>
+<graphics/navSales.jpg, id=752, 949.74825pt x 616.704pt>
 File: graphics/navSales.jpg Graphic file (type jpg)
 
 <use graphics/navSales.jpg>
 Package pdftex.def Info: graphics/navSales.jpg used on input line 240.
 (pdftex.def)             Requested size: 411.9488pt x 267.49243pt.
  [25 <./graphics/navSales.jpg>]
-<graphics/navTable.PNG, id=774, 590.205pt x 298.86656pt>
+<graphics/navTable.PNG, id=760, 590.205pt x 298.86656pt>
 File: graphics/navTable.PNG Graphic file (type png)
 
 <use graphics/navTable.PNG>
@@ -1358,7 +1338,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 247--254
  []
 
 [26 <./graphics/navTable.PNG>]
-<graphics/customerlist.PNG, id=782, 637.63219pt x 411.78844pt>
+<graphics/customerlist.PNG, id=769, 637.63219pt x 411.78844pt>
 File: graphics/customerlist.PNG Graphic file (type png)
 
 <use graphics/customerlist.PNG>
@@ -1374,7 +1354,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 256--267
 
  (./tex/chapter3.tex
 Chapter 3.
-<graphics/eclipse.png, id=789, 803.0pt x 702.625pt>
+<graphics/eclipse.png, id=777, 803.0pt x 702.625pt>
 File: graphics/eclipse.png Graphic file (type png)
  <use graphics/eclipse.png>
 Package pdftex.def Info: graphics/eclipse.png used on input line 16.
@@ -1407,7 +1387,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 57--59
 
  []
 
-<graphics/chapter3/1.png, id=810, 980.66376pt x 571.13374pt>
+<graphics/chapter3/1.png, id=797, 980.66376pt x 571.13374pt>
 File: graphics/chapter3/1.png Graphic file (type png)
 
 <use graphics/chapter3/1.png>
@@ -1417,7 +1397,7 @@ Package pdftex.def Info: graphics/chapter3/1.png used on input line 62.
 LaTeX Font Info:    Font shape `OMS/cmr/m/it' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 71.
  [31]
-<graphics/visualstudio.PNG, id=830, 1027.58907pt x 549.55313pt>
+<graphics/visualstudio.PNG, id=817, 1027.58907pt x 549.55313pt>
 File: graphics/visualstudio.PNG Graphic file (type png)
 
 <use graphics/visualstudio.PNG>
@@ -1448,7 +1428,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 17--19
 
  []
 
-<graphics/chapter4/1.png, id=843, 333.245pt x 360.34625pt>
+<graphics/chapter4/1.png, id=831, 333.245pt x 360.34625pt>
 File: graphics/chapter4/1.png Graphic file (type png)
 
 <use graphics/chapter4/1.png>
@@ -1493,7 +1473,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 85--87
 
  []
 
-<graphics/chapter4/2.png, id=887, 325.215pt x 389.455pt>
+<graphics/chapter4/2.png, id=873, 325.215pt x 389.455pt>
 File: graphics/chapter4/2.png Graphic file (type png)
 
 <use graphics/chapter4/2.png>
@@ -1524,7 +1504,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 138--140
 
  []
 
-<graphics/chapter4/3.png, id=893, 333.245pt x 422.57875pt>
+<graphics/chapter4/3.png, id=879, 333.245pt x 422.57875pt>
 File: graphics/chapter4/3.png Graphic file (type png)
 
 <use graphics/chapter4/3.png>
@@ -1542,7 +1522,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 198--201
 
 [39
 
-] <graphics/chapter4/5.png, id=950, 406.51875pt x 722.7pt>
+] <graphics/chapter4/5.png, id=938, 406.51875pt x 722.7pt>
 File: graphics/chapter4/5.png Graphic file (type png)
 
 <use graphics/chapter4/5.png>
@@ -1553,14 +1533,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 211--213
 
  []
 
-<graphics/chapter4/6.png, id=956, 406.51875pt x 722.7pt>
+<graphics/chapter4/6.png, id=944, 406.51875pt x 722.7pt>
 File: graphics/chapter4/6.png Graphic file (type png)
 
 <use graphics/chapter4/6.png>
 Package pdftex.def Info: graphics/chapter4/6.png used on input line 216.
 (pdftex.def)             Requested size: 205.96938pt x 366.16812pt.
  [41 <./graphics/chapter4/6.png>]
-<graphics/chapter4/7.png, id=963, 255.95625pt x 292.09125pt>
+<graphics/chapter4/7.png, id=950, 255.95625pt x 292.09125pt>
 File: graphics/chapter4/7.png Graphic file (type png)
 
 <use graphics/chapter4/7.png>
@@ -1577,7 +1557,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 222--229
  []
 
 [42 <./graphics/chapter4/7.png>]
-<graphics/chapter4/8.png, id=970, 178.704pt x 317.988pt>
+<graphics/chapter4/8.png, id=957, 178.704pt x 317.988pt>
 File: graphics/chapter4/8.png Graphic file (type png)
 
 <use graphics/chapter4/8.png>
@@ -1608,7 +1588,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 242--244
 
  []
 
-<graphics/chapter4/9.png, id=976, 450.68375pt x 704.6325pt>
+<graphics/chapter4/9.png, id=963, 450.68375pt x 704.6325pt>
 File: graphics/chapter4/9.png Graphic file (type png)
 
 <use graphics/chapter4/9.png>
@@ -1629,7 +1609,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 254--256
 
  []
 
-<graphics/chapter4/10.png, id=982, 406.51875pt x 722.7pt>
+<graphics/chapter4/10.png, id=970, 406.51875pt x 722.7pt>
 File: graphics/chapter4/10.png Graphic file (type png)
 
 <use graphics/chapter4/10.png>
@@ -1645,14 +1625,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 278--281
 
  []
 
-<graphics/chapter4/11.png, id=988, 357.335pt x 43.16125pt>
+<graphics/chapter4/11.png, id=976, 357.335pt x 43.16125pt>
 File: graphics/chapter4/11.png Graphic file (type png)
 
 <use graphics/chapter4/11.png>
 Package pdftex.def Info: graphics/chapter4/11.png used on input line 284.
 (pdftex.def)             Requested size: 267.75768pt x 32.34319pt.
 
-<graphics/chapter4/12.png, id=989, 332.24126pt x 44.165pt>
+<graphics/chapter4/12.png, id=977, 332.24126pt x 44.165pt>
 File: graphics/chapter4/12.png Graphic file (type png)
 
 <use graphics/chapter4/12.png>
@@ -1663,7 +1643,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 299--301
 
  []
 
-<graphics/chapter4/15.png, id=1001, 406.51875pt x 722.7pt>
+<graphics/chapter4/15.png, id=988, 406.51875pt x 722.7pt>
 File: graphics/chapter4/15.png Graphic file (type png)
 
 <use graphics/chapter4/15.png>
@@ -1704,7 +1684,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 341--344
 
  []
 
-<graphics/chapter4/16.png, id=1009, 348.30125pt x 55.20625pt>
+<graphics/chapter4/16.png, id=996, 348.30125pt x 55.20625pt>
 File: graphics/chapter4/16.png Graphic file (type png)
 
 <use graphics/chapter4/16.png>
@@ -1715,7 +1695,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 359--361
 
  []
 
-<graphics/chapter4/17.png, id=1010, 356.33125pt x 544.0325pt>
+<graphics/chapter4/17.png, id=997, 356.33125pt x 544.0325pt>
 File: graphics/chapter4/17.png Graphic file (type png)
 
 <use graphics/chapter4/17.png>
@@ -1861,7 +1841,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 769--771
 
  []
 
-<graphics/chapter4/20.png, id=1258, 481.8pt x 245.91875pt>
+<graphics/chapter4/20.png, id=1246, 481.8pt x 245.91875pt>
 File: graphics/chapter4/20.png Graphic file (type png)
 
 <use graphics/chapter4/20.png>
@@ -1891,14 +1871,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 818--820
 
  []
 
-<graphics/chapter4/13.png, id=1275, 244.915pt x 155.58125pt>
+<graphics/chapter4/13.png, id=1262, 244.915pt x 155.58125pt>
 File: graphics/chapter4/13.png Graphic file (type png)
 
 <use graphics/chapter4/13.png>
 Package pdftex.def Info: graphics/chapter4/13.png used on input line 823.
 (pdftex.def)             Requested size: 205.96938pt x 130.84402pt.
 
-<graphics/chapter4/14.png, id=1276, 265.99374pt x 264.99pt>
+<graphics/chapter4/14.png, id=1263, 265.99374pt x 264.99pt>
 File: graphics/chapter4/14.png Graphic file (type png)
 
 <use graphics/chapter4/14.png>
@@ -1914,7 +1894,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 864--866
 
  []
 
-[62] <graphics/photoswipe.PNG, id=1314, 685.8122pt x 155.83218pt>
+[62] <graphics/photoswipe.PNG, id=1302, 685.8122pt x 155.83218pt>
 File: graphics/photoswipe.PNG Graphic file (type png)
 
 <use graphics/photoswipe.PNG>
@@ -1941,7 +1921,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 883--884
  []
 
 [63 <./graphics/photoswipe.PNG>]
-<graphics/sessionstorage1.PNG, id=1322, 683.55376pt x 181.42781pt>
+<graphics/sessionstorage1.PNG, id=1310, 683.55376pt x 181.42781pt>
 File: graphics/sessionstorage1.PNG Graphic file (type png)
 
 <use graphics/sessionstorage1.PNG>
@@ -1952,14 +1932,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 893--896
 
  []
 
-<graphics/sessionstorage2.PNG, id=1323, 685.8122pt x 159.59625pt>
+<graphics/sessionstorage2.PNG, id=1311, 685.8122pt x 159.59625pt>
 File: graphics/sessionstorage2.PNG Graphic file (type png)
 
 <use graphics/sessionstorage2.PNG>
 Package pdftex.def Info: graphics/sessionstorage2.PNG used on input line 899.
 (pdftex.def)             Requested size: 411.93877pt x 95.86562pt.
 
-<graphics/sessionstorage3.PNG, id=1324, 685.05937pt x 114.4275pt>
+<graphics/sessionstorage3.PNG, id=1312, 685.05937pt x 114.4275pt>
 File: graphics/sessionstorage3.PNG Graphic file (type png)
 
 <use graphics/sessionstorage3.PNG>
@@ -1967,7 +1947,7 @@ Package pdftex.def Info: graphics/sessionstorage3.PNG used on input line 906.
 (pdftex.def)             Requested size: 411.93877pt x 68.80893pt.
  [64 <./graphics/sessionstorage1.PNG> <./graphics/sessionstorage2.PNG> <./graph
 ics/sessionstorage3.PNG>]
-<graphics/Sessionstorage41.PNG, id=1332, 685.8122pt x 269.50688pt>
+<graphics/Sessionstorage41.PNG, id=1320, 685.8122pt x 269.50688pt>
 File: graphics/Sessionstorage41.PNG Graphic file (type png)
 
 <use graphics/Sessionstorage41.PNG>
@@ -1978,14 +1958,14 @@ File: graphics/chapter4/6.png Graphic file (type png)
 Package pdftex.def Info: graphics/chapter4/6.png used on input line 923.
 (pdftex.def)             Requested size: 131.82341pt x 234.3454pt.
  [65 <./graphics/Sessionstorage41.PNG>]
-<graphics/chapter4/fg6.png, id=1340, 406.51875pt x 722.7pt>
+<graphics/chapter4/fg6.png, id=1327, 406.51875pt x 722.7pt>
 File: graphics/chapter4/fg6.png Graphic file (type png)
 
 <use graphics/chapter4/fg6.png>
 Package pdftex.def Info: graphics/chapter4/fg6.png used on input line 931.
 (pdftex.def)             Requested size: 131.82341pt x 234.3454pt.
 
-<graphics/bgfn.PNG, id=1341, 685.05937pt x 308.65312pt>
+<graphics/bgfn.PNG, id=1328, 685.05937pt x 308.65312pt>
 File: graphics/bgfn.PNG Graphic file (type png)
 
 <use graphics/bgfn.PNG>
@@ -2059,14 +2039,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 196--198
 
  []
 
-[71] <graphics/tracking.png, id=1447, 1927.2pt x 1084.05pt>
+[71] <graphics/tracking.png, id=1434, 1927.2pt x 1084.05pt>
 File: graphics/tracking.png Graphic file (type png)
 
 <use graphics/tracking.png>
 Package pdftex.def Info: graphics/tracking.png used on input line 211.
 (pdftex.def)             Requested size: 411.92859pt x 231.70982pt.
  [72 <./graphics/tracking.png>]
-<graphics/arel.PNG, id=1457, 481.04718pt x 417.05812pt>
+<graphics/arel.PNG, id=1444, 481.04718pt x 417.05812pt>
 File: graphics/arel.PNG Graphic file (type png)
 
 <use graphics/arel.PNG>
@@ -2107,7 +2087,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 346--348
 
  (./tex/chapter6.tex
 Chapter 6.
-<graphics/AppStructure.PNG, id=1624, 517.935pt x 319.1925pt>
+<graphics/AppStructure.PNG, id=1612, 517.935pt x 319.1925pt>
 File: graphics/AppStructure.PNG Graphic file (type png)
 
 <use graphics/AppStructure.PNG>
@@ -2162,7 +2142,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 56--57
 
  []
 
-[83] <graphics/Menu.PNG, id=1666, 773.89125pt x 368.87813pt>
+[83] <graphics/Menu.PNG, id=1653, 773.89125pt x 368.87813pt>
 File: graphics/Menu.PNG Graphic file (type png)
 
 <use graphics/Menu.PNG>
@@ -2183,14 +2163,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 77--79
 
  []
 
-<graphics/SPanel.PNG, id=1673, 664.73344pt x 448.67625pt>
+<graphics/SPanel.PNG, id=1660, 664.73344pt x 448.67625pt>
 File: graphics/SPanel.PNG Graphic file (type png)
 
 <use graphics/SPanel.PNG>
 Package pdftex.def Info: graphics/SPanel.PNG used on input line 83.
 (pdftex.def)             Requested size: 411.93877pt x 278.04633pt.
  [85 <./graphics/SPanel.PNG>]
-<graphics/Table.PNG, id=1681, 823.57687pt x 461.47406pt>
+<graphics/Table.PNG, id=1668, 823.57687pt x 461.47406pt>
 File: graphics/Table.PNG Graphic file (type png)
 
 <use graphics/Table.PNG>
@@ -2208,7 +2188,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 117--119
 
  []
 
-<graphics/dynamic.png, id=1698, 588.69937pt x 553.31718pt>
+<graphics/dynamic.png, id=1686, 588.69937pt x 553.31718pt>
 File: graphics/dynamic.png Graphic file (type png)
 
 <use graphics/dynamic.png>
@@ -2220,7 +2200,7 @@ Package pdftex.def Info: graphics/dynamic.png used on input line 124.
 
 (./tex/chapter7.tex
 Chapter 7.
-<graphics/networkoverview.png, id=1728, 719.68875pt x 399.74344pt>
+<graphics/networkoverview.png, id=1716, 719.68875pt x 399.74344pt>
 File: graphics/networkoverview.png Graphic file (type png)
 
 <use graphics/networkoverview.png>
@@ -2240,7 +2220,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 16--18
 
  []
 
-<graphics/webref.png, id=1735, 182.18062pt x 166.37157pt>
+<graphics/webref.png, id=1722, 182.18062pt x 166.37157pt>
 File: graphics/webref.png Graphic file (type png)
 
 <use graphics/webref.png>
@@ -2259,14 +2239,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 96--99
 
  []
 
-[93] [94] <graphics/trackingtable.png, id=1825, 265.74281pt x 90.3375pt>
+[93] [94] <graphics/trackingtable.png, id=1812, 265.74281pt x 90.3375pt>
 File: graphics/trackingtable.png Graphic file (type png)
 
 <use graphics/trackingtable.png>
 Package pdftex.def Info: graphics/trackingtable.png used on input line 151.
 (pdftex.def)             Requested size: 284.5488pt x 96.73045pt.
 
-<graphics/trackingtableexample.png, id=1826, 521.95pt x 44.165pt>
+<graphics/trackingtableexample.png, id=1813, 521.95pt x 44.165pt>
 File: graphics/trackingtableexample.png Graphic file (type png)
 
 <use graphics/trackingtableexample.png>
@@ -2274,28 +2254,28 @@ Package pdftex.def Info: graphics/trackingtableexample.png used on input line 1
 58.
 (pdftex.def)             Requested size: 411.94572pt x 34.85692pt.
  [95 <./graphics/trackingtable.png> <./graphics/trackingtableexample.png>]
-<graphics/cardatatable.png, id=1838, 263.48438pt x 152.82094pt>
+<graphics/cardatatable.png, id=1825, 263.48438pt x 152.82094pt>
 File: graphics/cardatatable.png Graphic file (type png)
 
 <use graphics/cardatatable.png>
 Package pdftex.def Info: graphics/cardatatable.png used on input line 165.
 (pdftex.def)             Requested size: 227.63342pt x 132.02737pt.
 
-<graphics/cardatatablentry.png, id=1839, 659.46375pt x 42.1575pt>
+<graphics/cardatatablentry.png, id=1826, 659.46375pt x 42.1575pt>
 File: graphics/cardatatablentry.png Graphic file (type png)
 
 <use graphics/cardatatablentry.png>
 Package pdftex.def Info: graphics/cardatatablentry.png used on input line 173.
 (pdftex.def)             Requested size: 411.95251pt x 26.33484pt.
 
-<graphics/userdatatable.png, id=1840, 355.3275pt x 89.33376pt>
+<graphics/userdatatable.png, id=1827, 355.3275pt x 89.33376pt>
 File: graphics/userdatatable.png Graphic file (type png)
 
 <use graphics/userdatatable.png>
 Package pdftex.def Info: graphics/userdatatable.png used on input line 181.
 (pdftex.def)             Requested size: 284.53346pt x 71.53525pt.
 
-<graphics/userdatatableentry.png, id=1841, 623.32875pt x 43.16125pt>
+<graphics/userdatatableentry.png, id=1828, 623.32875pt x 43.16125pt>
 File: graphics/userdatatableentry.png Graphic file (type png)
 
 <use graphics/userdatatableentry.png>
@@ -2309,7 +2289,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 162--190
 
 [96 <./graphics/cardatatable.png> <./graphics/cardatatablentry.png> <./graphics
 /userdatatable.png>]
-<graphics/webservice.png, id=1847, 438.63875pt x 137.51375pt>
+<graphics/webservice.png, id=1834, 438.63875pt x 137.51375pt>
 File: graphics/webservice.png Graphic file (type png)
 
 <use graphics/webservice.png>
@@ -2409,7 +2389,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 42--294
 
  (./tex/chapter10.tex
 Chapter 11.
-<graphics/timerecording/FegerlDP.pdf, id=1877, 597.43219pt x 844.83672pt>
+<graphics/timerecording/FegerlDP.pdf, id=1864, 597.43219pt x 844.83672pt>
 File: graphics/timerecording/FegerlDP.pdf Graphic file (type pdf)
 
 <use graphics/timerecording/FegerlDP.pdf>
@@ -2427,7 +2407,7 @@ Package pdftex.def Info: graphics/timerecording/FegerlDP.pdf used on input line
 
 
 ]
-<graphics/timerecording/FegerlDP.pdf, id=1882, page=1, 597.43219pt x 844.83672p
+<graphics/timerecording/FegerlDP.pdf, id=1869, page=1, 597.43219pt x 844.83672p
 t>
 File: graphics/timerecording/FegerlDP.pdf Graphic file (type pdf)
  <use graphics/timerecording/FegerlDP.pdf, page 1>
@@ -2459,7 +2439,7 @@ Package pdftex.def Info: graphics/timerecording/FegerlDP.pdf, page1 used on inp
 ut line 3.
 (pdftex.def)             Requested size: 597.93211pt x 845.54366pt.
  [103 <./graphics/timerecording/FegerlDP.pdf>]
-<graphics/timerecording/FegerlDP.pdf, id=1900, page=2, 597.43219pt x 844.83672p
+<graphics/timerecording/FegerlDP.pdf, id=1887, page=2, 597.43219pt x 844.83672p
 t>
 File: graphics/timerecording/FegerlDP.pdf Graphic file (type pdf)
  <use graphics/timerecording/FegerlDP.pdf, page 2>
@@ -2479,7 +2459,7 @@ Package pdftex.def Info: graphics/timerecording/FegerlDP.pdf, page2 used on inp
 ut line 3.
 (pdftex.def)             Requested size: 597.93211pt x 845.54366pt.
  [104 <./graphics/timerecording/FegerlDP.pdf>]
-<graphics/timerecording/FegerlDP.pdf, id=1905, page=3, 597.43219pt x 844.83672p
+<graphics/timerecording/FegerlDP.pdf, id=1893, page=3, 597.43219pt x 844.83672p
 t>
 File: graphics/timerecording/FegerlDP.pdf Graphic file (type pdf)
  <use graphics/timerecording/FegerlDP.pdf, page 3>
@@ -2499,7 +2479,7 @@ Package pdftex.def Info: graphics/timerecording/FegerlDP.pdf, page3 used on inp
 ut line 3.
 (pdftex.def)             Requested size: 597.93211pt x 845.54366pt.
  [105 <./graphics/timerecording/FegerlDP.pdf>]
-<graphics/timerecording/FegerlDP.pdf, id=1910, page=4, 597.43219pt x 844.83672p
+<graphics/timerecording/FegerlDP.pdf, id=1898, page=4, 597.43219pt x 844.83672p
 t>
 File: graphics/timerecording/FegerlDP.pdf Graphic file (type pdf)
  <use graphics/timerecording/FegerlDP.pdf, page 4>
@@ -2519,7 +2499,7 @@ Package pdftex.def Info: graphics/timerecording/FegerlDP.pdf, page4 used on inp
 ut line 3.
 (pdftex.def)             Requested size: 597.93211pt x 845.54366pt.
  [106 <./graphics/timerecording/FegerlDP.pdf>]
-<graphics/timerecording/PokornyDP.pdf, id=1915, 597.43219pt x 844.83672pt>
+<graphics/timerecording/PokornyDP.pdf, id=1903, 597.43219pt x 844.83672pt>
 File: graphics/timerecording/PokornyDP.pdf Graphic file (type pdf)
 
 <use graphics/timerecording/PokornyDP.pdf>
@@ -2533,7 +2513,7 @@ Package pdftex.def Info: graphics/timerecording/PokornyDP.pdf used on input lin
 e 4.
 (pdftex.def)             Requested size: 597.43074pt x 844.83466pt.
 
-<graphics/timerecording/PokornyDP.pdf, id=1916, page=1, 597.43219pt x 844.83672
+<graphics/timerecording/PokornyDP.pdf, id=1904, page=1, 597.43219pt x 844.83672
 pt>
 File: graphics/timerecording/PokornyDP.pdf Graphic file (type pdf)
  <use graphics/timerecording/PokornyDP.pdf, page 1>
@@ -2565,7 +2545,7 @@ Package pdftex.def Info: graphics/timerecording/PokornyDP.pdf, page1 used on in
 put line 4.
 (pdftex.def)             Requested size: 597.93211pt x 845.54366pt.
  [107 <./graphics/timerecording/PokornyDP.pdf>]
-<graphics/timerecording/PokornyDP.pdf, id=1935, page=2, 597.43219pt x 844.83672
+<graphics/timerecording/PokornyDP.pdf, id=1922, page=2, 597.43219pt x 844.83672
 pt>
 File: graphics/timerecording/PokornyDP.pdf Graphic file (type pdf)
  <use graphics/timerecording/PokornyDP.pdf, page 2>
@@ -2585,7 +2565,7 @@ Package pdftex.def Info: graphics/timerecording/PokornyDP.pdf, page2 used on in
 put line 4.
 (pdftex.def)             Requested size: 597.93211pt x 845.54366pt.
  [108 <./graphics/timerecording/PokornyDP.pdf>]
-<graphics/timerecording/PokornyDP.pdf, id=1940, page=3, 597.43219pt x 844.83672
+<graphics/timerecording/PokornyDP.pdf, id=1927, page=3, 597.43219pt x 844.83672
 pt>
 File: graphics/timerecording/PokornyDP.pdf Graphic file (type pdf)
  <use graphics/timerecording/PokornyDP.pdf, page 3>
@@ -2605,7 +2585,7 @@ Package pdftex.def Info: graphics/timerecording/PokornyDP.pdf, page3 used on in
 put line 4.
 (pdftex.def)             Requested size: 597.93211pt x 845.54366pt.
  [109 <./graphics/timerecording/PokornyDP.pdf>]
-<graphics/timerecording/GeorgeDP.pdf, id=1945, 597.43219pt x 844.83672pt>
+<graphics/timerecording/GeorgeDP.pdf, id=1932, 597.43219pt x 844.83672pt>
 File: graphics/timerecording/GeorgeDP.pdf Graphic file (type pdf)
 
 <use graphics/timerecording/GeorgeDP.pdf>
@@ -2619,7 +2599,7 @@ Package pdftex.def Info: graphics/timerecording/GeorgeDP.pdf used on input line
  5.
 (pdftex.def)             Requested size: 597.43074pt x 844.83466pt.
 
-<graphics/timerecording/GeorgeDP.pdf, id=1946, page=1, 597.43219pt x 844.83672p
+<graphics/timerecording/GeorgeDP.pdf, id=1933, page=1, 597.43219pt x 844.83672p
 t>
 File: graphics/timerecording/GeorgeDP.pdf Graphic file (type pdf)
  <use graphics/timerecording/GeorgeDP.pdf, page 1>
@@ -2651,7 +2631,7 @@ Package pdftex.def Info: graphics/timerecording/GeorgeDP.pdf, page1 used on inp
 ut line 5.
 (pdftex.def)             Requested size: 597.93211pt x 845.54366pt.
  [110 <./graphics/timerecording/GeorgeDP.pdf>]
-<graphics/timerecording/GeorgeDP.pdf, id=1964, page=2, 597.43219pt x 844.83672p
+<graphics/timerecording/GeorgeDP.pdf, id=1952, page=2, 597.43219pt x 844.83672p
 t>
 File: graphics/timerecording/GeorgeDP.pdf Graphic file (type pdf)
  <use graphics/timerecording/GeorgeDP.pdf, page 2>
@@ -2671,7 +2651,7 @@ Package pdftex.def Info: graphics/timerecording/GeorgeDP.pdf, page2 used on inp
 ut line 5.
 (pdftex.def)             Requested size: 597.93211pt x 845.54366pt.
  [111 <./graphics/timerecording/GeorgeDP.pdf>]
-<graphics/timerecording/GeorgeDP.pdf, id=1969, page=3, 597.43219pt x 844.83672p
+<graphics/timerecording/GeorgeDP.pdf, id=1957, page=3, 597.43219pt x 844.83672p
 t>
 File: graphics/timerecording/GeorgeDP.pdf Graphic file (type pdf)
  <use graphics/timerecording/GeorgeDP.pdf, page 3>
@@ -2691,7 +2671,7 @@ Package pdftex.def Info: graphics/timerecording/GeorgeDP.pdf, page3 used on inp
 ut line 5.
 (pdftex.def)             Requested size: 597.93211pt x 845.54366pt.
  [112 <./graphics/timerecording/GeorgeDP.pdf>]
-<graphics/timerecording/GeorgeDP.pdf, id=1975, page=4, 597.43219pt x 844.83672p
+<graphics/timerecording/GeorgeDP.pdf, id=1962, page=4, 597.43219pt x 844.83672p
 t>
 File: graphics/timerecording/GeorgeDP.pdf Graphic file (type pdf)
  <use graphics/timerecording/GeorgeDP.pdf, page 4>
@@ -2711,7 +2691,7 @@ Package pdftex.def Info: graphics/timerecording/GeorgeDP.pdf, page4 used on inp
 ut line 5.
 (pdftex.def)             Requested size: 597.93211pt x 845.54366pt.
  [113 <./graphics/timerecording/GeorgeDP.pdf>]
-<graphics/timerecording/GeorgeDP.pdf, id=1981, page=5, 597.43219pt x 844.83672p
+<graphics/timerecording/GeorgeDP.pdf, id=1967, page=5, 597.43219pt x 844.83672p
 t>
 File: graphics/timerecording/GeorgeDP.pdf Graphic file (type pdf)
  <use graphics/timerecording/GeorgeDP.pdf, page 5>
@@ -2731,7 +2711,7 @@ Package pdftex.def Info: graphics/timerecording/GeorgeDP.pdf, page5 used on inp
 ut line 5.
 (pdftex.def)             Requested size: 597.93211pt x 845.54366pt.
  [114 <./graphics/timerecording/GeorgeDP.pdf>]
-<graphics/timerecording/GeorgeDP.pdf, id=1986, page=6, 597.43219pt x 844.83672p
+<graphics/timerecording/GeorgeDP.pdf, id=1972, page=6, 597.43219pt x 844.83672p
 t>
 File: graphics/timerecording/GeorgeDP.pdf Graphic file (type pdf)
  <use graphics/timerecording/GeorgeDP.pdf, page 6>
@@ -2751,7 +2731,7 @@ Package pdftex.def Info: graphics/timerecording/GeorgeDP.pdf, page6 used on inp
 ut line 5.
 (pdftex.def)             Requested size: 597.93211pt x 845.54366pt.
  [115 <./graphics/timerecording/GeorgeDP.pdf>]
-<graphics/timerecording/KorabachDP.pdf, id=1991, 597.43219pt x 844.83672pt>
+<graphics/timerecording/KorabachDP.pdf, id=1978, 597.43219pt x 844.83672pt>
 File: graphics/timerecording/KorabachDP.pdf Graphic file (type pdf)
 
 <use graphics/timerecording/KorabachDP.pdf>
@@ -2765,7 +2745,7 @@ Package pdftex.def Info: graphics/timerecording/KorabachDP.pdf used on input li
 ne 6.
 (pdftex.def)             Requested size: 597.43074pt x 844.83466pt.
 
-<graphics/timerecording/KorabachDP.pdf, id=1992, page=1, 597.43219pt x 844.8367
+<graphics/timerecording/KorabachDP.pdf, id=1979, page=1, 597.43219pt x 844.8367
 2pt>
 File: graphics/timerecording/KorabachDP.pdf Graphic file (type pdf)
  <use graphics/timerecording/KorabachDP.pdf, page 1>
@@ -2797,7 +2777,7 @@ Package pdftex.def Info: graphics/timerecording/KorabachDP.pdf, page1 used on i
 nput line 6.
 (pdftex.def)             Requested size: 597.93211pt x 845.54366pt.
  [116 <./graphics/timerecording/KorabachDP.pdf>]
-<graphics/timerecording/KorabachDP.pdf, id=2010, page=2, 597.43219pt x 844.8367
+<graphics/timerecording/KorabachDP.pdf, id=1998, page=2, 597.43219pt x 844.8367
 2pt>
 File: graphics/timerecording/KorabachDP.pdf Graphic file (type pdf)
  <use graphics/timerecording/KorabachDP.pdf, page 2>
@@ -2817,7 +2797,7 @@ Package pdftex.def Info: graphics/timerecording/KorabachDP.pdf, page2 used on i
 nput line 6.
 (pdftex.def)             Requested size: 597.93211pt x 845.54366pt.
  [117 <./graphics/timerecording/KorabachDP.pdf>]
-<graphics/timerecording/KorabachDP.pdf, id=2015, page=3, 597.43219pt x 844.8367
+<graphics/timerecording/KorabachDP.pdf, id=2003, page=3, 597.43219pt x 844.8367
 2pt>
 File: graphics/timerecording/KorabachDP.pdf Graphic file (type pdf)
  <use graphics/timerecording/KorabachDP.pdf, page 3>
@@ -2836,7 +2816,20 @@ File: graphics/timerecording/KorabachDP.pdf Graphic file (type pdf)
 Package pdftex.def Info: graphics/timerecording/KorabachDP.pdf, page3 used on i
 nput line 6.
 (pdftex.def)             Requested size: 597.93211pt x 845.54366pt.
- [118 <./graphics/timerecording/KorabachDP.pdf>]) (./Diplomarbeit_KOPG_TGM.bbl
+ [118 <./graphics/timerecording/KorabachDP.pdf>])
+\openout2 = `tex/prefacea.aux'.
+
+ (./tex/prefacea.tex
+Underfull \hbox (badness 10000) in paragraph at lines 8--13
+
+ []
+
+[119
+
+
+
+
+]) [120] (./Diplomarbeit_KOPG_TGM.bbl
 Underfull \hbox (badness 10000) in paragraph at lines 32--37
 \T1/DejaVuSansMono/m/n/12 mobile / entitled-[]acting-[]tech-[]nerd-[]kicks-[]go
 ogle-[]glass-[]ban-[]controversy / http :
@@ -2851,8 +2844,7 @@ On-
 ** WARNING: IEEEtranS.bst: No hyphenation pattern has been
 ** loaded for the language `English'. Using the pattern for
 ** the default language instead.
-[119
-
+[121
 
 
 ]
@@ -2861,30 +2853,31 @@ Underfull \hbox (badness 10000) in paragraph at lines 121--125
  vs . _Prototype-[]Based _
  []
 
-[120]
+[122]
 ** WARNING: IEEEtranS.bst: No hyphenation pattern has been
 ** loaded for the language `English'. Using the pattern for
 ** the default language instead.
 ** WARNING: IEEEtranS.bst: No hyphenation pattern has been
 ** loaded for the language `English'. Using the pattern for
 ** the default language instead.
-[121])
+[123])
 
 Package glossaries Warning: No \printglossary or \printglossaries found.
 This document will not have a glossary.
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 335.
-[122]
+[124]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 335.
- (./Diplomarbeit_KOPG_TGM.aux (./tex/title.aux) (./tex/prefacea.aux)
-(./tex/eid.aux) (./tex/abstracta.aux) (./tex/kurzzfsg.aux) (./tex/chapter1.aux)
+ (./Diplomarbeit_KOPG_TGM.aux (./tex/title.aux) (./tex/eid.aux)
+(./tex/abstracta.aux) (./tex/kurzzfsg.aux) (./tex/chapter1.aux)
 (./tex/chapter2.aux) (./tex/chapter3.aux) (./tex/chapter4.aux)
 (./tex/chapter5.aux) (./tex/chapter6.aux) (./tex/chapter7.aux)
-(./tex/chapter8.aux) (./tex/chapter9.aux) (./tex/chapter10.aux))
+(./tex/chapter8.aux) (./tex/chapter9.aux) (./tex/chapter10.aux)
+(./tex/prefacea.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 335.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 335.
 Package rerunfilecheck Info: File `Diplomarbeit_KOPG_TGM.out' has not changed.
-(rerunfilecheck)             Checksum: A32BFFBD3D043D0C5BFB310E0D575E87;2002.
+(rerunfilecheck)             Checksum: 45BA003129BA174DA6390829C6BDC9DC;2002.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -2895,8 +2888,8 @@ LaTeX Warning: There were multiply-defined labels.
  ) 
 Here is how much of TeX's memory you used:
  15888 strings out of 493307
- 225785 string characters out of 6139905
- 449824 words of memory out of 5000000
+ 225786 string characters out of 6139905
+ 449812 words of memory out of 5000000
  17778 multiletter control sequences out of 15000+600000
  22243 words of font info for 51 fonts, out of 8000000 for 9000
  971 hyphenation exceptions out of 8191
@@ -2913,10 +2906,10 @@ pe1/public/cm-super/sfss1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/
 sfss1728.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss2488.pfb></usr/s
 hare/texmf/fonts/type1/public/cm-super/sfsx2074.pfb></usr/share/texmf/fonts/typ
 e1/public/cm-super/sfti1200.pfb>
-Output written on Diplomarbeit_KOPG_TGM.pdf (136 pages, 7974558 bytes).
+Output written on Diplomarbeit_KOPG_TGM.pdf (135 pages, 7972171 bytes).
 PDF statistics:
- 2375 PDF objects out of 2487 (max. 8388607)
- 2077 compressed objects within 21 object streams
+ 2372 PDF objects out of 2487 (max. 8388607)
+ 2075 compressed objects within 21 object streams
  1060 named destinations out of 1200 (max. 500000)
  666 words of extra memory for PDF output out of 10000 (max. 10000000)
 
